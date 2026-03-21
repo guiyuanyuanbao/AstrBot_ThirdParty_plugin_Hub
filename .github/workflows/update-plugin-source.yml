@@ -1,0 +1,46 @@
+name: Update Plugin Source JSON
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-plugin-source:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install tqdm
+
+      - name: Generate plugin source JSON
+        env:
+          GITHUB_TOKEN: ${{ secrets.PLUGIN_SOURCE_TOKEN != '' && secrets.PLUGIN_SOURCE_TOKEN || github.token }}
+        run: |
+          python crawl_astrbot_issues.py --output plugin_source.json
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet -- plugin_source.json; then
+            echo "No changes in plugin_source.json"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add plugin_source.json
+          git commit -m "chore: update plugin source json"
+          git push
