@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_cs_match": {
+    "name": "astrbot_plugin_cs_match",
+    "display_name": "未审核：astrbot_plugin_cs2_match_push",
+    "desc": "CS2 比赛推送插件，支持关注战队、赛前提醒、赛后数据推送",
+    "author": "Aut-sep",
+    "repo": "https://github.com/Aut-sep/Astrbot-plugin-CS2-match-push",
+    "tags": [],
+    "social_link": "https://github.com/Aut-sep",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-21T16:11:18Z"
+  },
   "astrbot_plugin_banpass": {
     "name": "astrbot_plugin_banpass",
     "display_name": "未审核：BanPass（Ban黑名单插件）",
@@ -73,18 +85,6 @@
     "stars": 0,
     "version": "v1.0.1",
     "updated_at": "2026-03-21T13:03:50Z"
-  },
-  "astrbot_plugin_cs_match": {
-    "name": "astrbot_plugin_cs_match",
-    "display_name": "未审核：astrbot_plugin_cs2_match_push",
-    "desc": "CS2 比赛推送插件，支持关注战队、赛前提醒、赛后数据推送",
-    "author": "Aut-sep",
-    "repo": "https://github.com/Aut-sep/Astrbot-plugin-CS2-match-push",
-    "tags": [],
-    "social_link": "https://github.com/Aut-sep",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-21T12:44:09Z"
   },
   "astrbot_plugin_steam_friend_monitor": {
     "name": "astrbot_plugin_steam_friend_monitor",
@@ -203,18 +203,6 @@
     "stars": 1,
     "version": "v2.1.0",
     "updated_at": "2026-03-20T23:39:52Z"
-  },
-  "astrbot_plugin_self_open_llm_vtuber": {
-    "name": "astrbot_plugin_self_open_llm_vtuber",
-    "display_name": "未审核：OLV Pet Adapter",
-    "desc": "AstrBot platform adapter for the Open-LLM-VTuber desktop-pet frontend.",
-    "author": "YakumoAki",
-    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
-    "tags": [],
-    "social_link": "https://github.com/murphys7017",
-    "stars": 0,
-    "version": "0.1.0",
-    "updated_at": "2026-03-20T21:27:54Z"
   },
   "astrbot_plugin_london_gold_alert": {
     "name": "astrbot_plugin_london_gold_alert",
@@ -427,29 +415,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-19T14:05:00Z"
   },
-  "astrbot_plugin_deerpipe": {
-    "name": "astrbot_plugin_deerpipe",
-    "display_name": "未审核：🦌管",
-    "desc": "一个可爱的每日🦌插件，记录你的每一次🦌，生成精美的打卡日历。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
-    "tags": [
-      "🦌",
-      "鹿乃子",
-      "撸",
-      "鹿",
-      "导",
-      "导管",
-      "日历",
-      "打卡",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 2,
-    "version": "v1.0.2",
-    "updated_at": "2026-03-19T11:45:57Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
-  },
   "astrbot_plugin_splatoon3": {
     "name": "astrbot_plugin_splatoon3",
     "display_name": "未审核：Splatoon3 斯普拉遁3查询",
@@ -560,21 +525,6 @@
     "stars": 2,
     "version": "v0.0.1",
     "updated_at": "2026-03-18T15:31:14Z"
-  },
-  "astrbot_plugin_daliy": {
-    "name": "astrbot_plugin_daliy",
-    "display_name": "未审核：AstrBot 的 Telegram 每日晨报插件",
-    "desc": "定时主动推送到已订阅会话\n每个会话可单独设置天气城市\n晨报内容由天气、RSS 新闻、每日一句、可选诗词组成",
-    "author": "zzzwannasleep",
-    "repo": "https://github.com/zzzwannasleep/astrbot_plugin_daliy",
-    "tags": [
-      "AI",
-      "Telegram"
-    ],
-    "social_link": "https://github.com/zzzwannasleep",
-    "stars": 0,
-    "version": "0.1.0",
-    "updated_at": "2026-03-18T15:23:30Z"
   },
   "astrbot_plugin_cosplay_image_saver": {
     "name": "astrbot_plugin_cosplay_image_saver",
@@ -809,24 +759,6 @@
     "version": "1.0.0",
     "updated_at": "2026-03-17T12:22:53Z"
   },
-  "astrbot_plugin_atrifeed": {
-    "name": "astrbot_plugin_atrifeed",
-    "display_name": "未审核：亚托莉养成（atri)",
-    "desc": "「我可是高性能的！」亚托莉养成计划。内置好感度羁绊、动态数据看板、投喂反馈及表情包互动，还有剧情系统。请小心呵护，不然亚托莉也是会生气的哦！",
-    "author": "何夕",
-    "repo": "https://github.com/Heximiao/astrbot_plugin_atrifeed",
-    "tags": [
-      "亚托莉",
-      "atri",
-      "娱乐",
-      "gal"
-    ],
-    "social_link": "https://github.com/Heximiao",
-    "stars": 4,
-    "version": "v2.5.2",
-    "updated_at": "2026-03-17T12:09:56Z",
-    "logo": "https://raw.githubusercontent.com/Heximiao/astrbot_plugin_atrifeed/main/logo.png"
-  },
   "astrbot_plugin_steam_watch_status": {
     "name": "astrbot_plugin_steam_watch_status",
     "display_name": "未审核：Steam 状态监控插件",
@@ -1051,18 +983,6 @@
     "stars": 0,
     "version": "v1.1.1",
     "updated_at": "2026-03-15T10:01:23Z"
-  },
-  "astrbot_plugin_pokemon": {
-    "name": "astrbot_plugin_pokemon",
-    "display_name": "未审核：精灵对战插件 for AstrBot",
-    "desc": "一个类似宝可梦的精灵对战插件，支持捕捉、培养、对战。",
-    "author": "Xilin153624",
-    "repo": "https://github.com/Xilin153624/astrbot_plugin_pokemon",
-    "tags": [],
-    "social_link": "https://github.com/Xilin153624",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-15T09:40:44Z"
   },
   "astrbot_plugin_klbq": {
     "name": "astrbot_plugin_klbq",
