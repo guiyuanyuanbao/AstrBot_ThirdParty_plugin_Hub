@@ -1,15 +1,32 @@
 {
-  "astrbot_plugin_london_gold_alert": {
-    "name": "astrbot_plugin_london_gold_alert",
-    "display_name": "未审核：iTick伦敦金价监控",
-    "desc": "伦敦金实时价格监控与到价提醒插件。基于iTick专业金融API，支持REST和WebSocket模式获取实时金价，设置价格提醒后自动通知。",
-    "author": "Crystar-1",
-    "repo": "https://github.com/Crystar-1/astrbot_plugin_london_gold_alert",
+  "astrbot_plugin_msg_formatter": {
+    "name": "astrbot_plugin_msg_formatter",
+    "display_name": "未审核：消息格式化",
+    "desc": "将ai回复中的\\n\\n替换为\\n，以此解决莫名其妙的空行",
+    "author": "Izayoi9",
+    "repo": "https://github.com/Izayoi9/astrbot_plugin_msg_formatter",
     "tags": [],
-    "social_link": "https://github.com/Crystar-1",
+    "social_link": "https://github.com/Izayoi9",
     "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-21T17:08:10Z"
+    "version": "v1.0",
+    "updated_at": "2026-03-21T18:22:03Z"
+  },
+  "astrbot_plugin_wwkudie": {
+    "name": "astrbot_plugin_wwkudie",
+    "display_name": "未审核：尽孝",
+    "desc": "热爱游戏，把游戏公司当父亲尽孝的人",
+    "author": "NumInvis",
+    "repo": "https://github.com/NumInvis/astrbot_plugin_wwkudie",
+    "tags": [
+      "文章",
+      "二游",
+      "游戏",
+      "prompt"
+    ],
+    "social_link": "https://github.com/NumInvis",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-21T18:13:21Z"
   },
   "astrbot_plugin_dida365": {
     "name": "astrbot_plugin_dida365",
@@ -25,7 +42,19 @@
     "social_link": "https://github.com/zhenyumi",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-03-21T16:55:36Z"
+    "updated_at": "2026-03-21T17:42:43Z"
+  },
+  "astrbot_plugin_london_gold_alert": {
+    "name": "astrbot_plugin_london_gold_alert",
+    "display_name": "未审核：iTick伦敦金价监控",
+    "desc": "伦敦金实时价格监控与到价提醒插件。基于iTick专业金融API，支持REST和WebSocket模式获取实时金价，设置价格提醒后自动通知。",
+    "author": "Crystar-1",
+    "repo": "https://github.com/Crystar-1/astrbot_plugin_london_gold_alert",
+    "tags": [],
+    "social_link": "https://github.com/Crystar-1",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-21T17:35:52Z"
   },
   "astrbot_plugin_cs_match": {
     "name": "astrbot_plugin_cs_match",
