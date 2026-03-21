@@ -479,6 +479,11 @@ def build_output(issues: List[Dict[str, Any]], token: Optional[str], enable_prog
         if "logo" in plugin:
             normalized["logo"] = plugin["logo"]
 
+        # Drop invalid plugins when updated_at is unavailable.
+        if not str(normalized.get("updated_at") or "").strip():
+            debug_log(f"issue #{issue_no} dropped: missing updated_at")
+            continue
+
         results.append((output_key, normalized))
         seen.add(output_key)
         debug_log(
@@ -486,7 +491,7 @@ def build_output(issues: List[Dict[str, Any]], token: Optional[str], enable_prog
             f"version={normalized['version']}, logo={'yes' if 'logo' in normalized else 'no'}"
         )
 
-    results.sort(key=lambda x: x[0])
+    results.sort(key=lambda x: str(x[1].get("updated_at") or ""), reverse=True)
     return {key: value for key, value in results}
 
 
