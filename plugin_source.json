@@ -44,18 +44,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-21T17:42:43Z"
   },
-  "astrbot_plugin_london_gold_alert": {
-    "name": "astrbot_plugin_london_gold_alert",
-    "display_name": "未审核：iTick伦敦金价监控",
-    "desc": "伦敦金实时价格监控与到价提醒插件。基于iTick专业金融API，支持REST和WebSocket模式获取实时金价，设置价格提醒后自动通知。",
-    "author": "Crystar-1",
-    "repo": "https://github.com/Crystar-1/astrbot_plugin_london_gold_alert",
-    "tags": [],
-    "social_link": "https://github.com/Crystar-1",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-21T17:35:52Z"
-  },
   "astrbot_plugin_cs_match": {
     "name": "astrbot_plugin_cs_match",
     "display_name": "未审核：astrbot_plugin_cs2_match_push",
