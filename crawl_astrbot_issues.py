@@ -394,8 +394,13 @@ def find_logo(owner: str, repo: str, branch: str, token: Optional[str]) -> Optio
     return None
 
 
-def build_output(issues: List[Dict[str, Any]], token: Optional[str], enable_progress: bool) -> Dict[str, Any]:
-    results: List[Dict[str, Any]] = []
+def format_plugin_key(name: str) -> str:
+    # Keep output keys stable and filesystem/repo-name friendly.
+    return slugify_name(name).replace("_", "-")
+
+
+def build_output(issues: List[Dict[str, Any]], token: Optional[str], enable_progress: bool) -> Dict[str, Dict[str, Any]]:
+    results: List[Tuple[str, Dict[str, Any]]] = []
     seen = set()
 
     issue_iter = iter_with_progress(issues, enable_progress)
@@ -409,8 +414,9 @@ def build_output(issues: List[Dict[str, Any]], token: Optional[str], enable_prog
         if not name:
             debug_log(f"issue #{issue_no} skipped: empty plugin name")
             continue
-        if name in seen:
-            debug_log(f"issue #{issue_no} skipped: duplicate name {name}")
+        output_key = format_plugin_key(name)
+        if output_key in seen:
+            debug_log(f"issue #{issue_no} skipped: duplicate key {output_key}")
             continue
 
         plugin["stars"] = 0
@@ -433,7 +439,6 @@ def build_output(issues: List[Dict[str, Any]], token: Optional[str], enable_prog
 
         # Keep only requested keys and stable ordering.
         normalized = {
-            "name": plugin.get("name", ""),
             "display_name": ensure_unreviewed_prefix(str(plugin.get("display_name", ""))),
             "desc": plugin.get("desc", ""),
             "author": plugin.get("author", ""),
@@ -447,20 +452,15 @@ def build_output(issues: List[Dict[str, Any]], token: Optional[str], enable_prog
         if "logo" in plugin:
             normalized["logo"] = plugin["logo"]
 
-        results.append(normalized)
-        seen.add(name)
+        results.append((output_key, normalized))
+        seen.add(output_key)
         debug_log(
-            f"issue #{issue_no} done: name={name}, stars={normalized['stars']}, "
+            f"issue #{issue_no} done: key={output_key}, stars={normalized['stars']}, "
             f"version={normalized['version']}, logo={'yes' if 'logo' in normalized else 'no'}"
         )
 
-    results.sort(key=lambda x: str(x.get("name") or ""))
-
-    return {
-        "status": "ok",
-        "message": None,
-        "data": results,
-    }
+    results.sort(key=lambda x: x[0])
+    return {key: value for key, value in results}
 
 
 def main() -> int:
@@ -497,7 +497,7 @@ def main() -> int:
         issues = fetch_open_plugin_publish_issues(token)
         debug_log(f"parsing {len(issues)} issues")
         payload = build_output(issues, token, enable_progress=not args.no_progress)
-        debug_log(f"build output done: {len(payload['data'])} plugins")
+        debug_log(f"build output done: {len(payload)} plugins")
     except RuntimeError as exc:
         print(str(exc), file=sys.stderr)
         return 1
@@ -506,7 +506,7 @@ def main() -> int:
         json.dump(payload, f, ensure_ascii=False, indent=2)
         f.write("\n")
 
-    print(f"Wrote {len(payload['data'])} plugins to {args.output}")
+    print(f"Wrote {len(payload)} plugins to {args.output}")
     return 0
 
 
