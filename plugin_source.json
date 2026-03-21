@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_group_context_bridge": {
+    "name": "astrbot_plugin_group_context_bridge",
+    "display_name": "未审核：群聊上下文桥接",
+    "desc": "低侵入的 AstrBot 群聊上下文桥接插件，支持将一个或多个来源群的最近消息以只读上下文方式注入目标群对话，不修改数据库、不改变真实会话归属，适合跨群信息参考、封禁群摘要延续和多群上下文融合场景。",
+    "author": "accbd472",
+    "repo": "https://github.com/accbd472/astrbot_plugin_group_context_bridge",
+    "tags": [
+      "上下文",
+      "群聊",
+      "桥接",
+      "多群"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v0.0.0",
+    "updated_at": "2026-03-21T20:27:02Z"
+  },
   "astrbot_plugin_msg_formatter": {
     "name": "astrbot_plugin_msg_formatter",
     "display_name": "未审核：消息格式化",
