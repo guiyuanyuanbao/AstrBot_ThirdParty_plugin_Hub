@@ -396,7 +396,7 @@ def find_logo(owner: str, repo: str, branch: str, token: Optional[str]) -> Optio
 
 def format_plugin_key(name: str) -> str:
     # Keep output keys stable and filesystem/repo-name friendly.
-    return slugify_name(name).replace("_", "-")
+    return slugify_name(name)
 
 
 def build_output(issues: List[Dict[str, Any]], token: Optional[str], enable_progress: bool) -> Dict[str, Dict[str, Any]]:
@@ -439,6 +439,7 @@ def build_output(issues: List[Dict[str, Any]], token: Optional[str], enable_prog
 
         # Keep only requested keys and stable ordering.
         normalized = {
+            "name": output_key,
             "display_name": ensure_unreviewed_prefix(str(plugin.get("display_name", ""))),
             "desc": plugin.get("desc", ""),
             "author": plugin.get("author", ""),
