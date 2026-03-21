@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install tqdm
+          pip install tqdm pyyaml
 
       - name: Generate plugin source JSON
         env:

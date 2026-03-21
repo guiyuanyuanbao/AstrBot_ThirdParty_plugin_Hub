@@ -13,6 +13,11 @@ try:
 except ImportError:
     tqdm = None
 
+try:
+    import yaml  # type: ignore[import-not-found]
+except ImportError:
+    yaml = None
+
 
 API_BASE = "https://api.github.com"
 ISSUES_ENDPOINT = "/repos/AstrBotDevs/AstrBot/issues"
@@ -343,10 +348,31 @@ def fetch_version_from_metadata(owner: str, repo: str, branch: str, token: Optio
         if not content:
             debug_log(f"version probe miss: {owner}/{repo}:{path}")
             continue
+
+        # Prefer YAML parser for correctness (quotes, comments, and scalar types).
+        if yaml is not None:
+            try:
+                parsed = yaml.safe_load(content)
+                if isinstance(parsed, dict) and "version" in parsed:
+                    cleaned_version = str(parsed.get("version") or "").strip()
+                    if cleaned_version:
+                        debug_log(f"version probe hit(yaml): {owner}/{repo}:{path} -> {cleaned_version}")
+                        return cleaned_version
+                    debug_log(f"version probe hit(yaml) but empty after clean: {owner}/{repo}:{path}")
+            except Exception as exc:
+                debug_log(f"version yaml parse failed: {owner}/{repo}:{path} -> {exc}")
+        else:
+            debug_log("PyYAML not installed, fallback to regex version parse")
+
+        # Fallback for environments without PyYAML or malformed YAML.
         m = re.search(r"^\s*version\s*:\s*['\"]?([^'\"\n]+)", content, flags=re.M)
         if m:
-            debug_log(f"version probe hit: {owner}/{repo}:{path} -> {m.group(1).strip()}")
-            return m.group(1).strip()
+            raw_version = m.group(1)
+            cleaned_version = raw_version.split("#", 1)[0].strip()
+            if cleaned_version:
+                debug_log(f"version probe hit(regex): {owner}/{repo}:{path} -> {cleaned_version}")
+                return cleaned_version
+            debug_log(f"version probe hit(regex) but empty after clean: {owner}/{repo}:{path}")
     debug_log(f"version probe fallback: {owner}/{repo} -> v0.0.0")
     return None
 
