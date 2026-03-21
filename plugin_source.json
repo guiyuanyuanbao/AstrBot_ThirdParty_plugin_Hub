@@ -1,4 +1,32 @@
 {
+  "astrbot_plugin_london_gold_alert": {
+    "name": "astrbot_plugin_london_gold_alert",
+    "display_name": "未审核：iTick伦敦金价监控",
+    "desc": "伦敦金实时价格监控与到价提醒插件。基于iTick专业金融API，支持REST和WebSocket模式获取实时金价，设置价格提醒后自动通知。",
+    "author": "Crystar-1",
+    "repo": "https://github.com/Crystar-1/astrbot_plugin_london_gold_alert",
+    "tags": [],
+    "social_link": "https://github.com/Crystar-1",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-21T17:08:10Z"
+  },
+  "astrbot_plugin_dida365": {
+    "name": "astrbot_plugin_dida365",
+    "display_name": "未审核：滴答清单连接器",
+    "desc": "在 AstrBot 中连接 Dida365（滴答清单），支持任务查询、定时汇报和基于 LLM 的任务操作。",
+    "author": "zhenyumi",
+    "repo": "https://github.com/zhenyumi/astrbot_plugin_dida365",
+    "tags": [
+      "Todo",
+      "定时",
+      "提醒"
+    ],
+    "social_link": "https://github.com/zhenyumi",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-21T16:55:36Z"
+  },
   "astrbot_plugin_cs_match": {
     "name": "astrbot_plugin_cs_match",
     "display_name": "未审核：astrbot_plugin_cs2_match_push",
@@ -203,18 +231,6 @@
     "stars": 1,
     "version": "v2.1.0",
     "updated_at": "2026-03-20T23:39:52Z"
-  },
-  "astrbot_plugin_london_gold_alert": {
-    "name": "astrbot_plugin_london_gold_alert",
-    "display_name": "未审核：iTick伦敦金价监控",
-    "desc": "伦敦金实时价格监控与到价提醒插件。基于iTick专业金融API，支持REST和WebSocket模式获取实时金价，设置价格提醒后自动通知。",
-    "author": "Crystar-1",
-    "repo": "https://github.com/Crystar-1/astrbot_plugin_london_gold_alert",
-    "tags": [],
-    "social_link": "https://github.com/Crystar-1",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-20T20:09:40Z"
   },
   "astrbot_plugin_bilibili_push": {
     "name": "astrbot_plugin_bilibili_push",
