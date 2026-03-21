@@ -330,6 +330,22 @@
     "version": "v0.0.0",
     "updated_at": ""
   },
+  "astrbot_plugin_banpass": {
+    "name": "astrbot_plugin_banpass",
+    "display_name": "未审核：BanPass（Ban黑名单插件）",
+    "desc": "黑名单插件，支持临时解禁，支持全局封禁、临时解禁",
+    "author": "oculr",
+    "repo": "https://github.com/oculr/astrbot_plugin_banpass",
+    "tags": [
+      "ban",
+      "封禁",
+      "黑名单"
+    ],
+    "social_link": "https://github.com/oculr",
+    "stars": 0,
+    "version": "v0.1.0",
+    "updated_at": "2026-03-21T15:06:43Z"
+  },
   "astrbot_plugin_bazaar_rank_searcher": {
     "name": "astrbot_plugin_bazaar_rank_searcher",
     "display_name": "未审核：大巴扎排名查询",
@@ -498,8 +514,8 @@
     "tags": [],
     "social_link": "https://github.com/qingquanlingyu",
     "stars": 0,
-    "version": "v1.2.3",
-    "updated_at": "2026-03-20T17:03:26Z"
+    "version": "v1.2.4",
+    "updated_at": "2026-03-21T14:35:53Z"
   },
   "astrbot_plugin_birthday_reminder": {
     "name": "astrbot_plugin_birthday_reminder",
@@ -938,6 +954,20 @@
     "version": "v1.0",
     "updated_at": "2026-03-05T11:30:51Z",
     "logo": "https://raw.githubusercontent.com/yasdiox/astrbot_plugin_ehentai_metadata/master/logo.png"
+  },
+  "astrbot_plugin_emoji_like": {
+    "name": "astrbot_plugin_emoji_like",
+    "display_name": "未审核：贴表情",
+    "desc": "用表情回应引用的原消息",
+    "author": "innoc1nt",
+    "repo": "https://github.com/innoc1nt/astrbot_plugin_emoji_like",
+    "tags": [
+      "表情"
+    ],
+    "social_link": "https://github.com/innoc1nt",
+    "stars": 0,
+    "version": "v0.0.2",
+    "updated_at": "2026-03-21T15:18:08Z"
   },
   "astrbot_plugin_endworld_img_api": {
     "name": "astrbot_plugin_endworld_img_api",
