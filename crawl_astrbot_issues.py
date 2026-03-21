@@ -425,9 +425,16 @@ def format_plugin_key(name: str) -> str:
     return slugify_name(name)
 
 
+def normalize_repo_dedupe_key(repo_url: str) -> str:
+    owner, repo = parse_github_repo_url(repo_url)
+    if owner and repo:
+        return f"{owner.lower()}/{repo.lower()}"
+    return repo_url.strip().rstrip("/").lower()
+
+
 def build_output(issues: List[Dict[str, Any]], token: Optional[str], enable_progress: bool) -> Dict[str, Dict[str, Any]]:
     results: List[Tuple[str, Dict[str, Any]]] = []
-    seen = set()
+    seen_repos = set()
 
     issue_iter = iter_with_progress(issues, enable_progress)
 
@@ -441,9 +448,6 @@ def build_output(issues: List[Dict[str, Any]], token: Optional[str], enable_prog
             debug_log(f"issue #{issue_no} skipped: empty plugin name")
             continue
         output_key = format_plugin_key(name)
-        if output_key in seen:
-            debug_log(f"issue #{issue_no} skipped: duplicate key {output_key}")
-            continue
 
         plugin["stars"] = 0
         plugin["version"] = "v0.0.0"
@@ -484,8 +488,14 @@ def build_output(issues: List[Dict[str, Any]], token: Optional[str], enable_prog
             debug_log(f"issue #{issue_no} dropped: missing updated_at")
             continue
 
+        repo_dedupe_key = normalize_repo_dedupe_key(str(normalized.get("repo") or ""))
+        if repo_dedupe_key:
+            if repo_dedupe_key in seen_repos:
+                debug_log(f"issue #{issue_no} skipped: duplicate repo {repo_dedupe_key}")
+                continue
+            seen_repos.add(repo_dedupe_key)
+
         results.append((output_key, normalized))
-        seen.add(output_key)
         debug_log(
             f"issue #{issue_no} done: key={output_key}, stars={normalized['stars']}, "
             f"version={normalized['version']}, logo={'yes' if 'logo' in normalized else 'no'}"
