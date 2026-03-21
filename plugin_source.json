@@ -171,7 +171,7 @@
     "tags": [],
     "social_link": "https://github.com/s-3-s",
     "stars": 0,
-    "version": "v1.4 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.4",
     "updated_at": "2026-03-21T08:21:29Z",
     "logo": "https://raw.githubusercontent.com/s-3-s/astrbot_plugin_api_caller/master/logo.png"
   },
@@ -201,7 +201,7 @@
     ],
     "social_link": "https://github.com/fxquarter",
     "stars": 0,
-    "version": "v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.0",
     "updated_at": "2026-03-17T12:34:11Z"
   },
   "astrbot_plugin_arxiv": {
@@ -232,7 +232,7 @@
     ],
     "social_link": "https://github.com/Joker42S",
     "stars": 0,
-    "version": "v1.0.0 # 插件版本号",
+    "version": "v1.0.0",
     "updated_at": "2026-03-13T17:17:31Z"
   },
   "astrbot_plugin_astrmetry": {
@@ -274,7 +274,7 @@
     "tags": [],
     "social_link": "https://github.com/CarefreeSongs712",
     "stars": 0,
-    "version": "v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.0",
     "updated_at": "2026-02-23T09:51:31Z"
   },
   "astrbot_plugin_auto_captcha_responder": {
@@ -341,7 +341,7 @@
     ],
     "social_link": "duang.work",
     "stars": 1,
-    "version": "v1.8.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.8.0",
     "updated_at": "2026-03-13T09:31:57Z"
   },
   "astrbot_plugin_bdbk_landamao": {
@@ -391,7 +391,7 @@
     ],
     "social_link": "https://github.com/existyay",
     "stars": 0,
-    "version": "v0.2.1 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v0.2.1",
     "updated_at": "2026-03-06T05:14:22Z"
   },
   "astrbot_plugin_bili_autoreply": {
@@ -571,7 +571,7 @@
     "tags": [],
     "social_link": "https://github.com/J-SLY",
     "stars": 0,
-    "version": "v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.0",
     "updated_at": "2026-02-16T12:52:08Z"
   },
   "astrbot_plugin_calculator": {
@@ -599,7 +599,7 @@
     "tags": [],
     "social_link": "https://github.com/joy040216-create",
     "stars": 0,
-    "version": "v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0",
     "updated_at": "2026-01-14T14:55:13Z",
     "logo": "https://raw.githubusercontent.com/joy040216-create/astrbot_plugin_chat_pro/master/logo.png"
   },
@@ -645,7 +645,7 @@
     ],
     "social_link": "https://github.com/NumInvis",
     "stars": 1,
-    "version": "v0.0.0",
+    "version": "1.0.0",
     "updated_at": "2026-03-14T14:49:18Z",
     "logo": "https://raw.githubusercontent.com/NumInvis/astrbot_plugin_ColorFun/master/logo.png"
   },
@@ -672,7 +672,7 @@
     ],
     "social_link": "https://github.com/BaoPaper",
     "stars": 0,
-    "version": "v0.2.5 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v0.2.5",
     "updated_at": "2026-03-15T05:48:42Z",
     "logo": "https://raw.githubusercontent.com/BaoPaper/astrbot_plugin_context_injector/master/logo.png"
   },
@@ -819,7 +819,7 @@
     ],
     "social_link": "https://github.com/vmoranv/",
     "stars": 0,
-    "version": "v1.0.6 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.6",
     "updated_at": "2026-02-03T14:25:16Z",
     "logo": "https://raw.githubusercontent.com/vmoranv/astrbot_plugin_danbooru/master/logo.png"
   },
@@ -857,7 +857,7 @@
     ],
     "social_link": "https://github.com/bendangmi",
     "stars": 1,
-    "version": "v1.1.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.1.0",
     "updated_at": "2026-01-23T06:53:18Z"
   },
   "astrbot_plugin_dg-lab": {
@@ -919,7 +919,7 @@
     ],
     "social_link": "https://github.com/Xc-Star",
     "stars": 0,
-    "version": "v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.0",
     "updated_at": "2026-02-06T07:02:50Z"
   },
   "astrbot_plugin_ehentai_metadata": {
@@ -935,7 +935,7 @@
     ],
     "social_link": "https://github.com/yasdiox",
     "stars": 0,
-    "version": "v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0",
     "updated_at": "2026-03-05T11:30:51Z",
     "logo": "https://raw.githubusercontent.com/yasdiox/astrbot_plugin_ehentai_metadata/master/logo.png"
   },
@@ -951,7 +951,7 @@
     ],
     "social_link": "https://github.com/shangzhimingge",
     "stars": 2,
-    "version": "v5.9 # 插件版本号",
+    "version": "v5.9",
     "updated_at": "2026-03-03T14:00:33Z",
     "logo": "https://raw.githubusercontent.com/shangzhimingge/astrbot_plugin_endworld_img_api/main/logo.png"
   },
@@ -964,7 +964,7 @@
     "tags": [],
     "social_link": "https://github.com/luojingkun",
     "stars": 0,
-    "version": "v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.0",
     "updated_at": "2026-01-19T07:47:44Z"
   },
   "astrbot_plugin_file_sender_llm": {
@@ -1005,7 +1005,7 @@
     "tags": [],
     "social_link": "https://github.com/andjie98",
     "stars": 0,
-    "version": "v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.0",
     "updated_at": "2026-02-19T10:58:36Z"
   },
   "astrbot_plugin_game_monitor": {
@@ -1053,7 +1053,7 @@
     ],
     "social_link": "https://github.com/Pompous777",
     "stars": 1,
-    "version": "v1.1.1 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.1.1",
     "updated_at": "2026-03-02T05:16:07Z"
   },
   "astrbot_plugin_githubpages": {
@@ -1098,7 +1098,7 @@
     ],
     "social_link": "",
     "stars": 0,
-    "version": "v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.0",
     "updated_at": "2026-03-13T03:55:40Z"
   },
   "astrbot_plugin_group_backup": {
@@ -1114,7 +1114,7 @@
     ],
     "social_link": "https://github.com/Foolllll-J",
     "stars": 0,
-    "version": "v1.1 # 插件版本号",
+    "version": "v1.1",
     "updated_at": "2026-03-15T13:07:32Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_group_backup/master/logo.png"
   },
@@ -1127,7 +1127,7 @@
     "tags": [],
     "social_link": "https://github.com/bricks0411",
     "stars": 3,
-    "version": "v0.2.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v0.2.0",
     "updated_at": "2026-03-15T11:29:50Z"
   },
   "astrbot_plugin_group_recall": {
@@ -1171,7 +1171,7 @@
     ],
     "social_link": "https://github.com/Pompous777",
     "stars": 0,
-    "version": "v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.0",
     "updated_at": "2026-02-28T11:13:09Z"
   },
   "astrbot_plugin_gta_queuesystem": {
@@ -1186,7 +1186,7 @@
     ],
     "social_link": "https://github.com/JMGYG-jm",
     "stars": 0,
-    "version": "v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0",
     "updated_at": "2026-02-28T04:33:19Z",
     "logo": "https://raw.githubusercontent.com/JMGYG-jm/astrbot_plugin_gta_queueSystem/main/logo.png"
   },
@@ -1246,7 +1246,7 @@
     ],
     "social_link": "https://github.com/taobaoaz",
     "stars": 0,
-    "version": "1.0.0 # 插件版本号（保持 v1.1.1 或 v1.1 格式，或纯数字）",
+    "version": "1.0.0",
     "updated_at": "2025-12-28T08:54:01Z"
   },
   "astrbot_plugin_hellogif": {
@@ -1278,7 +1278,7 @@
     ],
     "social_link": "https://github.com/Sagiri777",
     "stars": 0,
-    "version": "v1.0.15 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.15",
     "updated_at": "2026-03-15T05:37:54Z"
   },
   "astrbot_plugin_hide_ai_chatter": {
@@ -1290,7 +1290,7 @@
     "tags": [],
     "social_link": "https://github.com/C1F5D2DD",
     "stars": 0,
-    "version": "v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0",
     "updated_at": "2026-03-13T16:41:08Z"
   },
   "astrbot_plugin_history": {
@@ -1321,7 +1321,7 @@
     ],
     "social_link": "1187601932@qq.com",
     "stars": 0,
-    "version": "v1.4.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.4.0",
     "updated_at": "2026-03-16T14:40:38Z"
   },
   "astrbot_plugin_htmlrender": {
@@ -1335,7 +1335,7 @@
     ],
     "social_link": "https://github.com/yasdiox",
     "stars": 0,
-    "version": "v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0",
     "updated_at": "2026-03-05T11:29:24Z",
     "logo": "https://raw.githubusercontent.com/yasdiox/astrbot_plugin_htmlrender/master/logo.png"
   },
@@ -1438,7 +1438,7 @@
     ],
     "social_link": "https://github.com/rorangeeee",
     "stars": 0,
-    "version": "v0.1.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v0.1.0",
     "updated_at": "2026-03-09T15:02:32Z"
   },
   "astrbot_plugin_junqunyanzheng": {
@@ -1468,7 +1468,7 @@
     ],
     "social_link": "https://github.com/KeKe0904",
     "stars": 0,
-    "version": "v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.0",
     "updated_at": "2026-02-19T18:59:44Z",
     "logo": "https://raw.githubusercontent.com/KeKe0904/astrbot_plugin_keke_api_collection/master/logo.png"
   },
@@ -1508,7 +1508,7 @@
     "tags": [],
     "social_link": "https://github.com/qilin123456789",
     "stars": 0,
-    "version": "v1.0.5 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.5",
     "updated_at": "2026-03-16T09:47:15Z",
     "logo": "https://raw.githubusercontent.com/qilin123456789/astrbot_plugin_kirin/main/logo.png"
   },
@@ -1770,7 +1770,7 @@
     ],
     "social_link": "https://github.com/blueraina",
     "stars": 1,
-    "version": "v1.11.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.11.0",
     "updated_at": "2026-02-27T14:01:13Z"
   },
   "astrbot_plugin_meihua": {
@@ -1784,7 +1784,7 @@
     ],
     "social_link": "https://github.com/985892345/",
     "stars": 2,
-    "version": "v0.0.1 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v0.0.1",
     "updated_at": "2026-03-18T15:31:14Z"
   },
   "astrbot_plugin_meme_grabber": {
@@ -1842,7 +1842,7 @@
     ],
     "social_link": "https://github.com/danzou1ge6",
     "stars": 0,
-    "version": "v0.1.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v0.1.0",
     "updated_at": "2026-03-04T13:20:16Z"
   },
   "astrbot_plugin_miao": {
@@ -1886,7 +1886,7 @@
     ],
     "social_link": "https://github.com/PayneXie",
     "stars": 0,
-    "version": "v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.0",
     "updated_at": "2026-03-12T06:34:30Z"
   },
   "astrbot_plugin_minecraft_wiki": {
@@ -1902,7 +1902,7 @@
     ],
     "social_link": "https://github.com/Mxpea/",
     "stars": 0,
-    "version": "v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.0",
     "updated_at": "2026-03-21T03:55:09Z"
   },
   "astrbot_plugin_monningsignin": {
@@ -2122,7 +2122,7 @@
     ],
     "social_link": "https://www.yueyingshiguang.top",
     "stars": 0,
-    "version": "v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.0",
     "updated_at": "2026-01-16T07:48:08Z"
   },
   "astrbot_plugin_onesync": {
@@ -2188,7 +2188,7 @@
     ],
     "social_link": "https://github.com/yonglanws/",
     "stars": 1,
-    "version": "v1.6.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.6.0",
     "updated_at": "2026-03-21T12:19:24Z",
     "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_card/main/logo.png"
   },
@@ -2219,7 +2219,7 @@
     "tags": [],
     "social_link": "https://github.com/Xilin153624",
     "stars": 0,
-    "version": "v1.0.0          # 或实际版本号",
+    "version": "v1.0.0",
     "updated_at": "2026-03-15T09:40:44Z"
   },
   "astrbot_plugin_pseudo_people_chat_actively": {
@@ -2267,7 +2267,7 @@
     ],
     "social_link": "https://github.com/Herbs24",
     "stars": 0,
-    "version": "v1.1.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.1.0",
     "updated_at": "2026-03-13T16:12:56Z"
   },
   "astrbot_plugin_qinglong": {
@@ -2372,7 +2372,7 @@
     ],
     "social_link": "https://github.com/BUGJI",
     "stars": 0,
-    "version": "v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.0",
     "updated_at": "2026-03-10T03:19:47Z",
     "logo": "https://raw.githubusercontent.com/BUGJI/astrbot_plugin_qqjiazhi/master/logo.png"
   },
@@ -2385,7 +2385,7 @@
     "tags": [],
     "social_link": "https://github.com/WLEzj",
     "stars": 0,
-    "version": "v1.1 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.1",
     "updated_at": "2026-03-08T12:59:22Z"
   },
   "astrbot_plugin_quotes": {
@@ -2544,7 +2544,7 @@
     ],
     "social_link": "https://github.com/HUGHHUXIAOJUN",
     "stars": 0,
-    "version": "v0.0.0",
+    "version": "1.1.0",
     "updated_at": "2026-02-26T05:11:00Z"
   },
   "astrbot_plugin_rh_banana2": {
@@ -2561,7 +2561,7 @@
     ],
     "social_link": "https://github.com/machinad",
     "stars": 1,
-    "version": "v0.1.1 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v0.1.1",
     "updated_at": "2026-03-04T12:32:32Z",
     "logo": "https://raw.githubusercontent.com/machinad/astrbot_plugin_RH_banana2/master/logo.png"
   },
@@ -2626,7 +2626,7 @@
     "tags": [],
     "social_link": "https://github.com/murphys7017/astrbot_plugin_self_reflex",
     "stars": 0,
-    "version": "v0.1.1 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v0.1.1",
     "updated_at": "2026-03-13T19:16:30Z"
   },
   "astrbot_plugin_serverinfo": {
@@ -2689,7 +2689,7 @@
     "tags": [],
     "social_link": "https://github.com/qingquanlingyu",
     "stars": 0,
-    "version": "v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.0",
     "updated_at": "2026-03-19T14:05:00Z"
   },
   "astrbot_plugin_silent_response": {
@@ -2710,7 +2710,7 @@
     ],
     "social_link": "https://github.com/olozhika",
     "stars": 1,
-    "version": "v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.0",
     "updated_at": "2026-03-10T23:14:16Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_silent_response/master/logo.png"
   },
@@ -2901,7 +2901,7 @@
     ],
     "social_link": "",
     "stars": 0,
-    "version": "v0.1.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v0.1.0",
     "updated_at": "2026-03-17T09:32:05Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_steam_watch_status/master/logo.png"
   },
@@ -3039,7 +3039,7 @@
     ],
     "social_link": "https://github.com/whyisshizai",
     "stars": 6,
-    "version": "v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0",
     "updated_at": "2026-03-08T13:32:27Z"
   },
   "astrbot_plugin_talkative_king": {
@@ -3070,7 +3070,7 @@
     ],
     "social_link": "bugcode.cc",
     "stars": 0,
-    "version": "v0.3.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v0.3.0",
     "updated_at": "2026-02-27T11:54:25Z"
   },
   "astrbot_plugin_text_to_image": {
@@ -3088,7 +3088,7 @@
     ],
     "social_link": "https://github.com/tniany",
     "stars": 1,
-    "version": "v1.1.1 # 插件版本号。",
+    "version": "v1.1.1",
     "updated_at": "2026-03-14T08:29:50Z",
     "logo": "https://raw.githubusercontent.com/tniany/astrbot_plugin_text_to_Image/main/logo.png"
   },
@@ -3191,7 +3191,7 @@
     ],
     "social_link": "https://github.com/tniany/",
     "stars": 1,
-    "version": "v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v1.0.0",
     "updated_at": "2026-03-14T13:55:53Z",
     "logo": "https://raw.githubusercontent.com/tniany/astrbot_plugin_upload_yuanshennb/main/logo.png"
   },
@@ -3319,7 +3319,7 @@
     ],
     "social_link": "https://github.com/NumInvis",
     "stars": 1,
-    "version": "v0.0.0",
+    "version": "1.0.0",
     "updated_at": "2026-03-14T08:14:09Z"
   },
   "astrbot_plugin_wuyiu_class": {
@@ -3358,7 +3358,7 @@
     "tags": [],
     "social_link": "https://github.com/NACloud3",
     "stars": 0,
-    "version": "v2.4.0 # 插件版本号。格式：v1.1.1 或者 v1.1",
+    "version": "v2.4.0",
     "updated_at": "2026-03-18T05:10:41Z"
   },
   "astrbot_plugin_yoto": {
