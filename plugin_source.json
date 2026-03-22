@@ -11,8 +11,8 @@
     ],
     "social_link": "https://github.com/czxieddan",
     "stars": 1,
-    "version": "2.7.8",
-    "updated_at": "2026-03-22T13:22:32Z",
+    "version": "2.7.9",
+    "updated_at": "2026-03-22T13:52:14Z",
     "logo": "https://raw.githubusercontent.com/czxieddan/astrbot_plugin_steam_efficient_interactor/main/logo.png"
   },
   "astrbot_plugin_group_digest": {
@@ -72,18 +72,6 @@
     "stars": 0,
     "version": "1.0.0",
     "updated_at": "2026-03-22T11:09:29Z"
-  },
-  "astrbot_ctfpusher_plugin": {
-    "name": "astrbot_ctfpusher_plugin",
-    "display_name": "未审核：CTF 赛题及赛事推送助手",
-    "desc": "基于 CTFTime 与 NSSCTF 的全功能赛题推送、赛事检索、过滤与订阅提醒插件，支持精细化管理和北京时间自动转换。",
-    "author": "btop251",
-    "repo": "https://github.com/btop251/astrbot_ctfpush_plugin",
-    "tags": [],
-    "social_link": "btop251.top",
-    "stars": 2,
-    "version": "3.2.0",
-    "updated_at": "2026-03-22T11:05:07Z"
   },
   "astrbot_plugin_steam_friend_monitor": {
     "name": "astrbot_plugin_steam_friend_monitor",
