@@ -1,4 +1,59 @@
 {
+  "astrbot_plugin_llm_enhancement": {
+    "name": "astrbot_plugin_llm_enhancement",
+    "display_name": "未审核：LLM 综合增强",
+    "desc": "增强 LLM 表现，集成智能唤醒、消息合并、多媒体解析、环境注入、黑名单拦截与 QQ 工具调用能力。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_llm_enhancement",
+    "tags": [
+      "智能唤醒",
+      "消息合并",
+      "媒体注入",
+      "撤回检测",
+      "黑名单"
+    ],
+    "social_link": "https://github.com/Foolllll-J",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-22T11:16:29Z",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
+  },
+  "astrbot_plugin_cs_match": {
+    "name": "astrbot_plugin_cs_match",
+    "display_name": "未审核：astrbot_plugin_cs2_match_push",
+    "desc": "CS2 比赛推送插件，支持关注战队、赛前提醒、赛后数据推送",
+    "author": "Aut-sep",
+    "repo": "https://github.com/Aut-sep/Astrbot-plugin-CS2-match-push",
+    "tags": [],
+    "social_link": "https://github.com/Aut-sep",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-22T11:09:29Z"
+  },
+  "astrbot_plugin_group_digest": {
+    "name": "astrbot_plugin_group_digest",
+    "display_name": "未审核：群聊兴趣日报与主动互动插件",
+    "desc": "基于 AstrBot 实现群聊消息总结、群热门话题分析、成员兴趣摘要与日报生成、通过LLM 建议astrbot定时主动发言。",
+    "author": "Ewingsal",
+    "repo": "https://github.com/Ewingsal/astrbot_plugin_group_digest",
+    "tags": [],
+    "social_link": "https://github.com/Ewingsal",
+    "stars": 1,
+    "version": "0.6.0",
+    "updated_at": "2026-03-22T11:09:21Z"
+  },
+  "astrbot_ctfpusher_plugin": {
+    "name": "astrbot_ctfpusher_plugin",
+    "display_name": "未审核：CTF 赛题及赛事推送助手",
+    "desc": "基于 CTFTime 与 NSSCTF 的全功能赛题推送、赛事检索、过滤与订阅提醒插件，支持精细化管理和北京时间自动转换。",
+    "author": "btop251",
+    "repo": "https://github.com/btop251/astrbot_ctfpush_plugin",
+    "tags": [],
+    "social_link": "btop251.top",
+    "stars": 2,
+    "version": "3.2.0",
+    "updated_at": "2026-03-22T11:05:07Z"
+  },
   "astrbot_plugin_steam_friend_monitor": {
     "name": "astrbot_plugin_steam_friend_monitor",
     "display_name": "未审核：Steam 好友世间插件",
@@ -63,18 +118,6 @@
     "version": "1.3.4",
     "updated_at": "2026-03-22T09:19:42Z",
     "logo": "https://raw.githubusercontent.com/HeartEase1/astrbot_plugin_Pseudo_people_chat_actively/main/logo.png"
-  },
-  "astrbot_plugin_ctfphsher": {
-    "name": "astrbot_plugin_ctfphsher",
-    "display_name": "未审核：CTF 赛事推送助手",
-    "desc": "基于 CTFTime 的全功能赛事检索、过滤与订阅提醒插件，支持精细化管理和北京时间自动转换。",
-    "author": "btop251",
-    "repo": "https://github.com/btop251/astrbot_ctfpush_plugin",
-    "tags": [],
-    "social_link": "btop251.top",
-    "stars": 1,
-    "version": "3.0.2",
-    "updated_at": "2026-03-22T07:31:29Z"
   },
   "astrbot_plugin_mimo_tts_decorator": {
     "name": "astrbot_plugin_mimo_tts_decorator",
@@ -232,18 +275,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-03-21T17:42:43Z"
-  },
-  "astrbot_plugin_cs_match": {
-    "name": "astrbot_plugin_cs_match",
-    "display_name": "未审核：astrbot_plugin_cs2_match_push",
-    "desc": "CS2 比赛推送插件，支持关注战队、赛前提醒、赛后数据推送",
-    "author": "Aut-sep",
-    "repo": "https://github.com/Aut-sep/Astrbot-plugin-CS2-match-push",
-    "tags": [],
-    "social_link": "https://github.com/Aut-sep",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-21T16:11:18Z"
   },
   "astrbot_plugin_emoji_like": {
     "name": "astrbot_plugin_emoji_like",
@@ -467,25 +498,6 @@
     "version": "v1.1",
     "updated_at": "2026-03-20T12:04:31Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_webnovel_bible/master/logo.png"
-  },
-  "astrbot_plugin_llm_enhancement": {
-    "name": "astrbot_plugin_llm_enhancement",
-    "display_name": "未审核：LLM 综合增强",
-    "desc": "增强 LLM 表现，集成智能唤醒、消息合并、多媒体解析、环境注入、黑名单拦截与 QQ 工具调用能力。",
-    "author": "Foolllll",
-    "repo": "https://github.com/Foolllll-J/astrbot_plugin_llm_enhancement",
-    "tags": [
-      "智能唤醒",
-      "消息合并",
-      "媒体注入",
-      "撤回检测",
-      "黑名单"
-    ],
-    "social_link": "https://github.com/Foolllll-J",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-20T11:54:27Z",
-    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
   },
   "telethon_bot_adapter": {
     "name": "telethon_bot_adapter",
