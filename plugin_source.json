@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_steam_efficient_interactor": {
+    "name": "astrbot_plugin_steam_efficient_interactor",
+    "display_name": "未审核：Steam高效互动者",
+    "desc": "通过llm互动控制bot监控Steam指定玩家的状态变更与通知推送或查看信息。",
+    "author": "Yezi & CzXieDdan",
+    "repo": "https://github.com/czxieddan/astrbot_plugin_steam_efficient_interactor",
+    "tags": [
+      "steam",
+      "llm"
+    ],
+    "social_link": "https://github.com/czxieddan",
+    "stars": 1,
+    "version": "2.7.8",
+    "updated_at": "2026-03-22T13:22:32Z",
+    "logo": "https://raw.githubusercontent.com/czxieddan/astrbot_plugin_steam_efficient_interactor/main/logo.png"
+  },
   "astrbot_plugin_group_digest": {
     "name": "astrbot_plugin_group_digest",
     "display_name": "未审核：群聊兴趣日报与主动互动插件",
@@ -9,7 +25,7 @@
     "social_link": "https://github.com/Ewingsal",
     "stars": 1,
     "version": "0.6.0",
-    "updated_at": "2026-03-22T12:18:47Z"
+    "updated_at": "2026-03-22T13:03:19Z"
   },
   "astrbot_plugin_bye": {
     "name": "astrbot_plugin_bye",
@@ -409,22 +425,6 @@
     "version": "v3.8.5",
     "updated_at": "2026-03-21T03:14:01Z",
     "logo": "https://raw.githubusercontent.com/Sloan-YXT/astrbot_plugin_meme_manager_plus/master/logo.png"
-  },
-  "astrbot_plugin_steam_efficient_interactor": {
-    "name": "astrbot_plugin_steam_efficient_interactor",
-    "display_name": "未审核：Steam高效互动者",
-    "desc": "通过llm互动控制bot监控Steam指定玩家的状态变更与通知推送或查看信息。",
-    "author": "Yezi & CzXieDdan",
-    "repo": "https://github.com/czxieddan/astrbot_plugin_steam_efficient_interactor",
-    "tags": [
-      "steam",
-      "llm"
-    ],
-    "social_link": "https://github.com/czxieddan",
-    "stars": 1,
-    "version": "2.7.8",
-    "updated_at": "2026-03-21T01:27:44Z",
-    "logo": "https://raw.githubusercontent.com/czxieddan/astrbot_plugin_steam_efficient_interactor/main/logo.png"
   },
   "astrbot_plugin_cross_session_awareness": {
     "name": "astrbot_plugin_cross_session_awareness",
@@ -998,7 +998,7 @@
     "repo": "https://github.com/qilin123456789/astrbot_plugin_kirin",
     "tags": [],
     "social_link": "https://github.com/qilin123456789",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.5",
     "updated_at": "2026-03-16T09:47:15Z",
     "logo": "https://raw.githubusercontent.com/qilin123456789/astrbot_plugin_kirin/main/logo.png"
