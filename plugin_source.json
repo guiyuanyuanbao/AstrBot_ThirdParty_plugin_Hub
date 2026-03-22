@@ -1,4 +1,54 @@
 {
+  "astrbot_plugin_tts_bridge": {
+    "name": "astrbot_plugin_tts_bridge",
+    "display_name": "未审核：TTS Bridge",
+    "desc": "多语言文字+语音桥接插件。将 AI 回复翻译为目标语言后进行 TTS 语音合成，实现文字与语音使用不同语言的效果。支持 MiniMax、OpenAI TTS，内置情感识别。",
+    "author": "MagicSun7940",
+    "repo": "https://github.com/MagicSun7940/astrbot_plugin_tts_bridge",
+    "tags": [
+      "tts",
+      "语音",
+      "翻译"
+    ],
+    "social_link": "https://github.com/MagicSun7940",
+    "stars": 0,
+    "version": "1.4.1",
+    "updated_at": "2026-03-22T18:35:06Z"
+  },
+  "astrbot_plugin_meme_manager_plus": {
+    "name": "astrbot_plugin_meme_manager_plus",
+    "display_name": "未审核：AI心情表情管理器",
+    "desc": "大模型分析对话情景，并基于预设的novelai形象tag，生成无消耗、效果较好的沉浸式图片对话体验。推荐安装日常穿搭插件，体验极好，不会玩novelai也支持心情表情模式。",
+    "author": "LOVEROXY",
+    "repo": "https://github.com/Sloan-YXT/astrbot_plugin_meme_manager_plus",
+    "tags": [
+      "novelai",
+      "emotion",
+      "graph generation"
+    ],
+    "social_link": "https://github.com/Sloan-YXT/",
+    "stars": 0,
+    "version": "v3.8.5",
+    "updated_at": "2026-03-22T18:08:33Z",
+    "logo": "https://raw.githubusercontent.com/Sloan-YXT/astrbot_plugin_meme_manager_plus/master/logo.png"
+  },
+  "astrbot_plugin_apexrankwatch": {
+    "name": "astrbot_plugin_apexrankwatch",
+    "display_name": "未审核：Apex Rank Watch",
+    "desc": "可以用来查询玩家段位，等级，赛季结束时间，大师猎杀数量，猎杀底分。还有能够持续自动监测玩家段位分数变化并且通知。",
+    "author": "moeneri",
+    "repo": "https://github.com/moeneri/astrbot_plugin_apexrankwatch",
+    "tags": [
+      "apex",
+      "查询",
+      "段位"
+    ],
+    "social_link": "https://github.com/moeneri",
+    "stars": 0,
+    "version": "1.2.2",
+    "updated_at": "2026-03-22T18:05:53Z",
+    "logo": "https://raw.githubusercontent.com/moeneri/astrbot_plugin_apexrankwatch/main/logo.png"
+  },
   "astrbot_plugin_cs_match": {
     "name": "astrbot_plugin_cs_match",
     "display_name": "未审核：astrbot_plugin_cs2_match_push",
@@ -412,19 +462,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-03-21T03:50:09Z"
-  },
-  "astrbot_plugin_meme_manager_plus": {
-    "name": "astrbot_plugin_meme_manager_plus",
-    "display_name": "未审核：大模型表情聊天",
-    "desc": "astrbot_plugin_meme_manager改了一下，可以接入gemini或grok的生图，实现概率回复图片，概率因子由LLM判断；最好放几张初始表情分类要不效果不好懂得都懂",
-    "author": "LOVEROXY",
-    "repo": "https://github.com/Sloan-YXT/astrbot_plugin_meme_manager_plus",
-    "tags": [],
-    "social_link": "https://github.com/Sloan-YXT/",
-    "stars": 0,
-    "version": "v3.8.5",
-    "updated_at": "2026-03-21T03:14:01Z",
-    "logo": "https://raw.githubusercontent.com/Sloan-YXT/astrbot_plugin_meme_manager_plus/master/logo.png"
   },
   "astrbot_plugin_cross_session_awareness": {
     "name": "astrbot_plugin_cross_session_awareness",
@@ -1183,24 +1220,6 @@
     "stars": 0,
     "version": "v1.0.15",
     "updated_at": "2026-03-15T05:37:54Z"
-  },
-  "astrbot_plugin_apexrankwatch": {
-    "name": "astrbot_plugin_apexrankwatch",
-    "display_name": "未审核：apex信息查询工具",
-    "desc": "可以用来查询玩家段位，等级，赛季结束时间，大师猎杀数量，猎杀底分。还有能够持续自动监测玩家段位分数变化并且通知。",
-    "author": "moeneri",
-    "repo": "https://github.com/moeneri/astrbot_plugin_apexrankwatch",
-    "tags": [
-      "游戏",
-      "apex",
-      "监测",
-      "段位"
-    ],
-    "social_link": "https://github.com/moeneri",
-    "stars": 0,
-    "version": "1.1.7",
-    "updated_at": "2026-03-15T04:52:01Z",
-    "logo": "https://raw.githubusercontent.com/moeneri/astrbot_plugin_apexrankwatch/main/logo.png"
   },
   "astrbot_plugin_grouplog": {
     "name": "astrbot_plugin_grouplog",
