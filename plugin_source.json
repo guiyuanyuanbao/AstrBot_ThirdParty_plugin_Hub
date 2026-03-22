@@ -1,4 +1,48 @@
 {
+  "astrbot_plugin_xx_aiprompt": {
+    "name": "astrbot_plugin_xx_aiprompt",
+    "display_name": "未审核：AI提示词生成器",
+    "desc": "AI 提示词生成器，根据人设描述自动生成专业、详细的 AI 系统提示词，包含防破甲、安全指令等完整结构",
+    "author": "星汐",
+    "repo": "https://github.com/yuanshen-scaramouche/astrbot_plugin_Xx_AIprompt",
+    "tags": [
+      "提示词",
+      "AI提示词生成"
+    ],
+    "social_link": "https://github.com/yuanshen-scaramouche",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-03-22T03:35:26Z"
+  },
+  "astrbot_plugin_qq_group_manager": {
+    "name": "astrbot_plugin_qq_group_manager",
+    "display_name": "未审核：QQ群管家",
+    "desc": "一款 QQ 群管家插件，支持自动同意加群、LLM 智能迎新送辞、以及机器人进群邀请的管理员审核。",
+    "author": "SunflowerYuuka",
+    "repo": "https://github.com/SunflowerYuuka/astrbot_plugin_qq_group-manager",
+    "tags": [
+      "QQ"
+    ],
+    "social_link": "https://github.com/SunflowerYuuka",
+    "stars": 0,
+    "version": "v1.2.0",
+    "updated_at": "2026-03-13T08:40:35Z"
+  },
+  "astrbot_plugin_bye": {
+    "name": "astrbot_plugin_bye",
+    "display_name": "未审核：主动退群",
+    "desc": "识别不友善以及不欢迎bot的群聊，让bot主动退群，保护bot身心健康，从源头上节省Tokens。",
+    "author": "largefox",
+    "repo": "https://github.com/largefox/astrbot_plugin_bye",
+    "tags": [
+      "退群",
+      "心理健康"
+    ],
+    "social_link": "https://github.com/largefox/",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-22T02:26:29Z"
+  },
   "astrbot_plugin_group_context_bridge": {
     "name": "astrbot_plugin_group_context_bridge",
     "display_name": "未审核：群聊上下文桥接",
@@ -895,20 +939,6 @@
     "stars": 0,
     "version": "v0.0.0",
     "updated_at": "2026-03-16T09:34:51Z"
-  },
-  "astrbot_plugin_qq_group_manager": {
-    "name": "astrbot_plugin_qq_group_manager",
-    "display_name": "未审核：QQ群管家",
-    "desc": "一款 QQ 群管家插件，支持自动同意加群、LLM 智能迎新送辞、以及机器人进群邀请的管理员审核。",
-    "author": "SunflowerYuuka",
-    "repo": "https://github.com/SunflowerYuuka/astrbot_plugin_qq_group-manager",
-    "tags": [
-      "QQ"
-    ],
-    "social_link": "https://github.com/SunflowerYuuka",
-    "stars": 0,
-    "version": "v1.2.0",
-    "updated_at": "2026-03-13T08:40:35Z"
   },
   "astrbot_plugin_sukicon": {
     "name": "astrbot_plugin_sukicon",
