@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_steam_friend_monitor": {
+    "name": "astrbot_plugin_steam_friend_monitor",
+    "display_name": "未审核：Steam 好友世间插件",
+    "desc": "看看谁在偷偷玩游戏！\n支持上线/下线/启动游戏/切换游戏 多选触发图片推送，支持成就播报。",
+    "author": "FlandreSatori",
+    "repo": "https://github.com/FlandreSatori/astrbot_plugin_steam_friend_monitor",
+    "tags": [
+      "steam"
+    ],
+    "social_link": "https://github.com/FlandreSatori",
+    "stars": 0,
+    "version": "0.8.9",
+    "updated_at": "2026-03-22T10:19:00Z",
+    "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
+  },
   "astrbot_plugin_cirno": {
     "name": "astrbot_plugin_cirno",
     "display_name": "未审核：琪露诺——baka!",
@@ -48,21 +63,6 @@
     "version": "1.3.4",
     "updated_at": "2026-03-22T09:19:42Z",
     "logo": "https://raw.githubusercontent.com/HeartEase1/astrbot_plugin_Pseudo_people_chat_actively/main/logo.png"
-  },
-  "astrbot_plugin_steam_friend_monitor": {
-    "name": "astrbot_plugin_steam_friend_monitor",
-    "display_name": "未审核：Steam 好友世间插件",
-    "desc": "看看谁在偷偷玩游戏！\n支持上线/下线/启动游戏/切换游戏 多选触发图片推送，支持成就播报。",
-    "author": "FlandreSatori",
-    "repo": "https://github.com/FlandreSatori/astrbot_plugin_steam_friend_monitor",
-    "tags": [
-      "steam"
-    ],
-    "social_link": "https://github.com/FlandreSatori",
-    "stars": 0,
-    "version": "0.8.9",
-    "updated_at": "2026-03-22T08:50:09Z",
-    "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
   },
   "astrbot_plugin_ctfphsher": {
     "name": "astrbot_plugin_ctfphsher",
