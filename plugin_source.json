@@ -1,4 +1,31 @@
 {
+  "astrbot_plugin_group_digest": {
+    "name": "astrbot_plugin_group_digest",
+    "display_name": "未审核：群聊兴趣日报与主动互动插件",
+    "desc": "基于 AstrBot 实现群聊消息总结、群热门话题分析、成员兴趣摘要与日报生成、通过LLM 建议astrbot定时主动发言。",
+    "author": "Ewingsal",
+    "repo": "https://github.com/Ewingsal/astrbot_plugin_group_digest",
+    "tags": [],
+    "social_link": "https://github.com/Ewingsal",
+    "stars": 1,
+    "version": "0.6.0",
+    "updated_at": "2026-03-22T12:18:47Z"
+  },
+  "astrbot_plugin_bye": {
+    "name": "astrbot_plugin_bye",
+    "display_name": "未审核：主动退群",
+    "desc": "识别不友善以及不欢迎bot的群聊，让bot主动退群，保护bot身心健康，从源头上节省Tokens。",
+    "author": "largefox",
+    "repo": "https://github.com/largefox/astrbot_plugin_bye",
+    "tags": [
+      "退群",
+      "心理健康"
+    ],
+    "social_link": "https://github.com/largefox/",
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-03-22T11:52:41Z"
+  },
   "astrbot_plugin_llm_enhancement": {
     "name": "astrbot_plugin_llm_enhancement",
     "display_name": "未审核：LLM 综合增强",
@@ -29,18 +56,6 @@
     "stars": 0,
     "version": "1.0.0",
     "updated_at": "2026-03-22T11:09:29Z"
-  },
-  "astrbot_plugin_group_digest": {
-    "name": "astrbot_plugin_group_digest",
-    "display_name": "未审核：群聊兴趣日报与主动互动插件",
-    "desc": "基于 AstrBot 实现群聊消息总结、群热门话题分析、成员兴趣摘要与日报生成、通过LLM 建议astrbot定时主动发言。",
-    "author": "Ewingsal",
-    "repo": "https://github.com/Ewingsal/astrbot_plugin_group_digest",
-    "tags": [],
-    "social_link": "https://github.com/Ewingsal",
-    "stars": 1,
-    "version": "0.6.0",
-    "updated_at": "2026-03-22T11:09:21Z"
   },
   "astrbot_ctfpusher_plugin": {
     "name": "astrbot_ctfpusher_plugin",
@@ -198,21 +213,6 @@
     "stars": 0,
     "version": "v1.2.0",
     "updated_at": "2026-03-13T08:40:35Z"
-  },
-  "astrbot_plugin_bye": {
-    "name": "astrbot_plugin_bye",
-    "display_name": "未审核：主动退群",
-    "desc": "识别不友善以及不欢迎bot的群聊，让bot主动退群，保护bot身心健康，从源头上节省Tokens。",
-    "author": "largefox",
-    "repo": "https://github.com/largefox/astrbot_plugin_bye",
-    "tags": [
-      "退群",
-      "心理健康"
-    ],
-    "social_link": "https://github.com/largefox/",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-22T02:26:29Z"
   },
   "astrbot_plugin_group_context_bridge": {
     "name": "astrbot_plugin_group_context_bridge",
