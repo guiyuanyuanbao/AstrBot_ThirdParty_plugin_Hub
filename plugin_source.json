@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_cs_match": {
+    "name": "astrbot_plugin_cs_match",
+    "display_name": "未审核：astrbot_plugin_cs2_match_push",
+    "desc": "CS2 比赛推送插件，支持关注战队、赛前提醒、赛后数据推送",
+    "author": "Aut-sep",
+    "repo": "https://github.com/Aut-sep/Astrbot-plugin-CS2-match-push",
+    "tags": [],
+    "social_link": "https://github.com/Aut-sep",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-22T17:14:30Z"
+  },
   "astrbot_plugin_steam_efficient_interactor": {
     "name": "astrbot_plugin_steam_efficient_interactor",
     "display_name": "未审核：Steam高效互动者",
@@ -60,18 +72,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-22T11:16:29Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
-  },
-  "astrbot_plugin_cs_match": {
-    "name": "astrbot_plugin_cs_match",
-    "display_name": "未审核：astrbot_plugin_cs2_match_push",
-    "desc": "CS2 比赛推送插件，支持关注战队、赛前提醒、赛后数据推送",
-    "author": "Aut-sep",
-    "repo": "https://github.com/Aut-sep/Astrbot-plugin-CS2-match-push",
-    "tags": [],
-    "social_link": "https://github.com/Aut-sep",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-22T11:09:29Z"
   },
   "astrbot_plugin_steam_friend_monitor": {
     "name": "astrbot_plugin_steam_friend_monitor",
@@ -155,6 +155,18 @@
     "stars": 1,
     "version": "1.0.0",
     "updated_at": "2026-03-22T07:20:20Z"
+  },
+  "astrbot_plugin_minimax_alert": {
+    "name": "astrbot_plugin_minimax_alert",
+    "display_name": "未审核：MiniMax 用量查询",
+    "desc": "查询 MiniMax Token Plan API 用量信息，支持国内版和国际版。查看5小时周期和本周周期的剩余额度。",
+    "author": "Crystar-1",
+    "repo": "https://github.com/Crystar-1/astrbot_plugin_minimax_alert",
+    "tags": [],
+    "social_link": "https://github.com/Crystar-1",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-03-22T06:42:27Z"
   },
   "astrbot_plugin_access_others_chat_history": {
     "name": "astrbot_plugin_access_others_chat_history",
