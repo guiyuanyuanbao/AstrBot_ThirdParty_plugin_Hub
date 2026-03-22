@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_cirno": {
+    "name": "astrbot_plugin_cirno",
+    "display_name": "未审核：琪露诺——baka!",
+    "desc": "把你的bot变成一只有记忆、有心情的baka! 她会记住每个人，越聊越了解你",
+    "author": "Reisenbug",
+    "repo": "https://github.com/Reisenbug/AstrBot_Plugin_Cirno",
+    "tags": [
+      "角色扮演",
+      "人格",
+      "东方project"
+    ],
+    "social_link": "https://github.com/Reisenbug",
+    "stars": 1,
+    "version": "v2.0.0",
+    "updated_at": "2026-03-22T08:35:30Z"
+  },
   "astrbot_plugin_ctfphsher": {
     "name": "astrbot_plugin_ctfphsher",
     "display_name": "未审核：CTF 赛事推送助手",
@@ -13,17 +29,16 @@
   },
   "astrbot_plugin_mimo_tts_decorator": {
     "name": "astrbot_plugin_mimo_tts_decorator",
-    "display_name": "未审核：MiMo TTS 装饰器",
+    "display_name": "未审核：MiMo TTS 语音合成装饰器",
     "desc": "使用 Xiaomi MiMo TTS 把 AstrBot 即将发送的纯文本回复转成 wav 语音，并支持 style、语速、官方示例风格的自动打标（规则/LLM）、独立朗读清洗开关与 warning 日志开关。",
     "author": "花茶",
-    "repo": "https://github.com/huachabobo/astrbot_plugin_mimo_tts_decorator.git",
+    "repo": "https://github.com/huachabobo/astrbot_plugin_mimo_tts_decorator",
     "tags": [
       "mimo",
       "TTS",
-      "装饰器",
-      "打标",
-      "清洗",
-      "语音"
+      "语音",
+      "合成",
+      "小米"
     ],
     "social_link": "https://github.com/huachabobo",
     "stars": 1,
