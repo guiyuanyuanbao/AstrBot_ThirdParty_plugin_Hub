@@ -1,29 +1,35 @@
 {
-  "astrbot_plugin_withdraw_image": {
-    "name": "astrbot_plugin_withdraw_image",
-    "display_name": "未审核：群聊图片表情自动撤回",
-    "desc": "在 OneBot v11（aiocqhttp）群聊中，按屏蔽规则自动撤回指定图片或 QQ 表情（Face）。",
-    "author": "XPIPI",
-    "repo": "https://github.com/xpipi2019/astrbot_plugin_withdrawImage",
-    "tags": [],
-    "social_link": "",
+  "astrbot_plugin_streamchunk": {
+    "name": "astrbot_plugin_streamchunk",
+    "display_name": "未审核：StreamChunk",
+    "desc": "为不支持流式的平台提供流式消息缓冲和分段功能。",
+    "author": "MUKAPP",
+    "repo": "https://github.com/MUKAPP/astrbot_plugin_streamchunk",
+    "tags": [
+      "流式",
+      "流式传输",
+      "分段"
+    ],
+    "social_link": "https://github.com/MUKAPP",
     "stars": 0,
     "version": "v1.0.2",
-    "updated_at": "2026-03-23T06:56:12Z"
+    "updated_at": "2026-03-23T08:49:26Z"
   },
-  "astrbot_plugin_ipcam": {
-    "name": "astrbot_plugin_ipcam",
-    "display_name": "未审核：ipcam网络摄像头捕获",
-    "desc": "基于AstrBot方式实现对rtsp视频流的图像截取和视频捕获。",
-    "author": "WhEN",
-    "repo": "https://github.com/rorangeeee/astrbot_plugin_ipcam",
+  "astrbot_plugin_token_stats": {
+    "name": "astrbot_plugin_token_stats",
+    "display_name": "未审核：AstrBot Token统计插件",
+    "desc": "AstrBot Token统计插件 是一个轻量级但功能强大的工具，帮助 AstrBot 用户精确追踪每次与 AI 交互时的 token 消耗。无论是分析成本构成，还是优化提示词设计，它都能提供清晰的数据支持。\n\n核心功能\n实时统计：自动捕获每次 LLM 请求的输入/输出 token 真实值（基于 API 返回）。\n\n会话级统计：按私聊/群聊独立统计，并持久化每日数据，支持跨天查看。\n\n分类分析：将消息分为“人格提示词”“上下文对话”“插件消息”等类别，直观展示消耗分布。\n\n插件归属规则：支持自定义规则，将特定插件（如记忆、知识库）的消息单独归类统计。\n\nWebUI 可视化：提供独立网页界面，展示总消耗趋势、会话排行，并支持图形化配置规则，无需手动编辑 YAML。\n\n智能建议：输入 /tokenstats suggest，插件会根据近期对话自动推荐归属规则，降低配置门槛。\n\n适用场景\n想了解 token 主要花费在哪些环节（人格、对话、插件）。\n\n需要为不同插件分别统计成本。\n\n优化提示词或对话长度以节省费用。",
+    "author": "HAOoool",
+    "repo": "https://github.com/HAOoool/AstrBot-Token-.git",
     "tags": [
-      "工具"
+      "token",
+      "统计",
+      "费用"
     ],
-    "social_link": "https://github.com/rorangeeee",
+    "social_link": "https://github.com/HAOoool",
     "stars": 0,
-    "version": "v0.1.0",
-    "updated_at": "2026-03-23T06:20:09Z"
+    "version": "3.9.15",
+    "updated_at": "2026-03-23T08:48:55Z"
   },
   "astrbot_plugin_cirno": {
     "name": "astrbot_plugin_cirno",
@@ -39,23 +45,33 @@
     "social_link": "https://github.com/Reisenbug",
     "stars": 1,
     "version": "v2.0.0",
-    "updated_at": "2026-03-23T05:51:28Z"
+    "updated_at": "2026-03-23T07:59:31Z"
   },
-  "astrbot_plugin_streamchunk": {
-    "name": "astrbot_plugin_streamchunk",
-    "display_name": "未审核：StreamChunk",
-    "desc": "为不支持流式的平台提供流式消息缓冲和分段功能。",
-    "author": "MUKAPP",
-    "repo": "https://github.com/MUKAPP/astrbot_plugin_streamchunk",
-    "tags": [
-      "流式",
-      "流式传输",
-      "分段"
-    ],
-    "social_link": "https://github.com/MUKAPP",
+  "astrbot_plugin_withdraw_image": {
+    "name": "astrbot_plugin_withdraw_image",
+    "display_name": "未审核：群聊图片表情自动撤回",
+    "desc": "在 OneBot v11（aiocqhttp）群聊中，按屏蔽规则自动撤回指定图片或 QQ 表情（Face）。",
+    "author": "XPIPI",
+    "repo": "https://github.com/xpipi2019/astrbot_plugin_withdrawImage",
+    "tags": [],
+    "social_link": "",
     "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2026-03-23T05:29:09Z"
+    "version": "v1.0.4",
+    "updated_at": "2026-03-23T07:36:21Z"
+  },
+  "astrbot_plugin_ipcam": {
+    "name": "astrbot_plugin_ipcam",
+    "display_name": "未审核：ipcam网络摄像头捕获",
+    "desc": "基于AstrBot方式实现对rtsp视频流的图像截取和视频捕获。",
+    "author": "WhEN",
+    "repo": "https://github.com/rorangeeee/astrbot_plugin_ipcam",
+    "tags": [
+      "工具"
+    ],
+    "social_link": "https://github.com/rorangeeee",
+    "stars": 0,
+    "version": "v0.1.0",
+    "updated_at": "2026-03-23T06:20:09Z"
   },
   "astrbot_plugin_qzone_tools": {
     "name": "astrbot_plugin_qzone_tools",
@@ -206,6 +222,27 @@
     "stars": 0,
     "version": "v1.0.1",
     "updated_at": "2026-03-22T11:52:41Z"
+  },
+  "astrbot_plugin_local_reminiscence": {
+    "name": "astrbot_plugin_local_reminiscence",
+    "display_name": "未审核：本地回忆[APLR]",
+    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
+    "author": "olozhika",
+    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
+    "tags": [
+      "记忆",
+      "回忆",
+      "每日总结",
+      "语义识别",
+      "关键词",
+      "上下文注入",
+      "长期记忆"
+    ],
+    "social_link": "https://github.com/olozhika",
+    "stars": 17,
+    "version": "v1.2.0",
+    "updated_at": "2026-03-22T11:50:32Z",
+    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot_plugin_llm_enhancement": {
     "name": "astrbot_plugin_llm_enhancement",
@@ -1476,9 +1513,9 @@
     "author": "Fold",
     "repo": "https://github.com/FFFold/astrbot_plugin_Network_Connectivity_Check",
     "tags": [
-      "网络",
       "代理",
-      "监测"
+      "网络",
+      "检测"
     ],
     "social_link": "https://github.com/FFFold",
     "stars": 0,
