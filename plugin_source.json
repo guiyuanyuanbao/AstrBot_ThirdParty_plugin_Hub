@@ -1,4 +1,54 @@
 {
+  "astrbot_plugin_cs_match": {
+    "name": "astrbot_plugin_cs_match",
+    "display_name": "未审核：astrbot_plugin_cs2_match_push",
+    "desc": "CS2 比赛推送插件，支持关注战队、赛前提醒、赛后数据推送",
+    "author": "Aut-sep",
+    "repo": "https://github.com/Aut-sep/Astrbot-plugin-CS2-match-push",
+    "tags": [],
+    "social_link": "https://github.com/Aut-sep",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-23T17:11:08Z"
+  },
+  "astrbot_plugin_withdraw_image": {
+    "name": "astrbot_plugin_withdraw_image",
+    "display_name": "未审核：群聊图片表情自动撤回",
+    "desc": "在 OneBot v11（aiocqhttp）群聊中，按屏蔽规则自动撤回指定图片、QQ 表情（Face）或 Emoji 字符。",
+    "author": "XPIPI",
+    "repo": "https://github.com/xpipi2019/astrbot_plugin_withdrawImage",
+    "tags": [],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-03-23T16:54:36Z"
+  },
+  "astrbot_plugin_llm_output_audit": {
+    "name": "astrbot_plugin_llm_output_audit",
+    "display_name": "未审核：大模型输入/输出审核插件",
+    "desc": "一键阻止大模型被诱导输出违规消息",
+    "author": "Wyccotccy",
+    "repo": "https://github.com/Wyccotccy/astrbot_plugin_llm_Output_audit",
+    "tags": [
+      "输出控制"
+    ],
+    "social_link": "www.wyccotccy.cn",
+    "stars": 0,
+    "version": "1.3.0",
+    "updated_at": "2026-03-23T16:42:58Z"
+  },
+  "astrbot_plugin_qq_keyword_alert": {
+    "name": "astrbot_plugin_qq_keyword_alert",
+    "display_name": "未审核：QQ 群关键词提醒",
+    "desc": "用于监控指定 QQ 群消息，支持按群独立维护关键词、过滤词、监控开关和正则模式，命中后自动私聊通知管理员",
+    "author": "foxlesbiao",
+    "repo": "https://github.com/foxlesbiao/astrbot_plugin_qq_keyword_alert",
+    "tags": [],
+    "social_link": "https://github.com/foxlesbiao",
+    "stars": 0,
+    "version": "1.1.0",
+    "updated_at": "2026-03-23T16:10:00Z"
+  },
   "astrbot_plugin_group_fun": {
     "name": "astrbot_plugin_group_fun",
     "display_name": "未审核：同归于尽",
@@ -11,19 +61,7 @@
     "social_link": "https://github.com/xxuanzQAQ",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-03-23T15:59:25Z"
-  },
-  "astrbot_plugin_qq_keyword_alert": {
-    "name": "astrbot_plugin_qq_keyword_alert",
-    "display_name": "未审核：QQ 群关键词提醒",
-    "desc": "用于监控指定 QQ 群消息，支持按群独立维护关键词、过滤词、监控开关和正则模式，命中后自动私聊通知管理员",
-    "author": "foxlesbiao",
-    "repo": "https://github.com/foxlesbiao/astrbot_plugin_qq_keyword_alert",
-    "tags": [],
-    "social_link": "https://github.com/foxlesbiao",
-    "stars": 0,
-    "version": "1.1.0",
-    "updated_at": "2026-03-23T15:58:26Z"
+    "updated_at": "2026-03-23T16:08:14Z"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
@@ -45,30 +83,6 @@
     "version": "v1.2.0",
     "updated_at": "2026-03-23T15:47:58Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
-  },
-  "astrbot_plugin_withdraw_image": {
-    "name": "astrbot_plugin_withdraw_image",
-    "display_name": "未审核：群聊图片表情自动撤回",
-    "desc": "在 OneBot v11（aiocqhttp）群聊中，按屏蔽规则自动撤回指定图片或 QQ 表情（Face）。",
-    "author": "XPIPI",
-    "repo": "https://github.com/xpipi2019/astrbot_plugin_withdrawImage",
-    "tags": [],
-    "social_link": "",
-    "stars": 0,
-    "version": "v1.0.4",
-    "updated_at": "2026-03-23T15:28:46Z"
-  },
-  "astrbot_plugin_cs_match": {
-    "name": "astrbot_plugin_cs_match",
-    "display_name": "未审核：astrbot_plugin_cs2_match_push",
-    "desc": "CS2 比赛推送插件，支持关注战队、赛前提醒、赛后数据推送",
-    "author": "Aut-sep",
-    "repo": "https://github.com/Aut-sep/Astrbot-plugin-CS2-match-push",
-    "tags": [],
-    "social_link": "https://github.com/Aut-sep",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-23T14:50:38Z"
   },
   "astrbot_plugin_arxiv": {
     "name": "astrbot_plugin_arxiv",
@@ -2701,20 +2715,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-02-23T09:51:31Z"
-  },
-  "astrbot_plugin_llm_output_audit": {
-    "name": "astrbot_plugin_llm_output_audit",
-    "display_name": "未审核：大模型输入/输出审核插件",
-    "desc": "一键阻止大模型被诱导输出违规消息",
-    "author": "Wyccotccy",
-    "repo": "https://github.com/Wyccotccy/astrbot_plugin_llm_Output_audit",
-    "tags": [
-      "输出控制"
-    ],
-    "social_link": "www.wyccotccy.cn",
-    "stars": 0,
-    "version": "1.3.0",
-    "updated_at": "2026-02-23T07:54:52Z"
   },
   "astrbot_plugin_rate_limit": {
     "name": "astrbot_plugin_rate_limit",
