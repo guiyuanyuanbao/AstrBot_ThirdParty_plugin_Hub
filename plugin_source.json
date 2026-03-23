@@ -1,4 +1,28 @@
 {
+  "astrbot_plugin_setu": {
+    "name": "astrbot_plugin_setu",
+    "display_name": "未审核：瑟瑟！",
+    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
+    "tags": [
+      "瑟瑟",
+      "色图",
+      "setu",
+      "福利",
+      "色色",
+      "lolicon",
+      "sexyan",
+      "atri",
+      "图片",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 2,
+    "version": "v1.0.8",
+    "updated_at": "2026-03-23T20:13:55Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
+  },
   "astrbot_plugin_llm_enhancement": {
     "name": "astrbot_plugin_llm_enhancement",
     "display_name": "未审核：LLM 综合增强",
@@ -779,30 +803,6 @@
     "version": "2.1.7",
     "updated_at": "2026-03-18T18:24:18Z",
     "logo": "https://raw.githubusercontent.com/ZASENJC/astrbot_plugin_weibo_push/main/logo.png"
-  },
-  "astrbot_plugin_setu": {
-    "name": "astrbot_plugin_setu",
-    "display_name": "未审核：瑟瑟！",
-    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
-    "tags": [
-      "瑟瑟",
-      "色图",
-      "setu",
-      "福利",
-      "色色",
-      "lolicon",
-      "sexyan",
-      "atri",
-      "图片",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 2,
-    "version": "v1.0.8",
-    "updated_at": "2026-03-18T17:09:44Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
   },
   "astrbot_plugin_silicon_life": {
     "name": "astrbot_plugin_silicon_life",
