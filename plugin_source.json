@@ -1,4 +1,49 @@
 {
+  "astrbot_plugin_cs_match": {
+    "name": "astrbot_plugin_cs_match",
+    "display_name": "未审核：astrbot_plugin_cs2_match_push",
+    "desc": "CS2 比赛推送插件，支持关注战队、赛前提醒、赛后数据推送",
+    "author": "Aut-sep",
+    "repo": "https://github.com/Aut-sep/Astrbot-plugin-CS2-match-push",
+    "tags": [],
+    "social_link": "https://github.com/Aut-sep",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-23T14:50:38Z"
+  },
+  "astrbot_plugin_arxiv": {
+    "name": "astrbot_plugin_arxiv",
+    "display_name": "未审核：arxiv论文检索",
+    "desc": "一个用于 AstrBot 的插件，提供 arXiv 论文搜索和下载功能。\n\n## 功能特性\n\n1. **论文搜索**：通过关键词、作者、标题等条件搜索 arXiv 论文\n2. **论文下载**：下载 arXiv 论文的 PDF 文件到本地\n3. **论文信息获取**：获取论文的详细信息，包括标题、作者、摘要等\n4. **已下载论文管理**：列出已下载的论文文件",
+    "author": "win98",
+    "repo": "https://github.com/o-1717986918/astrbot_plugin_arxiv.git",
+    "tags": [
+      "arxiv",
+      "学术",
+      "论文",
+      "搜索"
+    ],
+    "social_link": "https://github.com/o-1717986918",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-03-23T14:41:00Z"
+  },
+  "astrbot_plugin_cirno": {
+    "name": "astrbot_plugin_cirno",
+    "display_name": "未审核：琪露诺——baka!",
+    "desc": "把你的bot变成一只有记忆、有心情的baka! 她会记住每个人，越聊越了解你",
+    "author": "Reisenbug",
+    "repo": "https://github.com/Reisenbug/AstrBot_Plugin_Cirno",
+    "tags": [
+      "角色扮演",
+      "人格",
+      "东方project"
+    ],
+    "social_link": "https://github.com/Reisenbug",
+    "stars": 1,
+    "version": "v2.0.0",
+    "updated_at": "2026-03-23T14:35:15Z"
+  },
   "astrbot_plugin_dg-lab": {
     "name": "astrbot_plugin_dg-lab",
     "display_name": "未审核：AstrBot郊狼控制器",
@@ -12,9 +57,23 @@
     ],
     "social_link": "https://github.com/guiyuanyuanbao",
     "stars": 1,
-    "version": "v1.0.8",
-    "updated_at": "2026-03-23T13:07:25Z",
+    "version": "v1.0.9",
+    "updated_at": "2026-03-23T14:11:07Z",
     "logo": "https://raw.githubusercontent.com/guiyuanyuanbao/astrbot_plugin_DG-LAB/main/logo.png"
+  },
+  "astrbot_plugin_ipcam": {
+    "name": "astrbot_plugin_ipcam",
+    "display_name": "未审核：IPCam捕获",
+    "desc": "基于AstrBot方式实现对rtsp视频流的图像截取和视频捕获。",
+    "author": "WhEN",
+    "repo": "https://github.com/rorangeeee/astrbot_plugin_ipcam",
+    "tags": [
+      "工具"
+    ],
+    "social_link": "https://github.com/rorangeeee",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-23T13:26:48Z"
   },
   "astrbot_plugin_morning_news": {
     "name": "astrbot_plugin_morning_news",
@@ -77,23 +136,6 @@
     "version": "v1.0.3",
     "updated_at": "2026-03-23T10:15:47Z"
   },
-  "astrbot_plugin_arxiv": {
-    "name": "astrbot_plugin_arxiv",
-    "display_name": "未审核：arxiv论文检索",
-    "desc": "一个用于 AstrBot 的插件，提供 arXiv 论文搜索和下载功能。\n\n## 功能特性\n\n1. **论文搜索**：通过关键词、作者、标题等条件搜索 arXiv 论文\n2. **论文下载**：下载 arXiv 论文的 PDF 文件到本地\n3. **论文信息获取**：获取论文的详细信息，包括标题、作者、摘要等\n4. **已下载论文管理**：列出已下载的论文文件",
-    "author": "win98",
-    "repo": "https://github.com/o-1717986918/astrbot_plugin_arxiv.git",
-    "tags": [
-      "arxiv",
-      "学术",
-      "论文",
-      "搜索"
-    ],
-    "social_link": "https://github.com/o-1717986918",
-    "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2026-03-23T10:07:04Z"
-  },
   "astrbot_plugin_minimax_music": {
     "name": "astrbot_plugin_minimax_music",
     "display_name": "未审核：minimax音乐生成",
@@ -106,22 +148,6 @@
     "version": "1.0.0",
     "updated_at": "2026-03-23T09:11:02Z"
   },
-  "astrbot_plugin_cirno": {
-    "name": "astrbot_plugin_cirno",
-    "display_name": "未审核：琪露诺——baka!",
-    "desc": "把你的bot变成一只有记忆、有心情的baka! 她会记住每个人，越聊越了解你",
-    "author": "Reisenbug",
-    "repo": "https://github.com/Reisenbug/AstrBot_Plugin_Cirno",
-    "tags": [
-      "角色扮演",
-      "人格",
-      "东方project"
-    ],
-    "social_link": "https://github.com/Reisenbug",
-    "stars": 1,
-    "version": "v2.0.0",
-    "updated_at": "2026-03-23T07:59:31Z"
-  },
   "astrbot_plugin_withdraw_image": {
     "name": "astrbot_plugin_withdraw_image",
     "display_name": "未审核：群聊图片表情自动撤回",
@@ -133,20 +159,6 @@
     "stars": 0,
     "version": "v1.0.4",
     "updated_at": "2026-03-23T07:36:21Z"
-  },
-  "astrbot_plugin_ipcam": {
-    "name": "astrbot_plugin_ipcam",
-    "display_name": "未审核：ipcam网络摄像头捕获",
-    "desc": "基于AstrBot方式实现对rtsp视频流的图像截取和视频捕获。",
-    "author": "WhEN",
-    "repo": "https://github.com/rorangeeee/astrbot_plugin_ipcam",
-    "tags": [
-      "工具"
-    ],
-    "social_link": "https://github.com/rorangeeee",
-    "stars": 0,
-    "version": "v0.1.0",
-    "updated_at": "2026-03-23T06:20:09Z"
   },
   "astrbot_plugin_qzone_tools": {
     "name": "astrbot_plugin_qzone_tools",
@@ -225,18 +237,6 @@
     "version": "1.2.2",
     "updated_at": "2026-03-22T18:05:53Z",
     "logo": "https://raw.githubusercontent.com/moeneri/astrbot_plugin_apexrankwatch/main/logo.png"
-  },
-  "astrbot_plugin_cs_match": {
-    "name": "astrbot_plugin_cs_match",
-    "display_name": "未审核：astrbot_plugin_cs2_match_push",
-    "desc": "CS2 比赛推送插件，支持关注战队、赛前提醒、赛后数据推送",
-    "author": "Aut-sep",
-    "repo": "https://github.com/Aut-sep/Astrbot-plugin-CS2-match-push",
-    "tags": [],
-    "social_link": "https://github.com/Aut-sep",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-22T17:14:30Z"
   },
   "astrbot_plugin_steam_efficient_interactor": {
     "name": "astrbot_plugin_steam_efficient_interactor",
