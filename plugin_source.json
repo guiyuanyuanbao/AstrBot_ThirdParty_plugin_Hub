@@ -1,17 +1,15 @@
 {
-  "astrbot_plugin_daily_album": {
-    "name": "astrbot_plugin_daily_album",
-    "display_name": "未审核：每日专辑推荐",
-    "desc": "每日专辑推荐 - 定时向指定会话推送一张专辑推荐，支持 LLM、联网搜索、自定义脚本三种来源",
-    "author": "wanger",
-    "repo": "https://github.com/10knamesmore/astrbot_plugin_daily_album",
-    "tags": [
-      "音乐"
-    ],
-    "social_link": "https://github.com/10knamesmore",
+  "astrbot_plugin_withdraw_image": {
+    "name": "astrbot_plugin_withdraw_image",
+    "display_name": "未审核：群聊图片表情自动撤回",
+    "desc": "在 OneBot v11（aiocqhttp）群聊中，按屏蔽规则自动撤回指定图片或 QQ 表情（Face）。",
+    "author": "XPIPI",
+    "repo": "https://github.com/xpipi2019/astrbot_plugin_withdrawImage",
+    "tags": [],
+    "social_link": "",
     "stars": 0,
-    "version": "v0.0.4",
-    "updated_at": "2026-03-23T03:30:31Z"
+    "version": "v1.0.2",
+    "updated_at": "2026-03-23T06:56:12Z"
   },
   "astrbot_plugin_ipcam": {
     "name": "astrbot_plugin_ipcam",
@@ -25,7 +23,68 @@
     "social_link": "https://github.com/rorangeeee",
     "stars": 0,
     "version": "v0.1.0",
-    "updated_at": "2026-03-23T02:36:27Z"
+    "updated_at": "2026-03-23T06:20:09Z"
+  },
+  "astrbot_plugin_cirno": {
+    "name": "astrbot_plugin_cirno",
+    "display_name": "未审核：琪露诺——baka!",
+    "desc": "把你的bot变成一只有记忆、有心情的baka! 她会记住每个人，越聊越了解你",
+    "author": "Reisenbug",
+    "repo": "https://github.com/Reisenbug/AstrBot_Plugin_Cirno",
+    "tags": [
+      "角色扮演",
+      "人格",
+      "东方project"
+    ],
+    "social_link": "https://github.com/Reisenbug",
+    "stars": 1,
+    "version": "v2.0.0",
+    "updated_at": "2026-03-23T05:51:28Z"
+  },
+  "astrbot_plugin_streamchunk": {
+    "name": "astrbot_plugin_streamchunk",
+    "display_name": "未审核：StreamChunk",
+    "desc": "为不支持流式的平台提供流式消息缓冲和分段功能。",
+    "author": "MUKAPP",
+    "repo": "https://github.com/MUKAPP/astrbot_plugin_streamchunk",
+    "tags": [
+      "流式",
+      "流式传输",
+      "分段"
+    ],
+    "social_link": "https://github.com/MUKAPP",
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-03-23T05:29:09Z"
+  },
+  "astrbot_plugin_qzone_tools": {
+    "name": "astrbot_plugin_qzone_tools",
+    "display_name": "未审核：为你的bot加入更多主动功能",
+    "desc": "支持机器人发送定时消息，发送QQ空间，发送戳一戳等给群聊或者私聊",
+    "author": "Wyccotccy",
+    "repo": "https://github.com/Wyccotccy/astrbot_plugin_qzone_tools",
+    "tags": [
+      "主动功能"
+    ],
+    "social_link": "www.wyccotccy.cn",
+    "stars": 0,
+    "version": "1.1.0",
+    "updated_at": "2026-03-23T05:18:12Z",
+    "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
+  },
+  "astrbot_plugin_daily_album": {
+    "name": "astrbot_plugin_daily_album",
+    "display_name": "未审核：每日专辑推荐",
+    "desc": "每日专辑推荐 - 定时向指定会话推送一张专辑推荐，支持 LLM、联网搜索、自定义脚本三种来源",
+    "author": "wanger",
+    "repo": "https://github.com/10knamesmore/astrbot_plugin_daily_album",
+    "tags": [
+      "音乐"
+    ],
+    "social_link": "https://github.com/10knamesmore",
+    "stars": 0,
+    "version": "v0.0.4",
+    "updated_at": "2026-03-23T03:30:31Z"
   },
   "astrbot_plugin_regex_blocker": {
     "name": "astrbot_plugin_regex_blocker",
@@ -182,22 +241,6 @@
     "updated_at": "2026-03-22T10:19:00Z",
     "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
   },
-  "astrbot_plugin_cirno": {
-    "name": "astrbot_plugin_cirno",
-    "display_name": "未审核：琪露诺——baka!",
-    "desc": "把你的bot变成一只有记忆、有心情的baka! 她会记住每个人，越聊越了解你",
-    "author": "Reisenbug",
-    "repo": "https://github.com/Reisenbug/AstrBot_Plugin_Cirno",
-    "tags": [
-      "角色扮演",
-      "人格",
-      "东方project"
-    ],
-    "social_link": "https://github.com/Reisenbug",
-    "stars": 1,
-    "version": "v2.0.0",
-    "updated_at": "2026-03-22T09:30:15Z"
-  },
   "astrbot_plugin_hwinfo": {
     "name": "astrbot_plugin_hwinfo",
     "display_name": "未审核：CPU显卡性能快速查询",
@@ -249,18 +292,6 @@
     "stars": 1,
     "version": "1.0.0",
     "updated_at": "2026-03-22T07:20:20Z"
-  },
-  "astrbot_plugin_minimax_alert": {
-    "name": "astrbot_plugin_minimax_alert",
-    "display_name": "未审核：MiniMax 用量查询",
-    "desc": "查询 MiniMax Token Plan API 用量信息，支持国内版和国际版。查看5小时周期和本周周期的剩余额度。",
-    "author": "Crystar-1",
-    "repo": "https://github.com/Crystar-1/astrbot_plugin_minimax_alert",
-    "tags": [],
-    "social_link": "https://github.com/Crystar-1",
-    "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-03-22T06:42:27Z"
   },
   "astrbot_plugin_banpass": {
     "name": "astrbot_plugin_banpass",
@@ -378,22 +409,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-21T13:30:15Z",
     "logo": "https://raw.githubusercontent.com/2350047329f-art/astrbot_plugin_aiToIot/master/logo.png"
-  },
-  "astrbot_plugin_streamchunk": {
-    "name": "astrbot_plugin_streamchunk",
-    "display_name": "未审核：StreamChunk",
-    "desc": "为不支持流式的平台提供流式消息缓冲和分段功能。",
-    "author": "MUKAPP",
-    "repo": "https://github.com/MUKAPP/astrbot_plugin_streamchunk",
-    "tags": [
-      "流式",
-      "流式传输",
-      "分段"
-    ],
-    "social_link": "https://github.com/MUKAPP",
-    "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2026-03-21T13:03:50Z"
   },
   "astrbot_plugin_dg-lab": {
     "name": "astrbot_plugin_dg-lab",
@@ -562,19 +577,6 @@
     "stars": 1,
     "version": "1.1.0",
     "updated_at": "2026-03-20T11:08:28Z"
-  },
-  "astrbot_plugin_codesnap": {
-    "name": "astrbot_plugin_codesnap",
-    "display_name": "未审核：CodeSnap(?)",
-    "desc": "A plugin inspired by CodeSnap",
-    "author": "ZeraoraBot",
-    "repo": "https://github.com/Zeraora-807/astrbot_plugin_codesnap",
-    "tags": [],
-    "social_link": "",
-    "stars": 4,
-    "version": "v0.2.0",
-    "updated_at": "2026-03-20T09:52:43Z",
-    "logo": "https://raw.githubusercontent.com/Zeraora-807/astrbot_plugin_codesnap/main/logo.png"
   },
   "astrbot_plugin_subagent_worktogether": {
     "name": "astrbot_plugin_subagent_worktogether",
@@ -1424,21 +1426,6 @@
     "stars": 0,
     "version": "v0.1.1",
     "updated_at": "2026-03-13T19:16:30Z"
-  },
-  "astrbot_plugin_qzone_tools": {
-    "name": "astrbot_plugin_qzone_tools",
-    "display_name": "未审核：为你的bot加入更多主动功能",
-    "desc": "支持机器人发送定时消息，发送QQ空间，发送戳一戳等给群聊或者私聊",
-    "author": "Wyccotccy",
-    "repo": "https://github.com/Wyccotccy/astrbot_plugin_qzone_tools",
-    "tags": [
-      "主动功能"
-    ],
-    "social_link": "www.wyccotccy.cn",
-    "stars": 0,
-    "version": "1.1.0",
-    "updated_at": "2026-03-13T17:32:41Z",
-    "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot_plugin_asmrone_sub": {
     "name": "astrbot_plugin_asmrone_sub",
