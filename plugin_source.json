@@ -1,4 +1,63 @@
 {
+  "astrbot_plugin_group_fun": {
+    "name": "astrbot_plugin_group_fun",
+    "display_name": "未审核：同归于尽",
+    "desc": "娱乐插件，随机禁言倒霉蛋，以及和群友自爆(",
+    "author": "小轩",
+    "repo": "https://github.com/xxuanzQAQ/astrbot_plugin_group_fun",
+    "tags": [
+      "娱乐"
+    ],
+    "social_link": "https://github.com/xxuanzQAQ",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-23T15:59:25Z"
+  },
+  "astrbot_plugin_qq_keyword_alert": {
+    "name": "astrbot_plugin_qq_keyword_alert",
+    "display_name": "未审核：QQ 群关键词提醒",
+    "desc": "用于监控指定 QQ 群消息，支持按群独立维护关键词、过滤词、监控开关和正则模式，命中后自动私聊通知管理员",
+    "author": "foxlesbiao",
+    "repo": "https://github.com/foxlesbiao/astrbot_plugin_qq_keyword_alert",
+    "tags": [],
+    "social_link": "https://github.com/foxlesbiao",
+    "stars": 0,
+    "version": "1.1.0",
+    "updated_at": "2026-03-23T15:58:26Z"
+  },
+  "astrbot_plugin_local_reminiscence": {
+    "name": "astrbot_plugin_local_reminiscence",
+    "display_name": "未审核：本地回忆[APLR]",
+    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
+    "author": "olozhika",
+    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
+    "tags": [
+      "记忆",
+      "回忆",
+      "每日总结",
+      "语义识别",
+      "关键词",
+      "上下文注入",
+      "长期记忆"
+    ],
+    "social_link": "https://github.com/olozhika",
+    "stars": 17,
+    "version": "v1.2.0",
+    "updated_at": "2026-03-23T15:47:58Z",
+    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
+  },
+  "astrbot_plugin_withdraw_image": {
+    "name": "astrbot_plugin_withdraw_image",
+    "display_name": "未审核：群聊图片表情自动撤回",
+    "desc": "在 OneBot v11（aiocqhttp）群聊中，按屏蔽规则自动撤回指定图片或 QQ 表情（Face）。",
+    "author": "XPIPI",
+    "repo": "https://github.com/xpipi2019/astrbot_plugin_withdrawImage",
+    "tags": [],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.0.4",
+    "updated_at": "2026-03-23T15:28:46Z"
+  },
   "astrbot_plugin_cs_match": {
     "name": "astrbot_plugin_cs_match",
     "display_name": "未审核：astrbot_plugin_cs2_match_push",
@@ -148,18 +207,6 @@
     "version": "1.0.0",
     "updated_at": "2026-03-23T09:11:02Z"
   },
-  "astrbot_plugin_withdraw_image": {
-    "name": "astrbot_plugin_withdraw_image",
-    "display_name": "未审核：群聊图片表情自动撤回",
-    "desc": "在 OneBot v11（aiocqhttp）群聊中，按屏蔽规则自动撤回指定图片或 QQ 表情（Face）。",
-    "author": "XPIPI",
-    "repo": "https://github.com/xpipi2019/astrbot_plugin_withdrawImage",
-    "tags": [],
-    "social_link": "",
-    "stars": 0,
-    "version": "v1.0.4",
-    "updated_at": "2026-03-23T07:36:21Z"
-  },
   "astrbot_plugin_qzone_tools": {
     "name": "astrbot_plugin_qzone_tools",
     "display_name": "未审核：为你的bot加入更多主动功能",
@@ -280,27 +327,6 @@
     "stars": 0,
     "version": "v1.0.1",
     "updated_at": "2026-03-22T11:52:41Z"
-  },
-  "astrbot_plugin_local_reminiscence": {
-    "name": "astrbot_plugin_local_reminiscence",
-    "display_name": "未审核：本地回忆[APLR]",
-    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
-    "author": "olozhika",
-    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
-    "tags": [
-      "记忆",
-      "回忆",
-      "每日总结",
-      "语义识别",
-      "关键词",
-      "上下文注入",
-      "长期记忆"
-    ],
-    "social_link": "https://github.com/olozhika",
-    "stars": 17,
-    "version": "v1.2.0",
-    "updated_at": "2026-03-22T11:50:32Z",
-    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot_plugin_llm_enhancement": {
     "name": "astrbot_plugin_llm_enhancement",
