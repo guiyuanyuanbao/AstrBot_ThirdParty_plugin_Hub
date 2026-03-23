@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_regex_blocker": {
+    "name": "astrbot_plugin_regex_blocker",
+    "display_name": "未审核：正则消息屏蔽器",
+    "desc": "通过正则表达式匹配屏蔽用户发送给 LLM 的消息",
+    "author": "FHMinyi",
+    "repo": "https://github.com/FHMinyi/astrbot-plugin-regex-blocker",
+    "tags": [
+      "屏蔽",
+      "用户消息",
+      "消息处理"
+    ],
+    "social_link": "https://github.com/FHMinyi",
+    "stars": 0,
+    "version": "v1.0.2",
+    "updated_at": "2026-03-23T02:18:33Z"
+  },
   "astrbot_plugin_tts_bridge": {
     "name": "astrbot_plugin_tts_bridge",
     "display_name": "未审核：TTS Bridge",
@@ -308,23 +324,6 @@
     "stars": 0,
     "version": "v1.0",
     "updated_at": "2026-03-21T18:22:03Z"
-  },
-  "astrbot_plugin_wwkudie": {
-    "name": "astrbot_plugin_wwkudie",
-    "display_name": "未审核：尽孝",
-    "desc": "热爱游戏，把游戏公司当父亲尽孝的人",
-    "author": "NumInvis",
-    "repo": "https://github.com/NumInvis/astrbot_plugin_wwkudie",
-    "tags": [
-      "文章",
-      "二游",
-      "游戏",
-      "prompt"
-    ],
-    "social_link": "https://github.com/NumInvis",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-21T18:13:21Z"
   },
   "astrbot_plugin_dida365": {
     "name": "astrbot_plugin_dida365",
@@ -3057,7 +3056,7 @@
       "小米"
     ],
     "social_link": "https://github.com/jilei522/",
-    "stars": 0,
+    "stars": 1,
     "version": "1.4.0",
     "updated_at": "2026-01-29T13:24:27Z"
   },
