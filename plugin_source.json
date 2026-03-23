@@ -1,4 +1,32 @@
 {
+  "astrbot_plugin_token_stats": {
+    "name": "astrbot_plugin_token_stats",
+    "display_name": "未审核：AstrBot Token统计插件",
+    "desc": "自动统计每次 LLM 请求的 token 消耗，支持 /tokenstats 命令查询，按会话区分统计",
+    "author": "HAOoool",
+    "repo": "https://github.com/HAOoool/AstrBot-Token",
+    "tags": [
+      "token",
+      "统计",
+      "费用"
+    ],
+    "social_link": "https://github.com/HAOoool",
+    "stars": 0,
+    "version": "3.9.15",
+    "updated_at": "2026-03-23T09:42:42Z"
+  },
+  "astrbot_plugin_minimax_music": {
+    "name": "astrbot_plugin_minimax_music",
+    "display_name": "未审核：minimax音乐生成",
+    "desc": "astrbot_plugin_minimax_music 是一款基于 Astrbot 并利用 MiniMax API 的音乐生成插件。它允许用户通过提供风格提示词和歌词，快速生成自定义风格的音乐片段，并将音频发送回聊天。",
+    "author": "传说中的某猫",
+    "repo": "https://github.com/byydzh/astrbot_plugin_minimax_music",
+    "tags": [],
+    "social_link": "https://github.com/byydzh",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-23T09:11:02Z"
+  },
   "astrbot_plugin_streamchunk": {
     "name": "astrbot_plugin_streamchunk",
     "display_name": "未审核：StreamChunk",
@@ -14,22 +42,6 @@
     "stars": 0,
     "version": "v1.0.2",
     "updated_at": "2026-03-23T08:49:26Z"
-  },
-  "astrbot_plugin_token_stats": {
-    "name": "astrbot_plugin_token_stats",
-    "display_name": "未审核：AstrBot Token统计插件",
-    "desc": "AstrBot Token统计插件 是一个轻量级但功能强大的工具，帮助 AstrBot 用户精确追踪每次与 AI 交互时的 token 消耗。无论是分析成本构成，还是优化提示词设计，它都能提供清晰的数据支持。\n\n核心功能\n实时统计：自动捕获每次 LLM 请求的输入/输出 token 真实值（基于 API 返回）。\n\n会话级统计：按私聊/群聊独立统计，并持久化每日数据，支持跨天查看。\n\n分类分析：将消息分为“人格提示词”“上下文对话”“插件消息”等类别，直观展示消耗分布。\n\n插件归属规则：支持自定义规则，将特定插件（如记忆、知识库）的消息单独归类统计。\n\nWebUI 可视化：提供独立网页界面，展示总消耗趋势、会话排行，并支持图形化配置规则，无需手动编辑 YAML。\n\n智能建议：输入 /tokenstats suggest，插件会根据近期对话自动推荐归属规则，降低配置门槛。\n\n适用场景\n想了解 token 主要花费在哪些环节（人格、对话、插件）。\n\n需要为不同插件分别统计成本。\n\n优化提示词或对话长度以节省费用。",
-    "author": "HAOoool",
-    "repo": "https://github.com/HAOoool/AstrBot-Token-.git",
-    "tags": [
-      "token",
-      "统计",
-      "费用"
-    ],
-    "social_link": "https://github.com/HAOoool",
-    "stars": 0,
-    "version": "3.9.15",
-    "updated_at": "2026-03-23T08:48:55Z"
   },
   "astrbot_plugin_cirno": {
     "name": "astrbot_plugin_cirno",
