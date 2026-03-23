@@ -1,4 +1,32 @@
 {
+  "astrbot_plugin_daily_album": {
+    "name": "astrbot_plugin_daily_album",
+    "display_name": "未审核：每日专辑推荐",
+    "desc": "每日专辑推荐 - 定时向指定会话推送一张专辑推荐，支持 LLM、联网搜索、自定义脚本三种来源",
+    "author": "wanger",
+    "repo": "https://github.com/10knamesmore/astrbot_plugin_daily_album",
+    "tags": [
+      "音乐"
+    ],
+    "social_link": "https://github.com/10knamesmore",
+    "stars": 0,
+    "version": "v0.0.4",
+    "updated_at": "2026-03-23T03:30:31Z"
+  },
+  "astrbot_plugin_ipcam": {
+    "name": "astrbot_plugin_ipcam",
+    "display_name": "未审核：ipcam网络摄像头捕获",
+    "desc": "基于AstrBot方式实现对rtsp视频流的图像截取和视频捕获。",
+    "author": "WhEN",
+    "repo": "https://github.com/rorangeeee/astrbot_plugin_ipcam",
+    "tags": [
+      "工具"
+    ],
+    "social_link": "https://github.com/rorangeeee",
+    "stars": 0,
+    "version": "v0.1.0",
+    "updated_at": "2026-03-23T02:36:27Z"
+  },
   "astrbot_plugin_regex_blocker": {
     "name": "astrbot_plugin_regex_blocker",
     "display_name": "未审核：正则消息屏蔽器",
@@ -234,23 +262,6 @@
     "version": "v1.1.0",
     "updated_at": "2026-03-22T06:42:27Z"
   },
-  "astrbot_plugin_access_others_chat_history": {
-    "name": "astrbot_plugin_access_others_chat_history",
-    "display_name": "未审核：访问他人聊天记录",
-    "desc": "为bot提供访问其他聊天会话的工具，让bot在和你聊天的时候也能知道在其他地方聊了什么",
-    "author": "兔子",
-    "repo": "https://github.com/KonmaKanSinPack/astrbot_plugin_access_others_chat",
-    "tags": [
-      "拟人",
-      "聊天",
-      "私聊",
-      "群聊"
-    ],
-    "social_link": "https://github.com/KonmaKanSinPack",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-22T05:52:49Z"
-  },
   "astrbot_plugin_banpass": {
     "name": "astrbot_plugin_banpass",
     "display_name": "未审核：BanPass（Ban黑名单插件）",
@@ -324,22 +335,6 @@
     "stars": 0,
     "version": "v1.0",
     "updated_at": "2026-03-21T18:22:03Z"
-  },
-  "astrbot_plugin_dida365": {
-    "name": "astrbot_plugin_dida365",
-    "display_name": "未审核：滴答清单连接器",
-    "desc": "在 AstrBot 中连接 Dida365（滴答清单），支持任务查询、定时汇报和基于 LLM 的任务操作。",
-    "author": "zhenyumi",
-    "repo": "https://github.com/zhenyumi/astrbot_plugin_dida365",
-    "tags": [
-      "Todo",
-      "定时",
-      "提醒"
-    ],
-    "social_link": "https://github.com/zhenyumi",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-21T17:42:43Z"
   },
   "astrbot_plugin_emoji_like": {
     "name": "astrbot_plugin_emoji_like",
@@ -1860,20 +1855,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-03-09T15:10:58Z"
-  },
-  "astrbot_plugin_ipcam": {
-    "name": "astrbot_plugin_ipcam",
-    "display_name": "未审核：ipcam网络摄像头捕获",
-    "desc": "基于AstrBot方式实现对rtsp视频流的图像截取和视频捕获。",
-    "author": "WhEN",
-    "repo": "https://github.com/rorangeeee/astrbot_plugin_ipcam",
-    "tags": [
-      "工具"
-    ],
-    "social_link": "https://github.com/rorangeeee",
-    "stars": 0,
-    "version": "v0.1.0",
-    "updated_at": "2026-03-09T15:02:32Z"
   },
   "astrbot_plugin_manhua": {
     "name": "astrbot_plugin_manhua",
