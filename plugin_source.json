@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_morning_news": {
+    "name": "astrbot_plugin_morning_news",
+    "display_name": "未审核：每日早报",
+    "desc": "每日定时推送早报，让你快速了解全球大事！",
+    "author": "芝麻酱",
+    "repo": "https://github.com/a552422934/astrbot_plugin_morning_news",
+    "tags": [],
+    "social_link": "https://github.com/a552422934",
+    "stars": 0,
+    "version": "v1.2.0",
+    "updated_at": "2026-03-23T11:23:35Z"
+  },
   "astrbot_plugin_token_stats": {
     "name": "astrbot_plugin_token_stats",
     "display_name": "未审核：AstrBot Token统计插件",
@@ -13,19 +25,24 @@
     "social_link": "https://github.com/HAOoool",
     "stars": 0,
     "version": "3.9.15",
-    "updated_at": "2026-03-23T09:42:42Z"
+    "updated_at": "2026-03-23T11:07:30Z"
   },
-  "astrbot_plugin_minimax_music": {
-    "name": "astrbot_plugin_minimax_music",
-    "display_name": "未审核：minimax音乐生成",
-    "desc": "astrbot_plugin_minimax_music 是一款基于 Astrbot 并利用 MiniMax API 的音乐生成插件。它允许用户通过提供风格提示词和歌词，快速生成自定义风格的音乐片段，并将音频发送回聊天。",
-    "author": "传说中的某猫",
-    "repo": "https://github.com/byydzh/astrbot_plugin_minimax_music",
-    "tags": [],
-    "social_link": "https://github.com/byydzh",
+  "astrbot_plugin_meme_manager_plus": {
+    "name": "astrbot_plugin_meme_manager_plus",
+    "display_name": "未审核：AI心情表情管理器",
+    "desc": "大模型分析对话情景，并基于预设的novelai形象tag，生成无消耗、效果较好的沉浸式图片对话体验。推荐安装日常穿搭插件，体验极好，不会玩novelai也支持心情表情模式。",
+    "author": "LOVEROXY",
+    "repo": "https://github.com/Sloan-YXT/astrbot_plugin_meme_manager_plus",
+    "tags": [
+      "novelai",
+      "emotion",
+      "graph generation"
+    ],
+    "social_link": "https://github.com/Sloan-YXT/",
     "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-23T09:11:02Z"
+    "version": "v3.8.5",
+    "updated_at": "2026-03-23T10:47:28Z",
+    "logo": "https://raw.githubusercontent.com/Sloan-YXT/astrbot_plugin_meme_manager_plus/master/logo.png"
   },
   "astrbot_plugin_streamchunk": {
     "name": "astrbot_plugin_streamchunk",
@@ -40,8 +57,37 @@
     ],
     "social_link": "https://github.com/MUKAPP",
     "stars": 0,
-    "version": "v1.0.2",
-    "updated_at": "2026-03-23T08:49:26Z"
+    "version": "v1.0.3",
+    "updated_at": "2026-03-23T10:15:47Z"
+  },
+  "astrbot_plugin_arxiv": {
+    "name": "astrbot_plugin_arxiv",
+    "display_name": "未审核：arxiv论文检索",
+    "desc": "一个用于 AstrBot 的插件，提供 arXiv 论文搜索和下载功能。\n\n## 功能特性\n\n1. **论文搜索**：通过关键词、作者、标题等条件搜索 arXiv 论文\n2. **论文下载**：下载 arXiv 论文的 PDF 文件到本地\n3. **论文信息获取**：获取论文的详细信息，包括标题、作者、摘要等\n4. **已下载论文管理**：列出已下载的论文文件",
+    "author": "win98",
+    "repo": "https://github.com/o-1717986918/astrbot_plugin_arxiv.git",
+    "tags": [
+      "arxiv",
+      "学术",
+      "论文",
+      "搜索"
+    ],
+    "social_link": "https://github.com/o-1717986918",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-03-23T10:07:04Z"
+  },
+  "astrbot_plugin_minimax_music": {
+    "name": "astrbot_plugin_minimax_music",
+    "display_name": "未审核：minimax音乐生成",
+    "desc": "astrbot_plugin_minimax_music 是一款基于 Astrbot 并利用 MiniMax API 的音乐生成插件。它允许用户通过提供风格提示词和歌词，快速生成自定义风格的音乐片段，并将音频发送回聊天。",
+    "author": "传说中的某猫",
+    "repo": "https://github.com/byydzh/astrbot_plugin_minimax_music",
+    "tags": [],
+    "social_link": "https://github.com/byydzh",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-23T09:11:02Z"
   },
   "astrbot_plugin_cirno": {
     "name": "astrbot_plugin_cirno",
@@ -146,23 +192,6 @@
     "version": "1.4.4",
     "updated_at": "2026-03-22T19:10:20Z"
   },
-  "astrbot_plugin_meme_manager_plus": {
-    "name": "astrbot_plugin_meme_manager_plus",
-    "display_name": "未审核：AI心情表情管理器",
-    "desc": "大模型分析对话情景，并基于预设的novelai形象tag，生成无消耗、效果较好的沉浸式图片对话体验。推荐安装日常穿搭插件，体验极好，不会玩novelai也支持心情表情模式。",
-    "author": "LOVEROXY",
-    "repo": "https://github.com/Sloan-YXT/astrbot_plugin_meme_manager_plus",
-    "tags": [
-      "novelai",
-      "emotion",
-      "graph generation"
-    ],
-    "social_link": "https://github.com/Sloan-YXT/",
-    "stars": 0,
-    "version": "v3.8.5",
-    "updated_at": "2026-03-22T18:08:33Z",
-    "logo": "https://raw.githubusercontent.com/Sloan-YXT/astrbot_plugin_meme_manager_plus/master/logo.png"
-  },
   "astrbot_plugin_apexrankwatch": {
     "name": "astrbot_plugin_apexrankwatch",
     "display_name": "未审核：Apex Rank Watch",
@@ -216,7 +245,7 @@
     "repo": "https://github.com/Ewingsal/astrbot_plugin_group_digest",
     "tags": [],
     "social_link": "https://github.com/Ewingsal",
-    "stars": 1,
+    "stars": 3,
     "version": "0.6.0",
     "updated_at": "2026-03-22T13:03:19Z"
   },
