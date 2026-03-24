@@ -1,4 +1,35 @@
 {
+  "astrbot_plugin_llm_enhancement": {
+    "name": "astrbot_plugin_llm_enhancement",
+    "display_name": "未审核：LLM 综合增强",
+    "desc": "增强 LLM 表现，集成智能唤醒、消息合并、多媒体解析、环境注入、黑名单拦截与 QQ 工具调用能力。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_llm_enhancement",
+    "tags": [
+      "智能唤醒",
+      "消息合并",
+      "媒体注入",
+      "撤回检测",
+      "黑名单"
+    ],
+    "social_link": "https://github.com/Foolllll-J",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-24T09:46:33Z",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
+  },
+  "astrbot_plugin_london_gold_alert": {
+    "name": "astrbot_plugin_london_gold_alert",
+    "display_name": "未审核：iTick伦敦金价监控",
+    "desc": "伦敦金实时价格监控与到价提醒插件。基于iTick专业金融API，支持REST和WebSocket模式获取实时金价，设置价格提醒后自动通知。",
+    "author": "Crystar-1",
+    "repo": "https://github.com/Crystar-1/astrbot_plugin_london_gold_alert",
+    "tags": [],
+    "social_link": "https://github.com/Crystar-1",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-24T09:24:52Z"
+  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -169,25 +200,6 @@
     "version": "v1.0.8",
     "updated_at": "2026-03-23T20:13:55Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
-  },
-  "astrbot_plugin_llm_enhancement": {
-    "name": "astrbot_plugin_llm_enhancement",
-    "display_name": "未审核：LLM 综合增强",
-    "desc": "增强 LLM 表现，集成智能唤醒、消息合并、多媒体解析、环境注入、黑名单拦截与 QQ 工具调用能力。",
-    "author": "Foolllll",
-    "repo": "https://github.com/Foolllll-J/astrbot_plugin_llm_enhancement",
-    "tags": [
-      "智能唤醒",
-      "消息合并",
-      "媒体注入",
-      "撤回检测",
-      "黑名单"
-    ],
-    "social_link": "https://github.com/Foolllll-J",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-23T19:42:57Z",
-    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
   },
   "astrbot_plugin_cs_match": {
     "name": "astrbot_plugin_cs_match",
