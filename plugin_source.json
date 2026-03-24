@@ -1,4 +1,67 @@
 {
+  "astrbot_plugin_group_digest": {
+    "name": "astrbot_plugin_group_digest",
+    "display_name": "未审核：群聊兴趣日报与主动互动插件",
+    "desc": "基于 AstrBot 实现群聊消息总结、群热门话题分析、成员兴趣摘要与日报生成、通过LLM 建议astrbot定时主动发言。",
+    "author": "Ewingsal",
+    "repo": "https://github.com/Ewingsal/astrbot_plugin_group_digest",
+    "tags": [],
+    "social_link": "https://github.com/Ewingsal",
+    "stars": 3,
+    "version": "0.6.0",
+    "updated_at": "2026-03-24T04:46:12Z"
+  },
+  "astrbot_plugin_deerpipe": {
+    "name": "astrbot_plugin_deerpipe",
+    "display_name": "未审核：鹿乃子月历",
+    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
+    "tags": [
+      "鹿乃子",
+      "鹿",
+      "🦌",
+      "🦌乃子",
+      "月历",
+      "打卡",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 2,
+    "version": "v1.0.4",
+    "updated_at": "2026-03-24T04:45:49Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
+  },
+  "astrbot_plugin_nastool_downloader": {
+    "name": "astrbot_plugin_nastool_downloader",
+    "display_name": "未审核：NasTool Downloader",
+    "desc": "可以通过对话控制nastool下载电影",
+    "author": "Hikaru",
+    "repo": "https://github.com/freedomstar/astrbot_plugin_nastool_downloader",
+    "tags": [
+      "电影",
+      "nas-tools"
+    ],
+    "social_link": "https://github.com/freedomstar",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-03-24T03:25:53Z"
+  },
+  "astrbot_plugin_chatimitate": {
+    "name": "astrbot_plugin_chatimitate",
+    "display_name": "未审核：ChatImitate",
+    "desc": "这是一个 Astrbot 插件，旨在让 bot 从群聊记录中学习和模仿人类聊天，而不是使用AI生成内容",
+    "author": "EightEggs",
+    "repo": "https://github.com/EightEggs/astrbot_plugin_chatimitate",
+    "tags": [
+      "群聊学习"
+    ],
+    "social_link": "https://github.com/EightEggs",
+    "stars": 1,
+    "version": "v3.1.3",
+    "updated_at": "2026-03-24T02:38:45Z",
+    "logo": "https://raw.githubusercontent.com/EightEggs/astrbot_plugin_chatimitate/master/logo.png"
+  },
   "astrbot_plugin_ipcam": {
     "name": "astrbot_plugin_ipcam",
     "display_name": "未审核：IPCam捕获",
@@ -375,18 +438,6 @@
     "version": "2.7.9",
     "updated_at": "2026-03-22T13:52:14Z",
     "logo": "https://raw.githubusercontent.com/czxieddan/astrbot_plugin_steam_efficient_interactor/main/logo.png"
-  },
-  "astrbot_plugin_group_digest": {
-    "name": "astrbot_plugin_group_digest",
-    "display_name": "未审核：群聊兴趣日报与主动互动插件",
-    "desc": "基于 AstrBot 实现群聊消息总结、群热门话题分析、成员兴趣摘要与日报生成、通过LLM 建议astrbot定时主动发言。",
-    "author": "Ewingsal",
-    "repo": "https://github.com/Ewingsal/astrbot_plugin_group_digest",
-    "tags": [],
-    "social_link": "https://github.com/Ewingsal",
-    "stars": 3,
-    "version": "0.6.0",
-    "updated_at": "2026-03-22T13:03:19Z"
   },
   "astrbot_plugin_steam_friend_monitor": {
     "name": "astrbot_plugin_steam_friend_monitor",
@@ -969,21 +1020,6 @@
     "version": "1.0.0",
     "updated_at": "2026-03-18T03:47:56Z"
   },
-  "astrbot_plugin_chatimitate": {
-    "name": "astrbot_plugin_chatimitate",
-    "display_name": "未审核：ChatImitate",
-    "desc": "这是一个 Astrbot 插件，旨在让 bot 从群聊记录中学习和模仿人类聊天，而不是使用AI生成内容",
-    "author": "EightEggs",
-    "repo": "https://github.com/EightEggs/astrbot_plugin_chatimitate",
-    "tags": [
-      "群聊学习"
-    ],
-    "social_link": "https://github.com/EightEggs",
-    "stars": 1,
-    "version": "v3.1.3",
-    "updated_at": "2026-03-18T03:41:37Z",
-    "logo": "https://raw.githubusercontent.com/EightEggs/astrbot_plugin_chatimitate/master/logo.png"
-  },
   "astrbot_plugin_subquery": {
     "name": "astrbot_plugin_subquery",
     "display_name": "未审核：订阅查询",
@@ -1004,7 +1040,7 @@
     "author": "Fishskys",
     "repo": "https://github.com/Fishskys/astrbot_plugin_custom_api",
     "tags": [
-      "API"
+      "api"
     ],
     "social_link": "https://github.com/Fishskys",
     "stars": 0,
@@ -1772,21 +1808,6 @@
     "stars": 0,
     "version": "1.7.0",
     "updated_at": "2026-03-11T21:57:08Z"
-  },
-  "astrbot_plugin_nastool_downloader": {
-    "name": "astrbot_plugin_nastool_downloader",
-    "display_name": "未审核：NasTool Downloader",
-    "desc": "可以通过对话控制nastool下载电影",
-    "author": "Hikaru",
-    "repo": "https://github.com/freedomstar/astrbot_plugin_nastool_downloader",
-    "tags": [
-      "电影",
-      "nas-tools"
-    ],
-    "social_link": "https://github.com/freedomstar",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-11T15:13:34Z"
   },
   "astrbot_plugin_moshen_query": {
     "name": "astrbot_plugin_moshen_query",
