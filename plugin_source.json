@@ -1,4 +1,40 @@
 {
+  "astrbot_plugin_setu": {
+    "name": "astrbot_plugin_setu",
+    "display_name": "未审核：瑟瑟！",
+    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
+    "tags": [
+      "瑟瑟",
+      "色图",
+      "setu",
+      "福利",
+      "色色",
+      "lolicon",
+      "sexyan",
+      "atri",
+      "图片",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 2,
+    "version": "v1.0.8",
+    "updated_at": "2026-03-24T11:47:41Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
+  },
+  "astrbot_plugin_london_gold_alert": {
+    "name": "astrbot_plugin_london_gold_alert",
+    "display_name": "未审核：iTick伦敦金价监控",
+    "desc": "伦敦金实时价格监控与到价提醒插件。基于iTick专业金融API，支持REST和WebSocket模式获取实时金价，设置价格提醒后自动通知。",
+    "author": "Crystar-1",
+    "repo": "https://github.com/Crystar-1/astrbot_plugin_london_gold_alert",
+    "tags": [],
+    "social_link": "https://github.com/Crystar-1",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-24T11:29:59Z"
+  },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
     "display_name": "未审核：伪装聊天记录",
@@ -13,9 +49,47 @@
     ],
     "social_link": "https://github.com/Towqs",
     "stars": 1,
-    "version": "v0.2.2",
-    "updated_at": "2026-03-24T10:40:42Z",
+    "version": "v0.2.8",
+    "updated_at": "2026-03-24T11:29:45Z",
     "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
+  },
+  "astrbot_plugin_x_score": {
+    "name": "astrbot_plugin_x_score",
+    "display_name": "未审核：X账号评分",
+    "desc": "查询 X/Twitter 账号可信度评分，基于 AI 分析账号真实度、风险标签与评价",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_x_score",
+    "tags": [
+      "X",
+      "Twitter",
+      "评分",
+      "推特"
+    ],
+    "social_link": "https://github.com/xiaoruange39",
+    "stars": 2,
+    "version": "1.0.0",
+    "updated_at": "2026-03-24T11:29:18Z"
+  },
+  "astrbot_plugin_deerpipe": {
+    "name": "astrbot_plugin_deerpipe",
+    "display_name": "未审核：鹿乃子月历",
+    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
+    "tags": [
+      "鹿乃子",
+      "鹿",
+      "🦌",
+      "🦌乃子",
+      "月历",
+      "打卡",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 2,
+    "version": "v1.0.4",
+    "updated_at": "2026-03-24T11:15:08Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
   },
   "astrbot_plugin_llm_enhancement": {
     "name": "astrbot_plugin_llm_enhancement",
@@ -35,18 +109,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-24T09:46:33Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
-  },
-  "astrbot_plugin_london_gold_alert": {
-    "name": "astrbot_plugin_london_gold_alert",
-    "display_name": "未审核：iTick伦敦金价监控",
-    "desc": "伦敦金实时价格监控与到价提醒插件。基于iTick专业金融API，支持REST和WebSocket模式获取实时金价，设置价格提醒后自动通知。",
-    "author": "Crystar-1",
-    "repo": "https://github.com/Crystar-1/astrbot_plugin_london_gold_alert",
-    "tags": [],
-    "social_link": "https://github.com/Crystar-1",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-24T09:24:52Z"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
@@ -86,26 +148,20 @@
     "version": "1.1.1",
     "updated_at": "2026-03-24T08:11:23Z"
   },
-  "astrbot_plugin_deerpipe": {
-    "name": "astrbot_plugin_deerpipe",
-    "display_name": "未审核：鹿乃子月历",
-    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
+  "astrbot_plugin_custom_api": {
+    "name": "astrbot_plugin_custom_api",
+    "display_name": "未审核：自定义API管理",
+    "desc": "支持多样化的外部API调用，可处理文本、图片、语音和视频类型API，支持自定义参数配置，关键词触发调用",
+    "author": "Fishskys",
+    "repo": "https://github.com/Fishskys/astrbot_plugin_custom_api",
     "tags": [
-      "鹿乃子",
-      "鹿",
-      "🦌",
-      "🦌乃子",
-      "月历",
-      "打卡",
-      "娱乐"
+      "api"
     ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 2,
-    "version": "v1.0.4",
-    "updated_at": "2026-03-24T05:45:16Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
+    "social_link": "https://github.com/Fishskys",
+    "stars": 0,
+    "version": "0.1.3",
+    "updated_at": "2026-03-24T07:35:41Z",
+    "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
   },
   "astrbot_plugin_meme_manager_plus": {
     "name": "astrbot_plugin_meme_manager_plus",
@@ -194,30 +250,6 @@
     "stars": 0,
     "version": "v1.0.1",
     "updated_at": "2026-03-23T22:40:13Z"
-  },
-  "astrbot_plugin_setu": {
-    "name": "astrbot_plugin_setu",
-    "display_name": "未审核：瑟瑟！",
-    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
-    "tags": [
-      "瑟瑟",
-      "色图",
-      "setu",
-      "福利",
-      "色色",
-      "lolicon",
-      "sexyan",
-      "atri",
-      "图片",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 2,
-    "version": "v1.0.8",
-    "updated_at": "2026-03-23T20:13:55Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
   },
   "astrbot_plugin_cs_match": {
     "name": "astrbot_plugin_cs_match",
