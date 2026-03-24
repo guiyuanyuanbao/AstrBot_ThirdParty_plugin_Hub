@@ -1,4 +1,82 @@
 {
+  "astrbot_plugin_setu": {
+    "name": "astrbot_plugin_setu",
+    "display_name": "未审核：瑟瑟！",
+    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
+    "tags": [
+      "瑟瑟",
+      "色图",
+      "setu",
+      "福利",
+      "色色",
+      "lolicon",
+      "sexyan",
+      "atri",
+      "图片",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 2,
+    "version": "v1.1.0",
+    "updated_at": "2026-03-24T15:59:58Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
+  },
+  "astrbot_plugin_cirno": {
+    "name": "astrbot_plugin_cirno",
+    "display_name": "未审核：琪露诺——baka!",
+    "desc": "把你的bot变成一只有记忆、有心情的baka! 她会记住每个人，越聊越了解你",
+    "author": "Reisenbug",
+    "repo": "https://github.com/Reisenbug/AstrBot_Plugin_Cirno",
+    "tags": [
+      "角色扮演",
+      "人格",
+      "东方project"
+    ],
+    "social_link": "https://github.com/Reisenbug",
+    "stars": 1,
+    "version": "v2.0.0",
+    "updated_at": "2026-03-24T15:58:35Z"
+  },
+  "astrbot_plugin_self_open_llm_vtuber": {
+    "name": "astrbot_plugin_self_open_llm_vtuber",
+    "display_name": "未审核：Alice的桌面分身",
+    "desc": "让你的bot在桌面或者web可以看到你、看到你在干什么、开口说话并实时做表情动作，支持语音输入、语音打断与互动联动。",
+    "author": "YakumoAki",
+    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
+    "tags": [
+      "live2d",
+      "皮套",
+      "open llm vtuber"
+    ],
+    "social_link": "https://space.bilibili.com/41761329",
+    "stars": 0,
+    "version": "0.9.8",
+    "updated_at": "2026-03-24T15:25:52Z",
+    "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
+  },
+  "astrbot_plugin_deerpipe": {
+    "name": "astrbot_plugin_deerpipe",
+    "display_name": "未审核：鹿乃子月历",
+    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
+    "tags": [
+      "鹿乃子",
+      "鹿",
+      "🦌",
+      "🦌乃子",
+      "月历",
+      "打卡",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 2,
+    "version": "v1.0.4",
+    "updated_at": "2026-03-24T15:16:12Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
+  },
   "astrbot_plugin_quiz": {
     "name": "astrbot_plugin_quiz",
     "display_name": "未审核：Quiz",
@@ -12,7 +90,7 @@
     "social_link": "https://github.com/cyh-x",
     "stars": 0,
     "version": "1.0.0",
-    "updated_at": "2026-03-24T14:52:04Z",
+    "updated_at": "2026-03-24T14:59:45Z",
     "logo": "https://raw.githubusercontent.com/cyh-x/astrbot_plugin_quiz/main/logo.png"
   },
   "astrbot_plugin_x_score": {
@@ -101,51 +179,6 @@
     "version": "v0.2.9",
     "updated_at": "2026-03-24T12:08:55Z",
     "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
-  },
-  "astrbot_plugin_setu": {
-    "name": "astrbot_plugin_setu",
-    "display_name": "未审核：瑟瑟！",
-    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
-    "tags": [
-      "瑟瑟",
-      "色图",
-      "setu",
-      "福利",
-      "色色",
-      "lolicon",
-      "sexyan",
-      "atri",
-      "图片",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 2,
-    "version": "v1.0.8",
-    "updated_at": "2026-03-24T11:47:41Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
-  },
-  "astrbot_plugin_deerpipe": {
-    "name": "astrbot_plugin_deerpipe",
-    "display_name": "未审核：鹿乃子月历",
-    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
-    "tags": [
-      "鹿乃子",
-      "鹿",
-      "🦌",
-      "🦌乃子",
-      "月历",
-      "打卡",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 2,
-    "version": "v1.0.4",
-    "updated_at": "2026-03-24T11:15:08Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
@@ -385,22 +418,6 @@
     "stars": 1,
     "version": "1.0.0",
     "updated_at": "2026-03-23T14:41:00Z"
-  },
-  "astrbot_plugin_cirno": {
-    "name": "astrbot_plugin_cirno",
-    "display_name": "未审核：琪露诺——baka!",
-    "desc": "把你的bot变成一只有记忆、有心情的baka! 她会记住每个人，越聊越了解你",
-    "author": "Reisenbug",
-    "repo": "https://github.com/Reisenbug/AstrBot_Plugin_Cirno",
-    "tags": [
-      "角色扮演",
-      "人格",
-      "东方project"
-    ],
-    "social_link": "https://github.com/Reisenbug",
-    "stars": 1,
-    "version": "v2.0.0",
-    "updated_at": "2026-03-23T14:35:15Z"
   },
   "astrbot_plugin_morning_news": {
     "name": "astrbot_plugin_morning_news",
