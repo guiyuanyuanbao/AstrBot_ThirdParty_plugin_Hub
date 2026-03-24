@@ -1,4 +1,74 @@
 {
+  "astrbot_plugin_x_score": {
+    "name": "astrbot_plugin_x_score",
+    "display_name": "未审核：X账号评分",
+    "desc": "查询 X/Twitter 账号可信度评分，基于 AI 分析账号真实度、风险标签与评价",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_x_score",
+    "tags": [
+      "X",
+      "Twitter",
+      "评分",
+      "推特"
+    ],
+    "social_link": "https://github.com/xiaoruange39",
+    "stars": 2,
+    "version": "1.0.0",
+    "updated_at": "2026-03-24T13:06:54Z"
+  },
+  "astrbot_plugin_llm_enhancement": {
+    "name": "astrbot_plugin_llm_enhancement",
+    "display_name": "未审核：LLM 综合增强",
+    "desc": "增强 LLM 表现，集成智能唤醒、消息合并、多媒体解析、环境注入、黑名单拦截与 QQ 工具调用能力。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_llm_enhancement",
+    "tags": [
+      "智能唤醒",
+      "消息合并",
+      "媒体注入",
+      "撤回检测",
+      "黑名单"
+    ],
+    "social_link": "https://github.com/Foolllll-J",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-24T12:26:45Z",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
+  },
+  "astrbot_plugin_steam_efficient_interactor": {
+    "name": "astrbot_plugin_steam_efficient_interactor",
+    "display_name": "未审核：Steam高效互动者",
+    "desc": "通过llm互动控制bot监控Steam指定玩家的状态变更与通知推送或查看信息。",
+    "author": "Yezi & CzXieDdan",
+    "repo": "https://github.com/czxieddan/astrbot_plugin_steam_efficient_interactor",
+    "tags": [
+      "steam",
+      "llm"
+    ],
+    "social_link": "https://github.com/czxieddan",
+    "stars": 1,
+    "version": "2.8.0",
+    "updated_at": "2026-03-24T12:21:12Z",
+    "logo": "https://raw.githubusercontent.com/czxieddan/astrbot_plugin_steam_efficient_interactor/main/logo.png"
+  },
+  "astrbot_plugin_sadstory": {
+    "name": "astrbot_plugin_sadstory",
+    "display_name": "未审核：伪装聊天记录",
+    "desc": "在群聊中以合并转发消息的形式展示伤感故事，支持 LLM 生成、故事模板参考、自定义角色、群白名单等",
+    "author": "Towqs",
+    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
+    "tags": [
+      "QQ",
+      "聊天",
+      "故事",
+      "转发消息"
+    ],
+    "social_link": "https://github.com/Towqs",
+    "stars": 1,
+    "version": "v0.2.9",
+    "updated_at": "2026-03-24T12:08:55Z",
+    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
+  },
   "astrbot_plugin_setu": {
     "name": "astrbot_plugin_setu",
     "display_name": "未审核：瑟瑟！",
@@ -23,53 +93,6 @@
     "updated_at": "2026-03-24T11:47:41Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
   },
-  "astrbot_plugin_london_gold_alert": {
-    "name": "astrbot_plugin_london_gold_alert",
-    "display_name": "未审核：iTick伦敦金价监控",
-    "desc": "伦敦金实时价格监控与到价提醒插件。基于iTick专业金融API，支持REST和WebSocket模式获取实时金价，设置价格提醒后自动通知。",
-    "author": "Crystar-1",
-    "repo": "https://github.com/Crystar-1/astrbot_plugin_london_gold_alert",
-    "tags": [],
-    "social_link": "https://github.com/Crystar-1",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-24T11:29:59Z"
-  },
-  "astrbot_plugin_sadstory": {
-    "name": "astrbot_plugin_sadstory",
-    "display_name": "未审核：伪装聊天记录",
-    "desc": "在群聊中以合并转发消息的形式展示伤感故事，支持 LLM 生成、故事模板参考、自定义角色、群白名单等",
-    "author": "Towqs",
-    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
-    "tags": [
-      "QQ",
-      "聊天",
-      "故事",
-      "转发消息"
-    ],
-    "social_link": "https://github.com/Towqs",
-    "stars": 1,
-    "version": "v0.2.8",
-    "updated_at": "2026-03-24T11:29:45Z",
-    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
-  },
-  "astrbot_plugin_x_score": {
-    "name": "astrbot_plugin_x_score",
-    "display_name": "未审核：X账号评分",
-    "desc": "查询 X/Twitter 账号可信度评分，基于 AI 分析账号真实度、风险标签与评价",
-    "author": "xiaoruange39",
-    "repo": "https://github.com/xiaoruange39/astrbot_plugin_x_score",
-    "tags": [
-      "X",
-      "Twitter",
-      "评分",
-      "推特"
-    ],
-    "social_link": "https://github.com/xiaoruange39",
-    "stars": 2,
-    "version": "1.0.0",
-    "updated_at": "2026-03-24T11:29:18Z"
-  },
   "astrbot_plugin_deerpipe": {
     "name": "astrbot_plugin_deerpipe",
     "display_name": "未审核：鹿乃子月历",
@@ -90,25 +113,6 @@
     "version": "v1.0.4",
     "updated_at": "2026-03-24T11:15:08Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
-  },
-  "astrbot_plugin_llm_enhancement": {
-    "name": "astrbot_plugin_llm_enhancement",
-    "display_name": "未审核：LLM 综合增强",
-    "desc": "增强 LLM 表现，集成智能唤醒、消息合并、多媒体解析、环境注入、黑名单拦截与 QQ 工具调用能力。",
-    "author": "Foolllll",
-    "repo": "https://github.com/Foolllll-J/astrbot_plugin_llm_enhancement",
-    "tags": [
-      "智能唤醒",
-      "消息合并",
-      "媒体注入",
-      "撤回检测",
-      "黑名单"
-    ],
-    "social_link": "https://github.com/Foolllll-J",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-24T09:46:33Z",
-    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
@@ -516,22 +520,6 @@
     "version": "1.2.2",
     "updated_at": "2026-03-22T18:05:53Z",
     "logo": "https://raw.githubusercontent.com/moeneri/astrbot_plugin_apexrankwatch/main/logo.png"
-  },
-  "astrbot_plugin_steam_efficient_interactor": {
-    "name": "astrbot_plugin_steam_efficient_interactor",
-    "display_name": "未审核：Steam高效互动者",
-    "desc": "通过llm互动控制bot监控Steam指定玩家的状态变更与通知推送或查看信息。",
-    "author": "Yezi & CzXieDdan",
-    "repo": "https://github.com/czxieddan/astrbot_plugin_steam_efficient_interactor",
-    "tags": [
-      "steam",
-      "llm"
-    ],
-    "social_link": "https://github.com/czxieddan",
-    "stars": 1,
-    "version": "2.7.9",
-    "updated_at": "2026-03-22T13:52:14Z",
-    "logo": "https://raw.githubusercontent.com/czxieddan/astrbot_plugin_steam_efficient_interactor/main/logo.png"
   },
   "astrbot_plugin_steam_friend_monitor": {
     "name": "astrbot_plugin_steam_friend_monitor",
@@ -1241,19 +1229,6 @@
     "stars": 0,
     "version": "v0.1.4",
     "updated_at": "2026-03-16T13:52:26Z"
-  },
-  "astrbot_plugin_kirin": {
-    "name": "astrbot_plugin_kirin",
-    "display_name": "未审核：麒麟之王",
-    "desc": "麒麟之王",
-    "author": "kirin",
-    "repo": "https://github.com/qilin123456789/astrbot_plugin_kirin",
-    "tags": [],
-    "social_link": "https://github.com/qilin123456789",
-    "stars": 1,
-    "version": "v1.0.5",
-    "updated_at": "2026-03-16T09:47:15Z",
-    "logo": "https://raw.githubusercontent.com/qilin123456789/astrbot_plugin_kirin/main/logo.png"
   },
   "astrbot_plugin_guard": {
     "name": "astrbot_plugin_guard",
