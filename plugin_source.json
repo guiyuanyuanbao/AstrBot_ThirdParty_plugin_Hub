@@ -1,16 +1,4 @@
 {
-  "astrbot_plugin_group_digest": {
-    "name": "astrbot_plugin_group_digest",
-    "display_name": "未审核：群聊兴趣日报与主动互动插件",
-    "desc": "基于 AstrBot 实现群聊消息总结、群热门话题分析、成员兴趣摘要与日报生成、通过LLM 建议astrbot定时主动发言。",
-    "author": "Ewingsal",
-    "repo": "https://github.com/Ewingsal/astrbot_plugin_group_digest",
-    "tags": [],
-    "social_link": "https://github.com/Ewingsal",
-    "stars": 3,
-    "version": "0.6.0",
-    "updated_at": "2026-03-24T04:46:12Z"
-  },
   "astrbot_plugin_deerpipe": {
     "name": "astrbot_plugin_deerpipe",
     "display_name": "未审核：鹿乃子月历",
@@ -29,8 +17,37 @@
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 2,
     "version": "v1.0.4",
-    "updated_at": "2026-03-24T04:45:49Z",
+    "updated_at": "2026-03-24T05:45:16Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
+  },
+  "astrbot_plugin_meme_manager_plus": {
+    "name": "astrbot_plugin_meme_manager_plus",
+    "display_name": "未审核：AI心情表情管理器",
+    "desc": "大模型分析对话情景，并基于预设的novelai形象tag，生成无消耗、效果较好的沉浸式图片对话体验。推荐安装日常穿搭插件，体验极好，不会玩novelai也支持心情表情模式。",
+    "author": "LOVEROXY",
+    "repo": "https://github.com/Sloan-YXT/astrbot_plugin_meme_manager_plus",
+    "tags": [
+      "novelai",
+      "emotion",
+      "graph generation"
+    ],
+    "social_link": "https://github.com/Sloan-YXT/",
+    "stars": 0,
+    "version": "v3.8.5",
+    "updated_at": "2026-03-24T04:55:56Z",
+    "logo": "https://raw.githubusercontent.com/Sloan-YXT/astrbot_plugin_meme_manager_plus/master/logo.png"
+  },
+  "astrbot_plugin_group_digest": {
+    "name": "astrbot_plugin_group_digest",
+    "display_name": "未审核：群聊兴趣日报与主动互动插件",
+    "desc": "基于 AstrBot 实现群聊消息总结、群热门话题分析、成员兴趣摘要与日报生成、通过LLM 建议astrbot定时主动发言。",
+    "author": "Ewingsal",
+    "repo": "https://github.com/Ewingsal/astrbot_plugin_group_digest",
+    "tags": [],
+    "social_link": "https://github.com/Ewingsal",
+    "stars": 3,
+    "version": "0.6.0",
+    "updated_at": "2026-03-24T04:46:12Z"
   },
   "astrbot_plugin_nastool_downloader": {
     "name": "astrbot_plugin_nastool_downloader",
@@ -313,23 +330,6 @@
     "stars": 0,
     "version": "3.9.15",
     "updated_at": "2026-03-23T11:07:30Z"
-  },
-  "astrbot_plugin_meme_manager_plus": {
-    "name": "astrbot_plugin_meme_manager_plus",
-    "display_name": "未审核：AI心情表情管理器",
-    "desc": "大模型分析对话情景，并基于预设的novelai形象tag，生成无消耗、效果较好的沉浸式图片对话体验。推荐安装日常穿搭插件，体验极好，不会玩novelai也支持心情表情模式。",
-    "author": "LOVEROXY",
-    "repo": "https://github.com/Sloan-YXT/astrbot_plugin_meme_manager_plus",
-    "tags": [
-      "novelai",
-      "emotion",
-      "graph generation"
-    ],
-    "social_link": "https://github.com/Sloan-YXT/",
-    "stars": 0,
-    "version": "v3.8.5",
-    "updated_at": "2026-03-23T10:47:28Z",
-    "logo": "https://raw.githubusercontent.com/Sloan-YXT/astrbot_plugin_meme_manager_plus/master/logo.png"
   },
   "astrbot_plugin_streamchunk": {
     "name": "astrbot_plugin_streamchunk",
