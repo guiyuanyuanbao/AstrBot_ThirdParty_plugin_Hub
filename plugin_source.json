@@ -1,4 +1,42 @@
 {
+  "astrbot_plugin_local_reminiscence": {
+    "name": "astrbot_plugin_local_reminiscence",
+    "display_name": "未审核：本地回忆[APLR]",
+    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
+    "author": "olozhika",
+    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
+    "tags": [
+      "记忆",
+      "回忆",
+      "每日总结",
+      "语义识别",
+      "关键词",
+      "上下文注入",
+      "长期记忆"
+    ],
+    "social_link": "https://github.com/olozhika",
+    "stars": 17,
+    "version": "v1.2.0",
+    "updated_at": "2026-03-24T08:41:28Z",
+    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
+  },
+  "astrbot_plugin_group_context_bridge": {
+    "name": "astrbot_plugin_group_context_bridge",
+    "display_name": "未审核：群聊上下文桥接",
+    "desc": "低侵入的 AstrBot 群聊上下文桥接插件，支持将一个或多个来源群的最近消息以只读上下文方式注入目标群对话，不修改数据库、不改变真实会话归属，适合跨群信息参考、封禁群摘要延续和多群上下文融合场景。",
+    "author": "accbd472",
+    "repo": "https://github.com/accbd472/astrbot_plugin_group_context_bridge",
+    "tags": [
+      "上下文",
+      "群聊",
+      "桥接",
+      "多群"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "1.1.1",
+    "updated_at": "2026-03-24T08:11:23Z"
+  },
   "astrbot_plugin_deerpipe": {
     "name": "astrbot_plugin_deerpipe",
     "display_name": "未审核：鹿乃子月历",
@@ -232,27 +270,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-23T16:08:14Z"
   },
-  "astrbot_plugin_local_reminiscence": {
-    "name": "astrbot_plugin_local_reminiscence",
-    "display_name": "未审核：本地回忆[APLR]",
-    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
-    "author": "olozhika",
-    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
-    "tags": [
-      "记忆",
-      "回忆",
-      "每日总结",
-      "语义识别",
-      "关键词",
-      "上下文注入",
-      "长期记忆"
-    ],
-    "social_link": "https://github.com/olozhika",
-    "stars": 17,
-    "version": "v1.2.0",
-    "updated_at": "2026-03-23T15:47:58Z",
-    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
-  },
   "astrbot_plugin_arxiv": {
     "name": "astrbot_plugin_arxiv",
     "display_name": "未审核：arxiv论文检索",
@@ -358,6 +375,21 @@
     "stars": 0,
     "version": "1.0.0",
     "updated_at": "2026-03-23T09:11:02Z"
+  },
+  "astrbot_plugin_payment_qr": {
+    "name": "astrbot_plugin_payment_qr",
+    "display_name": "未审核：我很可爱，请给我钱，让bot展示收款码",
+    "desc": "想要通过可爱的bot回本吗？添加收款码，让可爱的bot获得群友的打赏吧！可以添加关键词，模糊触发",
+    "author": "rastagan",
+    "repo": "https://github.com/rastagan-git/astrbot_plugin_payment_qr",
+    "tags": [
+      "功能",
+      "聊天"
+    ],
+    "social_link": "https://github.com/rastagan-git",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-23T08:54:40Z"
   },
   "astrbot_plugin_qzone_tools": {
     "name": "astrbot_plugin_qzone_tools",
@@ -550,23 +582,6 @@
     "stars": 0,
     "version": "v1.2.0",
     "updated_at": "2026-03-13T08:40:35Z"
-  },
-  "astrbot_plugin_group_context_bridge": {
-    "name": "astrbot_plugin_group_context_bridge",
-    "display_name": "未审核：群聊上下文桥接",
-    "desc": "低侵入的 AstrBot 群聊上下文桥接插件，支持将一个或多个来源群的最近消息以只读上下文方式注入目标群对话，不修改数据库、不改变真实会话归属，适合跨群信息参考、封禁群摘要延续和多群上下文融合场景。",
-    "author": "accbd472",
-    "repo": "https://github.com/accbd472/astrbot_plugin_group_context_bridge",
-    "tags": [
-      "上下文",
-      "群聊",
-      "桥接",
-      "多群"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "1.1.1",
-    "updated_at": "2026-03-21T20:38:44Z"
   },
   "astrbot_plugin_msg_formatter": {
     "name": "astrbot_plugin_msg_formatter",
@@ -1032,21 +1047,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-18T03:25:54Z",
     "logo": "https://raw.githubusercontent.com/SanaeMio/astrbot_plugin_subquery/master/logo.png"
-  },
-  "astrbot_plugin_custom_api": {
-    "name": "astrbot_plugin_custom_api",
-    "display_name": "未审核：自定义API管理",
-    "desc": "支持多样化的外部API调用，可处理文本、图片、语音和视频类型API，支持自定义参数配置，关键词触发调用",
-    "author": "Fishskys",
-    "repo": "https://github.com/Fishskys/astrbot_plugin_custom_api",
-    "tags": [
-      "api"
-    ],
-    "social_link": "https://github.com/Fishskys",
-    "stars": 0,
-    "version": "0.1.1",
-    "updated_at": "2026-03-17T16:08:27Z",
-    "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
   },
   "astrbot_plugin_-cloud": {
     "name": "astrbot_plugin_-cloud",
