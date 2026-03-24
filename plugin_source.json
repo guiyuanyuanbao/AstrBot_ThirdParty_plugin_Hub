@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_ipcam": {
+    "name": "astrbot_plugin_ipcam",
+    "display_name": "未审核：IPCam捕获",
+    "desc": "基于AstrBot方式实现对rtsp视频流的图像截取和视频捕获。",
+    "author": "WhEN",
+    "repo": "https://github.com/rorangeeee/astrbot_plugin_ipcam",
+    "tags": [
+      "工具"
+    ],
+    "social_link": "https://github.com/rorangeeee",
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-03-24T01:32:44Z"
+  },
   "astrbot_plugin_bye": {
     "name": "astrbot_plugin_bye",
     "display_name": "未审核：主动退群",
@@ -94,6 +108,23 @@
     "stars": 0,
     "version": "1.3.0",
     "updated_at": "2026-03-23T16:42:58Z"
+  },
+  "astrbot_plugin_central_intelligence": {
+    "name": "astrbot_plugin_central_intelligence",
+    "display_name": "未审核：Central Intelligence 记忆服务",
+    "desc": "AI智能体持久化记忆服务。跨会话存储、语义召回、共享知识。Persistent memory for AI agents — store, recall, and share knowledge across sessions.",
+    "author": "AlekseiMarchenko",
+    "repo": "https://github.com/AlekseiMarchenko/astrbot_plugin_central_intelligence",
+    "tags": [
+      "记忆",
+      "memory",
+      "知识管理",
+      "AI Agent"
+    ],
+    "social_link": "https://github.com/AlekseiMarchenko",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-23T16:11:48Z"
   },
   "astrbot_plugin_qq_keyword_alert": {
     "name": "astrbot_plugin_qq_keyword_alert",
@@ -192,20 +223,6 @@
     "updated_at": "2026-03-23T14:11:07Z",
     "logo": "https://raw.githubusercontent.com/guiyuanyuanbao/astrbot_plugin_DG-LAB/main/logo.png"
   },
-  "astrbot_plugin_ipcam": {
-    "name": "astrbot_plugin_ipcam",
-    "display_name": "未审核：IPCam捕获",
-    "desc": "基于AstrBot方式实现对rtsp视频流的图像截取和视频捕获。",
-    "author": "WhEN",
-    "repo": "https://github.com/rorangeeee/astrbot_plugin_ipcam",
-    "tags": [
-      "工具"
-    ],
-    "social_link": "https://github.com/rorangeeee",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-23T13:26:48Z"
-  },
   "astrbot_plugin_morning_news": {
     "name": "astrbot_plugin_morning_news",
     "display_name": "未审核：每日早报",
@@ -293,20 +310,6 @@
     "version": "1.1.0",
     "updated_at": "2026-03-23T05:18:12Z",
     "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
-  },
-  "astrbot_plugin_daily_album": {
-    "name": "astrbot_plugin_daily_album",
-    "display_name": "未审核：每日专辑推荐",
-    "desc": "每日专辑推荐 - 定时向指定会话推送一张专辑推荐，支持 LLM、联网搜索、自定义脚本三种来源",
-    "author": "wanger",
-    "repo": "https://github.com/10knamesmore/astrbot_plugin_daily_album",
-    "tags": [
-      "音乐"
-    ],
-    "social_link": "https://github.com/10knamesmore",
-    "stars": 0,
-    "version": "v0.0.4",
-    "updated_at": "2026-03-23T03:30:31Z"
   },
   "astrbot_plugin_regex_blocker": {
     "name": "astrbot_plugin_regex_blocker",
