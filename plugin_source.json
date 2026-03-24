@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_sadstory": {
+    "name": "astrbot_plugin_sadstory",
+    "display_name": "未审核：伪装聊天记录",
+    "desc": "在群聊中以合并转发消息的形式展示伤感故事，支持 LLM 生成、故事模板参考、自定义角色、群白名单等",
+    "author": "Towqs",
+    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
+    "tags": [
+      "QQ",
+      "聊天",
+      "故事",
+      "转发消息"
+    ],
+    "social_link": "https://github.com/Towqs",
+    "stars": 1,
+    "version": "v0.2.2",
+    "updated_at": "2026-03-24T10:40:42Z",
+    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
+  },
   "astrbot_plugin_llm_enhancement": {
     "name": "astrbot_plugin_llm_enhancement",
     "display_name": "未审核：LLM 综合增强",
