@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_quiz": {
+    "name": "astrbot_plugin_quiz",
+    "display_name": "未审核：Quiz",
+    "desc": "一个基于FoxQuiz网站的知识问答插件",
+    "author": "cyh-x",
+    "repo": "https://github.com/cyh-x/astrbot_plugin_quiz",
+    "tags": [
+      "问答",
+      "题库"
+    ],
+    "social_link": "https://github.com/cyh-x",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-24T14:52:04Z",
+    "logo": "https://raw.githubusercontent.com/cyh-x/astrbot_plugin_quiz/main/logo.png"
+  },
   "astrbot_plugin_x_score": {
     "name": "astrbot_plugin_x_score",
     "display_name": "未审核：X账号评分",
@@ -14,7 +30,24 @@
     "social_link": "https://github.com/xiaoruange39",
     "stars": 2,
     "version": "1.0.0",
-    "updated_at": "2026-03-24T13:06:54Z"
+    "updated_at": "2026-03-24T14:17:54Z"
+  },
+  "astrbot_plugin_dg-lab": {
+    "name": "astrbot_plugin_dg-lab",
+    "display_name": "未审核：AstrBot郊狼控制器",
+    "desc": "让大模型控制你的郊狼吧 ,通过与 AstrBot 聊天控制 DG-LAB 郊狼脉冲主机。",
+    "author": "桂鸢",
+    "repo": "https://github.com/guiyuanyuanbao/astrbot_plugin_DG-LAB",
+    "tags": [
+      "玩具",
+      "郊狼",
+      "DG-LAB"
+    ],
+    "social_link": "https://github.com/guiyuanyuanbao",
+    "stars": 1,
+    "version": "v1.0.9",
+    "updated_at": "2026-03-24T13:35:55Z",
+    "logo": "https://raw.githubusercontent.com/guiyuanyuanbao/astrbot_plugin_DG-LAB/main/logo.png"
   },
   "astrbot_plugin_llm_enhancement": {
     "name": "astrbot_plugin_llm_enhancement",
@@ -368,23 +401,6 @@
     "stars": 1,
     "version": "v2.0.0",
     "updated_at": "2026-03-23T14:35:15Z"
-  },
-  "astrbot_plugin_dg-lab": {
-    "name": "astrbot_plugin_dg-lab",
-    "display_name": "未审核：AstrBot郊狼控制器",
-    "desc": "让大模型控制你的郊狼吧 ,通过与 AstrBot 聊天控制 DG-LAB 郊狼脉冲主机。",
-    "author": "桂鸢",
-    "repo": "https://github.com/guiyuanyuanbao/astrbot_plugin_DG-LAB",
-    "tags": [
-      "玩具",
-      "郊狼",
-      "DG-LAB"
-    ],
-    "social_link": "https://github.com/guiyuanyuanbao",
-    "stars": 1,
-    "version": "v1.0.9",
-    "updated_at": "2026-03-23T14:11:07Z",
-    "logo": "https://raw.githubusercontent.com/guiyuanyuanbao/astrbot_plugin_DG-LAB/main/logo.png"
   },
   "astrbot_plugin_morning_news": {
     "name": "astrbot_plugin_morning_news",
