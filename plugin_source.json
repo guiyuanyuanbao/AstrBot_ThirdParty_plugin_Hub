@@ -1,4 +1,72 @@
 {
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：模拟修仙v3",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.1.12",
+    "updated_at": "2026-03-25T13:03:11Z"
+  },
+  "astrbot_plugin_local_reminiscence": {
+    "name": "astrbot_plugin_local_reminiscence",
+    "display_name": "未审核：本地回忆[APLR]",
+    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
+    "author": "olozhika",
+    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
+    "tags": [
+      "记忆",
+      "回忆",
+      "每日总结",
+      "语义识别",
+      "关键词",
+      "上下文注入",
+      "长期记忆"
+    ],
+    "social_link": "https://github.com/olozhika",
+    "stars": 17,
+    "version": "v1.2.0",
+    "updated_at": "2026-03-25T12:36:44Z",
+    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
+  },
+  "astrbot_plugin_ipcam": {
+    "name": "astrbot_plugin_ipcam",
+    "display_name": "未审核：ipcam网络摄像头捕获",
+    "desc": "基于AstrBot方式实现对rtsp视频流的图像截取和视频捕获。",
+    "author": "WhEN",
+    "repo": "https://github.com/rorangeeee/astrbot_plugin_ipcam",
+    "tags": [
+      "工具"
+    ],
+    "social_link": "https://github.com/rorangeeee",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-03-25T12:36:36Z"
+  },
+  "astrbot_plugin_lyubishchev": {
+    "name": "astrbot_plugin_lyubishchev",
+    "display_name": "未审核：柳比歇夫时间管理插件",
+    "desc": "通过柳比歇夫时间管理方法让Astrbot帮助你进行时间管理，只适合个人使用",
+    "author": "Lynie",
+    "repo": "https://github.com/LynieCN/astrbot_plugin_lyubishchev",
+    "tags": [
+      "工具",
+      "日常",
+      "时间管理",
+      "记录查询"
+    ],
+    "social_link": "https://github.com/LynieCN",
+    "stars": 0,
+    "version": "v1.2.1",
+    "updated_at": "2026-03-25T12:36:35Z",
+    "logo": "https://raw.githubusercontent.com/LynieCN/astrbot_plugin_lyubishchev/main/logo.png"
+  },
   "astrbot_plugin_vrc_friend_radar": {
     "name": "astrbot_plugin_vrc_friend_radar",
     "display_name": "未审核：vrchat好友雷达",
@@ -28,24 +96,6 @@
     "updated_at": "2026-03-25T11:27:06Z",
     "logo": "https://raw.githubusercontent.com/3128194922/astrbot_plugin_meetingsecretary/main/logo.png"
   },
-  "astrbot_plugin_lyubishchev": {
-    "name": "astrbot_plugin_lyubishchev",
-    "display_name": "未审核：柳比歇夫时间管理插件",
-    "desc": "通过柳比歇夫时间管理方法让Astrbot帮助你进行时间管理，只适合个人使用",
-    "author": "Lynie",
-    "repo": "https://github.com/LynieCN/astrbot_plugin_lyubishchev",
-    "tags": [
-      "工具",
-      "日常",
-      "时间管理",
-      "记录查询"
-    ],
-    "social_link": "https://github.com/LynieCN",
-    "stars": 0,
-    "version": "v1.2.1",
-    "updated_at": "2026-03-25T11:24:52Z",
-    "logo": "https://raw.githubusercontent.com/LynieCN/astrbot_plugin_lyubishchev/main/logo.png"
-  },
   "astrbot_plugin_touch_head": {
     "name": "astrbot_plugin_touch_head",
     "display_name": "未审核：touch_head",
@@ -57,21 +107,6 @@
     "stars": 0,
     "version": "v1.1.1",
     "updated_at": "2026-03-25T11:24:35Z"
-  },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：模拟修仙v3",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.1.4",
-    "updated_at": "2026-03-25T11:16:33Z"
   },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
@@ -162,27 +197,6 @@
     "version": "v1.3.9",
     "updated_at": "2026-03-25T03:30:26Z",
     "logo": "https://raw.githubusercontent.com/INstabliTY/astrbot_plugin_Information_Assistant/master/logo.png"
-  },
-  "astrbot_plugin_local_reminiscence": {
-    "name": "astrbot_plugin_local_reminiscence",
-    "display_name": "未审核：本地回忆[APLR]",
-    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
-    "author": "olozhika",
-    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
-    "tags": [
-      "记忆",
-      "回忆",
-      "每日总结",
-      "语义识别",
-      "关键词",
-      "上下文注入",
-      "长期记忆"
-    ],
-    "social_link": "https://github.com/olozhika",
-    "stars": 17,
-    "version": "v1.2.0",
-    "updated_at": "2026-03-24T22:13:58Z",
-    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot_plugin_llm_enhancement": {
     "name": "astrbot_plugin_llm_enhancement",
@@ -415,20 +429,6 @@
     "version": "v3.1.3",
     "updated_at": "2026-03-24T02:38:45Z",
     "logo": "https://raw.githubusercontent.com/EightEggs/astrbot_plugin_chatimitate/master/logo.png"
-  },
-  "astrbot_plugin_ipcam": {
-    "name": "astrbot_plugin_ipcam",
-    "display_name": "未审核：ipcam网络摄像头捕获",
-    "desc": "基于AstrBot方式实现对rtsp视频流的图像截取和视频捕获。",
-    "author": "WhEN",
-    "repo": "https://github.com/rorangeeee/astrbot_plugin_ipcam",
-    "tags": [
-      "工具"
-    ],
-    "social_link": "https://github.com/rorangeeee",
-    "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2026-03-24T01:32:44Z"
   },
   "astrbot_plugin_bye": {
     "name": "astrbot_plugin_bye",
