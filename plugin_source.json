@@ -1,4 +1,63 @@
 {
+  "astrbot_plugin_vrc_friend_radar": {
+    "name": "astrbot_plugin_vrc_friend_radar",
+    "display_name": "未审核：vrchat好友雷达",
+    "desc": "监控 VRChat 好友上线、下线、状态变化与地图切换，并将变化合并播报到指定群聊。",
+    "author": "zhumengling",
+    "repo": "https://github.com/zhumengling/astrbot_plugin_vrc_friend_radar",
+    "tags": [
+      "vrchat"
+    ],
+    "social_link": "https://github.com/zhumengling",
+    "stars": 0,
+    "version": "0.1.0",
+    "updated_at": "2026-03-25T11:40:01Z"
+  },
+  "astrbot_plugin_meetingsecretary": {
+    "name": "astrbot_plugin_meetingsecretary",
+    "display_name": "未审核：对话合并转发",
+    "desc": "快捷使用指令整合聊天记录，支持按QQ号屏蔽。本插件由AI编写",
+    "author": "IlkerUniye",
+    "repo": "https://github.com/3128194922/astrbot_plugin_meetingsecretary",
+    "tags": [
+      "效率"
+    ],
+    "social_link": "https://space.bilibili.com/123640494?spm_id_from=333.1007.0.0",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-25T11:27:06Z",
+    "logo": "https://raw.githubusercontent.com/3128194922/astrbot_plugin_meetingsecretary/main/logo.png"
+  },
+  "astrbot_plugin_lyubishchev": {
+    "name": "astrbot_plugin_lyubishchev",
+    "display_name": "未审核：柳比歇夫时间管理插件",
+    "desc": "通过柳比歇夫时间管理方法让Astrbot帮助你进行时间管理，只适合个人使用",
+    "author": "Lynie",
+    "repo": "https://github.com/LynieCN/astrbot_plugin_lyubishchev",
+    "tags": [
+      "工具",
+      "日常",
+      "时间管理",
+      "记录查询"
+    ],
+    "social_link": "https://github.com/LynieCN",
+    "stars": 0,
+    "version": "v1.2.1",
+    "updated_at": "2026-03-25T11:24:52Z",
+    "logo": "https://raw.githubusercontent.com/LynieCN/astrbot_plugin_lyubishchev/main/logo.png"
+  },
+  "astrbot_plugin_touch_head": {
+    "name": "astrbot_plugin_touch_head",
+    "display_name": "未审核：touch_head",
+    "desc": "摸头杀GIF插件",
+    "author": "mjy1113451",
+    "repo": "https://github.com/mjy1113451/touch_head",
+    "tags": [],
+    "social_link": "https://github.com/mjy1113451",
+    "stars": 0,
+    "version": "v1.1.1",
+    "updated_at": "2026-03-25T11:24:35Z"
+  },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
     "display_name": "未审核：模拟修仙v3",
@@ -12,7 +71,38 @@
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
     "version": "v3.1.4",
-    "updated_at": "2026-03-25T10:50:20Z"
+    "updated_at": "2026-03-25T11:16:33Z"
+  },
+  "astrbot_plugin_sadstory": {
+    "name": "astrbot_plugin_sadstory",
+    "display_name": "未审核：伪装聊天记录",
+    "desc": "在群聊中以合并转发消息的形式展示伤感故事，支持 LLM 生成、故事模板参考、自定义角色、群白名单等",
+    "author": "Towqs",
+    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
+    "tags": [
+      "QQ",
+      "聊天",
+      "故事",
+      "转发消息"
+    ],
+    "social_link": "https://github.com/Towqs",
+    "stars": 1,
+    "version": "v0.5.4",
+    "updated_at": "2026-03-25T11:03:07Z",
+    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
+  },
+  "astrbot_plugin_plugin_help": {
+    "name": "astrbot_plugin_plugin_help",
+    "display_name": "未审核：插件指令帮助",
+    "desc": "对于大多数 bot 而言，所使用的插件都不会是仅一两个。插件多了便不好记忆具体插件及对应指令，本插件即用于查询 bot 所安装的插件及所包含的指令。",
+    "author": "vintro",
+    "repo": "https://github.com/vintro3/astrbot_plugin_plugin_help",
+    "tags": [],
+    "social_link": "https://github.com/vintro3",
+    "stars": 0,
+    "version": "v1.0",
+    "updated_at": "2026-03-25T11:01:14Z",
+    "logo": "https://raw.githubusercontent.com/vintro3/astrbot_plugin_plugin_help/master/logo.png"
   },
   "astrbot_plugin_liushui": {
     "name": "astrbot_plugin_liushui",
@@ -31,53 +121,6 @@
     "stars": 0,
     "version": "1.0.0",
     "updated_at": "2026-03-25T10:44:59Z"
-  },
-  "astrbot_plugin_vrc_friend_radar": {
-    "name": "astrbot_plugin_vrc_friend_radar",
-    "display_name": "未审核：vrchat好友雷达",
-    "desc": "监控 VRChat 好友上线、下线、状态变化与地图切换，并将变化合并播报到指定群聊。",
-    "author": "zhumengling",
-    "repo": "https://github.com/zhumengling/astrbot_plugin_vrc_friend_radar",
-    "tags": [
-      "vrchat"
-    ],
-    "social_link": "https://github.com/zhumengling",
-    "stars": 0,
-    "version": "0.1.0",
-    "updated_at": "2026-03-25T10:39:27Z"
-  },
-  "astrbot_plugin_sadstory": {
-    "name": "astrbot_plugin_sadstory",
-    "display_name": "未审核：伪装聊天记录",
-    "desc": "在群聊中以合并转发消息的形式展示伤感故事，支持 LLM 生成、故事模板参考、自定义角色、群白名单等",
-    "author": "Towqs",
-    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
-    "tags": [
-      "QQ",
-      "聊天",
-      "故事",
-      "转发消息"
-    ],
-    "social_link": "https://github.com/Towqs",
-    "stars": 1,
-    "version": "v0.5.4",
-    "updated_at": "2026-03-25T09:02:07Z",
-    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
-  },
-  "astrbot_plugin_meetingsecretary": {
-    "name": "astrbot_plugin_meetingsecretary",
-    "display_name": "未审核：对话合并转发",
-    "desc": "快捷使用指令整合聊天记录，支持按QQ号屏蔽。本插件由AI编写",
-    "author": "IlkerUniye",
-    "repo": "https://github.com/3128194922/astrbot_plugin_meetingsecretary",
-    "tags": [
-      "效率"
-    ],
-    "social_link": "https://space.bilibili.com/123640494?spm_id_from=333.1007.0.0",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-25T07:04:27Z",
-    "logo": "https://raw.githubusercontent.com/3128194922/astrbot_plugin_meetingsecretary/main/logo.png"
   },
   "astrbot_plugin_work_logger": {
     "name": "astrbot_plugin_work_logger",
@@ -1391,18 +1434,6 @@
     "stars": 3,
     "version": "v0.2.0",
     "updated_at": "2026-03-15T11:29:50Z"
-  },
-  "astrbot_plugin_touch_head": {
-    "name": "astrbot_plugin_touch_head",
-    "display_name": "未审核：touch_head",
-    "desc": "摸头杀GIF插件",
-    "author": "mjy1113451",
-    "repo": "https://github.com/mjy1113451/touch_head",
-    "tags": [],
-    "social_link": "https://github.com/mjy1113451",
-    "stars": 0,
-    "version": "v1.1.1",
-    "updated_at": "2026-03-15T10:01:23Z"
   },
   "astrbot_plugin_context_injector": {
     "name": "astrbot_plugin_context_injector",
