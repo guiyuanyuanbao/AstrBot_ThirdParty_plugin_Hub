@@ -1,4 +1,49 @@
 {
+  "astrbot_plugin_sadstory": {
+    "name": "astrbot_plugin_sadstory",
+    "display_name": "未审核：伪装聊天记录",
+    "desc": "在群聊中以合并转发消息的形式展示伤感故事，支持 LLM 生成、故事模板参考、自定义角色、群白名单等",
+    "author": "Towqs",
+    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
+    "tags": [
+      "QQ",
+      "聊天",
+      "故事",
+      "转发消息"
+    ],
+    "social_link": "https://github.com/Towqs",
+    "stars": 1,
+    "version": "v0.4.3",
+    "updated_at": "2026-03-25T05:57:59Z",
+    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
+  },
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：模拟修仙v3",
+    "desc": "对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/-",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.0.0",
+    "updated_at": "2026-03-25T05:51:43Z"
+  },
+  "astrbot_plugin_work_logger": {
+    "name": "astrbot_plugin_work_logger",
+    "display_name": "未审核：工作记录插件",
+    "desc": "工作记录插件，支持自然语言记录工作内容，自动生成日报/周报/月报，支持定时推送图片格式工作报告",
+    "author": "Tilicil",
+    "repo": "https://github.com/tilicil/Astrbot_plugin_work_logger",
+    "tags": [],
+    "social_link": "https://github.com/tilicil",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-25T05:22:32Z"
+  },
   "astrbot_plugin_x_score": {
     "name": "astrbot_plugin_x_score",
     "display_name": "未审核：X账号评分",
@@ -31,36 +76,6 @@
     "stars": 1,
     "version": "v2.0.0",
     "updated_at": "2026-03-25T04:32:44Z"
-  },
-  "astrbot_plugin_sadstory": {
-    "name": "astrbot_plugin_sadstory",
-    "display_name": "未审核：伪装聊天记录",
-    "desc": "在群聊中以合并转发消息的形式展示伤感故事，支持 LLM 生成、故事模板参考、自定义角色、群白名单等",
-    "author": "Towqs",
-    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
-    "tags": [
-      "QQ",
-      "聊天",
-      "故事",
-      "转发消息"
-    ],
-    "social_link": "https://github.com/Towqs",
-    "stars": 1,
-    "version": "v0.5.0",
-    "updated_at": "2026-03-25T04:05:15Z",
-    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
-  },
-  "astrbot_plugin_work_logger": {
-    "name": "astrbot_plugin_work_logger",
-    "display_name": "未审核：工作记录插件",
-    "desc": "工作记录插件，支持自然语言记录工作内容，自动生成日报/周报/月报，支持定时推送图片格式工作报告",
-    "author": "Tilicil",
-    "repo": "https://github.com/tilicil/Astrbot_plugin_work_logger",
-    "tags": [],
-    "social_link": "https://github.com/tilicil",
-    "stars": 0,
-    "version": "v0.0.0",
-    "updated_at": "2026-03-25T03:57:44Z"
   },
   "astrbot_plugin_information_assistant": {
     "name": "astrbot_plugin_information_assistant",
@@ -1813,7 +1828,7 @@
     "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news",
     "tags": [],
     "social_link": "https://github.com/xxofficial",
-    "stars": 7,
+    "stars": 8,
     "version": "1.01",
     "updated_at": "2026-03-12T03:07:34Z"
   },
