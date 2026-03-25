@@ -1,7 +1,7 @@
 {
   "astrbot_plugin_wol_miko": {
     "name": "astrbot_plugin_wol_miko",
-    "display_name": "未审核：简易局域网WOL唤醒",
+    "display_name": "未审核：局域网WOL唤醒插件",
     "desc": "简易局域网WOL唤醒",
     "author": "MIKOvOKM",
     "repo": "https://github.com/MIKOvOKM/astrbot_plugin_wol_miko",
@@ -11,7 +11,7 @@
     "social_link": "https://github.com/MIKOvOKM",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-03-25T22:34:19Z"
+    "updated_at": "2026-03-25T23:16:25Z"
   },
   "astrbot_plugin_information_assistant": {
     "name": "astrbot_plugin_information_assistant",
