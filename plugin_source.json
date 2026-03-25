@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_cloudflare_tunnel_monitor": {
+    "name": "astrbot_plugin_cloudflare_tunnel_monitor",
+    "display_name": "未审核：Cloudflare Tunnel 状态检测",
+    "desc": "一个通过 Cloudflare API 轮询 Cloudflare Tunnel 存活状态的监测插件",
+    "author": "sctop",
+    "repo": "https://github.com/sctop/astrbot_plugin_cloudflare_tunnel_monitor",
+    "tags": [
+      "Cloudflare",
+      "Cloudflare Tunnel"
+    ],
+    "social_link": "https://github.com/sctop",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-25T08:50:16Z"
+  },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
     "display_name": "未审核：模拟修仙v3",
@@ -11,23 +26,8 @@
     ],
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
-    "version": "v3.0.4",
-    "updated_at": "2026-03-25T07:51:06Z"
-  },
-  "astrbot_plugin_meetingsecretary": {
-    "name": "astrbot_plugin_meetingsecretary",
-    "display_name": "未审核：对话合并转发",
-    "desc": "快捷使用指令整合聊天记录，支持按QQ号屏蔽。本插件由AI编写",
-    "author": "IlkerUniye",
-    "repo": "https://github.com/3128194922/astrbot_plugin_meetingsecretary",
-    "tags": [
-      "效率"
-    ],
-    "social_link": "https://space.bilibili.com/123640494?spm_id_from=333.1007.0.0",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-25T07:04:27Z",
-    "logo": "https://raw.githubusercontent.com/3128194922/astrbot_plugin_meetingsecretary/main/logo.png"
+    "version": "v3.0.10",
+    "updated_at": "2026-03-25T08:40:36Z"
   },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
@@ -43,9 +43,24 @@
     ],
     "social_link": "https://github.com/Towqs",
     "stars": 1,
-    "version": "v0.4.3",
-    "updated_at": "2026-03-25T05:57:59Z",
+    "version": "v0.5.2",
+    "updated_at": "2026-03-25T08:00:44Z",
     "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
+  },
+  "astrbot_plugin_meetingsecretary": {
+    "name": "astrbot_plugin_meetingsecretary",
+    "display_name": "未审核：对话合并转发",
+    "desc": "快捷使用指令整合聊天记录，支持按QQ号屏蔽。本插件由AI编写",
+    "author": "IlkerUniye",
+    "repo": "https://github.com/3128194922/astrbot_plugin_meetingsecretary",
+    "tags": [
+      "效率"
+    ],
+    "social_link": "https://space.bilibili.com/123640494?spm_id_from=333.1007.0.0",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-25T07:04:27Z",
+    "logo": "https://raw.githubusercontent.com/3128194922/astrbot_plugin_meetingsecretary/main/logo.png"
   },
   "astrbot_plugin_work_logger": {
     "name": "astrbot_plugin_work_logger",
