@@ -1,4 +1,34 @@
 {
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：模拟修仙v3",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.0.4",
+    "updated_at": "2026-03-25T07:51:06Z"
+  },
+  "astrbot_plugin_meetingsecretary": {
+    "name": "astrbot_plugin_meetingsecretary",
+    "display_name": "未审核：对话合并转发",
+    "desc": "快捷使用指令整合聊天记录，支持按QQ号屏蔽。本插件由AI编写",
+    "author": "IlkerUniye",
+    "repo": "https://github.com/3128194922/astrbot_plugin_meetingsecretary",
+    "tags": [
+      "效率"
+    ],
+    "social_link": "https://space.bilibili.com/123640494?spm_id_from=333.1007.0.0",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-25T07:04:27Z",
+    "logo": "https://raw.githubusercontent.com/3128194922/astrbot_plugin_meetingsecretary/main/logo.png"
+  },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
     "display_name": "未审核：伪装聊天记录",
@@ -16,21 +46,6 @@
     "version": "v0.4.3",
     "updated_at": "2026-03-25T05:57:59Z",
     "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
-  },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：模拟修仙v3",
-    "desc": "对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/-",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.0.0",
-    "updated_at": "2026-03-25T05:51:43Z"
   },
   "astrbot_plugin_work_logger": {
     "name": "astrbot_plugin_work_logger",
