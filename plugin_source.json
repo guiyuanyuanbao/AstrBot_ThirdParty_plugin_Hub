@@ -1,4 +1,39 @@
 {
+  "astrbot_plugin_sadstory": {
+    "name": "astrbot_plugin_sadstory",
+    "display_name": "未审核：伪装聊天记录",
+    "desc": "在群聊中以合并转发消息的形式展示伤感故事，支持 LLM 生成、故事模板参考、自定义角色、群白名单等",
+    "author": "Towqs",
+    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
+    "tags": [
+      "QQ",
+      "聊天",
+      "故事",
+      "转发消息"
+    ],
+    "social_link": "https://github.com/Towqs",
+    "stars": 1,
+    "version": "v0.3.4",
+    "updated_at": "2026-03-25T02:00:49Z",
+    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
+  },
+  "astrbot_plugin_x_score": {
+    "name": "astrbot_plugin_x_score",
+    "display_name": "未审核：X账号评分",
+    "desc": "查询 X/Twitter 账号可信度评分，基于 AI 分析账号真实度、风险标签与评价",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_x_score",
+    "tags": [
+      "X",
+      "Twitter",
+      "评分",
+      "推特"
+    ],
+    "social_link": "https://github.com/xiaoruange39",
+    "stars": 2,
+    "version": "1.0.0",
+    "updated_at": "2026-03-25T01:14:58Z"
+  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -132,23 +167,6 @@
     "updated_at": "2026-03-24T15:25:52Z",
     "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
-  "astrbot_plugin_x_score": {
-    "name": "astrbot_plugin_x_score",
-    "display_name": "未审核：X账号评分",
-    "desc": "查询 X/Twitter 账号可信度评分，基于 AI 分析账号真实度、风险标签与评价",
-    "author": "xiaoruange39",
-    "repo": "https://github.com/xiaoruange39/astrbot_plugin_x_score",
-    "tags": [
-      "X",
-      "Twitter",
-      "评分",
-      "推特"
-    ],
-    "social_link": "https://github.com/xiaoruange39",
-    "stars": 2,
-    "version": "1.0.0",
-    "updated_at": "2026-03-24T14:17:54Z"
-  },
   "astrbot_plugin_dg-lab": {
     "name": "astrbot_plugin_dg-lab",
     "display_name": "未审核：AstrBot郊狼控制器",
@@ -181,24 +199,6 @@
     "version": "2.8.0",
     "updated_at": "2026-03-24T12:21:12Z",
     "logo": "https://raw.githubusercontent.com/czxieddan/astrbot_plugin_steam_efficient_interactor/main/logo.png"
-  },
-  "astrbot_plugin_sadstory": {
-    "name": "astrbot_plugin_sadstory",
-    "display_name": "未审核：伪装聊天记录",
-    "desc": "在群聊中以合并转发消息的形式展示伤感故事，支持 LLM 生成、故事模板参考、自定义角色、群白名单等",
-    "author": "Towqs",
-    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
-    "tags": [
-      "QQ",
-      "聊天",
-      "故事",
-      "转发消息"
-    ],
-    "social_link": "https://github.com/Towqs",
-    "stars": 1,
-    "version": "v0.2.9",
-    "updated_at": "2026-03-24T12:08:55Z",
-    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
   },
   "astrbot_plugin_group_context_bridge": {
     "name": "astrbot_plugin_group_context_bridge",
@@ -293,7 +293,7 @@
   },
   "astrbot_plugin_ipcam": {
     "name": "astrbot_plugin_ipcam",
-    "display_name": "未审核：IPCam捕获",
+    "display_name": "未审核：ipcam网络摄像头捕获",
     "desc": "基于AstrBot方式实现对rtsp视频流的图像截取和视频捕获。",
     "author": "WhEN",
     "repo": "https://github.com/rorangeeee/astrbot_plugin_ipcam",
@@ -535,23 +535,6 @@
     "stars": 0,
     "version": "1.4.4",
     "updated_at": "2026-03-22T19:10:20Z"
-  },
-  "astrbot_plugin_apexrankwatch": {
-    "name": "astrbot_plugin_apexrankwatch",
-    "display_name": "未审核：Apex Rank Watch",
-    "desc": "可以用来查询玩家段位，等级，赛季结束时间，大师猎杀数量，猎杀底分。还有能够持续自动监测玩家段位分数变化并且通知。",
-    "author": "moeneri",
-    "repo": "https://github.com/moeneri/astrbot_plugin_apexrankwatch",
-    "tags": [
-      "apex",
-      "查询",
-      "段位"
-    ],
-    "social_link": "https://github.com/moeneri",
-    "stars": 0,
-    "version": "1.2.2",
-    "updated_at": "2026-03-22T18:05:53Z",
-    "logo": "https://raw.githubusercontent.com/moeneri/astrbot_plugin_apexrankwatch/main/logo.png"
   },
   "astrbot_plugin_steam_friend_monitor": {
     "name": "astrbot_plugin_steam_friend_monitor",
@@ -1157,20 +1140,6 @@
     "stars": 1,
     "version": "1.2.0",
     "updated_at": "2026-03-17T13:35:39Z"
-  },
-  "astrbot_plugin_ancient_poem": {
-    "name": "astrbot_plugin_ancient_poem",
-    "display_name": "未审核：古诗插件",
-    "desc": "这是一个 AstrBot 插件，用于随机获取并发送一首古诗词。",
-    "author": "花殇",
-    "repo": "https://github.com/juangchuank-ops/astrbot_plugin_ancient_poem",
-    "tags": [
-      "古诗"
-    ],
-    "social_link": "https://github.com/juangchuank-ops",
-    "stars": 0,
-    "version": "0.1.0",
-    "updated_at": "2026-03-17T13:32:03Z"
   },
   "astrbot_plugin_arknights_sanity": {
     "name": "astrbot_plugin_arknights_sanity",
