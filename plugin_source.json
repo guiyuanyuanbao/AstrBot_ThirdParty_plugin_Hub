@@ -1,4 +1,28 @@
 {
+  "astrbot_plugin_analysis_bilibili": {
+    "name": "astrbot_plugin_analysis_bilibili",
+    "display_name": "未审核：B站视频解析简易版",
+    "desc": "会发送视频的点赞和收藏等基本信息.然后根据设置的阈值判断发送封面,还是发送视频.",
+    "author": "Furina",
+    "repo": "https://github.com/Furina010013/astrbot_plugin_analysis_bilibili",
+    "tags": [],
+    "social_link": "https://homeofmjr.top/",
+    "stars": 1,
+    "version": "1.2.0",
+    "updated_at": "2026-03-26T04:38:01Z"
+  },
+  "astrbot_plugin_collectimage": {
+    "name": "astrbot_plugin_collectimage",
+    "display_name": "未审核：群聊图片手机",
+    "desc": "自动识别群聊图片内容、提取标签和角色，并实现本地持久化存储与检索。",
+    "author": "FineTortinita",
+    "repo": "https://github.com/FineTortinita/astrbot_plugin_collectimage",
+    "tags": [],
+    "social_link": "https://github.com/FineTortinita",
+    "stars": 0,
+    "version": "v1.8.0",
+    "updated_at": "2026-03-26T04:33:50Z"
+  },
   "astrbot_plugin_wol_miko": {
     "name": "astrbot_plugin_wol_miko",
     "display_name": "未审核：局域网WOL唤醒插件",
@@ -139,21 +163,6 @@
     "stars": 0,
     "version": "v0.0.0",
     "updated_at": "2026-03-25T13:55:58Z"
-  },
-  "astrbot_plugin_welcome_verification": {
-    "name": "astrbot_plugin_welcome_verification",
-    "display_name": "未审核：入群欢迎与验证",
-    "desc": "入群欢迎与验证插件，支持自定义欢迎文本、图片，支持自定义题库",
-    "author": "Yueling",
-    "repo": "https://github.com/oujunhaoyueling/astrbot_plugin_welcome_verification",
-    "tags": [
-      "入群验证",
-      "入群欢迎"
-    ],
-    "social_link": "https://github.com/oujunhaoyueling",
-    "stars": 0,
-    "version": "1.2.0",
-    "updated_at": "2026-03-25T13:29:21Z"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
@@ -1824,21 +1833,6 @@
     "stars": 0,
     "version": "0.3.0",
     "updated_at": "2026-03-13T05:20:25Z"
-  },
-  "astrbot_plugin_group_autosign_utils": {
-    "name": "astrbot_plugin_group_autosign_utils",
-    "display_name": "未审核：群打卡续火工具",
-    "desc": "自动群打卡续火工具(仅qq)",
-    "author": "MLSLi",
-    "repo": "https://github.com/MLSLi/astrbot_plugin_group_autosign_utils",
-    "tags": [
-      "群打卡",
-      "续火"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-13T03:55:40Z"
   },
   "astrbot_plugin_qq_group_summary_danfong": {
     "name": "astrbot_plugin_qq_group_summary_danfong",
