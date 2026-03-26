@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_collectimage": {
+    "name": "astrbot_plugin_collectimage",
+    "display_name": "未审核：群聊图片手机",
+    "desc": "自动识别群聊图片内容、提取标签和角色，并实现本地持久化存储与检索。",
+    "author": "FineTortinita",
+    "repo": "https://github.com/FineTortinita/astrbot_plugin_collectimage",
+    "tags": [],
+    "social_link": "https://github.com/FineTortinita",
+    "stars": 0,
+    "version": "v1.8.0",
+    "updated_at": "2026-03-26T13:07:30Z"
+  },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
     "display_name": "未审核：模拟修仙v3",
@@ -11,8 +23,69 @@
     ],
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
-    "version": "v3.4.7",
-    "updated_at": "2026-03-26T11:50:24Z"
+    "version": "v3.4.8",
+    "updated_at": "2026-03-26T12:51:11Z"
+  },
+  "astrbot_plugin_wechat_auth": {
+    "name": "astrbot_plugin_wechat_auth",
+    "display_name": "未审核：微信鉴权插件",
+    "desc": "自动识别微信用户并将指定用户设为管理员",
+    "author": "EterUltimate",
+    "repo": "https://github.com/EterUltimate/astrbot_plugin_wechat_auth",
+    "tags": [],
+    "social_link": "https://github.com/EterUltimate",
+    "stars": 0,
+    "version": "1.1.0",
+    "updated_at": "2026-03-26T12:46:43Z"
+  },
+  "astrbot_plugin_apexmap": {
+    "name": "astrbot_plugin_apexmap",
+    "display_name": "未审核：Apex地图查询",
+    "desc": "用于查询Apex地图轮换",
+    "author": "Rondo7",
+    "repo": "https://github.com/Rondo7/asrtbot_plugin_apexmap",
+    "tags": [
+      "apex",
+      "查询"
+    ],
+    "social_link": "https://github.com/Rondo7",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-26T12:42:00Z"
+  },
+  "astrbot_plugin_self_open_llm_vtuber": {
+    "name": "astrbot_plugin_self_open_llm_vtuber",
+    "display_name": "未审核：Alice的桌面分身",
+    "desc": "让你的bot在桌面或者web可以看到你、看到你在干什么、开口说话并实时做表情动作，支持语音输入、语音打断与互动联动。",
+    "author": "YakumoAki",
+    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
+    "tags": [
+      "live2d",
+      "皮套",
+      "open llm vtuber"
+    ],
+    "social_link": "https://space.bilibili.com/41761329",
+    "stars": 1,
+    "version": "0.9.8",
+    "updated_at": "2026-03-26T12:37:02Z",
+    "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
+  },
+  "astrbot_plugin_skills_mcp_manager": {
+    "name": "astrbot_plugin_skills_mcp_manager",
+    "display_name": "未审核：Skills & MCP 管理器",
+    "desc": "为astrbot提供函数工具和指令来管理 AstrBot Skills 和 MCP 服务器。",
+    "author": "piexian",
+    "repo": "https://github.com/piexian/astrbot_plugin_skills_mcp_manager",
+    "tags": [
+      "工具",
+      "管理",
+      "mcp",
+      "skills"
+    ],
+    "social_link": "https://github.com/piexian",
+    "stars": 5,
+    "version": "0.1.6",
+    "updated_at": "2026-03-26T12:29:46Z"
   },
   "astrbot_plugin_adapter_watchdog": {
     "name": "astrbot_plugin_adapter_watchdog",
@@ -30,18 +103,6 @@
     "version": "v1.0",
     "updated_at": "2026-03-26T09:27:22Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
-  },
-  "astrbot_plugin_collectimage": {
-    "name": "astrbot_plugin_collectimage",
-    "display_name": "未审核：群聊图片手机",
-    "desc": "自动识别群聊图片内容、提取标签和角色，并实现本地持久化存储与检索。",
-    "author": "FineTortinita",
-    "repo": "https://github.com/FineTortinita/astrbot_plugin_collectimage",
-    "tags": [],
-    "social_link": "https://github.com/FineTortinita",
-    "stars": 0,
-    "version": "v1.8.0",
-    "updated_at": "2026-03-26T09:24:23Z"
   },
   "astrbot_plugin_llmsupport": {
     "name": "astrbot_plugin_llmsupport",
@@ -302,7 +363,7 @@
       "vrchat"
     ],
     "social_link": "https://github.com/zhumengling",
-    "stars": 0,
+    "stars": 1,
     "version": "0.1.0",
     "updated_at": "2026-03-25T11:40:01Z"
   },
@@ -408,23 +469,6 @@
     "version": "v1.1.0",
     "updated_at": "2026-03-24T15:59:58Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
-  },
-  "astrbot_plugin_self_open_llm_vtuber": {
-    "name": "astrbot_plugin_self_open_llm_vtuber",
-    "display_name": "未审核：Alice的桌面分身",
-    "desc": "让你的bot在桌面或者web可以看到你、看到你在干什么、开口说话并实时做表情动作，支持语音输入、语音打断与互动联动。",
-    "author": "YakumoAki",
-    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
-    "tags": [
-      "live2d",
-      "皮套",
-      "open llm vtuber"
-    ],
-    "social_link": "https://space.bilibili.com/41761329",
-    "stars": 1,
-    "version": "0.9.8",
-    "updated_at": "2026-03-24T15:25:52Z",
-    "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
   "astrbot_plugin_dg-lab": {
     "name": "astrbot_plugin_dg-lab",
@@ -1753,23 +1797,6 @@
     "stars": 1,
     "version": "v1.0.1",
     "updated_at": "2026-03-14T05:37:55Z"
-  },
-  "astrbot_plugin_skills_mcp_manager": {
-    "name": "astrbot_plugin_skills_mcp_manager",
-    "display_name": "未审核：Skills & MCP 管理器",
-    "desc": "为astrbot提供函数工具和指令来管理 AstrBot Skills 和 MCP 服务器。",
-    "author": "piexian",
-    "repo": "https://github.com/piexian/astrbot_plugin_skills_mcp_manager",
-    "tags": [
-      "工具",
-      "管理",
-      "mcp",
-      "skills"
-    ],
-    "social_link": "https://github.com/piexian",
-    "stars": 5,
-    "version": "0.1.5",
-    "updated_at": "2026-03-13T21:50:37Z"
   },
   "astrbot_plugin_self_reflex": {
     "name": "astrbot_plugin_self_reflex",
