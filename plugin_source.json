@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_self_open_llm_vtuber": {
+    "name": "astrbot_plugin_self_open_llm_vtuber",
+    "display_name": "未审核：Alice的桌面分身",
+    "desc": "让你的bot在桌面或者web可以看到你、看到你在干什么、开口说话并实时做表情动作，支持语音输入、语音打断与互动联动。",
+    "author": "YakumoAki",
+    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
+    "tags": [
+      "live2d",
+      "皮套",
+      "open llm vtuber"
+    ],
+    "social_link": "https://space.bilibili.com/41761329",
+    "stars": 1,
+    "version": "0.9.8",
+    "updated_at": "2026-03-26T19:20:29Z",
+    "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
+  },
   "astrbot_plugin_collectimage": {
     "name": "astrbot_plugin_collectimage",
     "display_name": "未审核：群聊图片手机",
@@ -131,23 +148,6 @@
     "stars": 1,
     "version": "v1.0.0",
     "updated_at": "2026-03-26T12:42:00Z"
-  },
-  "astrbot_plugin_self_open_llm_vtuber": {
-    "name": "astrbot_plugin_self_open_llm_vtuber",
-    "display_name": "未审核：Alice的桌面分身",
-    "desc": "让你的bot在桌面或者web可以看到你、看到你在干什么、开口说话并实时做表情动作，支持语音输入、语音打断与互动联动。",
-    "author": "YakumoAki",
-    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
-    "tags": [
-      "live2d",
-      "皮套",
-      "open llm vtuber"
-    ],
-    "social_link": "https://space.bilibili.com/41761329",
-    "stars": 1,
-    "version": "0.9.8",
-    "updated_at": "2026-03-26T12:37:02Z",
-    "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
   "astrbot_plugin_skills_mcp_manager": {
     "name": "astrbot_plugin_skills_mcp_manager",
