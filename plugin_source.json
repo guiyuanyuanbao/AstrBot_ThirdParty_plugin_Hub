@@ -1,4 +1,104 @@
 {
+  "astrbot_plugin_cirno": {
+    "name": "astrbot_plugin_cirno",
+    "display_name": "未审核：琪露诺——baka!",
+    "desc": "把你的bot变成一只有记忆、有心情的baka! 她会记住每个人，越聊越了解你",
+    "author": "Reisenbug",
+    "repo": "https://github.com/Reisenbug/AstrBot_Plugin_Cirno",
+    "tags": [
+      "角色扮演",
+      "人格",
+      "东方project"
+    ],
+    "social_link": "https://github.com/Reisenbug",
+    "stars": 1,
+    "version": "v2.0.0",
+    "updated_at": "2026-03-26T08:53:36Z"
+  },
+  "astrbot_plugin_linkview": {
+    "name": "astrbot_plugin_linkview",
+    "display_name": "未审核：磁力链接预览",
+    "desc": "磁力链接自动解析与种子搜索插件，支持 whatslink API 解析、截图预览、图片加噪、关键词搜索等功能。",
+    "author": "leon",
+    "repo": "https://github.com/li704644993/astrbot_plugin_linkview",
+    "tags": [],
+    "social_link": "https://github.com/li704644993",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-26T08:52:26Z"
+  },
+  "astrbot_plugin_llmsupport": {
+    "name": "astrbot_plugin_llmsupport",
+    "display_name": "未审核：LLM用户打赏感知",
+    "desc": "对话表示想要支持打赏请客意图时，LLM表示感谢并亮出二维码。",
+    "author": "雷诺哈特",
+    "repo": "https://github.com/Weiss-UltimateSavior/astrbot_plugin_LLMsupport",
+    "tags": [
+      "LLM",
+      "打赏",
+      "二维码"
+    ],
+    "social_link": "https://github.com/Weiss-UltimateSavior",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-03-26T08:52:19Z"
+  },
+  "astrbot_plugin_fishing": {
+    "name": "astrbot_plugin_fishing",
+    "display_name": "未审核：FishingForever!",
+    "desc": "钓鱼插件个人魔改版，基于FishingAnother!的v2.4.7版本进行更新维护。",
+    "author": "AdeleNaumann-Eyjafjalla",
+    "repo": "https://github.com/AdeleNaumann-Eyjafjalla/astrbot_plugin_fishing",
+    "tags": [
+      "游戏",
+      "fishing",
+      "钓鱼"
+    ],
+    "social_link": "https://github.com/AdeleNaumann-Eyjafjalla",
+    "stars": 1,
+    "version": "2.4.8",
+    "updated_at": "2026-03-26T08:47:06Z",
+    "logo": "https://raw.githubusercontent.com/AdeleNaumann-Eyjafjalla/astrbot_plugin_fishing/main/logo.png"
+  },
+  "astrbot_plugin_collectimage": {
+    "name": "astrbot_plugin_collectimage",
+    "display_name": "未审核：群聊图片手机",
+    "desc": "自动识别群聊图片内容、提取标签和角色，并实现本地持久化存储与检索。",
+    "author": "FineTortinita",
+    "repo": "https://github.com/FineTortinita/astrbot_plugin_collectimage",
+    "tags": [],
+    "social_link": "https://github.com/FineTortinita",
+    "stars": 0,
+    "version": "v1.8.0",
+    "updated_at": "2026-03-26T08:40:22Z"
+  },
+  "astrbot_plugin_today_length": {
+    "name": "astrbot_plugin_today_length",
+    "display_name": "未审核：每日长度趣味插件",
+    "desc": "每日长度趣味插件",
+    "author": "YOYO",
+    "repo": "https://github.com/yoyoakalin/today_length",
+    "tags": [],
+    "social_link": "https://github.com/yoyoakalin",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-26T08:31:42Z"
+  },
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：模拟修仙v3",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.4.3",
+    "updated_at": "2026-03-26T08:13:29Z"
+  },
   "astrbot_plugin_group_message_counter": {
     "name": "astrbot_plugin_group_message_counter",
     "display_name": "未审核：群消息统计",
@@ -9,7 +109,7 @@
     "social_link": "https://github.com/bricks0411",
     "stars": 3,
     "version": "v0.2.0",
-    "updated_at": "2026-03-26T06:32:04Z"
+    "updated_at": "2026-03-26T07:34:27Z"
   },
   "astrbot_plugin_wechat_auth": {
     "name": "astrbot_plugin_wechat_auth",
@@ -55,18 +155,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-26T05:41:49Z"
   },
-  "astrbot_plugin_collectimage": {
-    "name": "astrbot_plugin_collectimage",
-    "display_name": "未审核：群聊图片手机",
-    "desc": "自动识别群聊图片内容、提取标签和角色，并实现本地持久化存储与检索。",
-    "author": "FineTortinita",
-    "repo": "https://github.com/FineTortinita/astrbot_plugin_collectimage",
-    "tags": [],
-    "social_link": "https://github.com/FineTortinita",
-    "stars": 0,
-    "version": "v1.8.0",
-    "updated_at": "2026-03-26T05:39:53Z"
-  },
   "astrbot_plugin_analysis_bilibili": {
     "name": "astrbot_plugin_analysis_bilibili",
     "display_name": "未审核：B站视频解析简易版",
@@ -105,21 +193,6 @@
     "version": "v1.4.0",
     "updated_at": "2026-03-25T22:04:55Z",
     "logo": "https://raw.githubusercontent.com/INstabliTY/astrbot_plugin_Information_Assistant/master/logo.png"
-  },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：模拟修仙v3",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.3.14",
-    "updated_at": "2026-03-25T19:01:19Z"
   },
   "astrbot_plugin_live_dashboard": {
     "name": "astrbot_plugin_live_dashboard",
@@ -173,22 +246,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-25T16:25:36Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
-  },
-  "astrbot_plugin_cirno": {
-    "name": "astrbot_plugin_cirno",
-    "display_name": "未审核：琪露诺——baka!",
-    "desc": "把你的bot变成一只有记忆、有心情的baka! 她会记住每个人，越聊越了解你",
-    "author": "Reisenbug",
-    "repo": "https://github.com/Reisenbug/AstrBot_Plugin_Cirno",
-    "tags": [
-      "角色扮演",
-      "人格",
-      "东方project"
-    ],
-    "social_link": "https://github.com/Reisenbug",
-    "stars": 1,
-    "version": "v2.0.0",
-    "updated_at": "2026-03-25T16:07:58Z"
   },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
@@ -2088,23 +2145,6 @@
     "stars": 1,
     "version": "v2.0.0",
     "updated_at": "2026-03-10T14:14:29Z"
-  },
-  "astrbot_plugin_fishing": {
-    "name": "astrbot_plugin_fishing",
-    "display_name": "未审核：FishingForever!",
-    "desc": "钓鱼插件个人魔改版，基于FishingAnother!的v2.4.7版本进行更新维护。",
-    "author": "AdeleNaumann-Eyjafjalla",
-    "repo": "https://github.com/AdeleNaumann-Eyjafjalla/astrbot_plugin_fishing",
-    "tags": [
-      "游戏",
-      "fishing",
-      "钓鱼"
-    ],
-    "social_link": "https://github.com/AdeleNaumann-Eyjafjalla",
-    "stars": 1,
-    "version": "2.4.8",
-    "updated_at": "2026-03-10T08:59:27Z",
-    "logo": "https://raw.githubusercontent.com/AdeleNaumann-Eyjafjalla/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_qqjiazhi": {
     "name": "astrbot_plugin_qqjiazhi",
