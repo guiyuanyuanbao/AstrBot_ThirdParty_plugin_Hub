@@ -9,7 +9,7 @@
     "social_link": "https://github.com/FineTortinita",
     "stars": 0,
     "version": "v1.8.0",
-    "updated_at": "2026-03-26T13:07:30Z"
+    "updated_at": "2026-03-26T15:02:23Z"
   },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
@@ -23,8 +23,26 @@
     ],
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
-    "version": "v3.4.8",
-    "updated_at": "2026-03-26T12:51:11Z"
+    "version": "v3.4.9",
+    "updated_at": "2026-03-26T14:43:18Z"
+  },
+  "astrbot_plugin_sadstory": {
+    "name": "astrbot_plugin_sadstory",
+    "display_name": "未审核：伪装聊天记录",
+    "desc": "在群聊中以合并转发消息的形式展示伤感故事，支持 LLM 生成、故事模板参考、自定义角色、群白名单等",
+    "author": "Towqs",
+    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
+    "tags": [
+      "QQ",
+      "聊天",
+      "故事",
+      "转发消息"
+    ],
+    "social_link": "https://github.com/Towqs",
+    "stars": 1,
+    "version": "v0.5.7",
+    "updated_at": "2026-03-26T14:32:16Z",
+    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
   },
   "astrbot_plugin_wechat_auth": {
     "name": "astrbot_plugin_wechat_auth",
@@ -282,24 +300,6 @@
     "updated_at": "2026-03-25T16:25:36Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
   },
-  "astrbot_plugin_sadstory": {
-    "name": "astrbot_plugin_sadstory",
-    "display_name": "未审核：伪装聊天记录",
-    "desc": "在群聊中以合并转发消息的形式展示伤感故事，支持 LLM 生成、故事模板参考、自定义角色、群白名单等",
-    "author": "Towqs",
-    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
-    "tags": [
-      "QQ",
-      "聊天",
-      "故事",
-      "转发消息"
-    ],
-    "social_link": "https://github.com/Towqs",
-    "stars": 1,
-    "version": "v0.5.5",
-    "updated_at": "2026-03-25T14:37:06Z",
-    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
-  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -316,7 +316,7 @@
       "长期记忆"
     ],
     "social_link": "https://github.com/olozhika",
-    "stars": 17,
+    "stars": 18,
     "version": "v1.2.0",
     "updated_at": "2026-03-25T12:36:44Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
