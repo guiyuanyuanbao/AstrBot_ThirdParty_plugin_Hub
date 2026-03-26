@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_collectimage": {
+    "name": "astrbot_plugin_collectimage",
+    "display_name": "未审核：群聊图片手机",
+    "desc": "自动识别群聊图片内容、提取标签和角色，并实现本地持久化存储与检索。",
+    "author": "FineTortinita",
+    "repo": "https://github.com/FineTortinita/astrbot_plugin_collectimage",
+    "tags": [],
+    "social_link": "https://github.com/FineTortinita",
+    "stars": 0,
+    "version": "v1.8.0",
+    "updated_at": "2026-03-26T18:03:02Z"
+  },
   "astrbot_plugin_llm_enhancement": {
     "name": "astrbot_plugin_llm_enhancement",
     "display_name": "未审核：LLM 综合增强",
@@ -80,18 +92,6 @@
     "stars": 0,
     "version": "v1.0.16",
     "updated_at": "2026-03-26T15:10:36Z"
-  },
-  "astrbot_plugin_collectimage": {
-    "name": "astrbot_plugin_collectimage",
-    "display_name": "未审核：群聊图片手机",
-    "desc": "自动识别群聊图片内容、提取标签和角色，并实现本地持久化存储与检索。",
-    "author": "FineTortinita",
-    "repo": "https://github.com/FineTortinita/astrbot_plugin_collectimage",
-    "tags": [],
-    "social_link": "https://github.com/FineTortinita",
-    "stars": 0,
-    "version": "v1.8.0",
-    "updated_at": "2026-03-26T15:02:23Z"
   },
   "astrbot_plugin_vtube_studio": {
     "name": "astrbot_plugin_vtube_studio",
