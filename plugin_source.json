@@ -1,15 +1,59 @@
 {
-  "astrbot_plugin_analysis_bilibili": {
-    "name": "astrbot_plugin_analysis_bilibili",
-    "display_name": "未审核：B站视频解析简易版",
-    "desc": "会发送视频的点赞和收藏等基本信息.然后根据设置的阈值判断发送封面,还是发送视频.",
-    "author": "Furina",
-    "repo": "https://github.com/Furina010013/astrbot_plugin_analysis_bilibili",
+  "astrbot_plugin_group_message_counter": {
+    "name": "astrbot_plugin_group_message_counter",
+    "display_name": "未审核：群消息统计",
+    "desc": "一个简单的群聊消息计数器，用来统计群友今天在群里说了多少逼话",
+    "author": "Bricks0411",
+    "repo": "https://github.com/bricks0411/astrbot_plugin_group_message_counter",
     "tags": [],
-    "social_link": "https://homeofmjr.top/",
-    "stars": 1,
-    "version": "1.2.0",
-    "updated_at": "2026-03-26T04:38:01Z"
+    "social_link": "https://github.com/bricks0411",
+    "stars": 3,
+    "version": "v0.2.0",
+    "updated_at": "2026-03-26T06:32:04Z"
+  },
+  "astrbot_plugin_wechat_auth": {
+    "name": "astrbot_plugin_wechat_auth",
+    "display_name": "未审核：微信鉴权插件",
+    "desc": "自动识别微信用户并将指定用户设为管理员",
+    "author": "EterUltimate",
+    "repo": "https://github.com/EterUltimate/astrbot_plugin_wechat_auth",
+    "tags": [
+      "auth"
+    ],
+    "social_link": "https://github.com/EterUltimate",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-26T06:14:42Z"
+  },
+  "astrbot_plugin_vtube_studio": {
+    "name": "astrbot_plugin_vtube_studio",
+    "display_name": "未审核：vtube_studio插件",
+    "desc": "vtube_studio连接支持",
+    "author": "EterUltimate",
+    "repo": "https://github.com/EterUltimate/astrbot_plugin_vtube_studio",
+    "tags": [
+      "vtuber"
+    ],
+    "social_link": "https://github.com/EterUltimate",
+    "stars": 0,
+    "version": "1.0.1",
+    "updated_at": "2026-03-26T06:05:37Z"
+  },
+  "astrbot_plugin_meme_symmetry": {
+    "name": "astrbot_plugin_meme_symmetry",
+    "display_name": "未审核：抽象对称表情",
+    "desc": "一个简单的 通过引用回复将 静图/动图 进行对称镜像以打到抽象的目的 （？强强？）",
+    "author": "XiaoLan9999",
+    "repo": "https://github.com/XiaoLan9999/astrbot_plugin_meme_symmetry",
+    "tags": [
+      "抽象",
+      "图片",
+      "对称"
+    ],
+    "social_link": "https://xiaolan9999.net/",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-26T05:41:49Z"
   },
   "astrbot_plugin_collectimage": {
     "name": "astrbot_plugin_collectimage",
@@ -21,7 +65,19 @@
     "social_link": "https://github.com/FineTortinita",
     "stars": 0,
     "version": "v1.8.0",
-    "updated_at": "2026-03-26T04:33:50Z"
+    "updated_at": "2026-03-26T05:39:53Z"
+  },
+  "astrbot_plugin_analysis_bilibili": {
+    "name": "astrbot_plugin_analysis_bilibili",
+    "display_name": "未审核：B站视频解析简易版",
+    "desc": "会发送视频的点赞和收藏等基本信息.然后根据设置的阈值判断发送封面,还是发送视频.",
+    "author": "Furina",
+    "repo": "https://github.com/Furina010013/astrbot_plugin_analysis_bilibili",
+    "tags": [],
+    "social_link": "https://homeofmjr.top/",
+    "stars": 1,
+    "version": "1.2.0",
+    "updated_at": "2026-03-26T04:38:01Z"
   },
   "astrbot_plugin_wol_miko": {
     "name": "astrbot_plugin_wol_miko",
@@ -151,18 +207,6 @@
     "version": "v0.5.5",
     "updated_at": "2026-03-25T14:37:06Z",
     "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
-  },
-  "astrbot_plugin_vtube_studio": {
-    "name": "astrbot_plugin_vtube_studio",
-    "display_name": "未审核：vtube_studio插件",
-    "desc": "vtube_studio连接支持",
-    "author": "EterUltimate",
-    "repo": "https://github.com/EterUltimate/astrbot_plugin_vtube_studio",
-    "tags": [],
-    "social_link": "https://github.com/EterUltimate",
-    "stars": 0,
-    "version": "v0.0.0",
-    "updated_at": "2026-03-25T13:55:58Z"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
@@ -1467,18 +1511,6 @@
     "stars": 4,
     "version": "v1.2",
     "updated_at": "2026-03-15T12:21:29Z"
-  },
-  "astrbot_plugin_group_message_counter": {
-    "name": "astrbot_plugin_group_message_counter",
-    "display_name": "未审核：群消息统计",
-    "desc": "一个简单的群聊消息计数器，用来统计群友今天在群里说了多少逼话",
-    "author": "Bricks0411",
-    "repo": "https://github.com/bricks0411/astrbot_plugin_group_message_counter",
-    "tags": [],
-    "social_link": "https://github.com/bricks0411",
-    "stars": 3,
-    "version": "v0.2.0",
-    "updated_at": "2026-03-15T11:29:50Z"
   },
   "astrbot_plugin_context_injector": {
     "name": "astrbot_plugin_context_injector",
