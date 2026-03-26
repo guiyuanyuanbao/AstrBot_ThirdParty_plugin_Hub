@@ -1,19 +1,64 @@
 {
-  "astrbot_plugin_cirno": {
-    "name": "astrbot_plugin_cirno",
-    "display_name": "未审核：琪露诺——baka!",
-    "desc": "把你的bot变成一只有记忆、有心情的baka! 她会记住每个人，越聊越了解你",
-    "author": "Reisenbug",
-    "repo": "https://github.com/Reisenbug/AstrBot_Plugin_Cirno",
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：模拟修仙v3",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
     "tags": [
-      "角色扮演",
-      "人格",
-      "东方project"
+      "修仙",
+      "游戏"
     ],
-    "social_link": "https://github.com/Reisenbug",
-    "stars": 1,
-    "version": "v2.0.0",
-    "updated_at": "2026-03-26T08:53:36Z"
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.4.5",
+    "updated_at": "2026-03-26T10:00:30Z"
+  },
+  "astrbot_plugin_adapter_watchdog": {
+    "name": "astrbot_plugin_adapter_watchdog",
+    "display_name": "未审核：适配器看门狗",
+    "desc": "监控平台适配器在线状态，掉线或恢复时向指定会话发送通知。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_adapter_watchdog",
+    "tags": [
+      "掉线",
+      "QQ",
+      "监控"
+    ],
+    "social_link": "https://github.com/Foolllll-J",
+    "stars": 0,
+    "version": "v1.0",
+    "updated_at": "2026-03-26T09:27:22Z",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
+  },
+  "astrbot_plugin_collectimage": {
+    "name": "astrbot_plugin_collectimage",
+    "display_name": "未审核：群聊图片手机",
+    "desc": "自动识别群聊图片内容、提取标签和角色，并实现本地持久化存储与检索。",
+    "author": "FineTortinita",
+    "repo": "https://github.com/FineTortinita/astrbot_plugin_collectimage",
+    "tags": [],
+    "social_link": "https://github.com/FineTortinita",
+    "stars": 0,
+    "version": "v1.8.0",
+    "updated_at": "2026-03-26T09:24:23Z"
+  },
+  "astrbot_plugin_llmsupport": {
+    "name": "astrbot_plugin_llmsupport",
+    "display_name": "未审核：LLM感知用户打赏",
+    "desc": "对话表示想要支持打赏请客意图时，LLM表示感谢并亮出二维码。",
+    "author": "雷诺哈特",
+    "repo": "https://github.com/Weiss-UltimateSavior/astrbot_plugin_LLMsupport",
+    "tags": [
+      "LLM",
+      "打赏",
+      "二维码",
+      "投喂"
+    ],
+    "social_link": "https://github.com/Weiss-UltimateSavior",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-03-26T09:14:52Z"
   },
   "astrbot_plugin_linkview": {
     "name": "astrbot_plugin_linkview",
@@ -26,22 +71,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-03-26T08:52:26Z"
-  },
-  "astrbot_plugin_llmsupport": {
-    "name": "astrbot_plugin_llmsupport",
-    "display_name": "未审核：LLM用户打赏感知",
-    "desc": "对话表示想要支持打赏请客意图时，LLM表示感谢并亮出二维码。",
-    "author": "雷诺哈特",
-    "repo": "https://github.com/Weiss-UltimateSavior/astrbot_plugin_LLMsupport",
-    "tags": [
-      "LLM",
-      "打赏",
-      "二维码"
-    ],
-    "social_link": "https://github.com/Weiss-UltimateSavior",
-    "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-03-26T08:52:19Z"
   },
   "astrbot_plugin_fishing": {
     "name": "astrbot_plugin_fishing",
@@ -60,18 +89,6 @@
     "updated_at": "2026-03-26T08:47:06Z",
     "logo": "https://raw.githubusercontent.com/AdeleNaumann-Eyjafjalla/astrbot_plugin_fishing/main/logo.png"
   },
-  "astrbot_plugin_collectimage": {
-    "name": "astrbot_plugin_collectimage",
-    "display_name": "未审核：群聊图片手机",
-    "desc": "自动识别群聊图片内容、提取标签和角色，并实现本地持久化存储与检索。",
-    "author": "FineTortinita",
-    "repo": "https://github.com/FineTortinita/astrbot_plugin_collectimage",
-    "tags": [],
-    "social_link": "https://github.com/FineTortinita",
-    "stars": 0,
-    "version": "v1.8.0",
-    "updated_at": "2026-03-26T08:40:22Z"
-  },
   "astrbot_plugin_today_length": {
     "name": "astrbot_plugin_today_length",
     "display_name": "未审核：每日长度趣味插件",
@@ -84,21 +101,6 @@
     "version": "1.0.0",
     "updated_at": "2026-03-26T08:31:42Z"
   },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：模拟修仙v3",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.4.3",
-    "updated_at": "2026-03-26T08:13:29Z"
-  },
   "astrbot_plugin_group_message_counter": {
     "name": "astrbot_plugin_group_message_counter",
     "display_name": "未审核：群消息统计",
@@ -110,34 +112,6 @@
     "stars": 3,
     "version": "v0.2.0",
     "updated_at": "2026-03-26T07:34:27Z"
-  },
-  "astrbot_plugin_wechat_auth": {
-    "name": "astrbot_plugin_wechat_auth",
-    "display_name": "未审核：微信鉴权插件",
-    "desc": "自动识别微信用户并将指定用户设为管理员",
-    "author": "EterUltimate",
-    "repo": "https://github.com/EterUltimate/astrbot_plugin_wechat_auth",
-    "tags": [
-      "auth"
-    ],
-    "social_link": "https://github.com/EterUltimate",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-26T06:14:42Z"
-  },
-  "astrbot_plugin_vtube_studio": {
-    "name": "astrbot_plugin_vtube_studio",
-    "display_name": "未审核：vtube_studio插件",
-    "desc": "vtube_studio连接支持",
-    "author": "EterUltimate",
-    "repo": "https://github.com/EterUltimate/astrbot_plugin_vtube_studio",
-    "tags": [
-      "vtuber"
-    ],
-    "social_link": "https://github.com/EterUltimate",
-    "stars": 0,
-    "version": "1.0.1",
-    "updated_at": "2026-03-26T06:05:37Z"
   },
   "astrbot_plugin_meme_symmetry": {
     "name": "astrbot_plugin_meme_symmetry",
