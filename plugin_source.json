@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_qiukan": {
+    "name": "astrbot_plugin_qiukan",
+    "display_name": "未审核：骑砍英雄传",
+    "desc": "AI改的文字RPG游戏",
+    "author": "阿氰叔叔",
+    "repo": "https://github.com/Uncle-Clyde/astrbot_plugin_qiukan",
+    "tags": [],
+    "social_link": "https://github.com/Uncle-Clyde",
+    "stars": 0,
+    "version": "v0.0.0",
+    "updated_at": "2026-03-26T22:18:40Z"
+  },
   "astrbot_plugin_self_open_llm_vtuber": {
     "name": "astrbot_plugin_self_open_llm_vtuber",
     "display_name": "未审核：Alice的桌面分身",
