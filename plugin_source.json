@@ -11,7 +11,7 @@
     "social_link": "https://github.com/MIKOvOKM",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-03-25T23:16:25Z"
+    "updated_at": "2026-03-26T00:42:24Z"
   },
   "astrbot_plugin_information_assistant": {
     "name": "astrbot_plugin_information_assistant",
@@ -264,18 +264,6 @@
     "stars": 0,
     "version": "1.0.0",
     "updated_at": "2026-03-25T10:44:59Z"
-  },
-  "astrbot_plugin_work_logger": {
-    "name": "astrbot_plugin_work_logger",
-    "display_name": "未审核：工作记录插件",
-    "desc": "工作记录插件，支持自然语言记录工作内容，自动生成日报/周报/月报，支持定时推送图片格式工作报告",
-    "author": "Tilicil",
-    "repo": "https://github.com/tilicil/Astrbot_plugin_work_logger",
-    "tags": [],
-    "social_link": "https://github.com/tilicil",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-25T05:22:32Z"
   },
   "astrbot_plugin_userbanorunban": {
     "name": "astrbot_plugin_userbanorunban",
