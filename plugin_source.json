@@ -8,9 +8,25 @@
     "tags": [],
     "social_link": "https://github.com/Uncle-Clyde",
     "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-26T23:31:45Z",
+    "version": "v0.1.2",
+    "updated_at": "2026-03-27T02:18:12Z",
     "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
+  },
+  "astrbot_plugin_honorofkings": {
+    "name": "astrbot_plugin_honorofkings",
+    "display_name": "未审核：温雅的农药查询工具",
+    "desc": "查询王者荣耀账号的近期战绩/实时上榜战力/账号资料等功能",
+    "author": "温雅",
+    "repo": "https://github.com/i12cu4/astrbot_plugin_HonorOfKings",
+    "tags": [
+      "王者荣耀",
+      "查询工具"
+    ],
+    "social_link": "https://github.com/i12cu4",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-27T00:39:52Z",
+    "logo": "https://raw.githubusercontent.com/i12cu4/astrbot_plugin_HonorOfKings/master/logo.png"
   },
   "astrbot_plugin_self_open_llm_vtuber": {
     "name": "astrbot_plugin_self_open_llm_vtuber",
@@ -178,6 +194,22 @@
     "stars": 5,
     "version": "0.1.6",
     "updated_at": "2026-03-26T12:29:46Z"
+  },
+  "astrbot_plugin_tarkov_wiki": {
+    "name": "astrbot_plugin_tarkov_wiki",
+    "display_name": "未审核：塔科夫 Wiki 查询",
+    "desc": "在 QQ 群查询塔科夫 Wiki 的插件。",
+    "author": "WispChan",
+    "repo": "https://github.com/LYB926/astrbot_plugin_tarkov_wiki",
+    "tags": [
+      "逃离塔科夫",
+      "塔科夫",
+      "Wiki"
+    ],
+    "social_link": "https://github.com/LYB926",
+    "stars": 0,
+    "version": "v0.3.0",
+    "updated_at": "2026-03-26T12:07:30Z"
   },
   "astrbot_plugin_adapter_watchdog": {
     "name": "astrbot_plugin_adapter_watchdog",
