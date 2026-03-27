@@ -1,4 +1,41 @@
 {
+  "astrbot_plugin_local_reminiscence": {
+    "name": "astrbot_plugin_local_reminiscence",
+    "display_name": "未审核：本地回忆[APLR]",
+    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
+    "author": "olozhika",
+    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
+    "tags": [
+      "记忆",
+      "回忆",
+      "每日总结",
+      "语义识别",
+      "关键词",
+      "上下文注入",
+      "长期记忆"
+    ],
+    "social_link": "https://github.com/olozhika",
+    "stars": 18,
+    "version": "v1.2.1",
+    "updated_at": "2026-03-27T18:56:15Z",
+    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
+  },
+  "astrbot_plugin_steam_efficient_interactor": {
+    "name": "astrbot_plugin_steam_efficient_interactor",
+    "display_name": "未审核：Steam高效互动者",
+    "desc": "通过llm互动控制bot监控Steam指定玩家的状态变更与通知推送或查看信息。",
+    "author": "Yezi & CzXieDdan",
+    "repo": "https://github.com/czxieddan/astrbot_plugin_steam_efficient_interactor",
+    "tags": [
+      "steam",
+      "llm"
+    ],
+    "social_link": "https://github.com/czxieddan",
+    "stars": 1,
+    "version": "2.8.2",
+    "updated_at": "2026-03-27T18:37:34Z",
+    "logo": "https://raw.githubusercontent.com/czxieddan/astrbot_plugin_steam_efficient_interactor/main/logo.png"
+  },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
     "display_name": "未审核：伪装聊天",
@@ -35,27 +72,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-27T17:09:19Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
-  },
-  "astrbot_plugin_local_reminiscence": {
-    "name": "astrbot_plugin_local_reminiscence",
-    "display_name": "未审核：本地回忆[APLR]",
-    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
-    "author": "olozhika",
-    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
-    "tags": [
-      "记忆",
-      "回忆",
-      "每日总结",
-      "语义识别",
-      "关键词",
-      "上下文注入",
-      "长期记忆"
-    ],
-    "social_link": "https://github.com/olozhika",
-    "stars": 18,
-    "version": "v1.2.1",
-    "updated_at": "2026-03-27T16:30:40Z",
-    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
@@ -143,22 +159,6 @@
     "stars": 8,
     "version": "1.01",
     "updated_at": "2026-03-27T10:03:17Z"
-  },
-  "astrbot_plugin_steam_efficient_interactor": {
-    "name": "astrbot_plugin_steam_efficient_interactor",
-    "display_name": "未审核：Steam高效互动者",
-    "desc": "通过llm互动控制bot监控Steam指定玩家的状态变更与通知推送或查看信息。",
-    "author": "Yezi & CzXieDdan",
-    "repo": "https://github.com/czxieddan/astrbot_plugin_steam_efficient_interactor",
-    "tags": [
-      "steam",
-      "llm"
-    ],
-    "social_link": "https://github.com/czxieddan",
-    "stars": 1,
-    "version": "2.8.1",
-    "updated_at": "2026-03-27T07:39:49Z",
-    "logo": "https://raw.githubusercontent.com/czxieddan/astrbot_plugin_steam_efficient_interactor/main/logo.png"
   },
   "astrbot_plugin_qq_group_manager": {
     "name": "astrbot_plugin_qq_group_manager",
