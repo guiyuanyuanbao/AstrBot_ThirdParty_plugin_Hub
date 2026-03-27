@@ -1,4 +1,32 @@
 {
+  "astrbot_plugin_qiukan": {
+    "name": "astrbot_plugin_qiukan",
+    "display_name": "未审核：骑砍英雄传",
+    "desc": "AI改的文字RPG游戏",
+    "author": "阿氰叔叔",
+    "repo": "https://github.com/Uncle-Clyde/astrbot_plugin_qiukan",
+    "tags": [],
+    "social_link": "https://github.com/Uncle-Clyde",
+    "stars": 0,
+    "version": "v0.1.2",
+    "updated_at": "2026-03-27T09:53:20Z",
+    "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
+  },
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：模拟修仙v3",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.5.0",
+    "updated_at": "2026-03-27T09:48:52Z"
+  },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
     "display_name": "未审核：伪装聊天",
@@ -63,19 +91,6 @@
     "version": "v1.0",
     "updated_at": "2026-03-27T06:11:40Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
-  },
-  "astrbot_plugin_qiukan": {
-    "name": "astrbot_plugin_qiukan",
-    "display_name": "未审核：骑砍英雄传",
-    "desc": "AI改的文字RPG游戏",
-    "author": "阿氰叔叔",
-    "repo": "https://github.com/Uncle-Clyde/astrbot_plugin_qiukan",
-    "tags": [],
-    "social_link": "https://github.com/Uncle-Clyde",
-    "stars": 0,
-    "version": "v0.1.2",
-    "updated_at": "2026-03-27T05:52:58Z",
-    "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
   },
   "astrbot_plugin_llmsupport": {
     "name": "astrbot_plugin_llmsupport",
@@ -157,21 +172,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-26T16:58:40Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
-  },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：模拟修仙v3",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.4.10",
-    "updated_at": "2026-03-26T16:35:33Z"
   },
   "astrbot_plugin_coding_plan_chat": {
     "name": "astrbot_plugin_coding_plan_chat",
