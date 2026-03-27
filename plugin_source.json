@@ -1,4 +1,49 @@
 {
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：模拟修仙v3",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.5.10",
+    "updated_at": "2026-03-27T15:36:55Z"
+  },
+  "astrbot_plugin_group_invite_auto_approve": {
+    "name": "astrbot_plugin_group_invite_auto_approve",
+    "display_name": "未审核：根据群信息自动进群",
+    "desc": "AstrBot 自动同意加群插件 - 根据群名称或群简介关键词自动同意加群邀请，并发送私聊消息和进群消息",
+    "author": "星陨",
+    "repo": "https://github.com/XingYunStar/astrbot_plugin_group_invite_auto_approve",
+    "tags": [
+      "群邀请"
+    ],
+    "social_link": "https://github.com/XingYunStar",
+    "stars": 0,
+    "version": "v1.0.8",
+    "updated_at": "2026-03-27T15:36:01Z",
+    "logo": "https://raw.githubusercontent.com/XingYunStar/astrbot_plugin_group_invite_auto_approve/master/logo.png"
+  },
+  "astrbot_plugin_steam_friend_monitor": {
+    "name": "astrbot_plugin_steam_friend_monitor",
+    "display_name": "未审核：Steam 好友世间插件",
+    "desc": "看看谁在偷偷玩游戏！\n支持上线/下线/启动游戏/切换游戏 多选触发图片推送，支持成就播报。",
+    "author": "FlandreSatori",
+    "repo": "https://github.com/FlandreSatori/astrbot_plugin_steam_friend_monitor",
+    "tags": [
+      "steam"
+    ],
+    "social_link": "https://github.com/FlandreSatori",
+    "stars": 0,
+    "version": "0.9.0",
+    "updated_at": "2026-03-27T15:26:12Z",
+    "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
+  },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
     "display_name": "未审核：伪装聊天",
@@ -16,21 +61,6 @@
     "version": "v0.6.8",
     "updated_at": "2026-03-27T08:41:12Z",
     "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
-  },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：模拟修仙v3",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.5.9",
-    "updated_at": "2026-03-27T14:25:51Z"
   },
   "astrbot_plugin_self_open_llm_vtuber": {
     "name": "astrbot_plugin_self_open_llm_vtuber",
@@ -808,21 +838,6 @@
     "stars": 0,
     "version": "1.4.4",
     "updated_at": "2026-03-22T19:10:20Z"
-  },
-  "astrbot_plugin_steam_friend_monitor": {
-    "name": "astrbot_plugin_steam_friend_monitor",
-    "display_name": "未审核：Steam 好友世间插件",
-    "desc": "看看谁在偷偷玩游戏！\n支持上线/下线/启动游戏/切换游戏 多选触发图片推送，支持成就播报。",
-    "author": "FlandreSatori",
-    "repo": "https://github.com/FlandreSatori/astrbot_plugin_steam_friend_monitor",
-    "tags": [
-      "steam"
-    ],
-    "social_link": "https://github.com/FlandreSatori",
-    "stars": 0,
-    "version": "0.8.9",
-    "updated_at": "2026-03-22T10:19:00Z",
-    "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
   },
   "astrbot_plugin_hwinfo": {
     "name": "astrbot_plugin_hwinfo",
