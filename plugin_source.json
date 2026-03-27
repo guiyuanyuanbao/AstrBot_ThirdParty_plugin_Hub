@@ -1,4 +1,33 @@
 {
+  "astrbot_plugin_tencent_cloud_controller": {
+    "name": "astrbot_plugin_tencent_cloud_controller",
+    "display_name": "未审核：腾讯云DNS解析控制器",
+    "desc": "一个用于管理腾讯云DNS解析记录的插件。支持指令与LLM工具。",
+    "author": "syuan326",
+    "repo": "https://github.com/syuan326/astrbot_plugin_tencent_cloud_controller",
+    "tags": [
+      "腾讯云",
+      "DNS解析"
+    ],
+    "social_link": "https://www.pardofelis.top",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-27T19:36:48Z",
+    "logo": "https://raw.githubusercontent.com/syuan326/astrbot_plugin_tencent_cloud_controller/main/logo.png"
+  },
+  "astrbot_plugin_qiukan": {
+    "name": "astrbot_plugin_qiukan",
+    "display_name": "未审核：骑砍英雄传",
+    "desc": "AI改的文字RPG游戏",
+    "author": "阿氰叔叔",
+    "repo": "https://github.com/Uncle-Clyde/astrbot_plugin_qiukan",
+    "tags": [],
+    "social_link": "https://github.com/Uncle-Clyde",
+    "stars": 0,
+    "version": "v0.1.3",
+    "updated_at": "2026-03-27T19:10:22Z",
+    "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
+  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -17,7 +46,7 @@
     "social_link": "https://github.com/olozhika",
     "stars": 18,
     "version": "v1.2.1",
-    "updated_at": "2026-03-27T18:56:15Z",
+    "updated_at": "2026-03-27T19:07:07Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot_plugin_steam_efficient_interactor": {
@@ -102,19 +131,6 @@
     "version": "0.9.1",
     "updated_at": "2026-03-27T16:05:25Z",
     "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
-  },
-  "astrbot_plugin_qiukan": {
-    "name": "astrbot_plugin_qiukan",
-    "display_name": "未审核：骑砍英雄传",
-    "desc": "AI改的文字RPG游戏",
-    "author": "阿氰叔叔",
-    "repo": "https://github.com/Uncle-Clyde/astrbot_plugin_qiukan",
-    "tags": [],
-    "social_link": "https://github.com/Uncle-Clyde",
-    "stars": 0,
-    "version": "v0.1.3",
-    "updated_at": "2026-03-27T15:56:49Z",
-    "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
   },
   "astrbot_plugin_group_invite_auto_approve": {
     "name": "astrbot_plugin_group_invite_auto_approve",
