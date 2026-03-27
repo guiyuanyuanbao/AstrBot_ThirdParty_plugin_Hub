@@ -9,8 +9,25 @@
     "social_link": "https://github.com/Uncle-Clyde",
     "stars": 0,
     "version": "v0.1.2",
-    "updated_at": "2026-03-27T02:18:12Z",
+    "updated_at": "2026-03-27T03:43:59Z",
     "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
+  },
+  "astrbot_plugin_llmsupport": {
+    "name": "astrbot_plugin_llmsupport",
+    "display_name": "未审核：LLM感知用户打赏",
+    "desc": "对话表示想要支持打赏请客意图时，LLM表示感谢并亮出二维码。",
+    "author": "雷诺哈特",
+    "repo": "https://github.com/Weiss-UltimateSavior/astrbot_plugin_LLMsupport",
+    "tags": [
+      "LLM",
+      "投喂",
+      "打赏",
+      "二维码"
+    ],
+    "social_link": "https://github.com/Weiss-UltimateSavior",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-03-27T02:58:46Z"
   },
   "astrbot_plugin_honorofkings": {
     "name": "astrbot_plugin_honorofkings",
@@ -227,23 +244,6 @@
     "version": "v1.0",
     "updated_at": "2026-03-26T09:27:22Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
-  },
-  "astrbot_plugin_llmsupport": {
-    "name": "astrbot_plugin_llmsupport",
-    "display_name": "未审核：LLM感知用户打赏",
-    "desc": "对话表示想要支持打赏请客意图时，LLM表示感谢并亮出二维码。",
-    "author": "雷诺哈特",
-    "repo": "https://github.com/Weiss-UltimateSavior/astrbot_plugin_LLMsupport",
-    "tags": [
-      "LLM",
-      "打赏",
-      "二维码",
-      "投喂"
-    ],
-    "social_link": "https://github.com/Weiss-UltimateSavior",
-    "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-03-26T09:14:52Z"
   },
   "astrbot_plugin_linkview": {
     "name": "astrbot_plugin_linkview",
