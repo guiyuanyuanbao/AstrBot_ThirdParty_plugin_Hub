@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_sadstory": {
+    "name": "astrbot_plugin_sadstory",
+    "display_name": "未审核：伪装聊天",
+    "desc": "在群聊中以合并转发消息的形式展示伪装聊天，支持 LLM 生成、Prompt 风格管理、故事模板参考、自定义角色等",
+    "author": "Towqs",
+    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
+    "tags": [
+      "QQ",
+      "聊天",
+      "故事",
+      "转发"
+    ],
+    "social_link": "https://github.com/Towqs",
+    "stars": 1,
+    "version": "v0.6.8",
+    "updated_at": "2026-03-27T08:41:12Z",
+    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
+  },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
     "display_name": "未审核：模拟修仙v3",
@@ -11,8 +29,25 @@
     ],
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
-    "version": "v3.5.8",
-    "updated_at": "2026-03-27T12:25:44Z"
+    "version": "v3.5.9",
+    "updated_at": "2026-03-27T14:25:51Z"
+  },
+  "astrbot_plugin_self_open_llm_vtuber": {
+    "name": "astrbot_plugin_self_open_llm_vtuber",
+    "display_name": "未审核：Alice的桌面分身",
+    "desc": "让你的bot在桌面或者web可以看到你、看到你在干什么、开口说话并实时做表情动作，支持语音输入、语音打断与互动联动。",
+    "author": "YakumoAki",
+    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
+    "tags": [
+      "live2d",
+      "皮套",
+      "open llm vtuber"
+    ],
+    "social_link": "https://space.bilibili.com/41761329",
+    "stars": 2,
+    "version": "1.0.0",
+    "updated_at": "2026-03-27T14:05:47Z",
+    "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
   "astrbot_plugin_qiukan": {
     "name": "astrbot_plugin_qiukan",
@@ -38,24 +73,6 @@
     "stars": 8,
     "version": "1.01",
     "updated_at": "2026-03-27T10:03:17Z"
-  },
-  "astrbot_plugin_sadstory": {
-    "name": "astrbot_plugin_sadstory",
-    "display_name": "未审核：伪装聊天",
-    "desc": "在群聊中以合并转发消息的形式展示伪装聊天，支持 LLM 生成、Prompt 风格管理、故事模板参考、自定义角色等",
-    "author": "Towqs",
-    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
-    "tags": [
-      "QQ",
-      "聊天",
-      "故事",
-      "转发"
-    ],
-    "social_link": "https://github.com/Towqs",
-    "stars": 1,
-    "version": "v0.6.8",
-    "updated_at": "2026-03-27T08:41:12Z",
-    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
   },
   "astrbot_plugin_steam_efficient_interactor": {
     "name": "astrbot_plugin_steam_efficient_interactor",
@@ -120,23 +137,6 @@
     "stars": 0,
     "version": "v1.1.0",
     "updated_at": "2026-03-27T02:58:46Z"
-  },
-  "astrbot_plugin_self_open_llm_vtuber": {
-    "name": "astrbot_plugin_self_open_llm_vtuber",
-    "display_name": "未审核：Alice的桌面分身",
-    "desc": "让你的bot在桌面或者web可以看到你、看到你在干什么、开口说话并实时做表情动作，支持语音输入、语音打断与互动联动。",
-    "author": "YakumoAki",
-    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
-    "tags": [
-      "live2d",
-      "皮套",
-      "open llm vtuber"
-    ],
-    "social_link": "https://space.bilibili.com/41761329",
-    "stars": 2,
-    "version": "0.9.8",
-    "updated_at": "2026-03-26T19:20:29Z",
-    "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
   "astrbot_plugin_collectimage": {
     "name": "astrbot_plugin_collectimage",
@@ -2861,7 +2861,7 @@
       "黑丝"
     ],
     "social_link": "https://github.com/KeKe0904",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
     "updated_at": "2026-02-19T18:59:44Z",
     "logo": "https://raw.githubusercontent.com/KeKe0904/astrbot_plugin_keke_api_collection/master/logo.png"
