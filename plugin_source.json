@@ -1,17 +1,4 @@
 {
-  "astrbot_plugin_qiukan": {
-    "name": "astrbot_plugin_qiukan",
-    "display_name": "未审核：骑砍英雄传",
-    "desc": "AI改的文字RPG游戏",
-    "author": "阿氰叔叔",
-    "repo": "https://github.com/Uncle-Clyde/astrbot_plugin_qiukan",
-    "tags": [],
-    "social_link": "https://github.com/Uncle-Clyde",
-    "stars": 0,
-    "version": "v0.1.2",
-    "updated_at": "2026-03-27T09:53:20Z",
-    "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
-  },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
     "display_name": "未审核：模拟修仙v3",
@@ -24,8 +11,33 @@
     ],
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
-    "version": "v3.5.0",
-    "updated_at": "2026-03-27T09:48:52Z"
+    "version": "v3.5.1",
+    "updated_at": "2026-03-27T10:29:13Z"
+  },
+  "astrbot_plugin_qiukan": {
+    "name": "astrbot_plugin_qiukan",
+    "display_name": "未审核：骑砍英雄传",
+    "desc": "AI改的文字RPG游戏",
+    "author": "阿氰叔叔",
+    "repo": "https://github.com/Uncle-Clyde/astrbot_plugin_qiukan",
+    "tags": [],
+    "social_link": "https://github.com/Uncle-Clyde",
+    "stars": 0,
+    "version": "v0.1.3",
+    "updated_at": "2026-03-27T10:13:48Z",
+    "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
+  },
+  "astrbot_plugin_daily_ai_news": {
+    "name": "astrbot_plugin_daily_ai_news",
+    "display_name": "未审核：每日AI资讯推送",
+    "desc": "订阅橘鸦AI日报并进行AI总结",
+    "author": "xx",
+    "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news",
+    "tags": [],
+    "social_link": "https://github.com/xxofficial",
+    "stars": 8,
+    "version": "1.01",
+    "updated_at": "2026-03-27T10:03:17Z"
   },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
@@ -1881,18 +1893,6 @@
     "stars": 0,
     "version": "0.3.1",
     "updated_at": "2026-03-12T04:02:46Z"
-  },
-  "astrbot_plugin_daily_ai_news": {
-    "name": "astrbot_plugin_daily_ai_news",
-    "display_name": "未审核：每日AI资讯推送",
-    "desc": "订阅橘鸦AI日报并进行AI总结",
-    "author": "xx",
-    "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news",
-    "tags": [],
-    "social_link": "https://github.com/xxofficial",
-    "stars": 8,
-    "version": "1.01",
-    "updated_at": "2026-03-12T03:07:34Z"
   },
   "astrbot_plugin_llm_plugin_bridge": {
     "name": "astrbot_plugin_llm_plugin_bridge",
