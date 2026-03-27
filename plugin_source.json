@@ -11,8 +11,8 @@
     ],
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
-    "version": "v3.5.1",
-    "updated_at": "2026-03-27T10:29:13Z"
+    "version": "v3.5.4",
+    "updated_at": "2026-03-27T11:33:35Z"
   },
   "astrbot_plugin_qiukan": {
     "name": "astrbot_plugin_qiukan",
@@ -24,7 +24,7 @@
     "social_link": "https://github.com/Uncle-Clyde",
     "stars": 0,
     "version": "v0.1.3",
-    "updated_at": "2026-03-27T10:13:48Z",
+    "updated_at": "2026-03-27T11:04:22Z",
     "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
   },
   "astrbot_plugin_daily_ai_news": {
@@ -120,22 +120,6 @@
     "stars": 0,
     "version": "v1.1.0",
     "updated_at": "2026-03-27T02:58:46Z"
-  },
-  "astrbot_plugin_honorofkings": {
-    "name": "astrbot_plugin_honorofkings",
-    "display_name": "未审核：温雅的农药查询工具",
-    "desc": "查询王者荣耀账号的近期战绩/实时上榜战力/账号资料等功能",
-    "author": "温雅",
-    "repo": "https://github.com/i12cu4/astrbot_plugin_HonorOfKings",
-    "tags": [
-      "王者荣耀",
-      "查询工具"
-    ],
-    "social_link": "https://github.com/i12cu4",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-27T00:39:52Z",
-    "logo": "https://raw.githubusercontent.com/i12cu4/astrbot_plugin_HonorOfKings/master/logo.png"
   },
   "astrbot_plugin_self_open_llm_vtuber": {
     "name": "astrbot_plugin_self_open_llm_vtuber",
