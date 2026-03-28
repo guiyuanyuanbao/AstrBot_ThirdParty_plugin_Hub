@@ -1,4 +1,34 @@
 {
+  "astrbot_plugin_touch_head": {
+    "name": "astrbot_plugin_touch_head",
+    "display_name": "未审核：touch_head",
+    "desc": "摸头杀GIF插件",
+    "author": "mjy1113451",
+    "repo": "https://github.com/mjy1113451/touch_head",
+    "tags": [],
+    "social_link": "https://github.com/mjy1113451",
+    "stars": 0,
+    "version": "v1.1.1",
+    "updated_at": "2026-03-28T11:20:13Z"
+  },
+  "astrbot_plugin_sadstory": {
+    "name": "astrbot_plugin_sadstory",
+    "display_name": "未审核：伪装聊天",
+    "desc": "在群聊中以合并转发消息的形式展示伪装聊天，支持 LLM 生成、Prompt 风格管理、故事模板参考、自定义角色等",
+    "author": "Towqs",
+    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
+    "tags": [
+      "QQ",
+      "聊天",
+      "故事",
+      "转发"
+    ],
+    "social_link": "https://github.com/Towqs",
+    "stars": 1,
+    "version": "v0.6.8",
+    "updated_at": "2026-03-27T08:41:12Z",
+    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
+  },
   "astrbot_plugin_pjsk_guess_jacket": {
     "name": "astrbot_plugin_pjsk_guess_jacket",
     "display_name": "未审核：PJSK猜曲绘插件",
@@ -14,7 +44,7 @@
     "social_link": "https://github.com/yonglanws",
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-28T10:31:02Z",
+    "updated_at": "2026-03-28T11:03:22Z",
     "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_jacket/master/logo.png"
   },
   "astrbot_plugin_pjsk_guess_lyrics": {
@@ -31,7 +61,7 @@
     "social_link": "https://github.com/yonglanws",
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-28T10:28:53Z",
+    "updated_at": "2026-03-28T10:37:57Z",
     "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_lyrics/master/logo.png"
   },
   "astrbot_plugin_uapipro_toolbox": {
@@ -154,24 +184,6 @@
     "version": "1.0.0",
     "updated_at": "2026-03-28T07:02:26Z",
     "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
-  },
-  "astrbot_plugin_sadstory": {
-    "name": "astrbot_plugin_sadstory",
-    "display_name": "未审核：伪装聊天",
-    "desc": "在群聊中以合并转发消息的形式展示伪装聊天，支持 LLM 生成、Prompt 风格管理、故事模板参考、自定义角色等",
-    "author": "Towqs",
-    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
-    "tags": [
-      "QQ",
-      "聊天",
-      "故事",
-      "转发"
-    ],
-    "social_link": "https://github.com/Towqs",
-    "stars": 1,
-    "version": "v0.6.8",
-    "updated_at": "2026-03-27T08:41:12Z",
-    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
   },
   "astrbot_plugin_analysis_bilibili": {
     "name": "astrbot_plugin_analysis_bilibili",
@@ -556,18 +568,6 @@
     "stars": 0,
     "version": "v1.1.0",
     "updated_at": "2026-03-25T12:36:36Z"
-  },
-  "astrbot_plugin_touch_head": {
-    "name": "astrbot_plugin_touch_head",
-    "display_name": "未审核：touch_head",
-    "desc": "摸头杀GIF插件",
-    "author": "mjy1113451",
-    "repo": "https://github.com/mjy1113451/touch_head",
-    "tags": [],
-    "social_link": "https://github.com/mjy1113451",
-    "stars": 0,
-    "version": "v1.1.1",
-    "updated_at": "2026-03-25T11:24:35Z"
   },
   "astrbot_plugin_plugin_help": {
     "name": "astrbot_plugin_plugin_help",
