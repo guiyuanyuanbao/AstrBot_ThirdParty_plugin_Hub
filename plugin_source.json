@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_tradingagents": {
+    "name": "astrbot_plugin_tradingagents",
+    "display_name": "未审核：多智能体股票分析助手",
+    "desc": "基于多智能体辩论架构的 AstrBot 金融分析插件，支持 A 股、港股、美股的智能分析报告生成。",
+    "author": "YYY7C",
+    "repo": "https://github.com/YYY7C/TradingAgents-AstrBot",
+    "tags": [
+      "分析",
+      "金融",
+      "股票"
+    ],
+    "social_link": "https://github.com/YYY7C",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-28T16:14:28Z"
+  },
   "astrbot_plugin_context_undo": {
     "name": "astrbot_plugin_context_undo",
     "display_name": "未审核：上下文撤回",
@@ -9,7 +25,7 @@
     "social_link": "https://github.com/lumingya",
     "stars": 0,
     "version": "2.1.1",
-    "updated_at": "2026-03-28T15:24:43Z"
+    "updated_at": "2026-03-28T15:36:36Z"
   },
   "astrbot_plugin_github_copilot": {
     "name": "astrbot_plugin_github_copilot",
@@ -72,22 +88,6 @@
     "version": "1.0.0",
     "updated_at": "2026-03-28T12:29:01Z",
     "logo": "https://raw.githubusercontent.com/MMaltSugar/astrbot_plugin_avatar_manager/main/logo.png"
-  },
-  "astrbot_plugin_tradingagents": {
-    "name": "astrbot_plugin_tradingagents",
-    "display_name": "未审核：多智能体股票分析",
-    "desc": "基于多智能体辩论架构的 AstrBot 金融分析插件，支持 A 股、港股、美股的智能分析报告生成。",
-    "author": "YYY7C",
-    "repo": "https://github.com/YYY7C/TradingAgents-AstrBot",
-    "tags": [
-      "股票",
-      "金融",
-      "分析"
-    ],
-    "social_link": "https://github.com/YYY7C",
-    "stars": 0,
-    "version": "v0.0.0",
-    "updated_at": "2026-03-28T12:28:46Z"
   },
   "astrbot_plugin_touch_head": {
     "name": "astrbot_plugin_touch_head",
