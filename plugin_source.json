@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_pjsk_guess_jacket": {
+    "name": "astrbot_plugin_pjsk_guess_jacket",
+    "display_name": "未审核：PJSK猜曲绘插件",
+    "desc": "PJSK猜曲绘游戏，用户根据处理后的封面图片猜出歌曲名称，歌曲资源截至日服5.5周年前",
+    "author": "慵懒午睡",
+    "repo": "https://github.com/yonglanws/astrbot_plugin_pjsk_guess_jacket",
+    "tags": [
+      "pjsk",
+      "世界计划",
+      "游戏",
+      "猜曲绘"
+    ],
+    "social_link": "https://github.com/yonglanws",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-28T10:31:02Z",
+    "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_jacket/master/logo.png"
+  },
   "astrbot_plugin_pjsk_guess_lyrics": {
     "name": "astrbot_plugin_pjsk_guess_lyrics",
     "display_name": "未审核：PJSK歌词猜曲插件",
@@ -13,8 +31,23 @@
     "social_link": "https://github.com/yonglanws",
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-03-28T09:36:49Z",
+    "updated_at": "2026-03-28T10:28:53Z",
     "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_lyrics/master/logo.png"
+  },
+  "astrbot_plugin_uapipro_toolbox": {
+    "name": "astrbot_plugin_uapipro_toolbox",
+    "display_name": "未审核：UApiPro 工具箱",
+    "desc": "调用 UApiPro 提供的免费 API，支持一言、天气、IP 查询，卡片图片返回。",
+    "author": "lingyun",
+    "repo": "https://github.com/lingyun14beta/astrbot_plugin_uapipro_toolbox",
+    "tags": [
+      "api"
+    ],
+    "social_link": "https://github.com/lingyun14beta",
+    "stars": 0,
+    "version": "1.6.5",
+    "updated_at": "2026-03-28T10:02:45Z",
+    "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
   "astrbot_plugin_github_copilot": {
     "name": "astrbot_plugin_github_copilot",
@@ -46,21 +79,6 @@
     "stars": 0,
     "version": "v3.5.20",
     "updated_at": "2026-03-28T09:15:37Z"
-  },
-  "astrbot_plugin_uapipro_toolbox": {
-    "name": "astrbot_plugin_uapipro_toolbox",
-    "display_name": "未审核：UApiPro 工具箱",
-    "desc": "调用 UApiPro 提供的免费 API，支持一言、天气、IP 查询，卡片图片返回。",
-    "author": "lingyun",
-    "repo": "https://github.com/lingyun14beta/astrbot_plugin_uapipro_toolbox",
-    "tags": [
-      "api"
-    ],
-    "social_link": "https://github.com/lingyun14beta",
-    "stars": 0,
-    "version": "1.6.5",
-    "updated_at": "2026-03-28T09:12:40Z",
-    "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
   "astrbot_plugin_maibot_hijack": {
     "name": "astrbot_plugin_maibot_hijack",
