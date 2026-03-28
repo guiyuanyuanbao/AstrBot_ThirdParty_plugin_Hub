@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_context_undo": {
+    "name": "astrbot_plugin_context_undo",
+    "display_name": "未审核：上下文撤回",
+    "desc": "撤回最近一次或多次的ai回复上下文，避免ai被不良信息影响。",
+    "author": "lumingya",
+    "repo": "https://github.com/lumingya/astrbot_plugin_context_undo",
+    "tags": [],
+    "social_link": "https://github.com/lumingya",
+    "stars": 0,
+    "version": "2.1.1",
+    "updated_at": "2026-03-28T15:24:43Z"
+  },
   "astrbot_plugin_github_copilot": {
     "name": "astrbot_plugin_github_copilot",
     "display_name": "未审核：GitHub Copilot",
@@ -35,18 +47,18 @@
     "display_name": "未审核：伪装聊天",
     "desc": "在群聊中以合并转发消息的形式展示伪装聊天，支持 LLM 生成、Prompt 风格管理、故事模板参考、自定义角色等",
     "author": "Towqs",
-    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
+    "repo": "https://github.com/Towqs/astrbot_plugin_fakechat",
     "tags": [
-      "QQ",
       "聊天",
-      "故事",
-      "转发"
+      "QQ",
+      "伪装",
+      "娱乐"
     ],
-    "social_link": "https://github.com/Towqs",
+    "social_link": "",
     "stars": 1,
-    "version": "v0.6.8",
-    "updated_at": "2026-03-27T08:41:12Z",
-    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
+    "version": "v0.9.3",
+    "updated_at": "2026-03-28T12:33:57Z",
+    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_fakechat/main/logo.png"
   },
   "astrbot_plugin_avatar_manager": {
     "name": "astrbot_plugin_avatar_manager",
