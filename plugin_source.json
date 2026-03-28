@@ -1,4 +1,52 @@
 {
+  "astrbot_plugin_pjsk_guess_lyrics": {
+    "name": "astrbot_plugin_pjsk_guess_lyrics",
+    "display_name": "未审核：PJSK歌词猜曲插件",
+    "desc": "专注于《初音未来 缤纷舞台》的歌词猜曲游戏插件。用户根据歌词片段猜出歌曲名称",
+    "author": "慵懒午睡",
+    "repo": "https://github.com/yonglanws/astrbot_plugin_pjsk_guess_lyrics",
+    "tags": [
+      "世界计划",
+      "pjsk",
+      "歌词猜曲"
+    ],
+    "social_link": "https://github.com/yonglanws",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-28T09:36:49Z",
+    "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_lyrics/master/logo.png"
+  },
+  "astrbot_plugin_github_copilot": {
+    "name": "astrbot_plugin_github_copilot",
+    "display_name": "未审核：GitHub Copilot",
+    "desc": "将 GitHub Copilot 作为大模型提供商接入 AstrBot，并提供订阅信息查询。",
+    "author": "Mr. Tim",
+    "repo": "https://github.com/html5syt/astrbot_plugin_github_copilot",
+    "tags": [
+      "Github",
+      "Github Copilot"
+    ],
+    "social_link": "https://github.com/html5syt",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-28T09:19:45Z",
+    "logo": "https://raw.githubusercontent.com/html5syt/astrbot_plugin_github_copilot/master/logo.png"
+  },
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：模拟修仙v3",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.5.20",
+    "updated_at": "2026-03-28T09:15:37Z"
+  },
   "astrbot_plugin_uapipro_toolbox": {
     "name": "astrbot_plugin_uapipro_toolbox",
     "display_name": "未审核：UApiPro 工具箱",
@@ -11,8 +59,20 @@
     "social_link": "https://github.com/lingyun14beta",
     "stars": 0,
     "version": "1.6.5",
-    "updated_at": "2026-03-28T08:38:57Z",
+    "updated_at": "2026-03-28T09:12:40Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
+  },
+  "astrbot_plugin_maibot_hijack": {
+    "name": "astrbot_plugin_maibot_hijack",
+    "display_name": "未审核：MaiBot Adapter",
+    "desc": "将 AstrBot 作为消息聚合平台接入 MaiBot",
+    "author": "EterUltimate",
+    "repo": "https://github.com/EterUltimate/astrbot_plugin_maibot_hijack",
+    "tags": [],
+    "social_link": "https://github.com/EterUltimate",
+    "stars": 1,
+    "version": "2.0.0",
+    "updated_at": "2026-03-28T09:07:30Z"
   },
   "astrbot_plugin_steam_friend_monitor": {
     "name": "astrbot_plugin_steam_friend_monitor",
@@ -28,33 +88,6 @@
     "version": "v1.0.1",
     "updated_at": "2026-03-28T08:16:48Z",
     "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
-  },
-  "astrbot_plugin_maibot_hijack": {
-    "name": "astrbot_plugin_maibot_hijack",
-    "display_name": "未审核：MaiBot Adapter",
-    "desc": "将 AstrBot 作为消息聚合平台接入 MaiBot",
-    "author": "EterUltimate",
-    "repo": "https://github.com/EterUltimate/astrbot_plugin_maibot_hijack",
-    "tags": [],
-    "social_link": "https://github.com/EterUltimate",
-    "stars": 1,
-    "version": "2.0.0",
-    "updated_at": "2026-03-28T08:07:22Z"
-  },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：模拟修仙v3",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.5.19",
-    "updated_at": "2026-03-28T08:02:17Z"
   },
   "astrbot_plugin_anti_memes": {
     "name": "astrbot_plugin_anti_memes",
