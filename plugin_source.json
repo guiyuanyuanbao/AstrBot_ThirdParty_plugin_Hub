@@ -1,20 +1,18 @@
 {
-  "astrbot_plugin_self_open_llm_vtuber": {
-    "name": "astrbot_plugin_self_open_llm_vtuber",
-    "display_name": "未审核：Alice的桌面分身",
-    "desc": "让你的bot在桌面或者web可以看到你、看到你在干什么、开口说话并实时做表情动作，支持语音输入、语音打断与互动联动。",
-    "author": "YakumoAki",
-    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
+  "astrbot_plugin_uapipro_toolbox": {
+    "name": "astrbot_plugin_uapipro_toolbox",
+    "display_name": "未审核：UApiPro 工具箱",
+    "desc": "调用 UApiPro 提供的免费 API，支持一言、天气、IP 查询，卡片图片返回。",
+    "author": "lingyun",
+    "repo": "https://github.com/lingyun14beta/astrbot_plugin_uapipro_toolbox",
     "tags": [
-      "live2d",
-      "皮套",
-      "open llm vtuber"
+      "api"
     ],
-    "social_link": "https://space.bilibili.com/41761329",
-    "stars": 3,
-    "version": "1.0.0",
-    "updated_at": "2026-03-28T07:02:26Z",
-    "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
+    "social_link": "https://github.com/lingyun14beta",
+    "stars": 0,
+    "version": "1.6.5",
+    "updated_at": "2026-03-28T08:38:57Z",
+    "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
   "astrbot_plugin_steam_friend_monitor": {
     "name": "astrbot_plugin_steam_friend_monitor",
@@ -27,9 +25,84 @@
     ],
     "social_link": "https://github.com/FlandreSatori",
     "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-28T06:46:33Z",
+    "version": "v1.0.1",
+    "updated_at": "2026-03-28T08:16:48Z",
     "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
+  },
+  "astrbot_plugin_maibot_hijack": {
+    "name": "astrbot_plugin_maibot_hijack",
+    "display_name": "未审核：MaiBot Adapter",
+    "desc": "将 AstrBot 作为消息聚合平台接入 MaiBot",
+    "author": "EterUltimate",
+    "repo": "https://github.com/EterUltimate/astrbot_plugin_maibot_hijack",
+    "tags": [],
+    "social_link": "https://github.com/EterUltimate",
+    "stars": 1,
+    "version": "2.0.0",
+    "updated_at": "2026-03-28T08:07:22Z"
+  },
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：模拟修仙v3",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.5.19",
+    "updated_at": "2026-03-28T08:02:17Z"
+  },
+  "astrbot_plugin_anti_memes": {
+    "name": "astrbot_plugin_anti_memes",
+    "display_name": "未审核：图片精准撤回助手",
+    "desc": "【仅支持基于 QQ 的 aiohttp / OneBot V11 平台】该插件基于 AstrBot，用于对指定用户发送的图片进行自动检测并触发撤回操作（需权限支持），适用于内容管理与群组秩序维护。支持自定义目标用户与规则配置。\n(Only supports QQ platforms based on aiohttp / OneBot V11.)This plugin for AstrBot monitors images sent by specified users and automatically recalls them (with proper permissions). It is designed for moderation and group management, with configurable targets and rules.",
+    "author": "Qrzzzz",
+    "repo": "https://github.com/Qrzzzz/astrbot_plugin_anti_memes",
+    "tags": [
+      "图片",
+      "vibe coding",
+      "屏蔽",
+      "消息处理",
+      "QQ"
+    ],
+    "social_link": "https://github.com/Qrzzzz",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-28T07:37:21Z"
+  },
+  "astrbot_plugin_qiukan": {
+    "name": "astrbot_plugin_qiukan",
+    "display_name": "未审核：骑砍英雄传",
+    "desc": "AI改的文字RPG游戏",
+    "author": "阿氰叔叔",
+    "repo": "https://github.com/Uncle-Clyde/astrbot_plugin_qiukan",
+    "tags": [],
+    "social_link": "https://github.com/Uncle-Clyde",
+    "stars": 0,
+    "version": "v0.1.3",
+    "updated_at": "2026-03-28T07:14:33Z",
+    "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
+  },
+  "astrbot_plugin_self_open_llm_vtuber": {
+    "name": "astrbot_plugin_self_open_llm_vtuber",
+    "display_name": "未审核：Alice的桌面分身",
+    "desc": "让你的bot在桌面或者web可以看到你、看到你在干什么、开口说话并实时做表情动作，支持语音输入、语音打断与互动联动。",
+    "author": "YakumoAki",
+    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
+    "tags": [
+      "live2d",
+      "皮套",
+      "open llm vtuber"
+    ],
+    "social_link": "https://space.bilibili.com/41761329",
+    "stars": 5,
+    "version": "1.0.0",
+    "updated_at": "2026-03-28T07:02:26Z",
+    "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
@@ -49,21 +122,6 @@
     "updated_at": "2026-03-27T08:41:12Z",
     "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
   },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：模拟修仙v3",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.5.13",
-    "updated_at": "2026-03-28T06:16:57Z"
-  },
   "astrbot_plugin_analysis_bilibili": {
     "name": "astrbot_plugin_analysis_bilibili",
     "display_name": "未审核：B站视频解析简易版",
@@ -75,37 +133,6 @@
     "stars": 1,
     "version": "1.2.0",
     "updated_at": "2026-03-28T04:33:19Z"
-  },
-  "astrbot_plugin_anti_memes": {
-    "name": "astrbot_plugin_anti_memes",
-    "display_name": "未审核：图片精准撤回助手",
-    "desc": "【仅支持基于 QQ 的 aiohttp / OneBot V11 平台】该插件基于 AstrBot，用于对指定用户发送的图片进行自动检测并触发撤回操作（需权限支持），适用于内容管理与群组秩序维护。支持自定义目标用户与规则配置。\n(Only supports QQ platforms based on aiohttp / OneBot V11.)This plugin for AstrBot monitors images sent by specified users and automatically recalls them (with proper permissions). It is designed for moderation and group management, with configurable targets and rules.",
-    "author": "Qrzzzz",
-    "repo": "https://github.com/Qrzzzz/astrbot_plugin_anti_memes",
-    "tags": [
-      "图片",
-      "vibe coding",
-      "屏蔽",
-      "消息处理",
-      "QQ"
-    ],
-    "social_link": "https://github.com/Qrzzzz",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-28T03:19:04Z"
-  },
-  "astrbot_plugin_qiukan": {
-    "name": "astrbot_plugin_qiukan",
-    "display_name": "未审核：骑砍英雄传",
-    "desc": "AI改的文字RPG游戏",
-    "author": "阿氰叔叔",
-    "repo": "https://github.com/Uncle-Clyde/astrbot_plugin_qiukan",
-    "tags": [],
-    "social_link": "https://github.com/Uncle-Clyde",
-    "stars": 0,
-    "version": "v0.1.3",
-    "updated_at": "2026-03-28T02:52:17Z",
-    "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
@@ -1676,22 +1703,6 @@
     "updated_at": "2026-03-14T13:55:53Z",
     "logo": "https://raw.githubusercontent.com/tniany/astrbot_plugin_upload_yuanshennb/main/logo.png"
   },
-  "astrbot_plugin_limit_chan": {
-    "name": "astrbot_plugin_limit_chan",
-    "display_name": "未审核：限定酱",
-    "desc": "可爱的AI使用次数管理助手✨，支持全局/群组/用户三级配置、黑白名单、独立/共享双模式，搭载完整指令集且跨全平台，轻松实现群聊管理、资源控制与防滥用。",
-    "author": "车厘子小樱",
-    "repo": "https://github.com/Sakura520222/astrbot_plugin_limit_chan",
-    "tags": [
-      "限制",
-      "管理",
-      "工具"
-    ],
-    "social_link": "https://sakura.firefly520.top/",
-    "stars": 1,
-    "version": "2.0.1",
-    "updated_at": "2026-03-14T13:30:14Z"
-  },
   "astrbot_plugin_text_to_image": {
     "name": "astrbot_plugin_text_to_image",
     "display_name": "未审核：二次元风格-文本转图",
@@ -2378,6 +2389,23 @@
     "version": "v1.0",
     "updated_at": "2026-03-05T11:29:24Z",
     "logo": "https://raw.githubusercontent.com/yasdiox/astrbot_plugin_htmlrender/master/logo.png"
+  },
+  "astrbot_plugin_local_image_bed": {
+    "name": "astrbot_plugin_local_image_bed",
+    "display_name": "未审核：本地图床",
+    "desc": "纯插件实现的本地持久化图床，支持上传图片并返回可访问链接，基于astrbot框架的插件",
+    "author": "Ethan",
+    "repo": "https://github.com/Ryan7t/astrbot_plugin_local_image_bed",
+    "tags": [
+      "图床",
+      "图片",
+      "工具",
+      "存储"
+    ],
+    "social_link": "https://github.com/Ryan7t",
+    "stars": 1,
+    "version": "v1.1.0",
+    "updated_at": "2026-03-04T15:10:32Z"
   },
   "astrbot_plugin_memes_by_tool": {
     "name": "astrbot_plugin_memes_by_tool",
