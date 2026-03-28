@@ -1,4 +1,36 @@
 {
+  "astrbot_plugin_self_open_llm_vtuber": {
+    "name": "astrbot_plugin_self_open_llm_vtuber",
+    "display_name": "未审核：Alice的桌面分身",
+    "desc": "让你的bot在桌面或者web可以看到你、看到你在干什么、开口说话并实时做表情动作，支持语音输入、语音打断与互动联动。",
+    "author": "YakumoAki",
+    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
+    "tags": [
+      "live2d",
+      "皮套",
+      "open llm vtuber"
+    ],
+    "social_link": "https://space.bilibili.com/41761329",
+    "stars": 3,
+    "version": "1.0.0",
+    "updated_at": "2026-03-28T07:02:26Z",
+    "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
+  },
+  "astrbot_plugin_steam_friend_monitor": {
+    "name": "astrbot_plugin_steam_friend_monitor",
+    "display_name": "未审核：Steam 好友世间插件",
+    "desc": "看看谁在偷偷玩游戏！\n支持上线/下线/启动游戏/切换游戏 多选触发图片推送，支持成就播报。",
+    "author": "FlandreSatori",
+    "repo": "https://github.com/FlandreSatori/astrbot_plugin_steam_friend_monitor",
+    "tags": [
+      "steam"
+    ],
+    "social_link": "https://github.com/FlandreSatori",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-28T06:46:33Z",
+    "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
+  },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
     "display_name": "未审核：伪装聊天",
@@ -16,6 +48,21 @@
     "version": "v0.6.8",
     "updated_at": "2026-03-27T08:41:12Z",
     "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
+  },
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：模拟修仙v3",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.5.13",
+    "updated_at": "2026-03-28T06:16:57Z"
   },
   "astrbot_plugin_analysis_bilibili": {
     "name": "astrbot_plugin_analysis_bilibili",
@@ -132,36 +179,6 @@
     "updated_at": "2026-03-27T17:09:19Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
   },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：模拟修仙v3",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.5.11",
-    "updated_at": "2026-03-27T16:18:09Z"
-  },
-  "astrbot_plugin_steam_friend_monitor": {
-    "name": "astrbot_plugin_steam_friend_monitor",
-    "display_name": "未审核：Steam 好友世间插件",
-    "desc": "看看谁在偷偷玩游戏！\n支持上线/下线/启动游戏/切换游戏 多选触发图片推送，支持成就播报。",
-    "author": "FlandreSatori",
-    "repo": "https://github.com/FlandreSatori/astrbot_plugin_steam_friend_monitor",
-    "tags": [
-      "steam"
-    ],
-    "social_link": "https://github.com/FlandreSatori",
-    "stars": 0,
-    "version": "0.9.1",
-    "updated_at": "2026-03-27T16:05:25Z",
-    "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
-  },
   "astrbot_plugin_group_invite_auto_approve": {
     "name": "astrbot_plugin_group_invite_auto_approve",
     "display_name": "未审核：根据群信息自动进群",
@@ -176,23 +193,6 @@
     "version": "v1.0.8",
     "updated_at": "2026-03-27T15:36:01Z",
     "logo": "https://raw.githubusercontent.com/XingYunStar/astrbot_plugin_group_invite_auto_approve/master/logo.png"
-  },
-  "astrbot_plugin_self_open_llm_vtuber": {
-    "name": "astrbot_plugin_self_open_llm_vtuber",
-    "display_name": "未审核：Alice的桌面分身",
-    "desc": "让你的bot在桌面或者web可以看到你、看到你在干什么、开口说话并实时做表情动作，支持语音输入、语音打断与互动联动。",
-    "author": "YakumoAki",
-    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
-    "tags": [
-      "live2d",
-      "皮套",
-      "open llm vtuber"
-    ],
-    "social_link": "https://space.bilibili.com/41761329",
-    "stars": 3,
-    "version": "1.0.0",
-    "updated_at": "2026-03-27T14:05:47Z",
-    "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
   "astrbot_plugin_daily_ai_news": {
     "name": "astrbot_plugin_daily_ai_news",
