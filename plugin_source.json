@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_sadstory": {
+    "name": "astrbot_plugin_sadstory",
+    "display_name": "未审核：伪装聊天",
+    "desc": "在群聊中以合并转发消息的形式展示伪装聊天，支持 LLM 生成、Prompt 风格管理、故事模板参考、自定义角色等",
+    "author": "Towqs",
+    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
+    "tags": [
+      "QQ",
+      "聊天",
+      "故事",
+      "转发"
+    ],
+    "social_link": "https://github.com/Towqs",
+    "stars": 1,
+    "version": "v0.6.8",
+    "updated_at": "2026-03-27T08:41:12Z",
+    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
+  },
   "astrbot_plugin_analysis_bilibili": {
     "name": "astrbot_plugin_analysis_bilibili",
     "display_name": "未审核：B站视频解析简易版",
@@ -94,24 +112,6 @@
     "version": "2.8.2",
     "updated_at": "2026-03-27T18:37:34Z",
     "logo": "https://raw.githubusercontent.com/czxieddan/astrbot_plugin_steam_efficient_interactor/main/logo.png"
-  },
-  "astrbot_plugin_sadstory": {
-    "name": "astrbot_plugin_sadstory",
-    "display_name": "未审核：伪装聊天",
-    "desc": "在群聊中以合并转发消息的形式展示伪装聊天，支持 LLM 生成、Prompt 风格管理、故事模板参考、自定义角色等",
-    "author": "Towqs",
-    "repo": "https://github.com/Towqs/astrbot_plugin_sadstory",
-    "tags": [
-      "QQ",
-      "聊天",
-      "故事",
-      "转发"
-    ],
-    "social_link": "https://github.com/Towqs",
-    "stars": 1,
-    "version": "v0.6.8",
-    "updated_at": "2026-03-27T08:41:12Z",
-    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
   },
   "astrbot_plugin_llm_enhancement": {
     "name": "astrbot_plugin_llm_enhancement",
