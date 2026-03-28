@@ -1,16 +1,4 @@
 {
-  "astrbot_plugin_touch_head": {
-    "name": "astrbot_plugin_touch_head",
-    "display_name": "未审核：touch_head",
-    "desc": "摸头杀GIF插件",
-    "author": "mjy1113451",
-    "repo": "https://github.com/mjy1113451/touch_head",
-    "tags": [],
-    "social_link": "https://github.com/mjy1113451",
-    "stars": 0,
-    "version": "v1.1.1",
-    "updated_at": "2026-03-28T11:20:13Z"
-  },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
     "display_name": "未审核：伪装聊天",
@@ -28,6 +16,47 @@
     "version": "v0.6.8",
     "updated_at": "2026-03-27T08:41:12Z",
     "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_sadstory/main/logo.png"
+  },
+  "astrbot_plugin_avatar_manager": {
+    "name": "astrbot_plugin_avatar_manager",
+    "display_name": "未审核：bot的衣柜",
+    "desc": "提供形象管理功能，让你的bot学会记录装束并自主切换",
+    "author": "MMaltSugar",
+    "repo": "https://github.com/MMaltSugar/astrbot_plugin_avatar_manager",
+    "tags": [],
+    "social_link": "https://github.com/MMaltSugar",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-28T12:29:01Z",
+    "logo": "https://raw.githubusercontent.com/MMaltSugar/astrbot_plugin_avatar_manager/main/logo.png"
+  },
+  "astrbot_plugin_tradingagents": {
+    "name": "astrbot_plugin_tradingagents",
+    "display_name": "未审核：多智能体股票分析",
+    "desc": "基于多智能体辩论架构的 AstrBot 金融分析插件，支持 A 股、港股、美股的智能分析报告生成。",
+    "author": "YYY7C",
+    "repo": "https://github.com/YYY7C/TradingAgents-AstrBot",
+    "tags": [
+      "股票",
+      "金融",
+      "分析"
+    ],
+    "social_link": "https://github.com/YYY7C",
+    "stars": 0,
+    "version": "v0.0.0",
+    "updated_at": "2026-03-28T12:28:46Z"
+  },
+  "astrbot_plugin_touch_head": {
+    "name": "astrbot_plugin_touch_head",
+    "display_name": "未审核：touch_head",
+    "desc": "摸头杀GIF插件",
+    "author": "mjy1113451",
+    "repo": "https://github.com/mjy1113451/touch_head",
+    "tags": [],
+    "social_link": "https://github.com/mjy1113451",
+    "stars": 0,
+    "version": "v1.1.1",
+    "updated_at": "2026-03-28T11:20:13Z"
   },
   "astrbot_plugin_pjsk_guess_jacket": {
     "name": "astrbot_plugin_pjsk_guess_jacket",
