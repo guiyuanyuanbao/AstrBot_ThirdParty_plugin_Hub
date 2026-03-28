@@ -1,4 +1,35 @@
 {
+  "astrbot_plugin_github_copilot": {
+    "name": "astrbot_plugin_github_copilot",
+    "display_name": "未审核：GitHub Copilot",
+    "desc": "将 GitHub Copilot 作为大模型提供商接入 AstrBot，并提供订阅信息查询。",
+    "author": "Mr. Tim",
+    "repo": "https://github.com/html5syt/astrbot_plugin_github_copilot",
+    "tags": [
+      "Github",
+      "Github Copilot"
+    ],
+    "social_link": "https://github.com/html5syt",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-28T13:45:13Z",
+    "logo": "https://raw.githubusercontent.com/html5syt/astrbot_plugin_github_copilot/master/logo.png"
+  },
+  "astrbot_plugin_steam_friend_monitor": {
+    "name": "astrbot_plugin_steam_friend_monitor",
+    "display_name": "未审核：Steam 好友世间插件",
+    "desc": "看看谁在偷偷玩游戏！\n支持上线/下线/启动游戏/切换游戏 多选触发图片推送，支持成就播报。",
+    "author": "FlandreSatori",
+    "repo": "https://github.com/FlandreSatori/astrbot_plugin_steam_friend_monitor",
+    "tags": [
+      "steam"
+    ],
+    "social_link": "https://github.com/FlandreSatori",
+    "stars": 0,
+    "version": "v1.0.2",
+    "updated_at": "2026-03-28T13:05:04Z",
+    "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
+  },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
     "display_name": "未审核：伪装聊天",
@@ -108,22 +139,6 @@
     "updated_at": "2026-03-28T10:02:45Z",
     "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
-  "astrbot_plugin_github_copilot": {
-    "name": "astrbot_plugin_github_copilot",
-    "display_name": "未审核：GitHub Copilot",
-    "desc": "将 GitHub Copilot 作为大模型提供商接入 AstrBot，并提供订阅信息查询。",
-    "author": "Mr. Tim",
-    "repo": "https://github.com/html5syt/astrbot_plugin_github_copilot",
-    "tags": [
-      "Github",
-      "Github Copilot"
-    ],
-    "social_link": "https://github.com/html5syt",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-28T09:19:45Z",
-    "logo": "https://raw.githubusercontent.com/html5syt/astrbot_plugin_github_copilot/master/logo.png"
-  },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
     "display_name": "未审核：模拟修仙v3",
@@ -150,21 +165,6 @@
     "stars": 1,
     "version": "2.0.0",
     "updated_at": "2026-03-28T09:07:30Z"
-  },
-  "astrbot_plugin_steam_friend_monitor": {
-    "name": "astrbot_plugin_steam_friend_monitor",
-    "display_name": "未审核：Steam 好友世间插件",
-    "desc": "看看谁在偷偷玩游戏！\n支持上线/下线/启动游戏/切换游戏 多选触发图片推送，支持成就播报。",
-    "author": "FlandreSatori",
-    "repo": "https://github.com/FlandreSatori/astrbot_plugin_steam_friend_monitor",
-    "tags": [
-      "steam"
-    ],
-    "social_link": "https://github.com/FlandreSatori",
-    "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2026-03-28T08:16:48Z",
-    "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
   },
   "astrbot_plugin_anti_memes": {
     "name": "astrbot_plugin_anti_memes",
