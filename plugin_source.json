@@ -1,4 +1,34 @@
 {
+  "astrbot_plugin_analysis_bilibili": {
+    "name": "astrbot_plugin_analysis_bilibili",
+    "display_name": "未审核：B站视频解析简易版",
+    "desc": "会发送视频的点赞和收藏等基本信息.然后根据设置的阈值判断发送封面,还是发送视频.",
+    "author": "Furina",
+    "repo": "https://github.com/Furina010013/astrbot_plugin_analysis_bilibili",
+    "tags": [],
+    "social_link": "https://homeofmjr.top/",
+    "stars": 1,
+    "version": "1.2.0",
+    "updated_at": "2026-03-28T04:33:19Z"
+  },
+  "astrbot_plugin_anti_memes": {
+    "name": "astrbot_plugin_anti_memes",
+    "display_name": "未审核：图片精准撤回助手",
+    "desc": "【仅支持基于 QQ 的 aiohttp / OneBot V11 平台】该插件基于 AstrBot，用于对指定用户发送的图片进行自动检测并触发撤回操作（需权限支持），适用于内容管理与群组秩序维护。支持自定义目标用户与规则配置。\n(Only supports QQ platforms based on aiohttp / OneBot V11.)This plugin for AstrBot monitors images sent by specified users and automatically recalls them (with proper permissions). It is designed for moderation and group management, with configurable targets and rules.",
+    "author": "Qrzzzz",
+    "repo": "https://github.com/Qrzzzz/astrbot_plugin_anti_memes",
+    "tags": [
+      "图片",
+      "vibe coding",
+      "屏蔽",
+      "消息处理",
+      "QQ"
+    ],
+    "social_link": "https://github.com/Qrzzzz",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-28T03:19:04Z"
+  },
   "astrbot_plugin_qiukan": {
     "name": "astrbot_plugin_qiukan",
     "display_name": "未审核：骑砍英雄传",
@@ -9,7 +39,7 @@
     "social_link": "https://github.com/Uncle-Clyde",
     "stars": 0,
     "version": "v0.1.3",
-    "updated_at": "2026-03-27T23:06:00Z",
+    "updated_at": "2026-03-28T02:52:17Z",
     "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
   },
   "astrbot_plugin_local_reminiscence": {
@@ -406,18 +436,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-03-26T05:41:49Z"
-  },
-  "astrbot_plugin_analysis_bilibili": {
-    "name": "astrbot_plugin_analysis_bilibili",
-    "display_name": "未审核：B站视频解析简易版",
-    "desc": "会发送视频的点赞和收藏等基本信息.然后根据设置的阈值判断发送封面,还是发送视频.",
-    "author": "Furina",
-    "repo": "https://github.com/Furina010013/astrbot_plugin_analysis_bilibili",
-    "tags": [],
-    "social_link": "https://homeofmjr.top/",
-    "stars": 1,
-    "version": "1.2.0",
-    "updated_at": "2026-03-26T04:38:01Z"
   },
   "astrbot_plugin_information_assistant": {
     "name": "astrbot_plugin_information_assistant",
@@ -1325,7 +1343,10 @@
     "desc": "根据配置的订阅链接获取机场（代理）订阅流量与重置时间，并发送到配置的会话。支持定时检测用量是否已满、订阅链接失效等。",
     "author": "SanaeMio",
     "repo": "https://github.com/SanaeMio/astrbot_plugin_subquery",
-    "tags": [],
+    "tags": [
+      "代理",
+      "网络"
+    ],
     "social_link": "https://github.com/SanaeMio",
     "stars": 0,
     "version": "v1.0.0",
