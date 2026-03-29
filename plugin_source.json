@@ -1,8 +1,8 @@
 {
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：模拟修仙v3",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新和修复",
+    "display_name": "未审核：修仙模拟器",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
     "author": "EtafCisky",
     "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
     "tags": [
@@ -11,25 +11,22 @@
     ],
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
-    "version": "v3.5.24",
-    "updated_at": "2026-03-29T10:21:42Z"
+    "version": "v3.5.30",
+    "updated_at": "2026-03-29T11:28:41Z"
   },
-  "astrbot_plugin_r6states": {
-    "name": "astrbot_plugin_r6states",
-    "display_name": "未审核：彩虹六号查询工具",
-    "desc": "查询彩虹六号的玩家战绩、游戏百科和电竞信息，nonebot-plugin-R6States的astrbot移植版",
-    "author": "Throstle",
-    "repo": "https://github.com/Diekeng/astrbot_plugin_r6states",
+  "astrbot_plugin_sayorroll": {
+    "name": "astrbot_plugin_sayorroll",
+    "display_name": "未审核：sayorroll",
+    "desc": "一个简单的复读以及替你做决定的小玩意",
+    "author": "KanamiQwQ",
+    "repo": "https://github.com/kanamiQwQ/astrbot_plugin_sayorroll",
     "tags": [
-      "游戏",
-      "查询工具",
-      "彩虹六号"
+      "骰子"
     ],
-    "social_link": "https://github.com/Diekeng",
+    "social_link": "https://github.com/kanamiQwQ",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-03-29T10:17:48Z",
-    "logo": "https://raw.githubusercontent.com/Diekeng/astrbot_plugin_r6states/master/logo.png"
+    "updated_at": "2026-03-29T10:50:46Z"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
@@ -51,20 +48,6 @@
     "version": "v1.2.1",
     "updated_at": "2026-03-29T09:57:41Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
-  },
-  "astrbot_plugin_sayorroll": {
-    "name": "astrbot_plugin_sayorroll",
-    "display_name": "未审核：sayorroll",
-    "desc": "一个简单的复读以及替你做决定的小玩意",
-    "author": "KanamiQwQ",
-    "repo": "https://github.com/kanamiQwQ/astrbot_plugin_sayorroll",
-    "tags": [
-      "骰子"
-    ],
-    "social_link": "https://github.com/kanamiQwQ",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-29T09:38:12Z"
   },
   "astrbot_plugin_tradingagents": {
     "name": "astrbot_plugin_tradingagents",
@@ -276,18 +259,6 @@
     "version": "v1.0.2",
     "updated_at": "2026-03-28T13:05:04Z",
     "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
-  },
-  "astrbot_plugin_touch_head": {
-    "name": "astrbot_plugin_touch_head",
-    "display_name": "未审核：touch_head",
-    "desc": "摸头杀GIF插件",
-    "author": "mjy1113451",
-    "repo": "https://github.com/mjy1113451/touch_head",
-    "tags": [],
-    "social_link": "https://github.com/mjy1113451",
-    "stars": 0,
-    "version": "v1.1.1",
-    "updated_at": "2026-03-28T11:20:13Z"
   },
   "astrbot_plugin_pjsk_guess_jacket": {
     "name": "astrbot_plugin_pjsk_guess_jacket",
