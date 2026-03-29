@@ -1,4 +1,31 @@
 {
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：修仙模拟器",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.5.25",
+    "updated_at": "2026-03-29T16:25:30Z"
+  },
+  "astrbot_plugin_image_symmetry": {
+    "name": "astrbot_plugin_image_symmetry",
+    "display_name": "未审核：图像对称",
+    "desc": "为 AstrBot 提供图片左右上下四种对称变换能力。\n\n严重感谢：https://github.com/GT-610/nonebot-plugin-image-symmetry",
+    "author": "hacchiroku & GT-610（Nonebot 插件原作者）",
+    "repo": "https://github.com/ArisaTaki/astrbot_plugin_image_symmetry",
+    "tags": [],
+    "social_link": "https://github.com/ArisaTaki",
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-03-29T15:53:25Z"
+  },
   "astrbot_plugin_bilibililive_watcher": {
     "name": "astrbot_plugin_bilibililive_watcher",
     "display_name": "未审核：一起看B站直播！",
@@ -25,21 +52,6 @@
     "version": "0.2.1",
     "updated_at": "2026-03-29T15:27:06Z",
     "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
-  },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：修仙模拟器",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.5.24",
-    "updated_at": "2026-03-29T15:03:16Z"
   },
   "astrbot_plugin_cosplay_image_saver": {
     "name": "astrbot_plugin_cosplay_image_saver",
