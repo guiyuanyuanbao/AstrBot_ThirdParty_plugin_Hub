@@ -1,18 +1,15 @@
 {
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：修仙模拟器",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
+  "astrbot_plugin_bilibililive_watcher": {
+    "name": "astrbot_plugin_bilibililive_watcher",
+    "display_name": "未审核：一起看B站直播！",
+    "desc": "让你AstrBot能看B站直播！定时抓取B站直播间弹幕与语音上下文，触发模型生成短回复，并可双通道发送到AstrBot会话与B站直播弹幕，也可注入会话作为上下文",
+    "author": "qingquanlingyu",
+    "repo": "https://github.com/qingquanlingyu/astrbot_plugin_bilibililive_watcher",
+    "tags": [],
+    "social_link": "https://github.com/qingquanlingyu",
     "stars": 0,
-    "version": "v3.5.23",
-    "updated_at": "2026-03-29T14:33:40Z"
+    "version": "v1.2.6",
+    "updated_at": "2026-03-29T15:30:07Z"
   },
   "astrbot_plugin_custom_api": {
     "name": "astrbot_plugin_custom_api",
@@ -25,9 +22,24 @@
     ],
     "social_link": "https://github.com/Fishskys",
     "stars": 0,
-    "version": "0.2.0",
-    "updated_at": "2026-03-29T14:31:22Z",
+    "version": "0.2.1",
+    "updated_at": "2026-03-29T15:27:06Z",
     "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
+  },
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：修仙模拟器",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.5.24",
+    "updated_at": "2026-03-29T15:03:16Z"
   },
   "astrbot_plugin_cosplay_image_saver": {
     "name": "astrbot_plugin_cosplay_image_saver",
@@ -141,22 +153,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-29T10:50:46Z"
   },
-  "astrbot_plugin_tradingagents": {
-    "name": "astrbot_plugin_tradingagents",
-    "display_name": "未审核：多智能体股票分析助手",
-    "desc": "基于多智能体辩论架构的 AstrBot 金融分析插件，支持 A 股、港股、美股的智能分析报告生成。",
-    "author": "YYY7C",
-    "repo": "https://github.com/YYY7C/TradingAgents-AstrBot",
-    "tags": [
-      "分析",
-      "金融",
-      "股票"
-    ],
-    "social_link": "https://github.com/YYY7C",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-29T09:16:16Z"
-  },
   "astrbot_plugin_maibot_hijack": {
     "name": "astrbot_plugin_maibot_hijack",
     "display_name": "未审核：MaiBot Adapter",
@@ -184,21 +180,6 @@
     "version": "v0.1.0",
     "updated_at": "2026-03-29T08:36:07Z"
   },
-  "astrbot_plugin_sts2_data": {
-    "name": "astrbot_plugin_sts2_data",
-    "display_name": "未审核：STS2 Data",
-    "desc": "查询杀戮尖塔2数据库信息。",
-    "author": "YuWan886",
-    "repo": "https://github.com/YuWan886/astrbot_plugin_sts2_data",
-    "tags": [
-      "杀戮尖塔",
-      "查询工具"
-    ],
-    "social_link": "https://github.com/YuWan886",
-    "stars": 0,
-    "version": "v1.3.1",
-    "updated_at": "2026-03-29T07:12:33Z"
-  },
   "astrbot_plugin_dg-lab": {
     "name": "astrbot_plugin_dg-lab",
     "display_name": "未审核：AstrBot郊狼控制器",
@@ -215,18 +196,6 @@
     "version": "v1.1.0",
     "updated_at": "2026-03-29T07:11:17Z",
     "logo": "https://raw.githubusercontent.com/guiyuanyuanbao/astrbot_plugin_DG-LAB/main/logo.png"
-  },
-  "astrbot_plugin_zhuaxiaba": {
-    "name": "astrbot_plugin_zhuaxiaba",
-    "display_name": "未审核：贴吧抓虾吧插件",
-    "desc": "面向抓虾吧使用场景的 AstrBot 插件，基于贴吧官方 claw 接口实现发帖、看帖、评论、点赞和查看回复消息",
-    "author": "落日七号",
-    "repo": "https://github.com/luori7hao/astrbot_plugin_zhuaxiaba",
-    "tags": [],
-    "social_link": "https://github.com/luori7hao",
-    "stars": 0,
-    "version": "0.3.0",
-    "updated_at": "2026-03-29T06:51:51Z"
   },
   "astrbot_plugin_presupposition_validation": {
     "name": "astrbot_plugin_presupposition_validation",
@@ -1221,18 +1190,6 @@
     "stars": 0,
     "version": "v0.0.2",
     "updated_at": "2026-03-21T15:18:08Z"
-  },
-  "astrbot_plugin_bilibililive_watcher": {
-    "name": "astrbot_plugin_bilibililive_watcher",
-    "display_name": "未审核：一起看B站直播！",
-    "desc": "让你AstrBot能看B站直播！定时抓取B站直播间弹幕与语音上下文，触发模型生成短回复，并可双通道发送到AstrBot会话与B站直播弹幕，也可注入会话作为上下文",
-    "author": "qingquanlingyu",
-    "repo": "https://github.com/qingquanlingyu/astrbot_plugin_bilibililive_watcher",
-    "tags": [],
-    "social_link": "https://github.com/qingquanlingyu",
-    "stars": 0,
-    "version": "v1.2.4",
-    "updated_at": "2026-03-21T14:35:53Z"
   },
   "astrbot_plugin_aitoiot": {
     "name": "astrbot_plugin_aitoiot",
