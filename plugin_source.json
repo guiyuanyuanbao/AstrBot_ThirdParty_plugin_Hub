@@ -1,4 +1,32 @@
 {
+  "astrbot_plugin_presupposition_validation": {
+    "name": "astrbot_plugin_presupposition_validation",
+    "display_name": "未审核：自动防误导",
+    "desc": "本插件通过预先分析用户提问中的隐藏前提，能在 AI 回复前拦截掉那些违背常识的造谣式提问，同时利用智能算法识别变换主语的跟风复读行为，支持异步模式下的「先回复、后追击纠错」，在不影响聊天速度的前提下保障机器人回复的智商在线。",
+    "author": "辉格史观",
+    "repo": "https://github.com/GenshinGnosticism/astrbot_plugin_presupposition_validation",
+    "tags": [
+      "聊天",
+      "问答"
+    ],
+    "social_link": "https://github.com/GenshinGnosticism",
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-03-29T05:10:34Z"
+  },
+  "astrbot_plugin_avatar_manager": {
+    "name": "astrbot_plugin_avatar_manager",
+    "display_name": "未审核：bot的衣柜",
+    "desc": "提供形象管理功能，让你的bot学会记录装束并自主切换",
+    "author": "MMaltSugar",
+    "repo": "https://github.com/MMaltSugar/astrbot_plugin_avatar_manager",
+    "tags": [],
+    "social_link": "https://github.com/MMaltSugar",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-29T03:07:04Z",
+    "logo": "https://raw.githubusercontent.com/MMaltSugar/astrbot_plugin_avatar_manager/main/logo.png"
+  },
   "astrbot_plugin_deerpipe": {
     "name": "astrbot_plugin_deerpipe",
     "display_name": "未审核：鹿乃子月历",
@@ -96,19 +124,6 @@
     "version": "v0.9.3",
     "updated_at": "2026-03-28T12:33:57Z",
     "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_fakechat/main/logo.png"
-  },
-  "astrbot_plugin_avatar_manager": {
-    "name": "astrbot_plugin_avatar_manager",
-    "display_name": "未审核：bot的衣柜",
-    "desc": "提供形象管理功能，让你的bot学会记录装束并自主切换",
-    "author": "MMaltSugar",
-    "repo": "https://github.com/MMaltSugar/astrbot_plugin_avatar_manager",
-    "tags": [],
-    "social_link": "https://github.com/MMaltSugar",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-28T12:29:01Z",
-    "logo": "https://raw.githubusercontent.com/MMaltSugar/astrbot_plugin_avatar_manager/main/logo.png"
   },
   "astrbot_plugin_touch_head": {
     "name": "astrbot_plugin_touch_head",
