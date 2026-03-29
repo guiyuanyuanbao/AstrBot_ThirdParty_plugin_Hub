@@ -11,8 +11,59 @@
     ],
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
-    "version": "v3.5.34",
-    "updated_at": "2026-03-29T13:49:47Z"
+    "version": "v3.5.23",
+    "updated_at": "2026-03-29T14:33:40Z"
+  },
+  "astrbot_plugin_custom_api": {
+    "name": "astrbot_plugin_custom_api",
+    "display_name": "未审核：自定义API管理",
+    "desc": "支持多样化的外部API调用，可处理文本、图片、语音和视频类型API，支持自定义参数配置，关键词触发调用",
+    "author": "Fishskys",
+    "repo": "https://github.com/Fishskys/astrbot_plugin_custom_api",
+    "tags": [
+      "api"
+    ],
+    "social_link": "https://github.com/Fishskys",
+    "stars": 0,
+    "version": "0.2.0",
+    "updated_at": "2026-03-29T14:31:22Z",
+    "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
+  },
+  "astrbot_plugin_cosplay_image_saver": {
+    "name": "astrbot_plugin_cosplay_image_saver",
+    "display_name": "未审核：女装图片保存助手",
+    "desc": "基于 AI 视觉模型的群聊图片智能保存插件。自动识别群友女装并存储，支持数据库持久化记录、自动去重、7 天数据清理。内置 SMTP 邮件推送和每日统计日报功能，支持多平台部署。",
+    "author": "WUHINS",
+    "repo": "https://github.com/WUHINS/astrbot_plugin_cosplay_image_saver",
+    "tags": [
+      "女装",
+      "图片",
+      "南梁",
+      "邮件",
+      "群聊",
+      "互动",
+      "恶趣"
+    ],
+    "social_link": "https://home.hinswu.top",
+    "stars": 1,
+    "version": "1.1.0",
+    "updated_at": "2026-03-29T14:18:59Z",
+    "logo": "https://raw.githubusercontent.com/WUHINS/astrbot_plugin_cosplay_image_saver/main/logo.png"
+  },
+  "astrbot_plugin_jm_pdf": {
+    "name": "astrbot_plugin_jm_pdf",
+    "display_name": "未审核：JM PDF",
+    "desc": "用于JM漫画下载🧩，支持缓存，指定章节下载，文案匹配，定时撤回，关键词搜索✨",
+    "author": "Kylerupinski",
+    "repo": "https://github.com/Kylerupinski/astrbot_plugin_JM_PDF",
+    "tags": [
+      "功能"
+    ],
+    "social_link": "https://github.com/Kylerupinski",
+    "stars": 0,
+    "version": "v1.6.4",
+    "updated_at": "2026-03-29T14:13:37Z",
+    "logo": "https://raw.githubusercontent.com/Kylerupinski/astrbot_plugin_JM_PDF/master/logo.png"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
@@ -849,21 +900,6 @@
     "version": "1.1.1",
     "updated_at": "2026-03-24T08:11:23Z"
   },
-  "astrbot_plugin_custom_api": {
-    "name": "astrbot_plugin_custom_api",
-    "display_name": "未审核：自定义API管理",
-    "desc": "支持多样化的外部API调用，可处理文本、图片、语音和视频类型API，支持自定义参数配置，关键词触发调用",
-    "author": "Fishskys",
-    "repo": "https://github.com/Fishskys/astrbot_plugin_custom_api",
-    "tags": [
-      "api"
-    ],
-    "social_link": "https://github.com/Fishskys",
-    "stars": 0,
-    "version": "0.1.3",
-    "updated_at": "2026-03-24T07:35:41Z",
-    "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
-  },
   "astrbot_plugin_meme_manager_plus": {
     "name": "astrbot_plugin_meme_manager_plus",
     "display_name": "未审核：AI心情表情管理器",
@@ -1451,27 +1487,6 @@
     "stars": 2,
     "version": "v0.0.1",
     "updated_at": "2026-03-18T15:31:14Z"
-  },
-  "astrbot_plugin_cosplay_image_saver": {
-    "name": "astrbot_plugin_cosplay_image_saver",
-    "display_name": "未审核：女装图片保存助手",
-    "desc": "基于 AI 视觉模型的群聊图片智能保存插件。自动识别群友女装并存储，支持数据库持久化记录、自动去重、7 天数据清理。内置 SMTP 邮件推送和每日统计日报功能，支持多平台部署。",
-    "author": "WUHINS",
-    "repo": "https://github.com/WUHINS/astrbot_plugin_cosplay_image_saver",
-    "tags": [
-      "女装",
-      "图片",
-      "南梁",
-      "邮件",
-      "群聊",
-      "互动",
-      "恶趣"
-    ],
-    "social_link": "https://home.hinswu.top",
-    "stars": 1,
-    "version": "1.1.0",
-    "updated_at": "2026-03-18T12:47:19Z",
-    "logo": "https://raw.githubusercontent.com/WUHINS/astrbot_plugin_cosplay_image_saver/main/logo.png"
   },
   "astrbot_plugin_nsjail": {
     "name": "astrbot_plugin_nsjail",
