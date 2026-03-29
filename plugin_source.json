@@ -1,4 +1,31 @@
 {
+  "astrbot_plugin_opensoftware": {
+    "name": "astrbot_plugin_opensoftware",
+    "display_name": "未审核：Windows打开软件插件",
+    "desc": "通过Windows注册表和开始菜单快捷方式打开应用程序",
+    "author": "Pla-Yer",
+    "repo": "https://github.com/Pla-Yer/astrbot_plugin_OpenSoftware",
+    "tags": [],
+    "social_link": "https://github.com/Pla-Yer",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-29T12:55:04Z"
+  },
+  "astrbot_plugin_qzone_tools": {
+    "name": "astrbot_plugin_qzone_tools",
+    "display_name": "未审核：为你的bot加入更多主动功能",
+    "desc": "支持机器人发送定时消息，发送QQ空间，发送戳一戳等给群聊或者私聊，以及更多LLM工具",
+    "author": "Wyccotccy",
+    "repo": "https://github.com/Wyccotccy/astrbot_plugin_qzone_tools",
+    "tags": [
+      "更多主动功能"
+    ],
+    "social_link": "www.wyccotccy.cn",
+    "stars": 0,
+    "version": "1.1.0",
+    "updated_at": "2026-03-29T12:32:30Z",
+    "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
+  },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
     "display_name": "未审核：修仙模拟器",
@@ -12,7 +39,21 @@
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
     "version": "v3.5.30",
-    "updated_at": "2026-03-29T11:28:41Z"
+    "updated_at": "2026-03-29T12:31:24Z"
+  },
+  "astrbot_plugin_iching": {
+    "name": "astrbot_plugin_iching",
+    "display_name": "未审核：每日算卦",
+    "desc": "易经算卦插件，支持今日运势与数字起卦（每日限次）。",
+    "author": "Luna",
+    "repo": "https://github.com/Clhyclhy/iching",
+    "tags": [
+      "算卦"
+    ],
+    "social_link": "https://github.com/Clhyclhy",
+    "stars": 0,
+    "version": "v1.1.1",
+    "updated_at": "2026-03-29T11:56:16Z"
   },
   "astrbot_plugin_sayorroll": {
     "name": "astrbot_plugin_sayorroll",
@@ -1019,21 +1060,6 @@
     "stars": 0,
     "version": "1.0.0",
     "updated_at": "2026-03-23T09:11:02Z"
-  },
-  "astrbot_plugin_qzone_tools": {
-    "name": "astrbot_plugin_qzone_tools",
-    "display_name": "未审核：为你的bot加入更多主动功能",
-    "desc": "支持机器人发送定时消息，发送QQ空间，发送戳一戳等给群聊或者私聊，以及更多LLM工具",
-    "author": "Wyccotccy",
-    "repo": "https://github.com/Wyccotccy/astrbot_plugin_qzone_tools",
-    "tags": [
-      "更多主动功能"
-    ],
-    "social_link": "www.wyccotccy.cn",
-    "stars": 0,
-    "version": "1.1.0",
-    "updated_at": "2026-03-23T05:18:12Z",
-    "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot_plugin_tts_bridge": {
     "name": "astrbot_plugin_tts_bridge",
