@@ -1,16 +1,4 @@
 {
-  "astrbot_plugin_dut_notices": {
-    "name": "astrbot_plugin_dut_notices",
-    "display_name": "未审核：大连理工大学通知新闻推送",
-    "desc": "聚合爬取大连理工大学多个通知站点（以开发区校区为主）最新内容，向订阅会话推送最新通知。",
-    "author": "Lentinel",
-    "repo": "https://github.com/Lentinel/astrbot_plugin_DUT_Notices",
-    "tags": [],
-    "social_link": "https://github.com/Lentinel",
-    "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2026-03-30T16:34:56Z"
-  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -28,8 +16,8 @@
     ],
     "social_link": "https://github.com/olozhika",
     "stars": 19,
-    "version": "v1.2.2",
-    "updated_at": "2026-03-30T16:22:54Z",
+    "version": "v1.2.3",
+    "updated_at": "2026-03-30T17:32:16Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot_plugin_deltaforce_loot_broadcast": {
@@ -57,7 +45,7 @@
       "工具"
     ],
     "social_link": "https://github.com/rorangeeee",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.1.1",
     "updated_at": "2026-03-30T13:51:46Z"
   },
@@ -3160,7 +3148,7 @@
     "tags": [],
     "social_link": "",
     "stars": 0,
-    "version": "v0.0.0",
+    "version": "v1.2.0",
     "updated_at": "2026-02-21T19:11:24Z"
   },
   "astrbot_plugin_keke_api_collection": {
