@@ -1,4 +1,32 @@
 {
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：修仙模拟器",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.6.0",
+    "updated_at": "2026-03-30T04:56:09Z"
+  },
+  "astrbot_plugin_qq_interactive_tools": {
+    "name": "astrbot_plugin_qq_interactive_tools",
+    "display_name": "未审核：QQ拟人化互动函数工具（llm_tools）",
+    "desc": "QQ专属互动的主动函数工具集（llm_tools）",
+    "author": "和泉智宏",
+    "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_qq_interactive_tools",
+    "tags": [],
+    "social_link": "https://github.com/0d00-Ciallo-0721",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-03-30T02:40:59Z",
+    "logo": "https://raw.githubusercontent.com/0d00-Ciallo-0721/astrbot_plugin_qq_interactive_tools/main/logo.png"
+  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -19,21 +47,6 @@
     "version": "v1.2.2",
     "updated_at": "2026-03-29T21:47:07Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
-  },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：修仙模拟器",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.6.0",
-    "updated_at": "2026-03-29T18:29:50Z"
   },
   "astrbot_plugin_llm_enhancement": {
     "name": "astrbot_plugin_llm_enhancement",
