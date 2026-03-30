@@ -1,4 +1,70 @@
 {
+  "astrbot_plugin_tts_sanitizer_bilingual": {
+    "name": "astrbot_plugin_tts_sanitizer_bilingual",
+    "display_name": "未审核：tts外语朗读",
+    "desc": "TTS文本过滤插件 - 支持双语TTS、语音Tool、MiniMax停顿标记，基于柯尔的tts_sanitizer扩展",
+    "author": "柠弥",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual",
+    "tags": [
+      "tts",
+      "翻译"
+    ],
+    "social_link": "https://github.com/chenluQwQ",
+    "stars": 0,
+    "version": "v1.4.0",
+    "updated_at": "2026-03-30T12:59:53Z",
+    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
+  },
+  "astrbot_plugin_local_reminiscence": {
+    "name": "astrbot_plugin_local_reminiscence",
+    "display_name": "未审核：本地回忆[APLR]",
+    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
+    "author": "olozhika",
+    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
+    "tags": [
+      "记忆",
+      "回忆",
+      "每日总结",
+      "语义识别",
+      "关键词",
+      "上下文注入",
+      "长期记忆"
+    ],
+    "social_link": "https://github.com/olozhika",
+    "stars": 18,
+    "version": "v1.2.2",
+    "updated_at": "2026-03-30T12:51:21Z",
+    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
+  },
+  "astrbot_plugin_image_symmetry": {
+    "name": "astrbot_plugin_image_symmetry",
+    "display_name": "未审核：图像对称",
+    "desc": "为 AstrBot 提供图片左右上下四种对称变换能力。\n\n严重感谢：https://github.com/GT-610/nonebot-plugin-image-symmetry",
+    "author": "hacchiroku & GT-610（Nonebot 插件原作者）",
+    "repo": "https://github.com/ArisaTaki/astrbot_plugin_image_symmetry",
+    "tags": [],
+    "social_link": "https://github.com/ArisaTaki",
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-03-30T12:45:57Z"
+  },
+  "astrbot_plugin_llmsupport": {
+    "name": "astrbot_plugin_llmsupport",
+    "display_name": "未审核：LLM感知用户打赏",
+    "desc": "对话表示想要支持打赏请客意图时，LLM表示感谢并亮出二维码。",
+    "author": "雷诺哈特",
+    "repo": "https://github.com/Weiss-UltimateSavior/astrbot_plugin_LLMsupport",
+    "tags": [
+      "LLM",
+      "投喂",
+      "打赏",
+      "二维码"
+    ],
+    "social_link": "https://github.com/Weiss-UltimateSavior",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-03-30T12:28:08Z"
+  },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
     "display_name": "未审核：修仙模拟器",
@@ -12,7 +78,25 @@
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
     "version": "v3.6.1",
-    "updated_at": "2026-03-30T10:11:36Z"
+    "updated_at": "2026-03-30T12:26:56Z"
+  },
+  "astrbot_plugin_llmjoin": {
+    "name": "astrbot_plugin_llmjoin",
+    "display_name": "未审核：LLM 加群审核",
+    "desc": "使用 LLM 智能审核加群申请的插件",
+    "author": "雷诺哈特",
+    "repo": "https://github.com/Weiss-UltimateSavior/astrbot_plugin_LLMjoin",
+    "tags": [
+      "LLM",
+      "验证",
+      "审核",
+      "加群",
+      "管理"
+    ],
+    "social_link": "https://github.com/Weiss-UltimateSavior",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-03-30T12:11:39Z"
   },
   "astrbot_plugin_qwen3_tts": {
     "name": "astrbot_plugin_qwen3_tts",
@@ -27,7 +111,7 @@
     "social_link": "https://github.com/Thyran1",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-03-30T09:15:05Z",
+    "updated_at": "2026-03-30T12:04:32Z",
     "logo": "https://raw.githubusercontent.com/Thyran1/astrbot_plugin_qwen3_tts/main/logo.png"
   },
   "astrbot_plugin_sadstory": {
@@ -77,23 +161,6 @@
     "version": "2.0.0",
     "updated_at": "2026-03-30T06:20:08Z"
   },
-  "astrbot_plugin_meme_manager_plus": {
-    "name": "astrbot_plugin_meme_manager_plus",
-    "display_name": "未审核：AI心情表情管理器",
-    "desc": "大模型分析对话情景，并基于预设的novelai形象tag，生成无消耗、效果较好的沉浸式图片对话体验。推荐安装日常穿搭插件，体验极好，不会玩novelai也支持心情表情模式。",
-    "author": "LOVEROXY",
-    "repo": "https://github.com/Sloan-YXT/astrbot_plugin_meme_manager_plus",
-    "tags": [
-      "novelai",
-      "emotion",
-      "graph generation"
-    ],
-    "social_link": "https://github.com/Sloan-YXT/",
-    "stars": 1,
-    "version": "v3.8.5",
-    "updated_at": "2026-03-30T05:56:10Z",
-    "logo": "https://raw.githubusercontent.com/Sloan-YXT/astrbot_plugin_meme_manager_plus/master/logo.png"
-  },
   "astrbot_plugin_qq_interactive_tools": {
     "name": "astrbot_plugin_qq_interactive_tools",
     "display_name": "未审核：QQ拟人化互动函数工具（llm_tools）",
@@ -106,27 +173,6 @@
     "version": "1.0.0",
     "updated_at": "2026-03-30T02:40:59Z",
     "logo": "https://raw.githubusercontent.com/0d00-Ciallo-0721/astrbot_plugin_qq_interactive_tools/main/logo.png"
-  },
-  "astrbot_plugin_local_reminiscence": {
-    "name": "astrbot_plugin_local_reminiscence",
-    "display_name": "未审核：本地回忆[APLR]",
-    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
-    "author": "olozhika",
-    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
-    "tags": [
-      "记忆",
-      "回忆",
-      "每日总结",
-      "语义识别",
-      "关键词",
-      "上下文注入",
-      "长期记忆"
-    ],
-    "social_link": "https://github.com/olozhika",
-    "stars": 18,
-    "version": "v1.2.2",
-    "updated_at": "2026-03-29T21:47:07Z",
-    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot_plugin_llm_enhancement": {
     "name": "astrbot_plugin_llm_enhancement",
@@ -146,18 +192,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-29T17:23:32Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
-  },
-  "astrbot_plugin_image_symmetry": {
-    "name": "astrbot_plugin_image_symmetry",
-    "display_name": "未审核：图像对称",
-    "desc": "为 AstrBot 提供图片左右上下四种对称变换能力。\n\n严重感谢：https://github.com/GT-610/nonebot-plugin-image-symmetry",
-    "author": "hacchiroku & GT-610（Nonebot 插件原作者）",
-    "repo": "https://github.com/ArisaTaki/astrbot_plugin_image_symmetry",
-    "tags": [],
-    "social_link": "https://github.com/ArisaTaki",
-    "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2026-03-29T15:53:25Z"
   },
   "astrbot_plugin_bilibililive_watcher": {
     "name": "astrbot_plugin_bilibililive_watcher",
@@ -585,23 +619,6 @@
     "version": "v1.0",
     "updated_at": "2026-03-27T06:11:40Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
-  },
-  "astrbot_plugin_llmsupport": {
-    "name": "astrbot_plugin_llmsupport",
-    "display_name": "未审核：LLM感知用户打赏",
-    "desc": "对话表示想要支持打赏请客意图时，LLM表示感谢并亮出二维码。",
-    "author": "雷诺哈特",
-    "repo": "https://github.com/Weiss-UltimateSavior/astrbot_plugin_LLMsupport",
-    "tags": [
-      "LLM",
-      "投喂",
-      "打赏",
-      "二维码"
-    ],
-    "social_link": "https://github.com/Weiss-UltimateSavior",
-    "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-03-27T02:58:46Z"
   },
   "astrbot_plugin_collectimage": {
     "name": "astrbot_plugin_collectimage",
