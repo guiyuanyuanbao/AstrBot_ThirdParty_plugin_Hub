@@ -170,20 +170,6 @@
     "version": "v1.1.1",
     "updated_at": "2026-03-29T11:56:16Z"
   },
-  "astrbot_plugin_sayorroll": {
-    "name": "astrbot_plugin_sayorroll",
-    "display_name": "未审核：sayorroll",
-    "desc": "一个简单的复读以及替你做决定的小玩意",
-    "author": "KanamiQwQ",
-    "repo": "https://github.com/kanamiQwQ/astrbot_plugin_sayorroll",
-    "tags": [
-      "骰子"
-    ],
-    "social_link": "https://github.com/kanamiQwQ",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-29T10:50:46Z"
-  },
   "astrbot_plugin_maibot_hijack": {
     "name": "astrbot_plugin_maibot_hijack",
     "display_name": "未审核：MaiBot Adapter",
