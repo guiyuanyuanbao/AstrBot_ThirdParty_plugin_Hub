@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_sadstory": {
+    "name": "astrbot_plugin_sadstory",
+    "display_name": "未审核：伪装聊天",
+    "desc": "在群聊中以合并转发消息的形式展示伪装聊天，支持 LLM 生成、Prompt 风格管理、故事模板参考、自定义角色等",
+    "author": "Towqs",
+    "repo": "https://github.com/Towqs/astrbot_plugin_fakechat",
+    "tags": [
+      "聊天",
+      "QQ",
+      "伪装",
+      "娱乐"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "v0.9.5",
+    "updated_at": "2026-03-30T07:35:25Z",
+    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_fakechat/main/logo.png"
+  },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
     "display_name": "未审核：修仙模拟器",
@@ -11,8 +29,37 @@
     ],
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
-    "version": "v3.6.0",
-    "updated_at": "2026-03-30T04:56:09Z"
+    "version": "v3.6.1",
+    "updated_at": "2026-03-30T07:27:01Z"
+  },
+  "astrbot_plugin_maibot_hijack": {
+    "name": "astrbot_plugin_maibot_hijack",
+    "display_name": "未审核：MaiBot Adapter",
+    "desc": "将 AstrBot 作为消息聚合平台接入 MaiBot",
+    "author": "EterUltimate",
+    "repo": "https://github.com/EterUltimate/astrbot_plugin_maibot_hijack",
+    "tags": [],
+    "social_link": "https://github.com/EterUltimate",
+    "stars": 1,
+    "version": "2.0.0",
+    "updated_at": "2026-03-30T06:20:08Z"
+  },
+  "astrbot_plugin_meme_manager_plus": {
+    "name": "astrbot_plugin_meme_manager_plus",
+    "display_name": "未审核：AI心情表情管理器",
+    "desc": "大模型分析对话情景，并基于预设的novelai形象tag，生成无消耗、效果较好的沉浸式图片对话体验。推荐安装日常穿搭插件，体验极好，不会玩novelai也支持心情表情模式。",
+    "author": "LOVEROXY",
+    "repo": "https://github.com/Sloan-YXT/astrbot_plugin_meme_manager_plus",
+    "tags": [
+      "novelai",
+      "emotion",
+      "graph generation"
+    ],
+    "social_link": "https://github.com/Sloan-YXT/",
+    "stars": 0,
+    "version": "v3.8.5",
+    "updated_at": "2026-03-30T05:56:10Z",
+    "logo": "https://raw.githubusercontent.com/Sloan-YXT/astrbot_plugin_meme_manager_plus/master/logo.png"
   },
   "astrbot_plugin_qq_interactive_tools": {
     "name": "astrbot_plugin_qq_interactive_tools",
@@ -183,18 +230,6 @@
     "version": "v1.1.1",
     "updated_at": "2026-03-29T11:56:16Z"
   },
-  "astrbot_plugin_maibot_hijack": {
-    "name": "astrbot_plugin_maibot_hijack",
-    "display_name": "未审核：MaiBot Adapter",
-    "desc": "将 AstrBot 作为消息聚合平台接入 MaiBot",
-    "author": "EterUltimate",
-    "repo": "https://github.com/EterUltimate/astrbot_plugin_maibot_hijack",
-    "tags": [],
-    "social_link": "https://github.com/EterUltimate",
-    "stars": 1,
-    "version": "2.0.0",
-    "updated_at": "2026-03-29T08:37:40Z"
-  },
   "astrbot_plugin_qq_restapi": {
     "name": "astrbot_plugin_qq_restapi",
     "display_name": "未审核：QQ REST API 适配器",
@@ -255,24 +290,6 @@
     "stars": 0,
     "version": "1.3.0",
     "updated_at": "2026-03-29T06:31:54Z"
-  },
-  "astrbot_plugin_sadstory": {
-    "name": "astrbot_plugin_sadstory",
-    "display_name": "未审核：伪装聊天",
-    "desc": "在群聊中以合并转发消息的形式展示伪装聊天，支持 LLM 生成、Prompt 风格管理、故事模板参考、自定义角色等",
-    "author": "Towqs",
-    "repo": "https://github.com/Towqs/astrbot_plugin_fakechat",
-    "tags": [
-      "聊天",
-      "QQ",
-      "伪装",
-      "娱乐"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "v0.9.4",
-    "updated_at": "2026-03-29T05:30:08Z",
-    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_fakechat/main/logo.png"
   },
   "astrbot_plugin_avatar_manager": {
     "name": "astrbot_plugin_avatar_manager",
@@ -879,23 +896,6 @@
     "stars": 0,
     "version": "1.1.1",
     "updated_at": "2026-03-24T08:11:23Z"
-  },
-  "astrbot_plugin_meme_manager_plus": {
-    "name": "astrbot_plugin_meme_manager_plus",
-    "display_name": "未审核：AI心情表情管理器",
-    "desc": "大模型分析对话情景，并基于预设的novelai形象tag，生成无消耗、效果较好的沉浸式图片对话体验。推荐安装日常穿搭插件，体验极好，不会玩novelai也支持心情表情模式。",
-    "author": "LOVEROXY",
-    "repo": "https://github.com/Sloan-YXT/astrbot_plugin_meme_manager_plus",
-    "tags": [
-      "novelai",
-      "emotion",
-      "graph generation"
-    ],
-    "social_link": "https://github.com/Sloan-YXT/",
-    "stars": 0,
-    "version": "v3.8.5",
-    "updated_at": "2026-03-24T04:55:56Z",
-    "logo": "https://raw.githubusercontent.com/Sloan-YXT/astrbot_plugin_meme_manager_plus/master/logo.png"
   },
   "astrbot_plugin_group_digest": {
     "name": "astrbot_plugin_group_digest",
