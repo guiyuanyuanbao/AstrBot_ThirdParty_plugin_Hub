@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_qwen3_tts": {
+    "name": "astrbot_plugin_qwen3_tts",
+    "display_name": "未审核：Qwen3-TTS本地文字转语音",
+    "desc": "基于本地部署的Qwen3-TTS，为astrbot提供文本转语音(TTS)服务，可自定义音色、语音分段。",
+    "author": "Thyran1",
+    "repo": "https://github.com/Thyran1/astrbot_plugin_qwen3_tts",
+    "tags": [
+      "tts",
+      "文字转语音"
+    ],
+    "social_link": "https://github.com/Thyran1",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-30T09:05:48Z"
+  },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
     "display_name": "未审核：伪装聊天",
@@ -14,7 +29,7 @@
     "social_link": "",
     "stars": 1,
     "version": "v0.9.5",
-    "updated_at": "2026-03-30T07:35:25Z",
+    "updated_at": "2026-03-30T08:24:43Z",
     "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_fakechat/main/logo.png"
   },
   "astrbot_plugin_monixiuxianv3": {
@@ -30,7 +45,24 @@
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
     "version": "v3.6.1",
-    "updated_at": "2026-03-30T07:27:01Z"
+    "updated_at": "2026-03-30T08:21:35Z"
+  },
+  "astrbot_plugin_xjj": {
+    "name": "astrbot_plugin_xjj",
+    "display_name": "未审核：随机小姐姐视频插件",
+    "desc": "一个为 AstrBot 开发的随机小姐姐视频插件，可以获取随机的小姐姐视频内容。",
+    "author": "柠柚",
+    "repo": "https://github.com/ningyou8023/astrbot_plugin_xjj",
+    "tags": [
+      "小姐姐",
+      "视频",
+      "美女"
+    ],
+    "social_link": "https://github.com/ningyou8023",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-30T08:10:11Z",
+    "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_xjj/main/logo.png"
   },
   "astrbot_plugin_maibot_hijack": {
     "name": "astrbot_plugin_maibot_hijack",
@@ -200,21 +232,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-03-29T12:55:04Z"
-  },
-  "astrbot_plugin_qzone_tools": {
-    "name": "astrbot_plugin_qzone_tools",
-    "display_name": "未审核：为你的bot加入更多主动功能",
-    "desc": "支持机器人发送定时消息，发送QQ空间，发送戳一戳等给群聊或者私聊，以及更多LLM工具",
-    "author": "Wyccotccy",
-    "repo": "https://github.com/Wyccotccy/astrbot_plugin_qzone_tools",
-    "tags": [
-      "更多主动功能"
-    ],
-    "social_link": "www.wyccotccy.cn",
-    "stars": 0,
-    "version": "1.1.0",
-    "updated_at": "2026-03-29T12:32:30Z",
-    "logo": "https://raw.githubusercontent.com/Wyccotccy/astrbot_plugin_qzone_tools/main/logo.png"
   },
   "astrbot_plugin_iching": {
     "name": "astrbot_plugin_iching",
