@@ -1,4 +1,66 @@
 {
+  "astrbot_plugin_qwen3_tts": {
+    "name": "astrbot_plugin_qwen3_tts",
+    "display_name": "未审核：Qwen3-TTS本地文字转语音",
+    "desc": "基于本地部署的Qwen3-TTS，为astrbot提供文本转语音(TTS)服务，可自定义音色、语音分段。",
+    "author": "Thyran1",
+    "repo": "https://github.com/Thyran1/astrbot_plugin_qwen3_tts",
+    "tags": [
+      "tts",
+      "文字转语音"
+    ],
+    "social_link": "https://github.com/Thyran1",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-31T04:56:03Z",
+    "logo": "https://raw.githubusercontent.com/Thyran1/astrbot_plugin_qwen3_tts/main/logo.png"
+  },
+  "astrbot_plugin_ccobsidian": {
+    "name": "astrbot_plugin_ccobsidian",
+    "display_name": "未审核：CcObsidian知识库插件",
+    "desc": "这是一个AstrBot的插件，用于自动同步Obsidian目录到AstrBot知识库，支持文件变化检测和自动更新。",
+    "author": "UncleC",
+    "repo": "https://github.com/CuNeCl/astrbot_plugin_ccobsidian",
+    "tags": [
+      "知识库"
+    ],
+    "social_link": "https://github.com/CuNeCl",
+    "stars": 0,
+    "version": "v1.1.1",
+    "updated_at": "2026-03-31T04:50:03Z"
+  },
+  "astrbot_plugin_kfc_crazy_thursday": {
+    "name": "astrbot_plugin_kfc_crazy_thursday",
+    "display_name": "未审核：秦始皇疯狂星期四",
+    "desc": "疯狂星期四秦始皇马甲回复插件，检测UMO白名单会话中的疯狂星期四话术并自动以秦始皇口吻回复",
+    "author": "Compilerror",
+    "repo": "https://github.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday",
+    "tags": [],
+    "social_link": "https://github.com/CompilError-bts",
+    "stars": 0,
+    "version": "v1.3.0",
+    "updated_at": "2026-03-31T04:13:44Z",
+    "logo": "https://raw.githubusercontent.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday/master/logo.png"
+  },
+  "astrbot_plugin_character_split": {
+    "name": "astrbot_plugin_character_split",
+    "display_name": "未审核：上下班人格分流",
+    "desc": "在上班和下班时间将对话分流并使用不同风格的人格提示词（偏工程/偏人性）以得到更好的bot使用体验。",
+    "author": "Elysium-Seeker",
+    "repo": "https://github.com/Elysium-Seeker/astrbot_plugin_character_split",
+    "tags": [
+      "人格",
+      "分流",
+      "提示词",
+      "prompt",
+      "对话",
+      "记忆"
+    ],
+    "social_link": "https://elysium-seeker.github.io/",
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-03-31T03:59:10Z"
+  },
   "astrbot_plugin_ctfpusher": {
     "name": "astrbot_plugin_ctfpusher",
     "display_name": "未审核：CTF 赛题及赛事推送助手",
@@ -84,7 +146,7 @@
       "长期记忆"
     ],
     "social_link": "https://github.com/olozhika",
-    "stars": 20,
+    "stars": 21,
     "version": "v1.2.3",
     "updated_at": "2026-03-30T19:32:12Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
@@ -136,22 +198,6 @@
     "stars": 1,
     "version": "v1.1.1",
     "updated_at": "2026-03-30T13:51:46Z"
-  },
-  "astrbot_plugin_qwen3_tts": {
-    "name": "astrbot_plugin_qwen3_tts",
-    "display_name": "未审核：Qwen3-TTS本地文字转语音",
-    "desc": "基于本地部署的Qwen3-TTS，为astrbot提供文本转语音(TTS)服务，可自定义音色、语音分段。",
-    "author": "Thyran1",
-    "repo": "https://github.com/Thyran1/astrbot_plugin_qwen3_tts",
-    "tags": [
-      "tts",
-      "文字转语音"
-    ],
-    "social_link": "https://github.com/Thyran1",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-30T13:44:36Z",
-    "logo": "https://raw.githubusercontent.com/Thyran1/astrbot_plugin_qwen3_tts/main/logo.png"
   },
   "astrbot_plugin_img_analysis": {
     "name": "astrbot_plugin_img_analysis",
@@ -3207,7 +3253,7 @@
       "图库"
     ],
     "social_link": "https://github.com/Sakura520222",
-    "stars": 2,
+    "stars": 3,
     "version": "1.3.2",
     "updated_at": "2026-02-19T13:40:55Z",
     "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_image_collector/main/logo.png"
