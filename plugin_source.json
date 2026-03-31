@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_deltaforce_loot_broadcast": {
+    "name": "astrbot_plugin_deltaforce_loot_broadcast",
+    "display_name": "未审核：三角洲物资播报",
+    "desc": "监测玩家最近对局的撤离带出物品，并在命中高价值收集品时进行主动播报。",
+    "author": "XiuYan",
+    "repo": "https://github.com/XiuYanX/astrbot_plugin_deltaforce_loot_broadcast",
+    "tags": [
+      "三角洲",
+      "deltaforce"
+    ],
+    "social_link": "https://github.com/XiuYanX",
+    "stars": 0,
+    "version": "1.0.1",
+    "updated_at": "2026-03-31T11:49:20Z"
+  },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
     "display_name": "未审核：修仙模拟器",
@@ -12,7 +27,7 @@
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
     "version": "v3.7.1",
-    "updated_at": "2026-03-31T10:29:31Z"
+    "updated_at": "2026-03-31T11:42:17Z"
   },
   "astrbot_plugin_zhudongshiliao": {
     "name": "astrbot_plugin_zhudongshiliao",
@@ -123,20 +138,6 @@
     "updated_at": "2026-03-31T06:06:10Z",
     "logo": "https://raw.githubusercontent.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday/master/logo.png"
   },
-  "astrbot_plugin_ccobsidian": {
-    "name": "astrbot_plugin_ccobsidian",
-    "display_name": "未审核：CcObsidian知识库插件",
-    "desc": "这是一个AstrBot的插件，用于自动同步Obsidian目录到AstrBot知识库，支持文件变化检测和自动更新。",
-    "author": "UncleC",
-    "repo": "https://github.com/CuNeCl/astrbot_plugin_ccobsidian",
-    "tags": [
-      "知识库"
-    ],
-    "social_link": "https://github.com/CuNeCl",
-    "stars": 0,
-    "version": "v1.1.1",
-    "updated_at": "2026-03-31T05:34:43Z"
-  },
   "astrbot_plugin_ctfpusher": {
     "name": "astrbot_plugin_ctfpusher",
     "display_name": "未审核：CTF 赛题及赛事推送助手",
@@ -224,21 +225,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-30T19:26:09Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
-  },
-  "astrbot_plugin_deltaforce_loot_broadcast": {
-    "name": "astrbot_plugin_deltaforce_loot_broadcast",
-    "display_name": "未审核：三角洲物资播报",
-    "desc": "监测玩家最近对局的撤离带出物品，并在命中高价值收集品时进行主动播报。",
-    "author": "XiuYan",
-    "repo": "https://github.com/XiuYanX/astrbot_plugin_deltaforce_loot_broadcast",
-    "tags": [
-      "三角洲",
-      "deltaforce"
-    ],
-    "social_link": "https://github.com/XiuYanX",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-30T15:39:38Z"
   },
   "astrbot_plugin_ipcam": {
     "name": "astrbot_plugin_ipcam",
