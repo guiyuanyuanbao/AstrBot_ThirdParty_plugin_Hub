@@ -1,4 +1,34 @@
 {
+  "astrbot_plugin_bsum": {
+    "name": "astrbot_plugin_bsum",
+    "display_name": "未审核：BiliBili 视频总结插件",
+    "desc": "一款为 AstrBot 设计的 Bilibili 视频总结插件，能够自动提取视频简介，并调用大语言模型（LLM）生成核心内容与关键要点总结。✨",
+    "author": "loong486",
+    "repo": "https://github.com/loong486/astrbot_plugin_bsum",
+    "tags": [
+      "B站",
+      "哔哩哔哩",
+      "bilibili"
+    ],
+    "social_link": "https://github.com/loong486",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-31T21:37:40Z"
+  },
+  "astrbot_plugin_keywords_miko": {
+    "name": "astrbot_plugin_keywords_miko",
+    "display_name": "未审核：关键字回复系统",
+    "desc": "简易使用，支持多类型添加，持久化媒体文件内容，若设置不当注意存储空间爆炸。",
+    "author": "MIKOvOKM",
+    "repo": "https://github.com/MIKOvOKM/astrbot_plugin_keywords_miko",
+    "tags": [
+      "关键字回复"
+    ],
+    "social_link": "https://github.com/MIKOvOKM",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-31T21:07:55Z"
+  },
   "astrbot_plugin_llm_enhancement": {
     "name": "astrbot_plugin_llm_enhancement",
     "display_name": "未审核：LLM 综合增强",
@@ -17,20 +47,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-31T18:53:52Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
-  },
-  "astrbot_plugin_keywords_miko": {
-    "name": "astrbot_plugin_keywords_miko",
-    "display_name": "未审核：关键字回复系统",
-    "desc": "简易使用，支持多类型添加，持久化媒体文件内容，若设置不当注意存储空间爆炸。",
-    "author": "MIKOvOKM",
-    "repo": "https://github.com/MIKOvOKM/astrbot_plugin_keywords_miko",
-    "tags": [
-      "关键字回复"
-    ],
-    "social_link": "https://github.com/MIKOvOKM",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-31T18:53:17Z"
   },
   "astrbot_plugin_point_system": {
     "name": "astrbot_plugin_point_system",
