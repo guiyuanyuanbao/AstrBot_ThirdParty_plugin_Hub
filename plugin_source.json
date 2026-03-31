@@ -1,18 +1,19 @@
 {
-  "astrbot_plugin_deltaforce_loot_broadcast": {
-    "name": "astrbot_plugin_deltaforce_loot_broadcast",
-    "display_name": "未审核：三角洲物资播报",
-    "desc": "监测玩家最近对局的撤离带出物品，并在命中高价值收集品时进行主动播报。",
-    "author": "XiuYan",
-    "repo": "https://github.com/XiuYanX/astrbot_plugin_deltaforce_loot_broadcast",
+  "astrbot_plugin_master": {
+    "name": "astrbot_plugin_master",
+    "display_name": "未审核：用户联系bot主人",
+    "desc": "这是一个自用插件，用于用户联系bot管理员对话用户指令，指令联系主人+内容 主人指令，回复+【指定QQ号】+内容，用了Gemini的力量，想改自己改吧，主人ID得自己文件配置，默认是我的嘻嘻嘻",
+    "author": "Care",
+    "repo": "https://github.com/Care0721/astrbot_plugin_master",
     "tags": [
-      "三角洲",
-      "deltaforce"
+      "实用",
+      "通知",
+      "User contacts administrator via bot"
     ],
-    "social_link": "https://github.com/XiuYanX",
-    "stars": 0,
-    "version": "1.0.1",
-    "updated_at": "2026-03-31T11:49:20Z"
+    "social_link": "https://github.com/Care0721",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-31T13:17:59Z"
   },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
@@ -26,22 +27,8 @@
     ],
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
-    "version": "v3.7.1",
-    "updated_at": "2026-03-31T11:42:17Z"
-  },
-  "astrbot_plugin_zhudongshiliao": {
-    "name": "astrbot_plugin_zhudongshiliao",
-    "display_name": "未审核：主动私聊",
-    "desc": "为ai提供了可以私聊的通道，可以通过语言让ai向特定的人或者群发送消息(包括转发消息，查询结果等，支持私聊-私聊，q群-私聊(由于模型有上下文所以这里直接叫要转发对象的nickname时ai会找到对方的qq进行发送)，私聊-q群)以及自定义报错和ai主动告状的功能",
-    "author": "引灯续昼",
-    "repo": "https://github.com/HLC2757808353/astrbot_plugin_zhudongshiliao",
-    "tags": [
-      "私发"
-    ],
-    "social_link": "https://github.com/HLC2757808353",
-    "stars": 0,
-    "version": "0.4.2",
-    "updated_at": "2026-03-31T09:52:15Z"
+    "version": "v3.8.0",
+    "updated_at": "2026-03-31T13:09:22Z"
   },
   "astrbot_plugin_character_split": {
     "name": "astrbot_plugin_character_split",
@@ -59,8 +46,74 @@
     ],
     "social_link": "https://elysium-seeker.github.io/",
     "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2026-03-31T09:21:09Z"
+    "version": "v1.1.1",
+    "updated_at": "2026-03-31T12:09:56Z"
+  },
+  "astrbot_plugin_self_open_llm_vtuber": {
+    "name": "astrbot_plugin_self_open_llm_vtuber",
+    "display_name": "未审核：Alice的桌面分身",
+    "desc": "让你的bot在桌面或者web可以看到你、看到你在干什么、开口说话并实时做表情动作，支持语音输入、语音打断与互动联动。",
+    "author": "YakumoAki",
+    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
+    "tags": [
+      "live2d",
+      "皮套",
+      "open llm vtuber"
+    ],
+    "social_link": "https://space.bilibili.com/41761329",
+    "stars": 5,
+    "version": "1.0.0",
+    "updated_at": "2026-03-31T12:09:49Z",
+    "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
+  },
+  "astrbot_plugin_biliread": {
+    "name": "astrbot_plugin_biliread",
+    "display_name": "未审核：BiliRead - 让 AI 真正看懂 B 站视频",
+    "desc": "告别机械式的视频大纲复制，让你的 AstrBot 拥有真正“看懂” B 站视频的能力。",
+    "author": "SodaCode & CodeBuddy & GLM-5",
+    "repo": "https://github.com/SodaCodeSave/astrbot_plugin_biliread",
+    "tags": [
+      "哔哩哔哩",
+      "B站",
+      "视频",
+      "总结",
+      "解析",
+      "外部集成"
+    ],
+    "social_link": "https://github.com/SodaCodeSave",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-31T12:03:51Z",
+    "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
+  },
+  "astrbot_plugin_deltaforce_loot_broadcast": {
+    "name": "astrbot_plugin_deltaforce_loot_broadcast",
+    "display_name": "未审核：三角洲物资播报",
+    "desc": "监测玩家最近对局的撤离带出物品，并在命中高价值收集品时进行主动播报。",
+    "author": "XiuYan",
+    "repo": "https://github.com/XiuYanX/astrbot_plugin_deltaforce_loot_broadcast",
+    "tags": [
+      "三角洲",
+      "deltaforce"
+    ],
+    "social_link": "https://github.com/XiuYanX",
+    "stars": 0,
+    "version": "1.0.1",
+    "updated_at": "2026-03-31T11:49:20Z"
+  },
+  "astrbot_plugin_zhudongshiliao": {
+    "name": "astrbot_plugin_zhudongshiliao",
+    "display_name": "未审核：主动私聊",
+    "desc": "为ai提供了可以私聊的通道，可以通过语言让ai向特定的人或者群发送消息(包括转发消息，查询结果等，支持私聊-私聊，q群-私聊(由于模型有上下文所以这里直接叫要转发对象的nickname时ai会找到对方的qq进行发送)，私聊-q群)以及自定义报错和ai主动告状的功能",
+    "author": "引灯续昼",
+    "repo": "https://github.com/HLC2757808353/astrbot_plugin_zhudongshiliao",
+    "tags": [
+      "私发"
+    ],
+    "social_link": "https://github.com/HLC2757808353",
+    "stars": 0,
+    "version": "0.4.2",
+    "updated_at": "2026-03-31T09:52:15Z"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
@@ -651,23 +704,6 @@
     "version": "v0.1.3",
     "updated_at": "2026-03-28T07:14:33Z",
     "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
-  },
-  "astrbot_plugin_self_open_llm_vtuber": {
-    "name": "astrbot_plugin_self_open_llm_vtuber",
-    "display_name": "未审核：Alice的桌面分身",
-    "desc": "让你的bot在桌面或者web可以看到你、看到你在干什么、开口说话并实时做表情动作，支持语音输入、语音打断与互动联动。",
-    "author": "YakumoAki",
-    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
-    "tags": [
-      "live2d",
-      "皮套",
-      "open llm vtuber"
-    ],
-    "social_link": "https://space.bilibili.com/41761329",
-    "stars": 5,
-    "version": "1.0.0",
-    "updated_at": "2026-03-28T07:02:26Z",
-    "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
   },
   "astrbot_plugin_analysis_bilibili": {
     "name": "astrbot_plugin_analysis_bilibili",
@@ -1916,11 +1952,11 @@
     "version": "v0.0.6",
     "updated_at": "2026-03-15T04:02:42Z"
   },
-  "astrbot_plugin_regex_replace": {
-    "name": "astrbot_plugin_regex_replace",
+  "regex_replace": {
+    "name": "regex_replace",
     "display_name": "未审核：正则输出替换",
     "desc": "支持使用正则表达式对 AI 输出的文本内容进行强制替换或脱敏。",
-    "author": "bronie",
+    "author": "bronie-honkai",
     "repo": "https://github.com/bronie-honkai/astrbot_plugin_regex_replace",
     "tags": [],
     "social_link": "https://github.com/bronie-honkai",
@@ -2214,7 +2250,7 @@
     "repo": "https://github.com/Yangyuwuhan/astrbot_plugin_keywords_pro",
     "tags": [],
     "social_link": "https://github.com/Yangyuwuhan",
-    "stars": 1,
+    "stars": 2,
     "version": "3.3.0",
     "updated_at": "2026-03-12T15:20:09Z",
     "logo": "https://raw.githubusercontent.com/Yangyuwuhan/astrbot_plugin_keywords_pro/main/logo.png"
