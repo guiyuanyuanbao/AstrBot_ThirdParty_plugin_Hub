@@ -12,35 +12,22 @@
     "social_link": "https://github.com/Thyran1",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-03-31T04:56:03Z",
+    "updated_at": "2026-03-31T06:58:27Z",
     "logo": "https://raw.githubusercontent.com/Thyran1/astrbot_plugin_qwen3_tts/main/logo.png"
   },
-  "astrbot_plugin_ccobsidian": {
-    "name": "astrbot_plugin_ccobsidian",
-    "display_name": "未审核：CcObsidian知识库插件",
-    "desc": "这是一个AstrBot的插件，用于自动同步Obsidian目录到AstrBot知识库，支持文件变化检测和自动更新。",
-    "author": "UncleC",
-    "repo": "https://github.com/CuNeCl/astrbot_plugin_ccobsidian",
+  "astrbot_plugin_keywords_miko": {
+    "name": "astrbot_plugin_keywords_miko",
+    "display_name": "未审核：关键字回复系统",
+    "desc": "简易使用，支持多类型添加，持久化媒体文件内容，若设置不当注意存储空间爆炸。",
+    "author": "MIKOvOKM",
+    "repo": "https://github.com/MIKOvOKM/astrbot_plugin_keywords_miko",
     "tags": [
-      "知识库"
+      "关键字回复"
     ],
-    "social_link": "https://github.com/CuNeCl",
+    "social_link": "https://github.com/MIKOvOKM",
     "stars": 0,
-    "version": "v1.1.1",
-    "updated_at": "2026-03-31T04:50:03Z"
-  },
-  "astrbot_plugin_kfc_crazy_thursday": {
-    "name": "astrbot_plugin_kfc_crazy_thursday",
-    "display_name": "未审核：秦始皇疯狂星期四",
-    "desc": "疯狂星期四秦始皇马甲回复插件，检测UMO白名单会话中的疯狂星期四话术并自动以秦始皇口吻回复",
-    "author": "Compilerror",
-    "repo": "https://github.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday",
-    "tags": [],
-    "social_link": "https://github.com/CompilError-bts",
-    "stars": 0,
-    "version": "v1.3.0",
-    "updated_at": "2026-03-31T04:13:44Z",
-    "logo": "https://raw.githubusercontent.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday/master/logo.png"
+    "version": "v1.0.0",
+    "updated_at": "2026-03-31T06:32:04Z"
   },
   "astrbot_plugin_character_split": {
     "name": "astrbot_plugin_character_split",
@@ -59,7 +46,46 @@
     "social_link": "https://elysium-seeker.github.io/",
     "stars": 0,
     "version": "v1.0.1",
-    "updated_at": "2026-03-31T03:59:10Z"
+    "updated_at": "2026-03-31T06:26:25Z"
+  },
+  "astrbot_plugin_political_test": {
+    "name": "astrbot_plugin_political_test",
+    "display_name": "未审核：8values 测试",
+    "desc": "基于8values的意识形态测试",
+    "author": "MasaIodine",
+    "repo": "https://github.com/MasaIodine/astrbot_plugin_political_test",
+    "tags": [],
+    "social_link": "https://github.com/MasaIodine",
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-03-31T06:08:39Z"
+  },
+  "astrbot_plugin_kfc_crazy_thursday": {
+    "name": "astrbot_plugin_kfc_crazy_thursday",
+    "display_name": "未审核：秦始皇疯狂星期四",
+    "desc": "疯狂星期四秦始皇马甲回复插件，检测UMO白名单会话中的疯狂星期四话术并自动以秦始皇口吻回复",
+    "author": "Compilerror",
+    "repo": "https://github.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday",
+    "tags": [],
+    "social_link": "https://github.com/CompilError-bts",
+    "stars": 0,
+    "version": "v1.3.0",
+    "updated_at": "2026-03-31T06:06:10Z",
+    "logo": "https://raw.githubusercontent.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday/master/logo.png"
+  },
+  "astrbot_plugin_ccobsidian": {
+    "name": "astrbot_plugin_ccobsidian",
+    "display_name": "未审核：CcObsidian知识库插件",
+    "desc": "这是一个AstrBot的插件，用于自动同步Obsidian目录到AstrBot知识库，支持文件变化检测和自动更新。",
+    "author": "UncleC",
+    "repo": "https://github.com/CuNeCl/astrbot_plugin_ccobsidian",
+    "tags": [
+      "知识库"
+    ],
+    "social_link": "https://github.com/CuNeCl",
+    "stars": 0,
+    "version": "v1.1.1",
+    "updated_at": "2026-03-31T05:34:43Z"
   },
   "astrbot_plugin_ctfpusher": {
     "name": "astrbot_plugin_ctfpusher",
