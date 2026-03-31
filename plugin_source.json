@@ -1,4 +1,37 @@
 {
+  "astrbot_plugin_llm_enhancement": {
+    "name": "astrbot_plugin_llm_enhancement",
+    "display_name": "未审核：LLM 综合增强",
+    "desc": "增强 LLM 表现，集成智能唤醒、消息合并、多媒体解析、环境注入、黑名单拦截与 QQ 工具调用能力。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_llm_enhancement",
+    "tags": [
+      "智能唤醒",
+      "消息合并",
+      "媒体注入",
+      "撤回检测",
+      "黑名单"
+    ],
+    "social_link": "https://github.com/Foolllll-J",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-31T18:53:52Z",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
+  },
+  "astrbot_plugin_keywords_miko": {
+    "name": "astrbot_plugin_keywords_miko",
+    "display_name": "未审核：关键字回复系统",
+    "desc": "简易使用，支持多类型添加，持久化媒体文件内容，若设置不当注意存储空间爆炸。",
+    "author": "MIKOvOKM",
+    "repo": "https://github.com/MIKOvOKM/astrbot_plugin_keywords_miko",
+    "tags": [
+      "关键字回复"
+    ],
+    "social_link": "https://github.com/MIKOvOKM",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-31T18:53:17Z"
+  },
   "astrbot_plugin_point_system": {
     "name": "astrbot_plugin_point_system",
     "display_name": "未审核：群积分助手",
@@ -181,20 +214,6 @@
     "version": "0.4.2",
     "updated_at": "2026-03-31T09:52:15Z"
   },
-  "astrbot_plugin_keywords_miko": {
-    "name": "astrbot_plugin_keywords_miko",
-    "display_name": "未审核：关键字回复系统",
-    "desc": "简易使用，支持多类型添加，持久化媒体文件内容，若设置不当注意存储空间爆炸。",
-    "author": "MIKOvOKM",
-    "repo": "https://github.com/MIKOvOKM/astrbot_plugin_keywords_miko",
-    "tags": [
-      "关键字回复"
-    ],
-    "social_link": "https://github.com/MIKOvOKM",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-31T06:32:04Z"
-  },
   "astrbot_plugin_political_test": {
     "name": "astrbot_plugin_political_test",
     "display_name": "未审核：8values 测试",
@@ -288,25 +307,6 @@
     "stars": 1,
     "version": "v1.0.0",
     "updated_at": "2026-03-30T19:55:41Z"
-  },
-  "astrbot_plugin_llm_enhancement": {
-    "name": "astrbot_plugin_llm_enhancement",
-    "display_name": "未审核：LLM 综合增强",
-    "desc": "增强 LLM 表现，集成智能唤醒、消息合并、多媒体解析、环境注入、黑名单拦截与 QQ 工具调用能力。",
-    "author": "Foolllll",
-    "repo": "https://github.com/Foolllll-J/astrbot_plugin_llm_enhancement",
-    "tags": [
-      "智能唤醒",
-      "消息合并",
-      "媒体注入",
-      "撤回检测",
-      "黑名单"
-    ],
-    "social_link": "https://github.com/Foolllll-J",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-30T19:26:09Z",
-    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
   },
   "astrbot_plugin_ipcam": {
     "name": "astrbot_plugin_ipcam",
