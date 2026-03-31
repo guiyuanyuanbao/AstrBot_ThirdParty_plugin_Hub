@@ -1,20 +1,4 @@
 {
-  "astrbot_plugin_master": {
-    "name": "astrbot_plugin_master",
-    "display_name": "未审核：用户联系bot主人",
-    "desc": "这是一个自用插件，用于用户联系bot管理员对话用户指令，指令联系主人+内容 主人指令，回复+【指定QQ号】+内容，用了Gemini的力量，想改自己改吧，主人ID得自己文件配置，默认是我的嘻嘻嘻",
-    "author": "Care",
-    "repo": "https://github.com/Care0721/astrbot_plugin_master",
-    "tags": [
-      "实用",
-      "通知",
-      "User contacts administrator via bot"
-    ],
-    "social_link": "https://github.com/Care0721",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-31T13:17:59Z"
-  },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
     "display_name": "未审核：修仙模拟器",
@@ -28,7 +12,7 @@
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
     "version": "v3.8.0",
-    "updated_at": "2026-03-31T13:09:22Z"
+    "updated_at": "2026-03-31T14:58:19Z"
   },
   "astrbot_plugin_character_split": {
     "name": "astrbot_plugin_character_split",
@@ -46,8 +30,88 @@
     ],
     "social_link": "https://elysium-seeker.github.io/",
     "stars": 0,
-    "version": "v1.1.1",
-    "updated_at": "2026-03-31T12:09:56Z"
+    "version": "v1.1.8",
+    "updated_at": "2026-03-31T14:51:57Z"
+  },
+  "astrbot_plugin_asoul": {
+    "name": "astrbot_plugin_asoul",
+    "display_name": "未审核：枝江自动推送",
+    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
+    "author": "LEN5010",
+    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
+    "tags": [
+      "ASOUL",
+      "自动推送",
+      "信息推送"
+    ],
+    "social_link": "https://github.com/LEN5010/",
+    "stars": 0,
+    "version": "v3.0.1",
+    "updated_at": "2026-03-31T14:46:41Z"
+  },
+  "astrbot_plugin_skills_mcp_manager": {
+    "name": "astrbot_plugin_skills_mcp_manager",
+    "display_name": "未审核：Skills & MCP 管理器",
+    "desc": "为astrbot提供函数工具和指令来管理 AstrBot Skills 和 MCP 服务器。",
+    "author": "piexian",
+    "repo": "https://github.com/piexian/astrbot_plugin_skills_mcp_manager",
+    "tags": [
+      "工具",
+      "管理",
+      "mcp",
+      "skills"
+    ],
+    "social_link": "https://github.com/piexian",
+    "stars": 5,
+    "version": "0.1.7",
+    "updated_at": "2026-03-31T14:38:55Z"
+  },
+  "astrbot_plugin_master": {
+    "name": "astrbot_plugin_master",
+    "display_name": "未审核：用户联系bot主人",
+    "desc": "这是一个自用插件，用于用户联系bot管理员对话用户指令，指令联系主人+内容 主人指令，回复+【指定QQ号】+内容，用了Gemini的力量，想改自己改吧，主人ID得自己文件配置，默认是我的嘻嘻嘻",
+    "author": "Care",
+    "repo": "https://github.com/Care0721/astrbot_plugin_master",
+    "tags": [
+      "实用",
+      "通知",
+      "User contacts administrator via bot"
+    ],
+    "social_link": "https://github.com/Care0721",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-31T14:36:57Z"
+  },
+  "astrbot_plugin_qwen3_tts": {
+    "name": "astrbot_plugin_qwen3_tts",
+    "display_name": "未审核：Qwen3-TTS本地文字转语音",
+    "desc": "基于本地部署的Qwen3-TTS，为astrbot提供文本转语音(TTS)服务，可自定义音色、语音分段。",
+    "author": "Thyran1",
+    "repo": "https://github.com/Thyran1/astrbot_plugin_qwen3_tts",
+    "tags": [
+      "tts",
+      "文字转语音"
+    ],
+    "social_link": "https://github.com/Thyran1",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-03-31T14:29:03Z",
+    "logo": "https://raw.githubusercontent.com/Thyran1/astrbot_plugin_qwen3_tts/main/logo.png"
+  },
+  "astrbot_plugin_deltaforce_loot_broadcast": {
+    "name": "astrbot_plugin_deltaforce_loot_broadcast",
+    "display_name": "未审核：三角洲物资播报",
+    "desc": "监测玩家最近对局的撤离带出物品，并在命中高价值收集品时进行主动播报。",
+    "author": "XiuYan",
+    "repo": "https://github.com/XiuYanX/astrbot_plugin_deltaforce_loot_broadcast",
+    "tags": [
+      "三角洲",
+      "deltaforce"
+    ],
+    "social_link": "https://github.com/XiuYanX",
+    "stars": 0,
+    "version": "1.0.3",
+    "updated_at": "2026-03-31T14:14:23Z"
   },
   "astrbot_plugin_self_open_llm_vtuber": {
     "name": "astrbot_plugin_self_open_llm_vtuber",
@@ -65,41 +129,6 @@
     "version": "1.0.0",
     "updated_at": "2026-03-31T12:09:49Z",
     "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
-  },
-  "astrbot_plugin_biliread": {
-    "name": "astrbot_plugin_biliread",
-    "display_name": "未审核：BiliRead - 让 AI 真正看懂 B 站视频",
-    "desc": "告别机械式的视频大纲复制，让你的 AstrBot 拥有真正“看懂” B 站视频的能力。",
-    "author": "SodaCode & CodeBuddy & GLM-5",
-    "repo": "https://github.com/SodaCodeSave/astrbot_plugin_biliread",
-    "tags": [
-      "哔哩哔哩",
-      "B站",
-      "视频",
-      "总结",
-      "解析",
-      "外部集成"
-    ],
-    "social_link": "https://github.com/SodaCodeSave",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-31T12:03:51Z",
-    "logo": "https://raw.githubusercontent.com/SodaCodeSave/astrbot_plugin_biliread/master/logo.png"
-  },
-  "astrbot_plugin_deltaforce_loot_broadcast": {
-    "name": "astrbot_plugin_deltaforce_loot_broadcast",
-    "display_name": "未审核：三角洲物资播报",
-    "desc": "监测玩家最近对局的撤离带出物品，并在命中高价值收集品时进行主动播报。",
-    "author": "XiuYan",
-    "repo": "https://github.com/XiuYanX/astrbot_plugin_deltaforce_loot_broadcast",
-    "tags": [
-      "三角洲",
-      "deltaforce"
-    ],
-    "social_link": "https://github.com/XiuYanX",
-    "stars": 0,
-    "version": "1.0.1",
-    "updated_at": "2026-03-31T11:49:20Z"
   },
   "astrbot_plugin_zhudongshiliao": {
     "name": "astrbot_plugin_zhudongshiliao",
@@ -135,22 +164,6 @@
     "version": "v1.2.3",
     "updated_at": "2026-03-31T07:56:45Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
-  },
-  "astrbot_plugin_qwen3_tts": {
-    "name": "astrbot_plugin_qwen3_tts",
-    "display_name": "未审核：Qwen3-TTS本地文字转语音",
-    "desc": "基于本地部署的Qwen3-TTS，为astrbot提供文本转语音(TTS)服务，可自定义音色、语音分段。",
-    "author": "Thyran1",
-    "repo": "https://github.com/Thyran1/astrbot_plugin_qwen3_tts",
-    "tags": [
-      "tts",
-      "文字转语音"
-    ],
-    "social_link": "https://github.com/Thyran1",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-31T06:58:27Z",
-    "logo": "https://raw.githubusercontent.com/Thyran1/astrbot_plugin_qwen3_tts/main/logo.png"
   },
   "astrbot_plugin_keywords_miko": {
     "name": "astrbot_plugin_keywords_miko",
@@ -604,7 +617,7 @@
       "Github Copilot"
     ],
     "social_link": "https://github.com/html5syt",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
     "updated_at": "2026-03-28T13:45:13Z",
     "logo": "https://raw.githubusercontent.com/html5syt/astrbot_plugin_github_copilot/master/logo.png"
@@ -887,23 +900,6 @@
     "stars": 1,
     "version": "v1.0.0",
     "updated_at": "2026-03-26T12:42:00Z"
-  },
-  "astrbot_plugin_skills_mcp_manager": {
-    "name": "astrbot_plugin_skills_mcp_manager",
-    "display_name": "未审核：Skills & MCP 管理器",
-    "desc": "为astrbot提供函数工具和指令来管理 AstrBot Skills 和 MCP 服务器。",
-    "author": "piexian",
-    "repo": "https://github.com/piexian/astrbot_plugin_skills_mcp_manager",
-    "tags": [
-      "工具",
-      "管理",
-      "mcp",
-      "skills"
-    ],
-    "social_link": "https://github.com/piexian",
-    "stars": 5,
-    "version": "0.1.6",
-    "updated_at": "2026-03-26T12:29:46Z"
   },
   "astrbot_plugin_tarkov_wiki": {
     "name": "astrbot_plugin_tarkov_wiki",
