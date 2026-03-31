@@ -1,4 +1,41 @@
 {
+  "astrbot_plugin_point_system": {
+    "name": "astrbot_plugin_point_system",
+    "display_name": "未审核：群积分助手",
+    "desc": "群积分助手。支持每日签到、活跃奖励、个人积分查询、按群排行榜，以及个人抽奖、群体抽奖、日期口令奖励、自动备份、兑换头衔、设精和禁言等群互动功能。",
+    "author": "menglimi",
+    "repo": "https://github.com/menglimi/astrbot_plugin_point_system",
+    "tags": [
+      "积分",
+      "签到",
+      "群聊"
+    ],
+    "social_link": "https://github.com/menglimi",
+    "stars": 0,
+    "version": "1.8.5",
+    "updated_at": "2026-03-31T16:41:07Z"
+  },
+  "astrbot_plugin_local_reminiscence": {
+    "name": "astrbot_plugin_local_reminiscence",
+    "display_name": "未审核：本地回忆[APLR]",
+    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
+    "author": "olozhika",
+    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
+    "tags": [
+      "记忆",
+      "回忆",
+      "每日总结",
+      "语义识别",
+      "关键词",
+      "上下文注入",
+      "长期记忆"
+    ],
+    "social_link": "https://github.com/olozhika",
+    "stars": 21,
+    "version": "v1.2.3",
+    "updated_at": "2026-03-31T16:07:19Z",
+    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
+  },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
     "display_name": "未审核：修仙模拟器",
@@ -11,8 +48,24 @@
     ],
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
-    "version": "v3.8.0",
-    "updated_at": "2026-03-31T14:58:19Z"
+    "version": "v3.8.1",
+    "updated_at": "2026-03-31T16:00:07Z"
+  },
+  "astrbot_plugin_master": {
+    "name": "astrbot_plugin_master",
+    "display_name": "未审核：用户联系bot主人",
+    "desc": "这是一个自用插件，用于用户联系bot管理员对话用户指令，指令联系主人+内容 主人指令，回复+【指定QQ号】+内容，用了Gemini的力量，想改自己改吧，主人ID得自己文件配置，默认是我的嘻嘻嘻",
+    "author": "Care",
+    "repo": "https://github.com/Care0721/astrbot_plugin_master",
+    "tags": [
+      "实用",
+      "通知",
+      "User contacts administrator via bot"
+    ],
+    "social_link": "https://github.com/Care0721",
+    "stars": 1,
+    "version": "v7.10.0",
+    "updated_at": "2026-03-31T15:20:28Z"
   },
   "astrbot_plugin_character_split": {
     "name": "astrbot_plugin_character_split",
@@ -65,22 +118,6 @@
     "stars": 5,
     "version": "0.1.7",
     "updated_at": "2026-03-31T14:38:55Z"
-  },
-  "astrbot_plugin_master": {
-    "name": "astrbot_plugin_master",
-    "display_name": "未审核：用户联系bot主人",
-    "desc": "这是一个自用插件，用于用户联系bot管理员对话用户指令，指令联系主人+内容 主人指令，回复+【指定QQ号】+内容，用了Gemini的力量，想改自己改吧，主人ID得自己文件配置，默认是我的嘻嘻嘻",
-    "author": "Care",
-    "repo": "https://github.com/Care0721/astrbot_plugin_master",
-    "tags": [
-      "实用",
-      "通知",
-      "User contacts administrator via bot"
-    ],
-    "social_link": "https://github.com/Care0721",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-31T14:36:57Z"
   },
   "astrbot_plugin_qwen3_tts": {
     "name": "astrbot_plugin_qwen3_tts",
@@ -143,27 +180,6 @@
     "stars": 0,
     "version": "0.4.2",
     "updated_at": "2026-03-31T09:52:15Z"
-  },
-  "astrbot_plugin_local_reminiscence": {
-    "name": "astrbot_plugin_local_reminiscence",
-    "display_name": "未审核：本地回忆[APLR]",
-    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
-    "author": "olozhika",
-    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
-    "tags": [
-      "记忆",
-      "回忆",
-      "每日总结",
-      "语义识别",
-      "关键词",
-      "上下文注入",
-      "长期记忆"
-    ],
-    "social_link": "https://github.com/olozhika",
-    "stars": 21,
-    "version": "v1.2.3",
-    "updated_at": "2026-03-31T07:56:45Z",
-    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot_plugin_keywords_miko": {
     "name": "astrbot_plugin_keywords_miko",
@@ -2993,7 +3009,7 @@
       "转图片"
     ],
     "social_link": "https://github.com/blueraina",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.11.0",
     "updated_at": "2026-02-27T14:01:13Z"
   },
