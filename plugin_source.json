@@ -1,15 +1,50 @@
 {
-  "astrbot_plugin_xinwen_lianbo": {
-    "name": "astrbot_plugin_xinwen_lianbo",
-    "display_name": "未审核：astrbot_plugin_xinwen_lianbo 新闻联播",
-    "desc": "每周获取新闻联播，并让大模型进行分析和摘要。",
-    "author": "freeliujian",
-    "repo": "https://github.com/freeliujian/astrbot_plugin_xinwen_lianbo",
-    "tags": [],
-    "social_link": "https://github.com/freeliujian",
+  "astrbot_plugin_webnovel_bible": {
+    "name": "astrbot_plugin_webnovel_bible",
+    "display_name": "未审核：扫书宝典",
+    "desc": "集成了扫书宝典数据库，支持查询书名/作者获取小说的扫书记录以及相关术语查询。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_webnovel_bible",
+    "tags": [
+      "网文",
+      "扫书",
+      "网络小说"
+    ],
+    "social_link": "https://github.com/Foolllll-J",
     "stars": 0,
-    "version": "v0.0.0",
-    "updated_at": "2026-04-01T02:14:28Z"
+    "version": "v1.1",
+    "updated_at": "2026-04-01T05:14:45Z",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_webnovel_bible/master/logo.png"
+  },
+  "astrbot_plugin_deltaforce_loot_broadcast": {
+    "name": "astrbot_plugin_deltaforce_loot_broadcast",
+    "display_name": "未审核：三角洲物资播报",
+    "desc": "监测玩家最近对局的撤离带出物品，并在命中高价值收集品时进行主动播报。",
+    "author": "XiuYan",
+    "repo": "https://github.com/XiuYanX/astrbot_plugin_deltaforce_loot_broadcast",
+    "tags": [
+      "三角洲",
+      "deltaforce"
+    ],
+    "social_link": "https://github.com/XiuYanX",
+    "stars": 0,
+    "version": "1.0.4",
+    "updated_at": "2026-04-01T05:08:57Z"
+  },
+  "astrbot_plugin_plugin_finder": {
+    "name": "astrbot_plugin_plugin_finder",
+    "display_name": "未审核：发现并安装插件",
+    "desc": "在对话中查询、校验、下载并安装 AstrBot 官方平台插件，支持安装审计日志。",
+    "author": "Elysium-Seeker",
+    "repo": "https://github.com/Elysium-Seeker/astrbot_plugin_plugin_finder",
+    "tags": [
+      "插件",
+      "自动化"
+    ],
+    "social_link": "https://github.com/Elysium-Seeker",
+    "stars": 0,
+    "version": "1.1.5",
+    "updated_at": "2026-04-01T04:02:17Z"
   },
   "astrbot_plugin_keywords_miko": {
     "name": "astrbot_plugin_keywords_miko",
@@ -23,7 +58,39 @@
     "social_link": "https://github.com/MIKOvOKM",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-04-01T01:33:25Z"
+    "updated_at": "2026-04-01T03:56:38Z"
+  },
+  "astrbot_plugin_xinwen_lianbo": {
+    "name": "astrbot_plugin_xinwen_lianbo",
+    "display_name": "未审核：astrbot_plugin_xinwen_lianbo 新闻联播",
+    "desc": "每天获取新闻联播，并让大模型进行分析和摘要。",
+    "author": "freeliujian",
+    "repo": "https://github.com/freeliujian/astrbot_plugin_xinwen_lianbo",
+    "tags": [],
+    "social_link": "https://github.com/freeliujian",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-01T03:02:20Z",
+    "logo": "https://raw.githubusercontent.com/freeliujian/astrbot_plugin_xinwen_lianbo/master/logo.png"
+  },
+  "astrbot_plugin_character_split": {
+    "name": "astrbot_plugin_character_split",
+    "display_name": "未审核：上下班人格分流",
+    "desc": "在上班和下班时间将对话分流并使用不同风格的人格提示词（偏工程/偏人性）以得到更好的bot使用体验。",
+    "author": "Elysium-Seeker",
+    "repo": "https://github.com/Elysium-Seeker/astrbot_plugin_character_split",
+    "tags": [
+      "人格",
+      "分流",
+      "提示词",
+      "prompt",
+      "对话",
+      "记忆"
+    ],
+    "social_link": "https://elysium-seeker.github.io/",
+    "stars": 0,
+    "version": "v1.2.0",
+    "updated_at": "2026-04-01T02:42:36Z"
   },
   "astrbot_plugin_bsum": {
     "name": "astrbot_plugin_bsum",
@@ -90,25 +157,6 @@
     "stars": 0,
     "version": "v3.8.1",
     "updated_at": "2026-03-31T17:07:14Z"
-  },
-  "astrbot_plugin_character_split": {
-    "name": "astrbot_plugin_character_split",
-    "display_name": "未审核：上下班人格分流",
-    "desc": "在上班和下班时间将对话分流并使用不同风格的人格提示词（偏工程/偏人性）以得到更好的bot使用体验。",
-    "author": "Elysium-Seeker",
-    "repo": "https://github.com/Elysium-Seeker/astrbot_plugin_character_split",
-    "tags": [
-      "人格",
-      "分流",
-      "提示词",
-      "prompt",
-      "对话",
-      "记忆"
-    ],
-    "social_link": "https://elysium-seeker.github.io/",
-    "stars": 0,
-    "version": "v1.1.9",
-    "updated_at": "2026-03-31T17:06:58Z"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
@@ -195,21 +243,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-31T14:29:03Z",
     "logo": "https://raw.githubusercontent.com/Thyran1/astrbot_plugin_qwen3_tts/main/logo.png"
-  },
-  "astrbot_plugin_deltaforce_loot_broadcast": {
-    "name": "astrbot_plugin_deltaforce_loot_broadcast",
-    "display_name": "未审核：三角洲物资播报",
-    "desc": "监测玩家最近对局的撤离带出物品，并在命中高价值收集品时进行主动播报。",
-    "author": "XiuYan",
-    "repo": "https://github.com/XiuYanX/astrbot_plugin_deltaforce_loot_broadcast",
-    "tags": [
-      "三角洲",
-      "deltaforce"
-    ],
-    "social_link": "https://github.com/XiuYanX",
-    "stars": 0,
-    "version": "1.0.3",
-    "updated_at": "2026-03-31T14:14:23Z"
   },
   "astrbot_plugin_self_open_llm_vtuber": {
     "name": "astrbot_plugin_self_open_llm_vtuber",
@@ -1543,23 +1576,6 @@
     "stars": 0,
     "version": "0.0.3",
     "updated_at": "2026-03-20T12:32:36Z"
-  },
-  "astrbot_plugin_webnovel_bible": {
-    "name": "astrbot_plugin_webnovel_bible",
-    "display_name": "未审核：扫书宝典",
-    "desc": "集成了扫书宝典数据库，支持查询书名/作者获取小说的扫书记录以及相关术语查询。",
-    "author": "Foolllll",
-    "repo": "https://github.com/Foolllll-J/astrbot_plugin_webnovel_bible",
-    "tags": [
-      "网文",
-      "扫书",
-      "网络小说"
-    ],
-    "social_link": "https://github.com/Foolllll-J",
-    "stars": 0,
-    "version": "v1.1",
-    "updated_at": "2026-03-20T12:04:31Z",
-    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_webnovel_bible/master/logo.png"
   },
   "telethon_bot_adapter": {
     "name": "telethon_bot_adapter",
