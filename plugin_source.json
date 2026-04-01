@@ -1,4 +1,49 @@
 {
+  "astrbot_plugin_deltaforce_loot_broadcast": {
+    "name": "astrbot_plugin_deltaforce_loot_broadcast",
+    "display_name": "未审核：三角洲物资播报",
+    "desc": "监测玩家最近对局的撤离带出物品，并在命中高价值收集品时进行主动播报。",
+    "author": "XiuYan",
+    "repo": "https://github.com/XiuYanX/astrbot_plugin_deltaforce_loot_broadcast",
+    "tags": [
+      "三角洲",
+      "deltaforce"
+    ],
+    "social_link": "https://github.com/XiuYanX",
+    "stars": 0,
+    "version": "1.0.7",
+    "updated_at": "2026-04-01T14:53:46Z"
+  },
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：修仙模拟器",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.8.9",
+    "updated_at": "2026-04-01T14:17:08Z"
+  },
+  "astrbot_plugin_plugin_finder": {
+    "name": "astrbot_plugin_plugin_finder",
+    "display_name": "未审核：发现并安装插件",
+    "desc": "在对话中查询、校验、下载并安装 AstrBot 官方平台插件，支持安装审计日志。",
+    "author": "Elysium-Seeker",
+    "repo": "https://github.com/Elysium-Seeker/astrbot_plugin_plugin_finder",
+    "tags": [
+      "插件",
+      "自动化"
+    ],
+    "social_link": "https://github.com/Elysium-Seeker",
+    "stars": 0,
+    "version": "1.1.10",
+    "updated_at": "2026-04-01T14:00:37Z"
+  },
   "astrbot_plugin_name_fight": {
     "name": "astrbot_plugin_name_fight",
     "display_name": "未审核：Name Fight",
@@ -43,21 +88,6 @@
     "stars": 0,
     "version": "1.1.0",
     "updated_at": "2026-04-01T12:25:42Z"
-  },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：修仙模拟器",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.8.3",
-    "updated_at": "2026-04-01T11:38:49Z"
   },
   "astrbot_plugin_test": {
     "name": "astrbot_plugin_test",
@@ -112,21 +142,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-04-01T08:43:42Z",
     "logo": "https://raw.githubusercontent.com/Thyran1/astrbot_plugin_qwen3_tts/main/logo.png"
-  },
-  "astrbot_plugin_plugin_finder": {
-    "name": "astrbot_plugin_plugin_finder",
-    "display_name": "未审核：发现并安装插件",
-    "desc": "在对话中查询、校验、下载并安装 AstrBot 官方平台插件，支持安装审计日志。",
-    "author": "Elysium-Seeker",
-    "repo": "https://github.com/Elysium-Seeker/astrbot_plugin_plugin_finder",
-    "tags": [
-      "插件",
-      "自动化"
-    ],
-    "social_link": "https://github.com/Elysium-Seeker",
-    "stars": 0,
-    "version": "1.1.8",
-    "updated_at": "2026-04-01T07:58:19Z"
   },
   "astrbot_plugin_xinwen_lianbo": {
     "name": "astrbot_plugin_xinwen_lianbo",
@@ -188,36 +203,17 @@
     "updated_at": "2026-04-01T05:14:45Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_webnovel_bible/master/logo.png"
   },
-  "astrbot_plugin_deltaforce_loot_broadcast": {
-    "name": "astrbot_plugin_deltaforce_loot_broadcast",
-    "display_name": "未审核：三角洲物资播报",
-    "desc": "监测玩家最近对局的撤离带出物品，并在命中高价值收集品时进行主动播报。",
-    "author": "XiuYan",
-    "repo": "https://github.com/XiuYanX/astrbot_plugin_deltaforce_loot_broadcast",
-    "tags": [
-      "三角洲",
-      "deltaforce"
-    ],
-    "social_link": "https://github.com/XiuYanX",
-    "stars": 0,
-    "version": "1.0.4",
-    "updated_at": "2026-04-01T05:08:57Z"
-  },
   "astrbot_plugin_character_split": {
     "name": "astrbot_plugin_character_split",
-    "display_name": "未审核：上下班人格分流",
-    "desc": "在上班和下班时间将对话分流并使用不同风格的人格提示词（偏工程/偏人性）以得到更好的bot使用体验。",
+    "display_name": "未审核：按时段对话隔离与记忆管理",
+    "desc": "按时间对群聊私聊拆分工作与休息时的bot，可在不同时段拥有不同人格且不串对话，自带三层记忆系统。",
     "author": "Elysium-Seeker",
     "repo": "https://github.com/Elysium-Seeker/astrbot_plugin_character_split",
     "tags": [
       "人格",
-      "分流",
-      "提示词",
-      "prompt",
-      "对话",
       "记忆"
     ],
-    "social_link": "https://elysium-seeker.github.io/",
+    "social_link": "https://github.com/Elysium-Seeker",
     "stars": 0,
     "version": "v1.2.0",
     "updated_at": "2026-04-01T02:42:36Z"
