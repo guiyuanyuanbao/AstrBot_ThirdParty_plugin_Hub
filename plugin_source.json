@@ -1,4 +1,31 @@
 {
+  "astrbot_plugin_plugin_finder": {
+    "name": "astrbot_plugin_plugin_finder",
+    "display_name": "未审核：发现并安装插件",
+    "desc": "在对话中查询、校验、下载并安装 AstrBot 官方平台插件，支持安装审计日志。",
+    "author": "Elysium-Seeker",
+    "repo": "https://github.com/Elysium-Seeker/astrbot_plugin_plugin_finder",
+    "tags": [
+      "插件",
+      "自动化"
+    ],
+    "social_link": "https://github.com/Elysium-Seeker",
+    "stars": 0,
+    "version": "1.1.15",
+    "updated_at": "2026-04-01T16:48:45Z"
+  },
+  "astrbot_plugin_command_passthrough": {
+    "name": "astrbot_plugin_command_passthrough",
+    "display_name": "未审核：特定前缀禁用大模型",
+    "desc": "消息以特定文字开头时终止事件传播，阻止大模型调用，方便gscore等工具的使用",
+    "author": "sunashiro",
+    "repo": "https://github.com/MisakMikot/astrbot_plugin_command_passthrough",
+    "tags": [],
+    "social_link": "https://github.com/MisakMikot",
+    "stars": 0,
+    "version": "v0.0.1",
+    "updated_at": "2026-04-01T16:31:04Z"
+  },
   "astrbot_plugin_deltaforce_loot_broadcast": {
     "name": "astrbot_plugin_deltaforce_loot_broadcast",
     "display_name": "未审核：三角洲物资播报",
@@ -11,8 +38,8 @@
     ],
     "social_link": "https://github.com/XiuYanX",
     "stars": 0,
-    "version": "1.0.7",
-    "updated_at": "2026-04-01T14:53:46Z"
+    "version": "1.0.10",
+    "updated_at": "2026-04-01T15:58:28Z"
   },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
@@ -28,21 +55,6 @@
     "stars": 0,
     "version": "v3.8.9",
     "updated_at": "2026-04-01T14:17:08Z"
-  },
-  "astrbot_plugin_plugin_finder": {
-    "name": "astrbot_plugin_plugin_finder",
-    "display_name": "未审核：发现并安装插件",
-    "desc": "在对话中查询、校验、下载并安装 AstrBot 官方平台插件，支持安装审计日志。",
-    "author": "Elysium-Seeker",
-    "repo": "https://github.com/Elysium-Seeker/astrbot_plugin_plugin_finder",
-    "tags": [
-      "插件",
-      "自动化"
-    ],
-    "social_link": "https://github.com/Elysium-Seeker",
-    "stars": 0,
-    "version": "1.1.10",
-    "updated_at": "2026-04-01T14:00:37Z"
   },
   "astrbot_plugin_name_fight": {
     "name": "astrbot_plugin_name_fight",
@@ -806,21 +818,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-28T10:37:57Z",
     "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_lyrics/master/logo.png"
-  },
-  "astrbot_plugin_uapipro_toolbox": {
-    "name": "astrbot_plugin_uapipro_toolbox",
-    "display_name": "未审核：UApiPro 工具箱",
-    "desc": "调用 UApiPro 提供的免费 API，支持一言、天气、IP 查询，卡片图片返回。",
-    "author": "lingyun",
-    "repo": "https://github.com/lingyun14beta/astrbot_plugin_uapipro_toolbox",
-    "tags": [
-      "api"
-    ],
-    "social_link": "https://github.com/lingyun14beta",
-    "stars": 0,
-    "version": "1.6.5",
-    "updated_at": "2026-03-28T10:02:45Z",
-    "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
   "astrbot_plugin_anti_memes": {
     "name": "astrbot_plugin_anti_memes",
@@ -2618,7 +2615,7 @@
     "repo": "https://github.com/Cccc-owo/astrbot_plugin_neohelp",
     "tags": [],
     "social_link": "https://github.com/Cccc-owo",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.3.2",
     "updated_at": "2026-03-08T15:49:11Z",
     "logo": "https://raw.githubusercontent.com/Cccc-owo/astrbot_plugin_neohelp/master/logo.png"
