@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_screenshot": {
+    "name": "astrbot_plugin_screenshot",
+    "display_name": "未审核：完美截图插件 (AstrBot Plugin)",
+    "desc": "使用Python原生截图，解决Win11高分屏缩放截不全的问题",
+    "author": "KONEHWS",
+    "repo": "https://github.com/KONEWS/astrbot_plugin_screenshot",
+    "tags": [
+      "工具"
+    ],
+    "social_link": "https://github.com/KONEWS",
+    "stars": 0,
+    "version": "1.2.0",
+    "updated_at": "2026-04-01T18:53:25Z"
+  },
   "astrbot_plugin_plugin_finder": {
     "name": "astrbot_plugin_plugin_finder",
     "display_name": "未审核：发现并安装插件",
