@@ -1,4 +1,49 @@
 {
+  "astrbot_plugin_name_fight": {
+    "name": "astrbot_plugin_name_fight",
+    "display_name": "未审核：Name Fight",
+    "desc": "一个武侠风格的 AstrBot 名字格斗插件。输入名字即可生成命格固定的角色，围绕武学、内功、轻功展开对战，并在群内累计巅峰分排行。支持同名固定生成、战斗播报、角色切换与巅峰榜冲分。",
+    "author": "kkloas",
+    "repo": "https://github.com/kkloas/astrbot_plugin_name_fight",
+    "tags": [
+      "游戏",
+      "武侠",
+      "对战",
+      "群聊",
+      "排行榜"
+    ],
+    "social_link": "https://github.com/kkloas",
+    "stars": 0,
+    "version": "1.2.0",
+    "updated_at": "2026-04-01T13:16:11Z",
+    "logo": "https://raw.githubusercontent.com/kkloas/astrbot_plugin_name_fight/main/logo.png"
+  },
+  "astrbot_plugin_astralparty": {
+    "name": "astrbot_plugin_astralparty",
+    "display_name": "未审核：《吉星派对》随机角色地图",
+    "desc": "随机抽取游戏《吉星派对》中的地图和角色。",
+    "author": "aurora4123",
+    "repo": "https://github.com/Aurora4123/astrbot_plugin_astralparty",
+    "tags": [],
+    "social_link": "https://github.com/Aurora4123",
+    "stars": 0,
+    "version": "v1.0",
+    "updated_at": "2026-04-01T13:09:34Z"
+  },
+  "astrbot_plugin_group_sender": {
+    "name": "astrbot_plugin_group_sender",
+    "display_name": "未审核：来群发-bot群发或指定群发插件",
+    "desc": "AstrBot 群发与定时发送插件，支持私聊控制群发、指定群发送、群列表查看、每天定时发送和一次性定时任务。 温馨提示：使用前请先把main.py改为你自己的qq号 否则无法使用",
+    "author": "何意味小祥",
+    "repo": "https://github.com/c99180013-sys/AstrBOT-Group-sending-plug-in",
+    "tags": [
+      "群发"
+    ],
+    "social_link": "https://github.com/c99180013-sys",
+    "stars": 0,
+    "version": "1.1.0",
+    "updated_at": "2026-04-01T12:25:42Z"
+  },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
     "display_name": "未审核：修仙模拟器",
