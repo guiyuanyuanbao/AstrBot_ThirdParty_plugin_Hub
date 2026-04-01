@@ -1,31 +1,20 @@
 {
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：修仙模拟器",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+  "astrbot_plugin_qwen3_tts": {
+    "name": "astrbot_plugin_qwen3_tts",
+    "display_name": "未审核：Qwen3-TTS本地文字转语音",
+    "desc": "基于本地部署的Qwen3-TTS，为astrbot提供文本转语音(TTS)服务，可自定义音色、语音分段。",
+    "author": "Thyran1",
+    "repo": "https://github.com/Thyran1/astrbot_plugin_qwen3_tts",
     "tags": [
-      "修仙",
-      "游戏"
+      "tts",
+      "文字转语音",
+      "分段"
     ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.8.1",
-    "updated_at": "2026-04-01T07:20:55Z"
-  },
-  "astrbot_plugin_xinwen_lianbo": {
-    "name": "astrbot_plugin_xinwen_lianbo",
-    "display_name": "未审核：astrbot_plugin_xinwen_lianbo 新闻联播",
-    "desc": "每天获取新闻联播，并让大模型进行分析和摘要。",
-    "author": "freeliujian",
-    "repo": "https://github.com/freeliujian/astrbot_plugin_xinwen_lianbo",
-    "tags": [],
-    "social_link": "https://github.com/freeliujian",
+    "social_link": "https://github.com/Thyran1",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-04-01T06:39:03Z",
-    "logo": "https://raw.githubusercontent.com/freeliujian/astrbot_plugin_xinwen_lianbo/master/logo.png"
+    "updated_at": "2026-04-01T08:43:42Z",
+    "logo": "https://raw.githubusercontent.com/Thyran1/astrbot_plugin_qwen3_tts/main/logo.png"
   },
   "astrbot_plugin_plugin_finder": {
     "name": "astrbot_plugin_plugin_finder",
@@ -39,8 +28,36 @@
     ],
     "social_link": "https://github.com/Elysium-Seeker",
     "stars": 0,
-    "version": "1.1.7",
-    "updated_at": "2026-04-01T06:33:33Z"
+    "version": "1.1.8",
+    "updated_at": "2026-04-01T07:58:19Z"
+  },
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：修仙模拟器",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.8.1",
+    "updated_at": "2026-04-01T07:42:20Z"
+  },
+  "astrbot_plugin_xinwen_lianbo": {
+    "name": "astrbot_plugin_xinwen_lianbo",
+    "display_name": "未审核：astrbot_plugin_xinwen_lianbo 新闻联播",
+    "desc": "每天获取新闻联播，并让大模型进行分析和摘要。",
+    "author": "freeliujian",
+    "repo": "https://github.com/freeliujian/astrbot_plugin_xinwen_lianbo",
+    "tags": [],
+    "social_link": "https://github.com/freeliujian",
+    "stars": 2,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-01T07:34:52Z",
+    "logo": "https://raw.githubusercontent.com/freeliujian/astrbot_plugin_xinwen_lianbo/master/logo.png"
   },
   "astrbot_plugin_keywords_miko": {
     "name": "astrbot_plugin_keywords_miko",
@@ -227,22 +244,6 @@
     "stars": 5,
     "version": "0.1.7",
     "updated_at": "2026-03-31T14:38:55Z"
-  },
-  "astrbot_plugin_qwen3_tts": {
-    "name": "astrbot_plugin_qwen3_tts",
-    "display_name": "未审核：Qwen3-TTS本地文字转语音",
-    "desc": "基于本地部署的Qwen3-TTS，为astrbot提供文本转语音(TTS)服务，可自定义音色、语音分段。",
-    "author": "Thyran1",
-    "repo": "https://github.com/Thyran1/astrbot_plugin_qwen3_tts",
-    "tags": [
-      "tts",
-      "文字转语音"
-    ],
-    "social_link": "https://github.com/Thyran1",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-31T14:29:03Z",
-    "logo": "https://raw.githubusercontent.com/Thyran1/astrbot_plugin_qwen3_tts/main/logo.png"
   },
   "astrbot_plugin_self_open_llm_vtuber": {
     "name": "astrbot_plugin_self_open_llm_vtuber",
