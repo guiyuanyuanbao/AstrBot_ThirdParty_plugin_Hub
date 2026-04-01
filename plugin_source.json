@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_xinwen_lianbo": {
+    "name": "astrbot_plugin_xinwen_lianbo",
+    "display_name": "未审核：astrbot_plugin_xinwen_lianbo 新闻联播",
+    "desc": "每周获取新闻联播，并让大模型进行分析和摘要。",
+    "author": "freeliujian",
+    "repo": "https://github.com/freeliujian/astrbot_plugin_xinwen_lianbo",
+    "tags": [],
+    "social_link": "https://github.com/freeliujian",
+    "stars": 0,
+    "version": "v0.0.0",
+    "updated_at": "2026-04-01T02:14:28Z"
+  },
   "astrbot_plugin_keywords_miko": {
     "name": "astrbot_plugin_keywords_miko",
     "display_name": "未审核：关键字回复系统",
@@ -11,7 +23,7 @@
     "social_link": "https://github.com/MIKOvOKM",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-03-31T23:02:57Z"
+    "updated_at": "2026-04-01T01:33:25Z"
   },
   "astrbot_plugin_bsum": {
     "name": "astrbot_plugin_bsum",
