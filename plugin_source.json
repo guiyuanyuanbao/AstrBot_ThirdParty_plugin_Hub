@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：修仙模拟器",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.9.0",
+    "updated_at": "2026-04-02T10:06:07Z"
+  },
   "astrbot_plugin_bsum": {
     "name": "astrbot_plugin_bsum",
     "display_name": "未审核：BiliBili 视频总结插件",
@@ -13,7 +28,7 @@
     "social_link": "https://github.com/loong486",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-04-02T08:55:29Z"
+    "updated_at": "2026-04-02T10:02:15Z"
   },
   "astrbot_plugin_dingtalk_feishu_forwarder": {
     "name": "astrbot_plugin_dingtalk_feishu_forwarder",
@@ -30,7 +45,26 @@
     "social_link": "",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-04-02T08:47:29Z"
+    "updated_at": "2026-04-02T09:45:07Z"
+  },
+  "astrbot_plugin_name_fight": {
+    "name": "astrbot_plugin_name_fight",
+    "display_name": "未审核：Name Fight",
+    "desc": "一个武侠风格的 AstrBot 名字格斗插件。输入名字即可生成命格固定的角色，围绕武学、内功、轻功展开对战，并在群内累计巅峰分排行。支持同名固定生成、战斗播报、角色切换与巅峰榜冲分。",
+    "author": "kkloas",
+    "repo": "https://github.com/kkloas/astrbot_plugin_name_fight",
+    "tags": [
+      "游戏",
+      "武侠",
+      "对战",
+      "群聊",
+      "排行榜"
+    ],
+    "social_link": "https://github.com/kkloas",
+    "stars": 0,
+    "version": "1.2.1",
+    "updated_at": "2026-04-02T08:59:40Z",
+    "logo": "https://raw.githubusercontent.com/kkloas/astrbot_plugin_name_fight/main/logo.png"
   },
   "astrbot_plugin_token_tracker": {
     "name": "astrbot_plugin_token_tracker",
@@ -132,25 +166,6 @@
     "updated_at": "2026-04-02T03:00:59Z",
     "logo": "https://raw.githubusercontent.com/freeliujian/astrbot_plugin_xinwen_lianbo/master/logo.png"
   },
-  "astrbot_plugin_name_fight": {
-    "name": "astrbot_plugin_name_fight",
-    "display_name": "未审核：Name Fight",
-    "desc": "一个武侠风格的 AstrBot 名字格斗插件。输入名字即可生成命格固定的角色，围绕武学、内功、轻功展开对战，并在群内累计巅峰分排行。支持同名固定生成、战斗播报、角色切换与巅峰榜冲分。",
-    "author": "kkloas",
-    "repo": "https://github.com/kkloas/astrbot_plugin_name_fight",
-    "tags": [
-      "游戏",
-      "武侠",
-      "对战",
-      "群聊",
-      "排行榜"
-    ],
-    "social_link": "https://github.com/kkloas",
-    "stars": 0,
-    "version": "1.2.0",
-    "updated_at": "2026-04-02T02:26:33Z",
-    "logo": "https://raw.githubusercontent.com/kkloas/astrbot_plugin_name_fight/main/logo.png"
-  },
   "astrbot_plugin_group_sender": {
     "name": "astrbot_plugin_group_sender",
     "display_name": "未审核：来群发-bot群发或指定群发插件",
@@ -164,21 +179,6 @@
     "stars": 0,
     "version": "1.2.0",
     "updated_at": "2026-04-02T01:01:51Z"
-  },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：修仙模拟器",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.9.0",
-    "updated_at": "2026-04-01T17:19:14Z"
   },
   "astrbot_plugin_command_passthrough": {
     "name": "astrbot_plugin_command_passthrough",
