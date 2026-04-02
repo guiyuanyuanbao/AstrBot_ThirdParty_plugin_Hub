@@ -1,4 +1,74 @@
 {
+  "astrbot_plugin_token_tracker": {
+    "name": "astrbot_plugin_token_tracker",
+    "display_name": "未审核：Token Tracker",
+    "desc": "输入/token以查看对话段token统计信息，支持自动统计、自动重置和自动清理",
+    "author": "Lystars",
+    "repo": "https://github.com/Jiayu-Liu-0127/astrbot_plugin_Token_Tracker",
+    "tags": [
+      "token统计"
+    ],
+    "social_link": "https://github.com/Jiayu-Liu-0127",
+    "stars": 0,
+    "version": "1.2.0",
+    "updated_at": "2026-04-02T18:54:17Z"
+  },
+  "astrbot_plugin_bsum": {
+    "name": "astrbot_plugin_bsum",
+    "display_name": "未审核：BiliBili 视频总结插件",
+    "desc": "一款为 AstrBot 设计的 Bilibili 视频总结插件，能够自动提取视频简介，并调用大语言模型（LLM）生成核心内容与关键要点总结。✨",
+    "author": "loong486",
+    "repo": "https://github.com/loong486/astrbot_plugin_bsum",
+    "tags": [
+      "B站",
+      "哔哩哔哩",
+      "bilibili"
+    ],
+    "social_link": "https://github.com/loong486",
+    "stars": 0,
+    "version": "v1.2.0",
+    "updated_at": "2026-04-02T18:07:49Z"
+  },
+  "astrbot_plugin_llm_enhancement": {
+    "name": "astrbot_plugin_llm_enhancement",
+    "display_name": "未审核：LLM 综合增强",
+    "desc": "增强 LLM 表现，集成智能唤醒、消息合并、多媒体解析、环境注入、黑名单拦截与 QQ 工具调用能力。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_llm_enhancement",
+    "tags": [
+      "智能唤醒",
+      "消息合并",
+      "媒体注入",
+      "撤回检测",
+      "黑名单"
+    ],
+    "social_link": "https://github.com/Foolllll-J",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-02T18:02:28Z",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
+  },
+  "astrbot_plugin_deerpipe": {
+    "name": "astrbot_plugin_deerpipe",
+    "display_name": "未审核：鹿乃子月历",
+    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
+    "tags": [
+      "鹿乃子",
+      "鹿",
+      "🦌",
+      "🦌乃子",
+      "月历",
+      "打卡",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 2,
+    "version": "v1.0.7",
+    "updated_at": "2026-04-02T17:53:55Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
+  },
   "astrbot_plugin_feish_calendar": {
     "name": "astrbot_plugin_feish_calendar",
     "display_name": "未审核：AstrBot 飞书日程管理",
@@ -13,21 +83,7 @@
     "social_link": "https://gentlecactus.top/",
     "stars": 0,
     "version": "1.0.5",
-    "updated_at": "2026-04-02T17:41:38Z"
-  },
-  "astrbot_plugin_token_tracker": {
-    "name": "astrbot_plugin_token_tracker",
-    "display_name": "未审核：Token Tracker",
-    "desc": "输入/token以查看对话段token统计信息，支持自动统计、自动重置和自动清理",
-    "author": "Lystars",
-    "repo": "https://github.com/Jiayu-Liu-0127/astrbot_plugin_Token_Tracker",
-    "tags": [
-      "token统计"
-    ],
-    "social_link": "https://github.com/Jiayu-Liu-0127",
-    "stars": 0,
-    "version": "1.2.0",
-    "updated_at": "2026-04-02T17:06:55Z"
+    "updated_at": "2026-04-02T17:50:02Z"
   },
   "astrbot_plugin_vtuber": {
     "name": "astrbot_plugin_vtuber",
@@ -40,7 +96,7 @@
       "皮套"
     ],
     "social_link": "https://github.com/soiwm",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
     "updated_at": "2026-04-02T17:03:49Z",
     "logo": "https://raw.githubusercontent.com/soiwm/astrbot_plugin_vtuber/main/logo.png"
@@ -88,27 +144,6 @@
     "version": "v1.7.0",
     "updated_at": "2026-04-02T16:40:10Z"
   },
-  "astrbot_plugin_deerpipe": {
-    "name": "astrbot_plugin_deerpipe",
-    "display_name": "未审核：鹿乃子月历",
-    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
-    "tags": [
-      "鹿乃子",
-      "鹿",
-      "🦌",
-      "🦌乃子",
-      "月历",
-      "打卡",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 2,
-    "version": "v1.0.7",
-    "updated_at": "2026-04-02T16:38:30Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
-  },
   "astrbot_plugin_read_local_image": {
     "name": "astrbot_plugin_read_local_image",
     "display_name": "未审核：Read Local Image",
@@ -135,22 +170,6 @@
     "stars": 0,
     "version": "0.3.0",
     "updated_at": "2026-04-02T14:53:51Z"
-  },
-  "astrbot_plugin_bsum": {
-    "name": "astrbot_plugin_bsum",
-    "display_name": "未审核：BiliBili 视频总结插件",
-    "desc": "一款为 AstrBot 设计的 Bilibili 视频总结插件，能够自动提取视频简介，并调用大语言模型（LLM）生成核心内容与关键要点总结。✨",
-    "author": "loong486",
-    "repo": "https://github.com/loong486/astrbot_plugin_bsum",
-    "tags": [
-      "B站",
-      "哔哩哔哩",
-      "bilibili"
-    ],
-    "social_link": "https://github.com/loong486",
-    "stars": 0,
-    "version": "v1.2.0",
-    "updated_at": "2026-04-02T14:29:18Z"
   },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
@@ -416,25 +435,6 @@
     "version": "v1.1",
     "updated_at": "2026-04-01T05:14:45Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_webnovel_bible/master/logo.png"
-  },
-  "astrbot_plugin_llm_enhancement": {
-    "name": "astrbot_plugin_llm_enhancement",
-    "display_name": "未审核：LLM 综合增强",
-    "desc": "增强 LLM 表现，集成智能唤醒、消息合并、多媒体解析、环境注入、黑名单拦截与 QQ 工具调用能力。",
-    "author": "Foolllll",
-    "repo": "https://github.com/Foolllll-J/astrbot_plugin_llm_enhancement",
-    "tags": [
-      "智能唤醒",
-      "消息合并",
-      "媒体注入",
-      "撤回检测",
-      "黑名单"
-    ],
-    "social_link": "https://github.com/Foolllll-J",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-31T18:53:52Z",
-    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_llm_enhancement/master/logo.png"
   },
   "astrbot_plugin_point_system": {
     "name": "astrbot_plugin_point_system",
