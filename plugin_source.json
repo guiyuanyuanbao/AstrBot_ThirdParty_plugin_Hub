@@ -1,4 +1,66 @@
 {
+  "astrbot_plugin_character_split": {
+    "name": "astrbot_plugin_character_split",
+    "display_name": "未审核：按时段对话隔离与记忆管理",
+    "desc": "按时间对群聊私聊拆分工作与休息时的bot，可在不同时段拥有不同人格且不串对话，自带三层记忆系统。",
+    "author": "Elysium-Seeker",
+    "repo": "https://github.com/Elysium-Seeker/astrbot_plugin_character_split",
+    "tags": [
+      "人格",
+      "记忆"
+    ],
+    "social_link": "https://github.com/Elysium-Seeker",
+    "stars": 0,
+    "version": "v1.2.3",
+    "updated_at": "2026-04-02T04:02:33Z"
+  },
+  "astrbot_plugin_plugin_finder": {
+    "name": "astrbot_plugin_plugin_finder",
+    "display_name": "未审核：发现并安装插件",
+    "desc": "在对话中查询、校验、下载并安装 AstrBot 官方平台插件，支持安装审计日志。",
+    "author": "Elysium-Seeker",
+    "repo": "https://github.com/Elysium-Seeker/astrbot_plugin_plugin_finder",
+    "tags": [
+      "插件",
+      "自动化"
+    ],
+    "social_link": "https://github.com/Elysium-Seeker",
+    "stars": 0,
+    "version": "1.1.19",
+    "updated_at": "2026-04-02T03:55:42Z"
+  },
+  "astrbot_plugin_xinwen_lianbo": {
+    "name": "astrbot_plugin_xinwen_lianbo",
+    "display_name": "未审核：astrbot_plugin_xinwen_lianbo 新闻联播",
+    "desc": "每天获取新闻联播，并让大模型进行分析和摘要。",
+    "author": "freeliujian",
+    "repo": "https://github.com/freeliujian/astrbot_plugin_xinwen_lianbo",
+    "tags": [],
+    "social_link": "https://github.com/freeliujian",
+    "stars": 2,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-02T03:00:59Z",
+    "logo": "https://raw.githubusercontent.com/freeliujian/astrbot_plugin_xinwen_lianbo/master/logo.png"
+  },
+  "astrbot_plugin_name_fight": {
+    "name": "astrbot_plugin_name_fight",
+    "display_name": "未审核：Name Fight",
+    "desc": "一个武侠风格的 AstrBot 名字格斗插件。输入名字即可生成命格固定的角色，围绕武学、内功、轻功展开对战，并在群内累计巅峰分排行。支持同名固定生成、战斗播报、角色切换与巅峰榜冲分。",
+    "author": "kkloas",
+    "repo": "https://github.com/kkloas/astrbot_plugin_name_fight",
+    "tags": [
+      "游戏",
+      "武侠",
+      "对战",
+      "群聊",
+      "排行榜"
+    ],
+    "social_link": "https://github.com/kkloas",
+    "stars": 0,
+    "version": "1.2.0",
+    "updated_at": "2026-04-02T02:26:33Z",
+    "logo": "https://raw.githubusercontent.com/kkloas/astrbot_plugin_name_fight/main/logo.png"
+  },
   "astrbot_plugin_group_sender": {
     "name": "astrbot_plugin_group_sender",
     "display_name": "未审核：来群发-bot群发或指定群发插件",
@@ -26,36 +88,6 @@
     "stars": 0,
     "version": "1.2.0",
     "updated_at": "2026-04-01T18:53:25Z"
-  },
-  "astrbot_plugin_plugin_finder": {
-    "name": "astrbot_plugin_plugin_finder",
-    "display_name": "未审核：发现并安装插件",
-    "desc": "在对话中查询、校验、下载并安装 AstrBot 官方平台插件，支持安装审计日志。",
-    "author": "Elysium-Seeker",
-    "repo": "https://github.com/Elysium-Seeker/astrbot_plugin_plugin_finder",
-    "tags": [
-      "插件",
-      "自动化"
-    ],
-    "social_link": "https://github.com/Elysium-Seeker",
-    "stars": 0,
-    "version": "1.1.17",
-    "updated_at": "2026-04-01T17:26:57Z"
-  },
-  "astrbot_plugin_character_split": {
-    "name": "astrbot_plugin_character_split",
-    "display_name": "未审核：按时段对话隔离与记忆管理",
-    "desc": "按时间对群聊私聊拆分工作与休息时的bot，可在不同时段拥有不同人格且不串对话，自带三层记忆系统。",
-    "author": "Elysium-Seeker",
-    "repo": "https://github.com/Elysium-Seeker/astrbot_plugin_character_split",
-    "tags": [
-      "人格",
-      "记忆"
-    ],
-    "social_link": "https://github.com/Elysium-Seeker",
-    "stars": 0,
-    "version": "v1.2.1",
-    "updated_at": "2026-04-01T17:21:23Z"
   },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
@@ -98,37 +130,6 @@
     "stars": 0,
     "version": "1.0.10",
     "updated_at": "2026-04-01T15:58:28Z"
-  },
-  "astrbot_plugin_name_fight": {
-    "name": "astrbot_plugin_name_fight",
-    "display_name": "未审核：Name Fight",
-    "desc": "一个武侠风格的 AstrBot 名字格斗插件。输入名字即可生成命格固定的角色，围绕武学、内功、轻功展开对战，并在群内累计巅峰分排行。支持同名固定生成、战斗播报、角色切换与巅峰榜冲分。",
-    "author": "kkloas",
-    "repo": "https://github.com/kkloas/astrbot_plugin_name_fight",
-    "tags": [
-      "游戏",
-      "武侠",
-      "对战",
-      "群聊",
-      "排行榜"
-    ],
-    "social_link": "https://github.com/kkloas",
-    "stars": 0,
-    "version": "1.2.0",
-    "updated_at": "2026-04-01T13:16:11Z",
-    "logo": "https://raw.githubusercontent.com/kkloas/astrbot_plugin_name_fight/main/logo.png"
-  },
-  "astrbot_plugin_astralparty": {
-    "name": "astrbot_plugin_astralparty",
-    "display_name": "未审核：《吉星派对》随机角色地图",
-    "desc": "随机抽取游戏《吉星派对》中的地图和角色。",
-    "author": "aurora4123",
-    "repo": "https://github.com/Aurora4123/astrbot_plugin_astralparty",
-    "tags": [],
-    "social_link": "https://github.com/Aurora4123",
-    "stars": 0,
-    "version": "v1.0",
-    "updated_at": "2026-04-01T13:09:34Z"
   },
   "astrbot_plugin_test": {
     "name": "astrbot_plugin_test",
@@ -183,19 +184,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-04-01T08:43:42Z",
     "logo": "https://raw.githubusercontent.com/Thyran1/astrbot_plugin_qwen3_tts/main/logo.png"
-  },
-  "astrbot_plugin_xinwen_lianbo": {
-    "name": "astrbot_plugin_xinwen_lianbo",
-    "display_name": "未审核：astrbot_plugin_xinwen_lianbo 新闻联播",
-    "desc": "每天获取新闻联播，并让大模型进行分析和摘要。",
-    "author": "freeliujian",
-    "repo": "https://github.com/freeliujian/astrbot_plugin_xinwen_lianbo",
-    "tags": [],
-    "social_link": "https://github.com/freeliujian",
-    "stars": 2,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-01T07:34:52Z",
-    "logo": "https://raw.githubusercontent.com/freeliujian/astrbot_plugin_xinwen_lianbo/master/logo.png"
   },
   "astrbot_plugin_keywords_miko": {
     "name": "astrbot_plugin_keywords_miko",
