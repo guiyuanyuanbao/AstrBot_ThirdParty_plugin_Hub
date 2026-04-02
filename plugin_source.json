@@ -1,4 +1,46 @@
 {
+  "astrbot_plugin_vtuber": {
+    "name": "astrbot_plugin_vtuber",
+    "display_name": "未审核：astrbot皮套",
+    "desc": "VTuber Live2D 虚拟形象插件，支持 Live2D 模型显示、表情系统、TTS 语音合成、口型同步等功能",
+    "author": "soiwm",
+    "repo": "https://github.com/soiwm/astrbot_plugin_vtuber",
+    "tags": [
+      "live2d",
+      "皮套"
+    ],
+    "social_link": "https://github.com/soiwm",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-04-02T15:45:15Z",
+    "logo": "https://raw.githubusercontent.com/soiwm/astrbot_plugin_vtuber/main/logo.png"
+  },
+  "astrbot_plugin_token_tracker": {
+    "name": "astrbot_plugin_token_tracker",
+    "display_name": "未审核：token_tracker",
+    "desc": "输入/token以查看对话段token统计信息，支持自动统计、自动重置和自动清理",
+    "author": "Lystars",
+    "repo": "https://github.com/Jiayu-Liu-0127/astrbot_plugin_token_tracker",
+    "tags": [
+      "token统计"
+    ],
+    "social_link": "https://github.com/Jiayu-Liu-0127",
+    "stars": 0,
+    "version": "1.1.1",
+    "updated_at": "2026-04-02T15:36:04Z"
+  },
+  "astrbot_plugin_read_local_image": {
+    "name": "astrbot_plugin_read_local_image",
+    "display_name": "未审核：Read Local Image",
+    "desc": "读取本地图片文件并使用 ImageContent 机制让 LLM 立即分析图片内容",
+    "author": "sunnyyang",
+    "repo": "https://github.com/sunnyyangyangyang/astrbot_plugin_read_local_image",
+    "tags": [],
+    "social_link": "",
+    "stars": 0,
+    "version": "1.6.0",
+    "updated_at": "2026-04-02T15:14:47Z"
+  },
   "astrbot_plugin_markdown": {
     "name": "astrbot_plugin_markdown",
     "display_name": "未审核：markdown 自动转图片",
@@ -29,18 +71,6 @@
     "stars": 0,
     "version": "v1.2.0",
     "updated_at": "2026-04-02T14:29:18Z"
-  },
-  "astrbot_plugin_read_local_image": {
-    "name": "astrbot_plugin_read_local_image",
-    "display_name": "未审核：Read Local Image",
-    "desc": "读取本地图片文件并使用 ImageContent 机制让 LLM 立即分析图片内容",
-    "author": "sunnyyang",
-    "repo": "https://github.com/sunnyyangyangyang/astrbot_plugin_read_local_image",
-    "tags": [],
-    "social_link": "",
-    "stars": 0,
-    "version": "1.6.0",
-    "updated_at": "2026-04-02T14:16:38Z"
   },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
@@ -146,20 +176,6 @@
     "version": "1.2.1",
     "updated_at": "2026-04-02T08:59:40Z",
     "logo": "https://raw.githubusercontent.com/kkloas/astrbot_plugin_name_fight/main/logo.png"
-  },
-  "astrbot_plugin_token_tracker": {
-    "name": "astrbot_plugin_token_tracker",
-    "display_name": "未审核：token_tracker",
-    "desc": "输入/token以查看当前对话段token统计信息，每次查看后自动重置",
-    "author": "Lystars",
-    "repo": "https://github.com/Jiayu-Liu-0127/astrbot_plugin_token_tracker",
-    "tags": [
-      "token统计"
-    ],
-    "social_link": "https://github.com/Jiayu-Liu-0127",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-04-02T08:23:56Z"
   },
   "astrbot_plugin_screenshot": {
     "name": "astrbot_plugin_screenshot",
@@ -925,7 +941,7 @@
       "QQ"
     ],
     "social_link": "https://github.com/Qrzzzz",
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
     "updated_at": "2026-03-28T07:37:21Z"
   },
@@ -1300,18 +1316,6 @@
     "stars": 0,
     "version": "1.1.1",
     "updated_at": "2026-03-24T08:11:23Z"
-  },
-  "astrbot_plugin_group_digest": {
-    "name": "astrbot_plugin_group_digest",
-    "display_name": "未审核：群聊兴趣日报与主动互动插件",
-    "desc": "基于 AstrBot 实现群聊消息总结、群热门话题分析、成员兴趣摘要与日报生成、通过LLM 建议astrbot定时主动发言。",
-    "author": "Ewingsal",
-    "repo": "https://github.com/Ewingsal/astrbot_plugin_group_digest",
-    "tags": [],
-    "social_link": "https://github.com/Ewingsal",
-    "stars": 3,
-    "version": "0.6.0",
-    "updated_at": "2026-03-24T04:46:12Z"
   },
   "astrbot_plugin_nastool_downloader": {
     "name": "astrbot_plugin_nastool_downloader",
