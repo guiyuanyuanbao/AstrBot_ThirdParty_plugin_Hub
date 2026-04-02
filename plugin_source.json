@@ -1,4 +1,78 @@
 {
+  "astrbot_plugin_bsum": {
+    "name": "astrbot_plugin_bsum",
+    "display_name": "未审核：BiliBili 视频总结插件",
+    "desc": "一款为 AstrBot 设计的 Bilibili 视频总结插件，能够自动提取视频简介，并调用大语言模型（LLM）生成核心内容与关键要点总结。✨",
+    "author": "loong486",
+    "repo": "https://github.com/loong486/astrbot_plugin_bsum",
+    "tags": [
+      "B站",
+      "哔哩哔哩",
+      "bilibili"
+    ],
+    "social_link": "https://github.com/loong486",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-02T08:55:29Z"
+  },
+  "astrbot_plugin_dingtalk_feishu_forwarder": {
+    "name": "astrbot_plugin_dingtalk_feishu_forwarder",
+    "display_name": "未审核：astrbot_plugin_dingtalk_feishu_forwarder",
+    "desc": "钉钉与飞书之间的双向消息转发插件，支持文本、图片等消息格式自动转换。",
+    "author": "zwwangoo",
+    "repo": "https://github.com/zwwangoo/astrbot_plugin_dingtalk_feishu_forwarder",
+    "tags": [
+      "dingtalk",
+      "lark",
+      "feishu",
+      "forwarder"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-02T08:47:29Z"
+  },
+  "astrbot_plugin_token_tracker": {
+    "name": "astrbot_plugin_token_tracker",
+    "display_name": "未审核：token_tracker",
+    "desc": "输入/token以查看当前对话段token统计信息，每次查看后自动重置",
+    "author": "Lystars",
+    "repo": "https://github.com/Jiayu-Liu-0127/astrbot_plugin_token_tracker",
+    "tags": [
+      "token统计"
+    ],
+    "social_link": "https://github.com/Jiayu-Liu-0127",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-04-02T08:23:56Z"
+  },
+  "astrbot_plugin_screenshot": {
+    "name": "astrbot_plugin_screenshot",
+    "display_name": "未审核：稳定截图插件",
+    "desc": "高稳定截图插件",
+    "author": "KONEHWS",
+    "repo": "https://github.com/KONEWS/astrbot_plugin_screenshot",
+    "tags": [
+      "工具"
+    ],
+    "social_link": "https://github.com/KONEWS",
+    "stars": 0,
+    "version": "2.0.5",
+    "updated_at": "2026-04-02T07:54:22Z"
+  },
+  "astrbot_plugin_kfc_crazy_thursday": {
+    "name": "astrbot_plugin_kfc_crazy_thursday",
+    "display_name": "未审核：秦始皇疯狂星期四",
+    "desc": "疯狂星期四秦始皇马甲回复插件，检测UMO白名单会话中的疯狂星期四话术并自动以秦始皇口吻回复",
+    "author": "Compilerror",
+    "repo": "https://github.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday",
+    "tags": [],
+    "social_link": "https://github.com/CompilError-bts",
+    "stars": 0,
+    "version": "v1.3.0",
+    "updated_at": "2026-04-02T07:34:45Z",
+    "logo": "https://raw.githubusercontent.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday/master/logo.png"
+  },
   "astrbot_plugin_plugin_finder": {
     "name": "astrbot_plugin_plugin_finder",
     "display_name": "未审核：发现并安装插件",
@@ -29,22 +103,6 @@
     "stars": 0,
     "version": "1.4.5",
     "updated_at": "2026-04-02T06:40:15Z"
-  },
-  "astrbot_plugin_bsum": {
-    "name": "astrbot_plugin_bsum",
-    "display_name": "未审核：BiliBili 视频总结插件",
-    "desc": "一款为 AstrBot 设计的 Bilibili 视频总结插件，能够自动提取视频简介，并调用大语言模型（LLM）生成核心内容与关键要点总结。✨",
-    "author": "loong486",
-    "repo": "https://github.com/loong486/astrbot_plugin_bsum",
-    "tags": [
-      "B站",
-      "哔哩哔哩",
-      "bilibili"
-    ],
-    "social_link": "https://github.com/loong486",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-02T06:07:54Z"
   },
   "astrbot_plugin_character_split": {
     "name": "astrbot_plugin_character_split",
@@ -106,20 +164,6 @@
     "stars": 0,
     "version": "1.2.0",
     "updated_at": "2026-04-02T01:01:51Z"
-  },
-  "astrbot_plugin_screenshot": {
-    "name": "astrbot_plugin_screenshot",
-    "display_name": "未审核：完美截图插件 (AstrBot Plugin)",
-    "desc": "适配Win11缩放的全屏截图插件",
-    "author": "KONEHWS",
-    "repo": "https://github.com/KONEWS/astrbot_plugin_screenshot",
-    "tags": [
-      "工具"
-    ],
-    "social_link": "https://github.com/KONEWS",
-    "stars": 0,
-    "version": "1.2.0",
-    "updated_at": "2026-04-01T18:53:25Z"
   },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
@@ -195,7 +239,7 @@
       "长期记忆"
     ],
     "social_link": "https://github.com/olozhika",
-    "stars": 22,
+    "stars": 21,
     "version": "v1.2.3",
     "updated_at": "2026-04-01T09:43:08Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
@@ -357,19 +401,6 @@
     "stars": 0,
     "version": "v1.0.1",
     "updated_at": "2026-03-31T06:08:39Z"
-  },
-  "astrbot_plugin_kfc_crazy_thursday": {
-    "name": "astrbot_plugin_kfc_crazy_thursday",
-    "display_name": "未审核：秦始皇疯狂星期四",
-    "desc": "疯狂星期四秦始皇马甲回复插件，检测UMO白名单会话中的疯狂星期四话术并自动以秦始皇口吻回复",
-    "author": "Compilerror",
-    "repo": "https://github.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday",
-    "tags": [],
-    "social_link": "https://github.com/CompilError-bts",
-    "stars": 0,
-    "version": "v1.3.0",
-    "updated_at": "2026-03-31T06:06:10Z",
-    "logo": "https://raw.githubusercontent.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday/master/logo.png"
   },
   "astrbot_plugin_ctfpusher": {
     "name": "astrbot_plugin_ctfpusher",
