@@ -1,19 +1,4 @@
 {
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：修仙模拟器",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.9.0",
-    "updated_at": "2026-04-02T10:06:07Z"
-  },
   "astrbot_plugin_bsum": {
     "name": "astrbot_plugin_bsum",
     "display_name": "未审核：BiliBili 视频总结插件",
@@ -28,7 +13,41 @@
     "social_link": "https://github.com/loong486",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-04-02T10:02:15Z"
+    "updated_at": "2026-04-02T11:42:46Z"
+  },
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：修仙模拟器",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.9.0",
+    "updated_at": "2026-04-02T11:33:44Z"
+  },
+  "astrbot_plugin_keke_api_collection": {
+    "name": "astrbot_plugin_keke_api_collection",
+    "display_name": "未审核：柯柯API集合",
+    "desc": "【柯柯API集合】此插件包含了多种多样的图片API，包括美女、白丝、黑丝、美腿、R18等图片API，且还有文案API",
+    "author": "落梦陳",
+    "repo": "https://github.com/KeKe0904/astrbot_plugin_keke_api_collection",
+    "tags": [
+      "API",
+      "美女",
+      "图片",
+      "白丝",
+      "黑丝"
+    ],
+    "social_link": "https://github.com/KeKe0904",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-02T10:35:09Z",
+    "logo": "https://raw.githubusercontent.com/KeKe0904/astrbot_plugin_keke_api_collection/master/logo.png"
   },
   "astrbot_plugin_dingtalk_feishu_forwarder": {
     "name": "astrbot_plugin_dingtalk_feishu_forwarder",
@@ -3383,25 +3402,6 @@
     "stars": 0,
     "version": "v1.2.0",
     "updated_at": "2026-02-21T19:11:24Z"
-  },
-  "astrbot_plugin_keke_api_collection": {
-    "name": "astrbot_plugin_keke_api_collection",
-    "display_name": "未审核：柯柯API集合",
-    "desc": "【柯柯API集合】此插件包含了多种多样的图片API，包括美女、白丝、黑丝、美腿、R18等图片API，且还有文案API",
-    "author": "落梦陳",
-    "repo": "https://github.com/KeKe0904/astrbot_plugin_keke_api_collection",
-    "tags": [
-      "API",
-      "美女",
-      "图片",
-      "白丝",
-      "黑丝"
-    ],
-    "social_link": "https://github.com/KeKe0904",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-02-19T18:59:44Z",
-    "logo": "https://raw.githubusercontent.com/KeKe0904/astrbot_plugin_keke_api_collection/master/logo.png"
   },
   "astrbot_plugin_liuyao": {
     "name": "astrbot_plugin_liuyao",
