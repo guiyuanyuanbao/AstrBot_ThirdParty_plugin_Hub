@@ -1,4 +1,34 @@
 {
+  "astrbot_plugin_feish_calendar": {
+    "name": "astrbot_plugin_feish_calendar",
+    "display_name": "未审核：AstrBot 飞书日程管理",
+    "desc": "这是一个为 AstrBot 设计的飞书日历插件，支持自动创建、删除和管理飞书日历中的日程",
+    "author": "nonpricklycactus",
+    "repo": "https://github.com/nonpricklycactus/astrbot_plugin_feish_calendar",
+    "tags": [
+      "日历",
+      "飞书",
+      "日程管理"
+    ],
+    "social_link": "https://gentlecactus.top/",
+    "stars": 0,
+    "version": "1.0.5",
+    "updated_at": "2026-04-02T17:41:38Z"
+  },
+  "astrbot_plugin_token_tracker": {
+    "name": "astrbot_plugin_token_tracker",
+    "display_name": "未审核：Token Tracker",
+    "desc": "输入/token以查看对话段token统计信息，支持自动统计、自动重置和自动清理",
+    "author": "Lystars",
+    "repo": "https://github.com/Jiayu-Liu-0127/astrbot_plugin_Token_Tracker",
+    "tags": [
+      "token统计"
+    ],
+    "social_link": "https://github.com/Jiayu-Liu-0127",
+    "stars": 0,
+    "version": "1.2.0",
+    "updated_at": "2026-04-02T17:06:55Z"
+  },
   "astrbot_plugin_vtuber": {
     "name": "astrbot_plugin_vtuber",
     "display_name": "未审核：astrbot皮套",
@@ -10,24 +40,74 @@
       "皮套"
     ],
     "social_link": "https://github.com/soiwm",
-    "stars": 0,
+    "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-04-02T15:45:15Z",
+    "updated_at": "2026-04-02T17:03:49Z",
     "logo": "https://raw.githubusercontent.com/soiwm/astrbot_plugin_vtuber/main/logo.png"
   },
-  "astrbot_plugin_token_tracker": {
-    "name": "astrbot_plugin_token_tracker",
-    "display_name": "未审核：token_tracker",
-    "desc": "输入/token以查看对话段token统计信息，支持自动统计、自动重置和自动清理",
-    "author": "Lystars",
-    "repo": "https://github.com/Jiayu-Liu-0127/astrbot_plugin_token_tracker",
-    "tags": [
-      "token统计"
-    ],
-    "social_link": "https://github.com/Jiayu-Liu-0127",
+  "astrbot_plugin_mnemosynes": {
+    "name": "astrbot_plugin_mnemosynes",
+    "display_name": "未审核：Mnemosyne Companion",
+    "desc": "一个支持提示词注入、记忆存储、状态追踪与后台日记生成的 AstrBot 情感陪伴插件。",
+    "author": "Xk1390068752",
+    "repo": "https://github.com/Xk1390068752/astrbot_plugin_mnemosyneS",
+    "tags": [],
+    "social_link": "https://github.com/Xk1390068752",
     "stars": 0,
-    "version": "1.1.1",
-    "updated_at": "2026-04-02T15:36:04Z"
+    "version": "v0.8.1",
+    "updated_at": "2026-04-02T17:01:19Z"
+  },
+  "astrbot_plugin_screenshot": {
+    "name": "astrbot_plugin_screenshot",
+    "display_name": "未审核：截图分析插件",
+    "desc": "高稳定全屏截图与 AI 视觉分析工具（完美适配 Win11 DPI 缩放）",
+    "author": "KONEHWS",
+    "repo": "https://github.com/KONEWS/astrbot_plugin_screenshot",
+    "tags": [
+      "工具"
+    ],
+    "social_link": "https://github.com/KONEWS",
+    "stars": 0,
+    "version": "1.2.2",
+    "updated_at": "2026-04-02T16:40:28Z"
+  },
+  "astrbot_plugin_universe": {
+    "name": "astrbot_plugin_universe",
+    "display_name": "未审核：gal圣地巡礼以及老婆",
+    "desc": "如果在梦里能相遇的话，那大概就是现实",
+    "author": "Care",
+    "repo": "https://github.com/Care0721/astrbot_plugin_galuniverse",
+    "tags": [
+      "galgame",
+      "今日老婆",
+      "圣地巡礼",
+      "小游戏"
+    ],
+    "social_link": "https://github.com/Care0721",
+    "stars": 1,
+    "version": "v1.7.0",
+    "updated_at": "2026-04-02T16:40:10Z"
+  },
+  "astrbot_plugin_deerpipe": {
+    "name": "astrbot_plugin_deerpipe",
+    "display_name": "未审核：鹿乃子月历",
+    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
+    "tags": [
+      "鹿乃子",
+      "鹿",
+      "🦌",
+      "🦌乃子",
+      "月历",
+      "打卡",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 2,
+    "version": "v1.0.7",
+    "updated_at": "2026-04-02T16:38:30Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
   },
   "astrbot_plugin_read_local_image": {
     "name": "astrbot_plugin_read_local_image",
@@ -87,27 +167,6 @@
     "version": "v3.9.0",
     "updated_at": "2026-04-02T14:11:38Z"
   },
-  "astrbot_plugin_deerpipe": {
-    "name": "astrbot_plugin_deerpipe",
-    "display_name": "未审核：鹿乃子月历",
-    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
-    "tags": [
-      "鹿乃子",
-      "鹿",
-      "🦌",
-      "🦌乃子",
-      "月历",
-      "打卡",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 2,
-    "version": "v1.0.6",
-    "updated_at": "2026-04-02T13:24:10Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
-  },
   "astrbot_plugin_lark_access_control": {
     "name": "astrbot_plugin_lark_access_control",
     "display_name": "未审核：飞书权限控制",
@@ -136,7 +195,7 @@
       "黑丝"
     ],
     "social_link": "https://github.com/KeKe0904",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
     "updated_at": "2026-04-02T10:35:09Z",
     "logo": "https://raw.githubusercontent.com/KeKe0904/astrbot_plugin_keke_api_collection/master/logo.png"
@@ -176,20 +235,6 @@
     "version": "1.2.1",
     "updated_at": "2026-04-02T08:59:40Z",
     "logo": "https://raw.githubusercontent.com/kkloas/astrbot_plugin_name_fight/main/logo.png"
-  },
-  "astrbot_plugin_screenshot": {
-    "name": "astrbot_plugin_screenshot",
-    "display_name": "未审核：稳定截图插件",
-    "desc": "高稳定截图插件",
-    "author": "KONEHWS",
-    "repo": "https://github.com/KONEWS/astrbot_plugin_screenshot",
-    "tags": [
-      "工具"
-    ],
-    "social_link": "https://github.com/KONEWS",
-    "stars": 0,
-    "version": "2.0.5",
-    "updated_at": "2026-04-02T07:54:22Z"
   },
   "astrbot_plugin_kfc_crazy_thursday": {
     "name": "astrbot_plugin_kfc_crazy_thursday",
