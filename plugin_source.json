@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_group_sender": {
+    "name": "astrbot_plugin_group_sender",
+    "display_name": "未审核：来群发-bot群发或指定群发插件",
+    "desc": "AstrBot 群发与定时发送插件，支持私聊控制群发、指定群发送、群列表查看、每天定时发送和一次性定时任务。 温馨提示：使用前请先把main.py改为你自己的qq号 否则无法使用",
+    "author": "何意味小祥",
+    "repo": "https://github.com/c99180013-sys/AstrBOT-Group-sending-plug-in",
+    "tags": [
+      "群发"
+    ],
+    "social_link": "https://github.com/c99180013-sys",
+    "stars": 0,
+    "version": "1.2.0",
+    "updated_at": "2026-04-02T01:01:51Z"
+  },
   "astrbot_plugin_screenshot": {
     "name": "astrbot_plugin_screenshot",
     "display_name": "未审核：完美截图插件 (AstrBot Plugin)",
@@ -116,20 +130,6 @@
     "version": "v1.0",
     "updated_at": "2026-04-01T13:09:34Z"
   },
-  "astrbot_plugin_group_sender": {
-    "name": "astrbot_plugin_group_sender",
-    "display_name": "未审核：来群发-bot群发或指定群发插件",
-    "desc": "AstrBot 群发与定时发送插件，支持私聊控制群发、指定群发送、群列表查看、每天定时发送和一次性定时任务。 温馨提示：使用前请先把main.py改为你自己的qq号 否则无法使用",
-    "author": "何意味小祥",
-    "repo": "https://github.com/c99180013-sys/AstrBOT-Group-sending-plug-in",
-    "tags": [
-      "群发"
-    ],
-    "social_link": "https://github.com/c99180013-sys",
-    "stars": 0,
-    "version": "1.1.0",
-    "updated_at": "2026-04-01T12:25:42Z"
-  },
   "astrbot_plugin_test": {
     "name": "astrbot_plugin_test",
     "display_name": "未审核：用于用户测试bot是否在线",
@@ -162,7 +162,7 @@
       "长期记忆"
     ],
     "social_link": "https://github.com/olozhika",
-    "stars": 21,
+    "stars": 22,
     "version": "v1.2.3",
     "updated_at": "2026-04-01T09:43:08Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
