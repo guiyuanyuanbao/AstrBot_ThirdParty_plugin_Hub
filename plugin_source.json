@@ -1,4 +1,51 @@
 {
+  "astrbot_plugin_plugin_finder": {
+    "name": "astrbot_plugin_plugin_finder",
+    "display_name": "未审核：发现并安装插件",
+    "desc": "在对话中查询、校验、下载并安装 AstrBot 官方平台插件，支持安装审计日志。",
+    "author": "Elysium-Seeker",
+    "repo": "https://github.com/Elysium-Seeker/astrbot_plugin_plugin_finder",
+    "tags": [
+      "插件",
+      "自动化"
+    ],
+    "social_link": "https://github.com/Elysium-Seeker",
+    "stars": 0,
+    "version": "1.1.23",
+    "updated_at": "2026-04-02T07:08:20Z"
+  },
+  "astrbot_plugin_tts_bridge": {
+    "name": "astrbot_plugin_tts_bridge",
+    "display_name": "未审核：TTS Bridge",
+    "desc": "多语言文字+语音桥接插件。将 AI 回复翻译为目标语言后进行 TTS 语音合成，实现文字与语音使用不同语言的效果。支持 MiniMax、OpenAI TTS，内置情感识别。",
+    "author": "MagicSun7940",
+    "repo": "https://github.com/MagicSun7940/astrbot_plugin_tts_bridge",
+    "tags": [
+      "tts",
+      "语音",
+      "翻译"
+    ],
+    "social_link": "https://github.com/MagicSun7940",
+    "stars": 0,
+    "version": "1.4.5",
+    "updated_at": "2026-04-02T06:40:15Z"
+  },
+  "astrbot_plugin_bsum": {
+    "name": "astrbot_plugin_bsum",
+    "display_name": "未审核：BiliBili 视频总结插件",
+    "desc": "一款为 AstrBot 设计的 Bilibili 视频总结插件，能够自动提取视频简介，并调用大语言模型（LLM）生成核心内容与关键要点总结。✨",
+    "author": "loong486",
+    "repo": "https://github.com/loong486/astrbot_plugin_bsum",
+    "tags": [
+      "B站",
+      "哔哩哔哩",
+      "bilibili"
+    ],
+    "social_link": "https://github.com/loong486",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-02T06:07:54Z"
+  },
   "astrbot_plugin_character_split": {
     "name": "astrbot_plugin_character_split",
     "display_name": "未审核：按时段对话隔离与记忆管理",
@@ -13,21 +60,6 @@
     "stars": 0,
     "version": "v1.2.3",
     "updated_at": "2026-04-02T04:02:33Z"
-  },
-  "astrbot_plugin_plugin_finder": {
-    "name": "astrbot_plugin_plugin_finder",
-    "display_name": "未审核：发现并安装插件",
-    "desc": "在对话中查询、校验、下载并安装 AstrBot 官方平台插件，支持安装审计日志。",
-    "author": "Elysium-Seeker",
-    "repo": "https://github.com/Elysium-Seeker/astrbot_plugin_plugin_finder",
-    "tags": [
-      "插件",
-      "自动化"
-    ],
-    "social_link": "https://github.com/Elysium-Seeker",
-    "stars": 0,
-    "version": "1.1.19",
-    "updated_at": "2026-04-02T03:55:42Z"
   },
   "astrbot_plugin_xinwen_lianbo": {
     "name": "astrbot_plugin_xinwen_lianbo",
@@ -78,7 +110,7 @@
   "astrbot_plugin_screenshot": {
     "name": "astrbot_plugin_screenshot",
     "display_name": "未审核：完美截图插件 (AstrBot Plugin)",
-    "desc": "使用Python原生截图，解决Win11高分屏缩放截不全的问题",
+    "desc": "适配Win11缩放的全屏截图插件",
     "author": "KONEHWS",
     "repo": "https://github.com/KONEWS/astrbot_plugin_screenshot",
     "tags": [
@@ -168,23 +200,6 @@
     "updated_at": "2026-04-01T09:43:08Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
-  "astrbot_plugin_qwen3_tts": {
-    "name": "astrbot_plugin_qwen3_tts",
-    "display_name": "未审核：Qwen3-TTS本地文字转语音",
-    "desc": "基于本地部署的Qwen3-TTS，为astrbot提供文本转语音(TTS)服务，可自定义音色、语音分段。",
-    "author": "Thyran1",
-    "repo": "https://github.com/Thyran1/astrbot_plugin_qwen3_tts",
-    "tags": [
-      "tts",
-      "文字转语音",
-      "分段"
-    ],
-    "social_link": "https://github.com/Thyran1",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-01T08:43:42Z",
-    "logo": "https://raw.githubusercontent.com/Thyran1/astrbot_plugin_qwen3_tts/main/logo.png"
-  },
   "astrbot_plugin_keywords_miko": {
     "name": "astrbot_plugin_keywords_miko",
     "display_name": "未审核：关键字回复系统",
@@ -198,22 +213,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-04-01T06:21:07Z"
-  },
-  "astrbot_plugin_bsum": {
-    "name": "astrbot_plugin_bsum",
-    "display_name": "未审核：BiliBili 视频总结插件",
-    "desc": "一款为 AstrBot 设计的 Bilibili 视频总结插件，能够自动提取视频简介，并调用大语言模型（LLM）生成核心内容与关键要点总结。✨",
-    "author": "loong486",
-    "repo": "https://github.com/loong486/astrbot_plugin_bsum",
-    "tags": [
-      "B站",
-      "哔哩哔哩",
-      "bilibili"
-    ],
-    "social_link": "https://github.com/loong486",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-01T05:57:41Z"
   },
   "astrbot_plugin_webnovel_bible": {
     "name": "astrbot_plugin_webnovel_bible",
@@ -1390,22 +1389,6 @@
     "stars": 0,
     "version": "1.0.0",
     "updated_at": "2026-03-23T09:11:02Z"
-  },
-  "astrbot_plugin_tts_bridge": {
-    "name": "astrbot_plugin_tts_bridge",
-    "display_name": "未审核：TTS Bridge",
-    "desc": "多语言文字+语音桥接插件。将 AI 回复翻译为目标语言后进行 TTS 语音合成，实现文字与语音使用不同语言的效果。支持 MiniMax、OpenAI TTS，内置情感识别。",
-    "author": "MagicSun7940",
-    "repo": "https://github.com/MagicSun7940/astrbot_plugin_tts_bridge",
-    "tags": [
-      "tts",
-      "语音",
-      "翻译"
-    ],
-    "social_link": "https://github.com/MagicSun7940",
-    "stars": 0,
-    "version": "1.4.4",
-    "updated_at": "2026-03-22T19:10:20Z"
   },
   "astrbot_plugin_hwinfo": {
     "name": "astrbot_plugin_hwinfo",
