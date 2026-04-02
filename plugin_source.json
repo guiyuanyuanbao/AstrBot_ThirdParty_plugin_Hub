@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_mihuasher_review": {
+    "name": "astrbot_plugin_mihuasher_review",
+    "display_name": "未审核：米画师视奸插件 v1.0.0",
+    "desc": "获取米画师指定画师的评价列表，并支持订阅推送。可通过QQ命令手动检查或定时自动推送新评价。",
+    "author": "iv小白龙",
+    "repo": "https://github.com/ggxiaobailong-blip/astrbot_plugin_mihuasher_review",
+    "tags": [
+      "订阅推送",
+      "评价监控",
+      "米画师"
+    ],
+    "social_link": "https://github.com/ggxiaobailong-blip",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-04-02T21:56:42Z",
+    "logo": "https://raw.githubusercontent.com/ggxiaobailong-blip/astrbot_plugin_mihuasher_review/main/logo.png"
+  },
   "astrbot_plugin_token_tracker": {
     "name": "astrbot_plugin_token_tracker",
     "display_name": "未审核：Token Tracker",
