@@ -1,7 +1,26 @@
 {
+  "astrbot_plugin_keke_api_collection": {
+    "name": "astrbot_plugin_keke_api_collection",
+    "display_name": "未审核：柯柯API集合",
+    "desc": "【柯柯API集合】此插件包含了多种多样的图片API，包括美女、白丝、黑丝、美腿、R18等图片API，且还有文案API",
+    "author": "落梦陳",
+    "repo": "https://github.com/KeKe0904/astrbot_plugin_keke_api_collection",
+    "tags": [
+      "API",
+      "美女",
+      "图片",
+      "白丝",
+      "黑丝"
+    ],
+    "social_link": "https://github.com/KeKe0904",
+    "stars": 3,
+    "version": "v1.2.2",
+    "updated_at": "2026-04-03T08:46:13Z",
+    "logo": "https://raw.githubusercontent.com/KeKe0904/astrbot_plugin_keke_api_collection/master/logo.png"
+  },
   "astrbot_plugin_mihuasher_review": {
     "name": "astrbot_plugin_mihuasher_review",
-    "display_name": "未审核：米画师视奸插件 v1.0.2",
+    "display_name": "未审核：米画师视奸插件 v1.0.7",
     "desc": "获取米画师指定画师的评价列表，并支持订阅推送。可通过QQ命令手动检查或定时自动推送新评价。",
     "author": "iv小白龙",
     "repo": "https://github.com/ggxiaobailong-blip/astrbot_plugin_mihuasher_review",
@@ -12,9 +31,40 @@
     ],
     "social_link": "https://github.com/ggxiaobailong-blip",
     "stars": 1,
-    "version": "1.0.4",
-    "updated_at": "2026-04-03T07:09:30Z",
+    "version": "1.0.7",
+    "updated_at": "2026-04-03T08:13:23Z",
     "logo": "https://raw.githubusercontent.com/ggxiaobailong-blip/astrbot_plugin_mihuasher_review/main/logo.png"
+  },
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：修仙模拟器",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.9.0",
+    "updated_at": "2026-04-03T08:06:03Z"
+  },
+  "astrbot_plugin_asoul": {
+    "name": "astrbot_plugin_asoul",
+    "display_name": "未审核：枝江自动推送",
+    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
+    "author": "LEN5010",
+    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
+    "tags": [
+      "ASOUL",
+      "自动推送",
+      "信息推送"
+    ],
+    "social_link": "https://github.com/LEN5010/",
+    "stars": 0,
+    "version": "v3.0.1",
+    "updated_at": "2026-04-03T08:02:59Z"
   },
   "astrbot_plugin_morning_news": {
     "name": "astrbot_plugin_morning_news",
@@ -214,21 +264,6 @@
     "version": "1.2.2",
     "updated_at": "2026-04-02T16:40:28Z"
   },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：修仙模拟器",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.9.0",
-    "updated_at": "2026-04-02T14:11:38Z"
-  },
   "astrbot_plugin_lark_access_control": {
     "name": "astrbot_plugin_lark_access_control",
     "display_name": "未审核：飞书权限控制",
@@ -242,25 +277,6 @@
     "stars": 0,
     "version": "v0.1.0",
     "updated_at": "2026-04-02T13:07:56Z"
-  },
-  "astrbot_plugin_keke_api_collection": {
-    "name": "astrbot_plugin_keke_api_collection",
-    "display_name": "未审核：柯柯API集合",
-    "desc": "【柯柯API集合】此插件包含了多种多样的图片API，包括美女、白丝、黑丝、美腿、R18等图片API，且还有文案API",
-    "author": "落梦陳",
-    "repo": "https://github.com/KeKe0904/astrbot_plugin_keke_api_collection",
-    "tags": [
-      "API",
-      "美女",
-      "图片",
-      "白丝",
-      "黑丝"
-    ],
-    "social_link": "https://github.com/KeKe0904",
-    "stars": 2,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-02T10:35:09Z",
-    "logo": "https://raw.githubusercontent.com/KeKe0904/astrbot_plugin_keke_api_collection/master/logo.png"
   },
   "astrbot_plugin_kfc_crazy_thursday": {
     "name": "astrbot_plugin_kfc_crazy_thursday",
@@ -457,22 +473,6 @@
     "stars": 1,
     "version": "v7.10.0",
     "updated_at": "2026-03-31T15:20:28Z"
-  },
-  "astrbot_plugin_asoul": {
-    "name": "astrbot_plugin_asoul",
-    "display_name": "未审核：枝江自动推送",
-    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
-    "author": "LEN5010",
-    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
-    "tags": [
-      "ASOUL",
-      "自动推送",
-      "信息推送"
-    ],
-    "social_link": "https://github.com/LEN5010/",
-    "stars": 0,
-    "version": "v3.0.1",
-    "updated_at": "2026-03-31T14:46:41Z"
   },
   "astrbot_plugin_skills_mcp_manager": {
     "name": "astrbot_plugin_skills_mcp_manager",
