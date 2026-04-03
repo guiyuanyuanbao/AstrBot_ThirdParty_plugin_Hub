@@ -1,19 +1,4 @@
 {
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：修仙模拟器",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.9.0",
-    "updated_at": "2026-04-03T09:45:03Z"
-  },
   "astrbot_plugin_keke_api_collection": {
     "name": "astrbot_plugin_keke_api_collection",
     "display_name": "未审核：柯柯API集合插件",
@@ -29,9 +14,24 @@
     ],
     "social_link": "https://github.com/KeKe0904",
     "stars": 3,
-    "version": "v1.3.1",
-    "updated_at": "2026-04-03T09:40:16Z",
+    "version": "v1.4.2",
+    "updated_at": "2026-04-03T10:07:45Z",
     "logo": "https://raw.githubusercontent.com/KeKe0904/astrbot_plugin_keke_api_collection/master/logo.png"
+  },
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：修仙模拟器",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.9.0",
+    "updated_at": "2026-04-03T09:56:10Z"
   },
   "astrbot_plugin_markdown": {
     "name": "astrbot_plugin_markdown",
