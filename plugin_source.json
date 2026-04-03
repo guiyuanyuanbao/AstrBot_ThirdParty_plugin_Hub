@@ -1,4 +1,82 @@
 {
+  "astrbot_plugin_bilicookie_monitor": {
+    "name": "astrbot_plugin_bilicookie_monitor",
+    "display_name": "未审核：B站Cookie状态监控插件",
+    "desc": "B站Cookie状态监控插件 - 定时检测Cookie有效性，失效时主动通知用户",
+    "author": "fimore",
+    "repo": "https://github.com/fimore/astrbot_plugin_bili_cookie_monitor",
+    "tags": [
+      "bilibili"
+    ],
+    "social_link": "https://github.com/fimore",
+    "stars": 0,
+    "version": "2.0.1",
+    "updated_at": "2026-04-03T02:19:58Z"
+  },
+  "astrbot_plugin_dingtalk_feishu_forwarder": {
+    "name": "astrbot_plugin_dingtalk_feishu_forwarder",
+    "display_name": "未审核：astrbot_plugin_dingtalk_feishu_forwarder",
+    "desc": "钉钉与飞书之间的双向消息转发插件，支持文本、图片等消息格式自动转换。",
+    "author": "zwwangoo",
+    "repo": "https://github.com/zwwangoo/astrbot_plugin_dingtalk_feishu_forwarder",
+    "tags": [
+      "dingtalk",
+      "lark",
+      "feishu",
+      "forwarder"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-03T02:11:11Z"
+  },
+  "astrbot_plugin_bilisu": {
+    "name": "astrbot_plugin_bilisu",
+    "display_name": "未审核：Bilibili 视频总结插件",
+    "desc": "一款专为 AstrBot 设计的高性能 Bilibili 视频总结插件。它能自动识别链接、提取 CC 字幕、并利用大语言模型（LLM）生成结构化的核心内容与关键要点总结。",
+    "author": "loong486",
+    "repo": "https://github.com/loong486/astrbot_plugin_bilisu",
+    "tags": [
+      "哔哩哔哩"
+    ],
+    "social_link": "https://github.com/loong486",
+    "stars": 0,
+    "version": "v1.2.0",
+    "updated_at": "2026-04-03T01:20:51Z"
+  },
+  "astrbot_plugin_bsum": {
+    "name": "astrbot_plugin_bsum",
+    "display_name": "未审核：BiliBili 视频总结插件",
+    "desc": "一款为 AstrBot 设计的 Bilibili 视频总结插件，能够自动提取视频简介，并调用大语言模型（LLM）生成核心内容与关键要点总结。✨",
+    "author": "loong486",
+    "repo": "https://github.com/loong486/astrbot_plugin_bsum",
+    "tags": [
+      "B站",
+      "哔哩哔哩",
+      "bilibili"
+    ],
+    "social_link": "https://github.com/loong486",
+    "stars": 0,
+    "version": "v1.2.0",
+    "updated_at": "2026-04-03T01:20:51Z"
+  },
+  "astrbot_plugin_mihuasher_review": {
+    "name": "astrbot_plugin_mihuasher_review",
+    "display_name": "未审核：米画师视奸插件 v1.0.2",
+    "desc": "获取米画师指定画师的评价列表，并支持订阅推送。可通过QQ命令手动检查或定时自动推送新评价。",
+    "author": "iv小白龙",
+    "repo": "https://github.com/ggxiaobailong-blip/astrbot_plugin_mihuasher_review",
+    "tags": [
+      "订阅推送",
+      "评价监控",
+      "米画师"
+    ],
+    "social_link": "https://github.com/ggxiaobailong-blip",
+    "stars": 1,
+    "version": "1.0.2",
+    "updated_at": "2026-04-03T01:06:44Z",
+    "logo": "https://raw.githubusercontent.com/ggxiaobailong-blip/astrbot_plugin_mihuasher_review/main/logo.png"
+  },
   "astrbot_plugin_universe": {
     "name": "astrbot_plugin_universe",
     "display_name": "未审核：gal圣地巡礼以及老婆",
@@ -16,23 +94,6 @@
     "version": "v1.7.0",
     "updated_at": "2026-04-02T23:12:37Z"
   },
-  "astrbot_plugin_mihuasher_review": {
-    "name": "astrbot_plugin_mihuasher_review",
-    "display_name": "未审核：米画师视奸插件 v1.0.0",
-    "desc": "获取米画师指定画师的评价列表，并支持订阅推送。可通过QQ命令手动检查或定时自动推送新评价。",
-    "author": "iv小白龙",
-    "repo": "https://github.com/ggxiaobailong-blip/astrbot_plugin_mihuasher_review",
-    "tags": [
-      "订阅推送",
-      "评价监控",
-      "米画师"
-    ],
-    "social_link": "https://github.com/ggxiaobailong-blip",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-04-02T21:56:42Z",
-    "logo": "https://raw.githubusercontent.com/ggxiaobailong-blip/astrbot_plugin_mihuasher_review/main/logo.png"
-  },
   "astrbot_plugin_token_tracker": {
     "name": "astrbot_plugin_token_tracker",
     "display_name": "未审核：Token Tracker",
@@ -46,22 +107,6 @@
     "stars": 0,
     "version": "1.2.0",
     "updated_at": "2026-04-02T19:17:12Z"
-  },
-  "astrbot_plugin_bsum": {
-    "name": "astrbot_plugin_bsum",
-    "display_name": "未审核：BiliBili 视频总结插件",
-    "desc": "一款为 AstrBot 设计的 Bilibili 视频总结插件，能够自动提取视频简介，并调用大语言模型（LLM）生成核心内容与关键要点总结。✨",
-    "author": "loong486",
-    "repo": "https://github.com/loong486/astrbot_plugin_bsum",
-    "tags": [
-      "B站",
-      "哔哩哔哩",
-      "bilibili"
-    ],
-    "social_link": "https://github.com/loong486",
-    "stars": 0,
-    "version": "v1.2.0",
-    "updated_at": "2026-04-02T18:07:49Z"
   },
   "astrbot_plugin_llm_enhancement": {
     "name": "astrbot_plugin_llm_enhancement",
@@ -161,18 +206,6 @@
     "version": "1.2.2",
     "updated_at": "2026-04-02T16:40:28Z"
   },
-  "astrbot_plugin_read_local_image": {
-    "name": "astrbot_plugin_read_local_image",
-    "display_name": "未审核：Read Local Image",
-    "desc": "读取本地图片文件并使用 ImageContent 机制让 LLM 立即分析图片内容",
-    "author": "sunnyyang",
-    "repo": "https://github.com/sunnyyangyangyang/astrbot_plugin_read_local_image",
-    "tags": [],
-    "social_link": "",
-    "stars": 0,
-    "version": "1.6.0",
-    "updated_at": "2026-04-02T15:14:47Z"
-  },
   "astrbot_plugin_markdown": {
     "name": "astrbot_plugin_markdown",
     "display_name": "未审核：markdown 自动转图片",
@@ -235,23 +268,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-04-02T10:35:09Z",
     "logo": "https://raw.githubusercontent.com/KeKe0904/astrbot_plugin_keke_api_collection/master/logo.png"
-  },
-  "astrbot_plugin_dingtalk_feishu_forwarder": {
-    "name": "astrbot_plugin_dingtalk_feishu_forwarder",
-    "display_name": "未审核：astrbot_plugin_dingtalk_feishu_forwarder",
-    "desc": "钉钉与飞书之间的双向消息转发插件，支持文本、图片等消息格式自动转换。",
-    "author": "zwwangoo",
-    "repo": "https://github.com/zwwangoo/astrbot_plugin_dingtalk_feishu_forwarder",
-    "tags": [
-      "dingtalk",
-      "lark",
-      "feishu",
-      "forwarder"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-02T09:45:07Z"
   },
   "astrbot_plugin_name_fight": {
     "name": "astrbot_plugin_name_fight",
