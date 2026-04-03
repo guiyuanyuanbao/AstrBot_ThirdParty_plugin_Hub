@@ -1,23 +1,4 @@
 {
-  "astrbot_plugin_keke_api_collection": {
-    "name": "astrbot_plugin_keke_api_collection",
-    "display_name": "未审核：柯柯API集合插件",
-    "desc": "【柯柯API集合】此插件包含了多种多样的图片API，包括美女、白丝、黑丝、美腿等图片API，且还有文案API",
-    "author": "落梦陳",
-    "repo": "https://github.com/KeKe0904/astrbot_plugin_keke_api_collection",
-    "tags": [
-      "API",
-      "黑丝",
-      "白丝",
-      "菜单",
-      "设备信息"
-    ],
-    "social_link": "https://github.com/KeKe0904",
-    "stars": 3,
-    "version": "v1.4.2",
-    "updated_at": "2026-04-03T10:07:45Z",
-    "logo": "https://raw.githubusercontent.com/KeKe0904/astrbot_plugin_keke_api_collection/master/logo.png"
-  },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
     "display_name": "未审核：修仙模拟器",
@@ -30,8 +11,27 @@
     ],
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
-    "version": "v3.9.0",
-    "updated_at": "2026-04-03T09:56:10Z"
+    "version": "v3.11.0",
+    "updated_at": "2026-04-03T11:13:54Z"
+  },
+  "astrbot_plugin_keke_api_collection": {
+    "name": "astrbot_plugin_keke_api_collection",
+    "display_name": "未审核：柯柯API集合插件",
+    "desc": "【柯柯API集合】此插件包含了多种多样的图片API，包括美女、白丝、黑丝等图片API，且还有文案API",
+    "author": "落梦陳",
+    "repo": "https://github.com/KeKe0904/astrbot_plugin_keke_api_collection",
+    "tags": [
+      "API",
+      "黑丝",
+      "白丝",
+      "菜单",
+      "设备信息"
+    ],
+    "social_link": "https://github.com/KeKe0904",
+    "stars": 3,
+    "version": "v1.6.1",
+    "updated_at": "2026-04-03T11:13:05Z",
+    "logo": "https://raw.githubusercontent.com/KeKe0904/astrbot_plugin_keke_api_collection/master/logo.png"
   },
   "astrbot_plugin_markdown": {
     "name": "astrbot_plugin_markdown",
