@@ -12,7 +12,21 @@
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
     "version": "v3.11.0",
-    "updated_at": "2026-04-03T11:13:54Z"
+    "updated_at": "2026-04-03T12:50:02Z"
+  },
+  "astrbot_plugin_token_tracker": {
+    "name": "astrbot_plugin_token_tracker",
+    "display_name": "未审核：Token Tracker",
+    "desc": "输入/token以查看对话段token统计信息，支持自动统计、自动重置和自动清理",
+    "author": "Lystars",
+    "repo": "https://github.com/Jiayu-Liu-0127/astrbot_plugin_Token_Tracker",
+    "tags": [
+      "token统计"
+    ],
+    "social_link": "https://github.com/Jiayu-Liu-0127",
+    "stars": 0,
+    "version": "1.2.0",
+    "updated_at": "2026-04-03T12:30:35Z"
   },
   "astrbot_plugin_keke_api_collection": {
     "name": "astrbot_plugin_keke_api_collection",
@@ -122,20 +136,6 @@
     "stars": 0,
     "version": "v1.2.0",
     "updated_at": "2026-04-03T06:23:39Z"
-  },
-  "astrbot_plugin_token_tracker": {
-    "name": "astrbot_plugin_token_tracker",
-    "display_name": "未审核：Token Tracker",
-    "desc": "输入/token以查看对话段token统计信息，支持自动统计、自动重置和自动清理",
-    "author": "Lystars",
-    "repo": "https://github.com/Jiayu-Liu-0127/astrbot_plugin_Token_Tracker",
-    "tags": [
-      "token统计"
-    ],
-    "social_link": "https://github.com/Jiayu-Liu-0127",
-    "stars": 0,
-    "version": "1.2.0",
-    "updated_at": "2026-04-03T05:23:29Z"
   },
   "astrbot_plugin_universe": {
     "name": "astrbot_plugin_universe",
