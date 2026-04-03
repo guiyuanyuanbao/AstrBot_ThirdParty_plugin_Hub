@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_bilicookie_monitor": {
+    "name": "astrbot_plugin_bilicookie_monitor",
+    "display_name": "未审核：B站Cookie状态监控插件",
+    "desc": "B站Cookie状态监控插件 - 定时检测Cookie有效性，失效时主动通知用户",
+    "author": "fimore",
+    "repo": "https://github.com/fimore/astrbot_plugin_bili_cookie_monitor",
+    "tags": [
+      "bilibili"
+    ],
+    "social_link": "https://github.com/fimore",
+    "stars": 0,
+    "version": "2.0.3",
+    "updated_at": "2026-04-03T19:31:14Z"
+  },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
     "display_name": "未审核：伪装聊天",
@@ -188,20 +202,6 @@
     "stars": 1,
     "version": "v1.7.0",
     "updated_at": "2026-04-03T05:10:10Z"
-  },
-  "astrbot_plugin_bilicookie_monitor": {
-    "name": "astrbot_plugin_bilicookie_monitor",
-    "display_name": "未审核：B站Cookie状态监控插件",
-    "desc": "B站Cookie状态监控插件 - 定时检测Cookie有效性，失效时主动通知用户",
-    "author": "fimore",
-    "repo": "https://github.com/fimore/astrbot_plugin_bili_cookie_monitor",
-    "tags": [
-      "bilibili"
-    ],
-    "social_link": "https://github.com/fimore",
-    "stars": 0,
-    "version": "2.0.2",
-    "updated_at": "2026-04-03T02:51:14Z"
   },
   "astrbot_plugin_dingtalk_feishu_forwarder": {
     "name": "astrbot_plugin_dingtalk_feishu_forwarder",
