@@ -1,22 +1,52 @@
 {
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：修仙模拟器",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.9.0",
+    "updated_at": "2026-04-03T09:45:03Z"
+  },
   "astrbot_plugin_keke_api_collection": {
     "name": "astrbot_plugin_keke_api_collection",
-    "display_name": "未审核：柯柯API集合",
-    "desc": "【柯柯API集合】此插件包含了多种多样的图片API，包括美女、白丝、黑丝、美腿、R18等图片API，且还有文案API",
+    "display_name": "未审核：柯柯API集合插件",
+    "desc": "【柯柯API集合】此插件包含了多种多样的图片API，包括美女、白丝、黑丝、美腿等图片API，且还有文案API",
     "author": "落梦陳",
     "repo": "https://github.com/KeKe0904/astrbot_plugin_keke_api_collection",
     "tags": [
       "API",
-      "美女",
-      "图片",
+      "黑丝",
       "白丝",
-      "黑丝"
+      "菜单",
+      "设备信息"
     ],
     "social_link": "https://github.com/KeKe0904",
     "stars": 3,
-    "version": "v1.2.2",
-    "updated_at": "2026-04-03T08:46:13Z",
+    "version": "v1.3.1",
+    "updated_at": "2026-04-03T09:40:16Z",
     "logo": "https://raw.githubusercontent.com/KeKe0904/astrbot_plugin_keke_api_collection/master/logo.png"
+  },
+  "astrbot_plugin_markdown": {
+    "name": "astrbot_plugin_markdown",
+    "display_name": "未审核：markdown 自动转图片",
+    "desc": "vscode 同款 markdown 渲染器，在 llm 输出包含 markdown 时自动转为 github 风格的渲染图片",
+    "author": "zijinshanren",
+    "repo": "https://github.com/Li-Zheng-Rong/astrbot_plugin_markdown",
+    "tags": [
+      "markdown",
+      "image"
+    ],
+    "social_link": "https://github.com/Li-Zheng-Rong",
+    "stars": 0,
+    "version": "0.4.0",
+    "updated_at": "2026-04-03T09:09:22Z"
   },
   "astrbot_plugin_mihuasher_review": {
     "name": "astrbot_plugin_mihuasher_review",
@@ -34,21 +64,6 @@
     "version": "1.0.7",
     "updated_at": "2026-04-03T08:13:23Z",
     "logo": "https://raw.githubusercontent.com/ggxiaobailong-blip/astrbot_plugin_mihuasher_review/main/logo.png"
-  },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：修仙模拟器",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.9.0",
-    "updated_at": "2026-04-03T08:06:03Z"
   },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
@@ -138,21 +153,6 @@
     "stars": 1,
     "version": "v1.7.0",
     "updated_at": "2026-04-03T05:10:10Z"
-  },
-  "astrbot_plugin_markdown": {
-    "name": "astrbot_plugin_markdown",
-    "display_name": "未审核：markdown 自动转图片",
-    "desc": "vscode 同款 markdown 渲染器，在 llm 输出包含 markdown 时自动转为 github 风格的渲染图片",
-    "author": "zijinshanren",
-    "repo": "https://github.com/Li-Zheng-Rong/astrbot_plugin_markdown",
-    "tags": [
-      "markdown",
-      "image"
-    ],
-    "social_link": "https://github.com/Li-Zheng-Rong",
-    "stars": 0,
-    "version": "0.3.1",
-    "updated_at": "2026-04-03T04:33:55Z"
   },
   "astrbot_plugin_bilicookie_monitor": {
     "name": "astrbot_plugin_bilicookie_monitor",
