@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_sadstory": {
+    "name": "astrbot_plugin_sadstory",
+    "display_name": "未审核：伪装聊天",
+    "desc": "在群聊中以合并转发消息的形式展示伪装聊天，支持 LLM 生成、Prompt 风格管理、故事模板参考、自定义角色等",
+    "author": "Towqs",
+    "repo": "https://github.com/Towqs/astrbot_plugin_fakechat",
+    "tags": [
+      "聊天",
+      "QQ",
+      "伪装",
+      "娱乐"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "v0.9.6",
+    "updated_at": "2026-04-03T16:33:08Z",
+    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_fakechat/main/logo.png"
+  },
   "astrbot_plugin_localmemes": {
     "name": "astrbot_plugin_localmemes",
     "display_name": "未审核：本地表情包",
@@ -12,8 +30,8 @@
     ],
     "social_link": "https://github.com/WhiteCloudOL",
     "stars": 0,
-    "version": "v1.1.2",
-    "updated_at": "2026-04-03T15:17:22Z",
+    "version": "v1.1.4",
+    "updated_at": "2026-04-03T15:56:50Z",
     "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_localmemes/master/logo.png"
   },
   "astrbot_plugin_asoul": {
@@ -689,24 +707,6 @@
     "stars": 0,
     "version": "v1.1.0",
     "updated_at": "2026-03-30T12:11:39Z"
-  },
-  "astrbot_plugin_sadstory": {
-    "name": "astrbot_plugin_sadstory",
-    "display_name": "未审核：伪装聊天",
-    "desc": "在群聊中以合并转发消息的形式展示伪装聊天，支持 LLM 生成、Prompt 风格管理、故事模板参考、自定义角色等",
-    "author": "Towqs",
-    "repo": "https://github.com/Towqs/astrbot_plugin_fakechat",
-    "tags": [
-      "聊天",
-      "QQ",
-      "伪装",
-      "娱乐"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "v0.9.5",
-    "updated_at": "2026-03-30T08:24:43Z",
-    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_fakechat/main/logo.png"
   },
   "astrbot_plugin_xjj": {
     "name": "astrbot_plugin_xjj",
