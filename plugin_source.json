@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_asoul": {
+    "name": "astrbot_plugin_asoul",
+    "display_name": "未审核：枝江自动推送",
+    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
+    "author": "LEN5010",
+    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
+    "tags": [
+      "ASOUL",
+      "自动推送",
+      "信息推送"
+    ],
+    "social_link": "https://github.com/LEN5010/",
+    "stars": 0,
+    "version": "v3.0.1",
+    "updated_at": "2026-04-04T05:57:27Z"
+  },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
     "display_name": "未审核：伪装聊天",
@@ -13,9 +29,24 @@
     ],
     "social_link": "",
     "stars": 1,
-    "version": "v0.8.6",
-    "updated_at": "2026-04-04T04:37:30Z",
+    "version": "v0.9.0",
+    "updated_at": "2026-04-04T05:56:57Z",
     "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_fakechat/main/logo.png"
+  },
+  "astrbot_plugin_markdown": {
+    "name": "astrbot_plugin_markdown",
+    "display_name": "未审核：markdown 自动转图片",
+    "desc": "vscode 同款 markdown 渲染器，在 llm 输出包含 markdown 时自动转为 github 风格的渲染图片",
+    "author": "zijinshanren",
+    "repo": "https://github.com/Li-Zheng-Rong/astrbot_plugin_markdown",
+    "tags": [
+      "markdown",
+      "image"
+    ],
+    "social_link": "https://github.com/Li-Zheng-Rong",
+    "stars": 0,
+    "version": "0.5.0",
+    "updated_at": "2026-04-04T05:12:56Z"
   },
   "astrbot_plugin_steam_friend_monitor": {
     "name": "astrbot_plugin_steam_friend_monitor",
@@ -62,22 +93,6 @@
     "stars": 0,
     "version": "2.0.8",
     "updated_at": "2026-04-03T20:07:56Z"
-  },
-  "astrbot_plugin_asoul": {
-    "name": "astrbot_plugin_asoul",
-    "display_name": "未审核：枝江自动推送",
-    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
-    "author": "LEN5010",
-    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
-    "tags": [
-      "ASOUL",
-      "自动推送",
-      "信息推送"
-    ],
-    "social_link": "https://github.com/LEN5010/",
-    "stars": 0,
-    "version": "v3.0.1",
-    "updated_at": "2026-04-03T13:34:48Z"
   },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
@@ -126,21 +141,6 @@
     "version": "v1.6.1",
     "updated_at": "2026-04-03T11:13:05Z",
     "logo": "https://raw.githubusercontent.com/KeKe0904/astrbot_plugin_keke_api_collection/master/logo.png"
-  },
-  "astrbot_plugin_markdown": {
-    "name": "astrbot_plugin_markdown",
-    "display_name": "未审核：markdown 自动转图片",
-    "desc": "vscode 同款 markdown 渲染器，在 llm 输出包含 markdown 时自动转为 github 风格的渲染图片",
-    "author": "zijinshanren",
-    "repo": "https://github.com/Li-Zheng-Rong/astrbot_plugin_markdown",
-    "tags": [
-      "markdown",
-      "image"
-    ],
-    "social_link": "https://github.com/Li-Zheng-Rong",
-    "stars": 0,
-    "version": "0.4.0",
-    "updated_at": "2026-04-03T09:09:22Z"
   },
   "astrbot_plugin_mihuasher_review": {
     "name": "astrbot_plugin_mihuasher_review",
