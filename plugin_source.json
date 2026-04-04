@@ -2455,21 +2455,6 @@
     "version": "0.3.0",
     "updated_at": "2026-03-13T05:20:25Z"
   },
-  "astrbot_plugin_reme": {
-    "name": "astrbot_plugin_reme",
-    "display_name": "未审核：ReMe 长期记忆",
-    "desc": "ReMe 长期记忆中枢，这是一个基于 ReMe 和 CoPaw 架构思想，为 AstrBot 定制的长期记忆插件。它通过 “冷热分离存储” 和 “多维记忆精炼” 技术，让 AI 能够伴随用户成长，真正记住跨度长达数年的宝宝生活点滴、办公室工作方法以及复杂的专业工具逻辑。",
-    "author": "ysf7762",
-    "repo": "https://github.com/ysf7762-dev/astrbot_plugin_reme",
-    "tags": [
-      "记忆",
-      "ReMe"
-    ],
-    "social_link": "https://github.com/ysf7762-dev",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-13T01:01:44Z"
-  },
   "astrbot_plugin_keywords_pro": {
     "name": "astrbot_plugin_keywords_pro",
     "display_name": "未审核：关键词PRO",
