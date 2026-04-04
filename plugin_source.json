@@ -1,4 +1,37 @@
 {
+  "astrbot_plugin_sadstory": {
+    "name": "astrbot_plugin_sadstory",
+    "display_name": "未审核：伪装聊天",
+    "desc": "在群聊中以合并转发消息的形式展示伪装聊天，支持 LLM 生成、Prompt 风格管理、故事模板参考、自定义角色等",
+    "author": "Towqs",
+    "repo": "https://github.com/Towqs/astrbot_plugin_fakechat",
+    "tags": [
+      "聊天",
+      "QQ",
+      "伪装",
+      "娱乐"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "v0.8.6",
+    "updated_at": "2026-04-04T04:37:30Z",
+    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_fakechat/main/logo.png"
+  },
+  "astrbot_plugin_steam_friend_monitor": {
+    "name": "astrbot_plugin_steam_friend_monitor",
+    "display_name": "未审核：Steam 好友世间插件",
+    "desc": "看看谁在偷偷玩游戏！\n支持上线/下线/启动游戏/切换游戏 多选触发图片推送，支持成就播报。",
+    "author": "FlandreSatori",
+    "repo": "https://github.com/FlandreSatori/astrbot_plugin_steam_friend_monitor",
+    "tags": [
+      "steam"
+    ],
+    "social_link": "https://github.com/FlandreSatori",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-04-04T03:45:02Z",
+    "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
+  },
   "astrbot_plugin_localmemes": {
     "name": "astrbot_plugin_localmemes",
     "display_name": "未审核：本地表情包",
@@ -29,24 +62,6 @@
     "stars": 0,
     "version": "2.0.8",
     "updated_at": "2026-04-03T20:07:56Z"
-  },
-  "astrbot_plugin_sadstory": {
-    "name": "astrbot_plugin_sadstory",
-    "display_name": "未审核：伪装聊天",
-    "desc": "在群聊中以合并转发消息的形式展示伪装聊天，支持 LLM 生成、Prompt 风格管理、故事模板参考、自定义角色等",
-    "author": "Towqs",
-    "repo": "https://github.com/Towqs/astrbot_plugin_fakechat",
-    "tags": [
-      "聊天",
-      "QQ",
-      "伪装",
-      "娱乐"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "v0.8.4",
-    "updated_at": "2026-04-03T18:09:57Z",
-    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_fakechat/main/logo.png"
   },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
@@ -929,20 +944,17 @@
     "updated_at": "2026-03-28T13:45:13Z",
     "logo": "https://raw.githubusercontent.com/html5syt/astrbot_plugin_github_copilot/master/logo.png"
   },
-  "astrbot_plugin_steam_friend_monitor": {
-    "name": "astrbot_plugin_steam_friend_monitor",
-    "display_name": "未审核：Steam 好友世间插件",
-    "desc": "看看谁在偷偷玩游戏！\n支持上线/下线/启动游戏/切换游戏 多选触发图片推送，支持成就播报。",
-    "author": "FlandreSatori",
-    "repo": "https://github.com/FlandreSatori/astrbot_plugin_steam_friend_monitor",
-    "tags": [
-      "steam"
-    ],
-    "social_link": "https://github.com/FlandreSatori",
+  "astrbot_plugin_touch_head": {
+    "name": "astrbot_plugin_touch_head",
+    "display_name": "未审核：touch_head",
+    "desc": "摸头杀GIF插件",
+    "author": "mjy1113451",
+    "repo": "https://github.com/mjy1113451/touch_head",
+    "tags": [],
+    "social_link": "https://github.com/mjy1113451",
     "stars": 0,
-    "version": "v1.0.2",
-    "updated_at": "2026-03-28T13:05:04Z",
-    "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
+    "version": "v1.1.1",
+    "updated_at": "2026-03-28T11:20:13Z"
   },
   "astrbot_plugin_pjsk_guess_jacket": {
     "name": "astrbot_plugin_pjsk_guess_jacket",
