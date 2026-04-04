@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_github_copilot": {
+    "name": "astrbot_plugin_github_copilot",
+    "display_name": "未审核：GitHub Copilot",
+    "desc": "将 GitHub Copilot 作为大模型提供商接入 AstrBot，并提供订阅信息查询。",
+    "author": "Mr. Tim",
+    "repo": "https://github.com/html5syt/astrbot_plugin_github_copilot",
+    "tags": [
+      "Github",
+      "Github Copilot"
+    ],
+    "social_link": "https://github.com/html5syt",
+    "stars": 1,
+    "version": "v1.1.0",
+    "updated_at": "2026-04-04T12:50:22Z",
+    "logo": "https://raw.githubusercontent.com/html5syt/astrbot_plugin_github_copilot/master/logo.png"
+  },
   "astrbot_plugin_pic": {
     "name": "astrbot_plugin_pic",
     "display_name": "未审核：我要看图",
@@ -12,8 +28,8 @@
     ],
     "social_link": "https://github.com/ImNotBird",
     "stars": 0,
-    "version": "v1.6.1",
-    "updated_at": "2026-04-04T11:22:22Z"
+    "version": "v1.6.3",
+    "updated_at": "2026-04-04T12:25:01Z"
   },
   "astrbot_plugin_localmemes": {
     "name": "astrbot_plugin_localmemes",
@@ -943,22 +959,6 @@
     "stars": 0,
     "version": "2.1.1",
     "updated_at": "2026-03-28T15:36:36Z"
-  },
-  "astrbot_plugin_github_copilot": {
-    "name": "astrbot_plugin_github_copilot",
-    "display_name": "未审核：GitHub Copilot",
-    "desc": "将 GitHub Copilot 作为大模型提供商接入 AstrBot，并提供订阅信息查询。",
-    "author": "Mr. Tim",
-    "repo": "https://github.com/html5syt/astrbot_plugin_github_copilot",
-    "tags": [
-      "Github",
-      "Github Copilot"
-    ],
-    "social_link": "https://github.com/html5syt",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-28T13:45:13Z",
-    "logo": "https://raw.githubusercontent.com/html5syt/astrbot_plugin_github_copilot/master/logo.png"
   },
   "astrbot_plugin_touch_head": {
     "name": "astrbot_plugin_touch_head",
