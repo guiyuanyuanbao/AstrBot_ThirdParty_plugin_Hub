@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_cross_session_awareness": {
+    "name": "astrbot_plugin_cross_session_awareness",
+    "display_name": "未审核：群聊消息感知",
+    "desc": "让bot能感知群内/私聊消息，跨群/私聊时会发送你在群里/私聊说的话。",
+    "author": "TaiLaa",
+    "repo": "https://github.com/TaiLaaa/astrbot_plugin_cross_session_awareness",
+    "tags": [],
+    "social_link": "https://github.com/TaiLaaa",
+    "stars": 1,
+    "version": "v2.1.0",
+    "updated_at": "2026-04-04T13:43:59Z"
+  },
   "astrbot_plugin_github_copilot": {
     "name": "astrbot_plugin_github_copilot",
     "display_name": "未审核：GitHub Copilot",
@@ -1723,18 +1735,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-03-21T03:50:09Z"
-  },
-  "astrbot_plugin_cross_session_awareness": {
-    "name": "astrbot_plugin_cross_session_awareness",
-    "display_name": "未审核：群聊消息感知",
-    "desc": "让bot能感知群内/私聊消息，跨群/私聊时会发送你在群里/私聊说的话。",
-    "author": "TaiLaa",
-    "repo": "https://github.com/TaiLaaa/astrbot_plugin_cross_session_awareness",
-    "tags": [],
-    "social_link": "https://github.com/TaiLaaa",
-    "stars": 1,
-    "version": "v2.1.0",
-    "updated_at": "2026-03-20T23:39:52Z"
   },
   "astrbot_plugin_bilibili_push": {
     "name": "astrbot_plugin_bilibili_push",
