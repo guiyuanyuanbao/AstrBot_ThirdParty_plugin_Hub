@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_terraria_server_manager": {
+    "name": "astrbot_plugin_terraria_server_manager",
+    "display_name": "未审核：泰拉服务器管理",
+    "desc": "Terraria TShock 服务器监控，支持玩家上下线通知、在线查询与远程指令执行",
+    "author": "Reisenbug",
+    "repo": "https://github.com/Reisenbug/AstrBot_Plugin_Terraria_Server_Manager",
+    "tags": [
+      "服务器",
+      "terraria",
+      "泰拉瑞亚",
+      "tshock"
+    ],
+    "social_link": "https://github.com/Reisenbug",
+    "stars": 0,
+    "version": "0.1.0",
+    "updated_at": "2026-04-04T17:48:23Z"
+  },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
     "display_name": "未审核：修仙模拟器",
