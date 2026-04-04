@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_pic": {
+    "name": "astrbot_plugin_pic",
+    "display_name": "未审核：我要看图",
+    "desc": "一款基于栗次元等 API的随机看图插件。 改自https://github.com/ttq7/astrbot_plugin_Lolicon",
+    "author": "ImNotBird",
+    "repo": "https://github.com/ImNotBird/astrbot_plugin_Pic",
+    "tags": [
+      "二次元",
+      "看图",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/ImNotBird",
+    "stars": 0,
+    "version": "v1.6.1",
+    "updated_at": "2026-04-04T11:22:22Z"
+  },
   "astrbot_plugin_localmemes": {
     "name": "astrbot_plugin_localmemes",
     "display_name": "未审核：本地表情包",
