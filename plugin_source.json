@@ -818,6 +818,18 @@
     "updated_at": "2026-03-30T08:10:11Z",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_xjj/main/logo.png"
   },
+  "astrbot_plugin_maibot_hijack": {
+    "name": "astrbot_plugin_maibot_hijack",
+    "display_name": "未审核：MaiBot Adapter",
+    "desc": "将 AstrBot 作为消息聚合平台接入 MaiBot",
+    "author": "EterUltimate",
+    "repo": "https://github.com/EterUltimate/astrbot_plugin_maibot_hijack",
+    "tags": [],
+    "social_link": "https://github.com/EterUltimate",
+    "stars": 1,
+    "version": "2.0.0",
+    "updated_at": "2026-03-30T06:20:08Z"
+  },
   "astrbot_plugin_qq_interactive_tools": {
     "name": "astrbot_plugin_qq_interactive_tools",
     "display_name": "未审核：QQ拟人化互动函数工具（llm_tools）",
