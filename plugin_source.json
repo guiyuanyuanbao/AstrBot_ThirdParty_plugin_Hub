@@ -1,4 +1,35 @@
 {
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：修仙模拟器",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.11.1",
+    "updated_at": "2026-04-05T12:42:54Z"
+  },
+  "astrbot_plugin_uapipro_toolbox": {
+    "name": "astrbot_plugin_uapipro_toolbox",
+    "display_name": "未审核：UApiPro 工具箱",
+    "desc": "调用 UApiPro 提供的免费 API，支持一言、天气、IP 查询，卡片图片返回。",
+    "author": "lingyun",
+    "repo": "https://github.com/lingyun14beta/astrbot_plugin_uapipro_toolbox",
+    "tags": [
+      "api",
+      "uapi"
+    ],
+    "social_link": "https://github.com/lingyun14beta",
+    "stars": 0,
+    "version": "1.6.5",
+    "updated_at": "2026-04-05T12:39:00Z",
+    "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
+  },
   "astrbot_plugin_hardworking": {
     "name": "astrbot_plugin_hardworking",
     "display_name": "未审核：防摸鱼水群",
@@ -92,21 +123,6 @@
     "stars": 0,
     "version": "0.1.0",
     "updated_at": "2026-04-04T17:48:23Z"
-  },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：修仙模拟器",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.11.1",
-    "updated_at": "2026-04-04T14:03:14Z"
   },
   "astrbot_plugin_github_copilot": {
     "name": "astrbot_plugin_github_copilot",
@@ -2484,21 +2500,6 @@
     "stars": 3,
     "version": "v1.3.0",
     "updated_at": "2026-03-13T06:14:50Z"
-  },
-  "astrbot_plugin_kuro_sign": {
-    "name": "astrbot_plugin_kuro_sign",
-    "display_name": "未审核：鸣潮自动签到",
-    "desc": "AstrBot 插件：基于网页登录获取 Kuro token，支持鸣潮签到、社区签到、定时签到和管理员 WebUI。",
-    "author": "Huahuatgc",
-    "repo": "https://github.com/Huahuatgc/astrbot_plugin_kuro_sign",
-    "tags": [
-      "鸣潮",
-      "自动签到"
-    ],
-    "social_link": "https://github.com/Huahuatgc?tab=repositories",
-    "stars": 0,
-    "version": "0.3.0",
-    "updated_at": "2026-03-13T05:20:25Z"
   },
   "astrbot_plugin_keywords_pro": {
     "name": "astrbot_plugin_keywords_pro",
