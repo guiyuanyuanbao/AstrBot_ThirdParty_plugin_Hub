@@ -1,4 +1,49 @@
 {
+  "astrbot_plugin_weibo_push": {
+    "name": "astrbot_plugin_weibo_push",
+    "display_name": "未审核：微博推送助手",
+    "desc": "面向 AstrBot 的微博监控推送插件，支持多账号订阅、关注列表同步、被动微博链接解析、关键词过滤和图片/视频解析。",
+    "author": "ZASENJC",
+    "repo": "https://github.com/ZASENJC/astrbot_plugin_weibo_push",
+    "tags": [
+      "微博",
+      "推送",
+      "解析"
+    ],
+    "social_link": "https://github.com/ZASENJC",
+    "stars": 1,
+    "version": "2.1.7",
+    "updated_at": "2026-04-05T02:27:25Z",
+    "logo": "https://raw.githubusercontent.com/ZASENJC/astrbot_plugin_weibo_push/main/logo.png"
+  },
+  "astrbot_plugin_pic": {
+    "name": "astrbot_plugin_pic",
+    "display_name": "未审核：我要看图",
+    "desc": "一款基于栗次元等 API的随机看图插件。 改自https://github.com/ttq7/astrbot_plugin_Lolicon",
+    "author": "ImNotBird",
+    "repo": "https://github.com/ImNotBird/astrbot_plugin_Pic",
+    "tags": [
+      "二次元",
+      "看图",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/ImNotBird",
+    "stars": 0,
+    "version": "v1.6.3",
+    "updated_at": "2026-04-05T01:15:51Z"
+  },
+  "astrbot_plugin_cross_session_awareness": {
+    "name": "astrbot_plugin_cross_session_awareness",
+    "display_name": "未审核：群聊消息感知",
+    "desc": "让bot能感知群内/私聊消息，跨群/私聊时会发送你在群里/私聊说的话。",
+    "author": "TaiLaa",
+    "repo": "https://github.com/TaiLaaa/astrbot_plugin_cross_session_awareness",
+    "tags": [],
+    "social_link": "https://github.com/TaiLaaa",
+    "stars": 1,
+    "version": "v2.1.0",
+    "updated_at": "2026-04-05T00:41:43Z"
+  },
   "astrbot_plugin_terraria_server_manager": {
     "name": "astrbot_plugin_terraria_server_manager",
     "display_name": "未审核：泰拉服务器管理",
@@ -31,18 +76,6 @@
     "version": "v3.11.1",
     "updated_at": "2026-04-04T14:03:14Z"
   },
-  "astrbot_plugin_cross_session_awareness": {
-    "name": "astrbot_plugin_cross_session_awareness",
-    "display_name": "未审核：群聊消息感知",
-    "desc": "让bot能感知群内/私聊消息，跨群/私聊时会发送你在群里/私聊说的话。",
-    "author": "TaiLaa",
-    "repo": "https://github.com/TaiLaaa/astrbot_plugin_cross_session_awareness",
-    "tags": [],
-    "social_link": "https://github.com/TaiLaaa",
-    "stars": 1,
-    "version": "v2.1.0",
-    "updated_at": "2026-04-04T13:43:59Z"
-  },
   "astrbot_plugin_github_copilot": {
     "name": "astrbot_plugin_github_copilot",
     "display_name": "未审核：GitHub Copilot",
@@ -58,22 +91,6 @@
     "version": "v1.1.0",
     "updated_at": "2026-04-04T12:50:22Z",
     "logo": "https://raw.githubusercontent.com/html5syt/astrbot_plugin_github_copilot/master/logo.png"
-  },
-  "astrbot_plugin_pic": {
-    "name": "astrbot_plugin_pic",
-    "display_name": "未审核：我要看图",
-    "desc": "一款基于栗次元等 API的随机看图插件。 改自https://github.com/ttq7/astrbot_plugin_Lolicon",
-    "author": "ImNotBird",
-    "repo": "https://github.com/ImNotBird/astrbot_plugin_Pic",
-    "tags": [
-      "二次元",
-      "看图",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/ImNotBird",
-    "stars": 0,
-    "version": "v1.6.3",
-    "updated_at": "2026-04-04T12:25:01Z"
   },
   "astrbot_plugin_localmemes": {
     "name": "astrbot_plugin_localmemes",
@@ -1871,23 +1888,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-03-19T14:05:00Z"
-  },
-  "astrbot_plugin_weibo_push": {
-    "name": "astrbot_plugin_weibo_push",
-    "display_name": "未审核：微博推送助手",
-    "desc": "面向 AstrBot 的微博监控推送插件，支持多账号订阅、关注列表同步、被动微博链接解析、关键词过滤和图片/视频解析。",
-    "author": "ZASENJC",
-    "repo": "https://github.com/ZASENJC/astrbot_plugin_weibo_push",
-    "tags": [
-      "微博",
-      "推送",
-      "解析"
-    ],
-    "social_link": "https://github.com/ZASENJC",
-    "stars": 1,
-    "version": "2.1.7",
-    "updated_at": "2026-03-18T18:24:18Z",
-    "logo": "https://raw.githubusercontent.com/ZASENJC/astrbot_plugin_weibo_push/main/logo.png"
   },
   "astrbot_plugin_silicon_life": {
     "name": "astrbot_plugin_silicon_life",
