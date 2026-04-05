@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_asoul": {
+    "name": "astrbot_plugin_asoul",
+    "display_name": "未审核：枝江自动推送",
+    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
+    "author": "LEN5010",
+    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
+    "tags": [
+      "ASOUL",
+      "自动推送",
+      "信息推送"
+    ],
+    "social_link": "https://github.com/LEN5010/",
+    "stars": 0,
+    "version": "v3.0.1",
+    "updated_at": "2026-04-05T06:34:52Z"
+  },
   "astrbot_plugin_weibo_push": {
     "name": "astrbot_plugin_weibo_push",
     "display_name": "未审核：微博推送助手",
@@ -126,22 +142,6 @@
     "version": "v0.9.3",
     "updated_at": "2026-04-04T08:27:01Z",
     "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_fakechat/main/logo.png"
-  },
-  "astrbot_plugin_asoul": {
-    "name": "astrbot_plugin_asoul",
-    "display_name": "未审核：枝江自动推送",
-    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
-    "author": "LEN5010",
-    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
-    "tags": [
-      "ASOUL",
-      "自动推送",
-      "信息推送"
-    ],
-    "social_link": "https://github.com/LEN5010/",
-    "stars": 0,
-    "version": "v3.0.1",
-    "updated_at": "2026-04-04T05:57:27Z"
   },
   "astrbot_plugin_markdown": {
     "name": "astrbot_plugin_markdown",
