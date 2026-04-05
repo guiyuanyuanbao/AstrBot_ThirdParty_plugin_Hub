@@ -1,4 +1,37 @@
 {
+  "astrbot_plugin_asoul": {
+    "name": "astrbot_plugin_asoul",
+    "display_name": "未审核：枝江自动推送",
+    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
+    "author": "LEN5010",
+    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
+    "tags": [
+      "ASOUL",
+      "自动推送",
+      "信息推送"
+    ],
+    "social_link": "https://github.com/LEN5010/",
+    "stars": 0,
+    "version": "v3.0.1",
+    "updated_at": "2026-04-05T16:29:42Z"
+  },
+  "astrbot_plugin_localmemes": {
+    "name": "astrbot_plugin_localmemes",
+    "display_name": "未审核：本地表情包",
+    "desc": "AstrBot本地表情包插件，支持自定义分类表情发送与学习，可由LLM规划发送或替换人设关键词发送",
+    "author": "清蒸云鸭",
+    "repo": "https://github.com/WhiteCloudOL/astrbot_plugin_localmemes",
+    "tags": [
+      "表情",
+      "meme",
+      "功能"
+    ],
+    "social_link": "https://github.com/WhiteCloudOL",
+    "stars": 0,
+    "version": "v1.2.2",
+    "updated_at": "2026-04-05T16:11:12Z",
+    "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_localmemes/master/logo.png"
+  },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
     "display_name": "未审核：修仙模拟器",
@@ -12,7 +45,7 @@
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
     "version": "v3.11.1",
-    "updated_at": "2026-04-05T13:48:20Z"
+    "updated_at": "2026-04-05T15:37:23Z"
   },
   "astrbot_plugin_uapipro_toolbox": {
     "name": "astrbot_plugin_uapipro_toolbox",
@@ -45,22 +78,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-04-05T10:14:11Z",
     "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_hardworking/master/logo.png"
-  },
-  "astrbot_plugin_asoul": {
-    "name": "astrbot_plugin_asoul",
-    "display_name": "未审核：枝江自动推送",
-    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
-    "author": "LEN5010",
-    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
-    "tags": [
-      "ASOUL",
-      "自动推送",
-      "信息推送"
-    ],
-    "social_link": "https://github.com/LEN5010/",
-    "stars": 0,
-    "version": "v3.0.1",
-    "updated_at": "2026-04-05T06:34:52Z"
   },
   "astrbot_plugin_weibo_push": {
     "name": "astrbot_plugin_weibo_push",
@@ -139,23 +156,6 @@
     "version": "v1.1.0",
     "updated_at": "2026-04-04T12:50:22Z",
     "logo": "https://raw.githubusercontent.com/html5syt/astrbot_plugin_github_copilot/master/logo.png"
-  },
-  "astrbot_plugin_localmemes": {
-    "name": "astrbot_plugin_localmemes",
-    "display_name": "未审核：本地表情包",
-    "desc": "AstrBot本地表情包插件，支持自定义分类表情发送与学习，可由LLM规划发送或替换人设关键词发送",
-    "author": "清蒸云鸭",
-    "repo": "https://github.com/WhiteCloudOL/astrbot_plugin_localmemes",
-    "tags": [
-      "表情",
-      "meme",
-      "功能"
-    ],
-    "social_link": "https://github.com/WhiteCloudOL",
-    "stars": 0,
-    "version": "v1.1.7",
-    "updated_at": "2026-04-04T08:38:15Z",
-    "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_localmemes/master/logo.png"
   },
   "astrbot_plugin_sadstory": {
     "name": "astrbot_plugin_sadstory",
