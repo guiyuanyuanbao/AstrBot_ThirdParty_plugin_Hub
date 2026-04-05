@@ -3460,24 +3460,6 @@
     "version": "v0.1.0",
     "updated_at": "2026-02-19T18:35:51Z"
   },
-  "astrbot_plugin_image_collector": {
-    "name": "astrbot_plugin_image_collector",
-    "display_name": "未审核：图库 (图片收集插件)",
-    "desc": "自动收集群友发送的图片，支持去重和压缩，并在用户发送消息时随机回复其图库中的图片",
-    "author": "车厘子小樱",
-    "repo": "https://github.com/Sakura520222/astrbot_plugin_image_collector",
-    "tags": [
-      "斗图",
-      "娱乐",
-      "图片",
-      "图库"
-    ],
-    "social_link": "https://github.com/Sakura520222",
-    "stars": 3,
-    "version": "1.3.2",
-    "updated_at": "2026-02-19T13:40:55Z",
-    "logo": "https://raw.githubusercontent.com/Sakura520222/astrbot_plugin_image_collector/main/logo.png"
-  },
   "astrbot_plugin_fuduji": {
     "name": "astrbot_plugin_fuduji",
     "display_name": "未审核：复读机",
