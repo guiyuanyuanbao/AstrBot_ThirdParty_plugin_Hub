@@ -1,4 +1,39 @@
 {
+  "astrbot_plugin_mailer": {
+    "name": "astrbot_plugin_mailer",
+    "display_name": "未审核：学会发邮件",
+    "desc": "为Agent提供一个受控的 SMTP 电子邮件发送工具，支持 HTML 格式、内嵌图片以及附件功能。",
+    "author": "Fold",
+    "repo": "https://github.com/FFFold/astrbot_plugin_mailer",
+    "tags": [
+      "email",
+      "电子邮件",
+      "smtp"
+    ],
+    "social_link": "https://github.com/FFFold",
+    "stars": 1,
+    "version": "0.1.1",
+    "updated_at": "2026-04-06T10:14:16Z",
+    "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_mailer/main/logo.png"
+  },
+  "astrbot_plugin_cninfocrawler": {
+    "name": "astrbot_plugin_cninfocrawler",
+    "display_name": "未审核：巨潮资讯上市公司公告自动爬取工具",
+    "desc": "CNInfoHedgeCrawler 是基于巨潮资讯的 A 股上市公司公告爬取工具，支持任意关键词搜索、日期范围过滤、PDF 批量下载和企业微信推送。",
+    "author": "Interstellar1217",
+    "repo": "https://github.com/Interstellar1217/CNInfoHedgeCrawler",
+    "tags": [
+      "套期保值",
+      "公告查询",
+      "巨潮资讯",
+      "业绩预告",
+      "金融"
+    ],
+    "social_link": "https://github.com/Interstellar1217",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-04-06T10:05:05Z"
+  },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
     "display_name": "未审核：枝江自动推送",
