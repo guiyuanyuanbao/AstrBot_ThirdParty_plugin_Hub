@@ -180,23 +180,6 @@
     "version": "v2.1.0",
     "updated_at": "2026-04-05T00:41:43Z"
   },
-  "astrbot_plugin_terraria_server_manager": {
-    "name": "astrbot_plugin_terraria_server_manager",
-    "display_name": "未审核：泰拉服务器管理",
-    "desc": "Terraria TShock 服务器监控，支持玩家上下线通知、在线查询与远程指令执行",
-    "author": "Reisenbug",
-    "repo": "https://github.com/Reisenbug/AstrBot_Plugin_Terraria_Server_Manager",
-    "tags": [
-      "服务器",
-      "terraria",
-      "泰拉瑞亚",
-      "tshock"
-    ],
-    "social_link": "https://github.com/Reisenbug",
-    "stars": 0,
-    "version": "0.1.0",
-    "updated_at": "2026-04-04T17:48:23Z"
-  },
   "astrbot_plugin_github_copilot": {
     "name": "astrbot_plugin_github_copilot",
     "display_name": "未审核：GitHub Copilot",
@@ -261,20 +244,6 @@
     "updated_at": "2026-04-04T03:45:02Z",
     "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
   },
-  "astrbot_plugin_bilicookie_monitor": {
-    "name": "astrbot_plugin_bilicookie_monitor",
-    "display_name": "未审核：B站Cookie状态监控插件",
-    "desc": "B站Cookie状态监控插件 - 定时检测Cookie有效性，失效时主动通知用户",
-    "author": "fimore",
-    "repo": "https://github.com/fimore/astrbot_plugin_bili_cookie_monitor",
-    "tags": [
-      "bilibili"
-    ],
-    "social_link": "https://github.com/fimore",
-    "stars": 0,
-    "version": "2.0.8",
-    "updated_at": "2026-04-03T20:07:56Z"
-  },
   "astrbot_plugin_token_tracker": {
     "name": "astrbot_plugin_token_tracker",
     "display_name": "未审核：Token Tracker",
@@ -325,18 +294,6 @@
     "updated_at": "2026-04-03T08:13:23Z",
     "logo": "https://raw.githubusercontent.com/ggxiaobailong-blip/astrbot_plugin_mihuasher_review/main/logo.png"
   },
-  "astrbot_plugin_morning_news": {
-    "name": "astrbot_plugin_morning_news",
-    "display_name": "未审核：每日早报",
-    "desc": "每日定时推送早报，让你快速了解全球大事！",
-    "author": "芝麻酱",
-    "repo": "https://github.com/a552422934/astrbot_plugin_morning_news",
-    "tags": [],
-    "social_link": "https://github.com/a552422934",
-    "stars": 0,
-    "version": "v1.2.0",
-    "updated_at": "2026-03-23T11:23:35Z"
-  },
   "astrbot_plugin_bilisu": {
     "name": "astrbot_plugin_bilisu",
     "display_name": "未审核：Bilibili 视频总结插件",
@@ -366,40 +323,6 @@
     "stars": 0,
     "version": "v1.2.0",
     "updated_at": "2026-04-03T06:23:39Z"
-  },
-  "astrbot_plugin_universe": {
-    "name": "astrbot_plugin_universe",
-    "display_name": "未审核：gal圣地巡礼以及老婆",
-    "desc": "如果在梦里能相遇的话，那大概就是现实",
-    "author": "Care",
-    "repo": "https://github.com/Care0721/astrbot_plugin_galuniverse",
-    "tags": [
-      "galgame",
-      "今日老婆",
-      "圣地巡礼",
-      "小游戏"
-    ],
-    "social_link": "https://github.com/Care0721",
-    "stars": 1,
-    "version": "v1.7.0",
-    "updated_at": "2026-04-03T05:10:10Z"
-  },
-  "astrbot_plugin_dingtalk_feishu_forwarder": {
-    "name": "astrbot_plugin_dingtalk_feishu_forwarder",
-    "display_name": "未审核：astrbot_plugin_dingtalk_feishu_forwarder",
-    "desc": "钉钉与飞书之间的双向消息转发插件，支持文本、图片等消息格式自动转换。",
-    "author": "zwwangoo",
-    "repo": "https://github.com/zwwangoo/astrbot_plugin_dingtalk_feishu_forwarder",
-    "tags": [
-      "dingtalk",
-      "lark",
-      "feishu",
-      "forwarder"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-03T02:11:11Z"
   },
   "astrbot_plugin_deerpipe": {
     "name": "astrbot_plugin_deerpipe",
@@ -479,20 +402,6 @@
     "stars": 0,
     "version": "1.2.2",
     "updated_at": "2026-04-02T16:40:28Z"
-  },
-  "astrbot_plugin_lark_access_control": {
-    "name": "astrbot_plugin_lark_access_control",
-    "display_name": "未审核：飞书权限控制",
-    "desc": "AstrBot 插件，用于在飞书平台做访问权限控制，例如限制哪些用户可以与机器人对话，在哪些群聊中允许与机器人对话。",
-    "author": "Aolinlu",
-    "repo": "https://github.com/Aolinlu/astrbot_plugin_lark_access_control",
-    "tags": [
-      "飞书"
-    ],
-    "social_link": "https://github.com/Aolinlu",
-    "stars": 0,
-    "version": "v0.1.0",
-    "updated_at": "2026-04-02T13:07:56Z"
   },
   "astrbot_plugin_kfc_crazy_thursday": {
     "name": "astrbot_plugin_kfc_crazy_thursday",
@@ -955,21 +864,6 @@
     "updated_at": "2026-03-29T14:18:59Z",
     "logo": "https://raw.githubusercontent.com/WUHINS/astrbot_plugin_cosplay_image_saver/main/logo.png"
   },
-  "astrbot_plugin_jm_pdf": {
-    "name": "astrbot_plugin_jm_pdf",
-    "display_name": "未审核：JM PDF",
-    "desc": "用于JM漫画下载🧩，支持缓存，指定章节下载，文案匹配，定时撤回，关键词搜索✨",
-    "author": "Kylerupinski",
-    "repo": "https://github.com/Kylerupinski/astrbot_plugin_JM_PDF",
-    "tags": [
-      "功能"
-    ],
-    "social_link": "https://github.com/Kylerupinski",
-    "stars": 0,
-    "version": "v1.6.4",
-    "updated_at": "2026-03-29T14:13:37Z",
-    "logo": "https://raw.githubusercontent.com/Kylerupinski/astrbot_plugin_JM_PDF/master/logo.png"
-  },
   "astrbot_plugin_opensoftware": {
     "name": "astrbot_plugin_opensoftware",
     "display_name": "未审核：Windows打开软件插件",
@@ -995,21 +889,6 @@
     "stars": 0,
     "version": "v1.1.1",
     "updated_at": "2026-03-29T11:56:16Z"
-  },
-  "astrbot_plugin_qq_restapi": {
-    "name": "astrbot_plugin_qq_restapi",
-    "display_name": "未审核：QQ REST API 适配器",
-    "desc": "QQ 官方 REST API 平台适配器，不依赖 botpy，直接 HTTP 调用官方接口。支持 WebSocket/Webhook 双模式、35+ 事件类型、Markdown 模板、按钮面板、自动事件处理等",
-    "author": "Wanyi",
-    "repo": "https://github.com/Ryan7t/astrbot_plugin_qq_restapi",
-    "tags": [
-      "平台适配器",
-      "QQ"
-    ],
-    "social_link": "https://github.com/Ryan7t",
-    "stars": 1,
-    "version": "v0.1.0",
-    "updated_at": "2026-03-29T08:36:07Z"
   },
   "astrbot_plugin_presupposition_validation": {
     "name": "astrbot_plugin_presupposition_validation",
@@ -1052,18 +931,6 @@
     "version": "1.0.0",
     "updated_at": "2026-03-29T03:07:04Z",
     "logo": "https://raw.githubusercontent.com/MMaltSugar/astrbot_plugin_avatar_manager/main/logo.png"
-  },
-  "astrbot_plugin_context_undo": {
-    "name": "astrbot_plugin_context_undo",
-    "display_name": "未审核：上下文撤回",
-    "desc": "撤回最近一次或多次的ai回复上下文，避免ai被不良信息影响。",
-    "author": "lumingya",
-    "repo": "https://github.com/lumingya/astrbot_plugin_context_undo",
-    "tags": [],
-    "social_link": "https://github.com/lumingya",
-    "stars": 0,
-    "version": "2.1.1",
-    "updated_at": "2026-03-28T15:36:36Z"
   },
   "astrbot_plugin_touch_head": {
     "name": "astrbot_plugin_touch_head",
@@ -1613,6 +1480,18 @@
     "stars": 1,
     "version": "1.0.0",
     "updated_at": "2026-03-23T14:41:00Z"
+  },
+  "astrbot_plugin_morning_news": {
+    "name": "astrbot_plugin_morning_news",
+    "display_name": "未审核：每日早报",
+    "desc": "每日定时推送早报，让你快速了解全球大事！",
+    "author": "芝麻酱",
+    "repo": "https://github.com/a552422934/astrbot_plugin_morning_news",
+    "tags": [],
+    "social_link": "https://github.com/a552422934",
+    "stars": 0,
+    "version": "v1.2.0",
+    "updated_at": "2026-03-23T11:23:35Z"
   },
   "astrbot_plugin_token_stats": {
     "name": "astrbot_plugin_token_stats",
