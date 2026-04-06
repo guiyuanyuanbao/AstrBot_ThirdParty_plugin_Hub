@@ -1,4 +1,45 @@
 {
+  "astrbot_plugin_dg-lab": {
+    "name": "astrbot_plugin_dg-lab",
+    "display_name": "未审核：AstrBot郊狼控制器",
+    "desc": "让大模型控制你的郊狼吧 ,通过与 AstrBot 聊天控制 DG-LAB 郊狼脉冲主机。",
+    "author": "桂鸢",
+    "repo": "https://github.com/guiyuanyuanbao/astrbot_plugin_DG-LAB",
+    "tags": [
+      "玩具",
+      "郊狼",
+      "DG-LAB"
+    ],
+    "social_link": "https://github.com/guiyuanyuanbao",
+    "stars": 2,
+    "version": "v2.0.0",
+    "updated_at": "2026-04-06T05:23:50Z",
+    "logo": "https://raw.githubusercontent.com/guiyuanyuanbao/astrbot_plugin_DG-LAB/main/logo.png"
+  },
+  "astrbot_plugin_political_test": {
+    "name": "astrbot_plugin_political_test",
+    "display_name": "未审核：8values 测试",
+    "desc": "基于8values的意识形态测试",
+    "author": "MasaIodine",
+    "repo": "https://github.com/MasaIodine/astrbot_plugin_political_test",
+    "tags": [],
+    "social_link": "https://github.com/MasaIodine",
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-04-06T05:20:00Z"
+  },
+  "astrbot_plugin_maibot_hijack": {
+    "name": "astrbot_plugin_maibot_hijack",
+    "display_name": "未审核：MaiBot Adapter",
+    "desc": "将 AstrBot 作为消息聚合平台接入 MaiBot",
+    "author": "EterUltimate",
+    "repo": "https://github.com/EterUltimate/astrbot_plugin_maibot_hijack",
+    "tags": [],
+    "social_link": "https://github.com/EterUltimate",
+    "stars": 2,
+    "version": "2.0.0",
+    "updated_at": "2026-04-06T03:50:53Z"
+  },
   "astrbot_plugin_mama": {
     "name": "astrbot_plugin_mama",
     "display_name": "未审核：盯着你",
@@ -697,18 +738,6 @@
     "version": "0.4.2",
     "updated_at": "2026-03-31T09:52:15Z"
   },
-  "astrbot_plugin_political_test": {
-    "name": "astrbot_plugin_political_test",
-    "display_name": "未审核：8values 测试",
-    "desc": "基于8values的意识形态测试",
-    "author": "MasaIodine",
-    "repo": "https://github.com/MasaIodine/astrbot_plugin_political_test",
-    "tags": [],
-    "social_link": "https://github.com/MasaIodine",
-    "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2026-03-31T06:08:39Z"
-  },
   "astrbot_plugin_ctfpusher": {
     "name": "astrbot_plugin_ctfpusher",
     "display_name": "未审核：CTF 赛题及赛事推送助手",
@@ -865,18 +894,6 @@
     "updated_at": "2026-03-30T08:10:11Z",
     "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_xjj/main/logo.png"
   },
-  "astrbot_plugin_maibot_hijack": {
-    "name": "astrbot_plugin_maibot_hijack",
-    "display_name": "未审核：MaiBot Adapter",
-    "desc": "将 AstrBot 作为消息聚合平台接入 MaiBot",
-    "author": "EterUltimate",
-    "repo": "https://github.com/EterUltimate/astrbot_plugin_maibot_hijack",
-    "tags": [],
-    "social_link": "https://github.com/EterUltimate",
-    "stars": 2,
-    "version": "2.0.0",
-    "updated_at": "2026-03-30T06:20:08Z"
-  },
   "astrbot_plugin_qq_interactive_tools": {
     "name": "astrbot_plugin_qq_interactive_tools",
     "display_name": "未审核：QQ拟人化互动函数工具（llm_tools）",
@@ -993,23 +1010,6 @@
     "stars": 1,
     "version": "v0.1.0",
     "updated_at": "2026-03-29T08:36:07Z"
-  },
-  "astrbot_plugin_dg-lab": {
-    "name": "astrbot_plugin_dg-lab",
-    "display_name": "未审核：AstrBot郊狼控制器",
-    "desc": "让大模型控制你的郊狼吧 ,通过与 AstrBot 聊天控制 DG-LAB 郊狼脉冲主机。",
-    "author": "桂鸢",
-    "repo": "https://github.com/guiyuanyuanbao/astrbot_plugin_DG-LAB",
-    "tags": [
-      "玩具",
-      "郊狼",
-      "DG-LAB"
-    ],
-    "social_link": "https://github.com/guiyuanyuanbao",
-    "stars": 2,
-    "version": "v1.1.0",
-    "updated_at": "2026-03-29T07:11:17Z",
-    "logo": "https://raw.githubusercontent.com/guiyuanyuanbao/astrbot_plugin_DG-LAB/main/logo.png"
   },
   "astrbot_plugin_presupposition_validation": {
     "name": "astrbot_plugin_presupposition_validation",
