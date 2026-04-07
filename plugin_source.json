@@ -1,4 +1,35 @@
 {
+  "astrbot_plugin_vtuber": {
+    "name": "astrbot_plugin_vtuber",
+    "display_name": "未审核：astrbot皮套",
+    "desc": "VTuber Live2D 虚拟形象插件，支持 Live2D 模型显示、表情系统、TTS 语音合成、口型同步等功能",
+    "author": "soiwm",
+    "repo": "https://github.com/soiwm/astrbot_plugin_vtuber",
+    "tags": [
+      "live2d",
+      "皮套"
+    ],
+    "social_link": "https://github.com/soiwm",
+    "stars": 2,
+    "version": "1.0.0",
+    "updated_at": "2026-04-07T10:25:45Z",
+    "logo": "https://raw.githubusercontent.com/soiwm/astrbot_plugin_vtuber/main/logo.png"
+  },
+  "astrbot_plugin_anime1_list": {
+    "name": "astrbot_plugin_anime1_list",
+    "display_name": "未审核：anime1动画追番",
+    "desc": "基于anime1.me，获取每日动画更新、番剧列表和观看地址。",
+    "author": "zhist",
+    "repo": "https://github.com/zhist2028/astrbot_plugin_anime1_list",
+    "tags": [
+      "动画"
+    ],
+    "social_link": "https://github.com/zhist2028",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-07T10:21:54Z",
+    "logo": "https://raw.githubusercontent.com/zhist2028/astrbot_plugin_anime1_list/main/logo.png"
+  },
   "astrbot_plugin_deltaforce_loot_broadcast": {
     "name": "astrbot_plugin_deltaforce_loot_broadcast",
     "display_name": "未审核：三角洲物资播报",
@@ -11,8 +42,8 @@
     ],
     "social_link": "https://github.com/XiuYanX",
     "stars": 1,
-    "version": "1.0.12",
-    "updated_at": "2026-04-07T07:04:47Z"
+    "version": "1.0.13",
+    "updated_at": "2026-04-07T09:54:55Z"
   },
   "astrbot_plugin_setu": {
     "name": "astrbot_plugin_setu",
@@ -432,22 +463,6 @@
     "stars": 0,
     "version": "1.0.5",
     "updated_at": "2026-04-02T17:50:02Z"
-  },
-  "astrbot_plugin_vtuber": {
-    "name": "astrbot_plugin_vtuber",
-    "display_name": "未审核：astrbot皮套",
-    "desc": "VTuber Live2D 虚拟形象插件，支持 Live2D 模型显示、表情系统、TTS 语音合成、口型同步等功能",
-    "author": "soiwm",
-    "repo": "https://github.com/soiwm/astrbot_plugin_vtuber",
-    "tags": [
-      "live2d",
-      "皮套"
-    ],
-    "social_link": "https://github.com/soiwm",
-    "stars": 2,
-    "version": "1.0.0",
-    "updated_at": "2026-04-02T17:03:49Z",
-    "logo": "https://raw.githubusercontent.com/soiwm/astrbot_plugin_vtuber/main/logo.png"
   },
   "astrbot_plugin_mnemosynes": {
     "name": "astrbot_plugin_mnemosynes",
