@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_bilibili_push": {
+    "name": "astrbot_plugin_bilibili_push",
+    "display_name": "未审核：B站解析推送助手",
+    "desc": "一个简洁的 Bilibili 视频被动解析与订阅推送插件，支持扫码登录持久化 Cookie、视频/图文双发送策略。",
+    "author": "ZASENJC",
+    "repo": "https://github.com/ZASENJC/astrbot_plugin_bilibili_push",
+    "tags": [
+      "B站",
+      "推送",
+      "解析"
+    ],
+    "social_link": "https://github.com/ZASENJC",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-07T16:33:27Z"
+  },
   "astrbot_plugin_vtuber": {
     "name": "astrbot_plugin_vtuber",
     "display_name": "未审核：astrbot皮套",
@@ -14,21 +30,6 @@
     "version": "1.0.0",
     "updated_at": "2026-04-07T10:25:45Z",
     "logo": "https://raw.githubusercontent.com/soiwm/astrbot_plugin_vtuber/main/logo.png"
-  },
-  "astrbot_plugin_anime1_list": {
-    "name": "astrbot_plugin_anime1_list",
-    "display_name": "未审核：anime1动画追番",
-    "desc": "基于anime1.me，获取每日动画更新、番剧列表和观看地址。",
-    "author": "zhist",
-    "repo": "https://github.com/zhist2028/astrbot_plugin_anime1_list",
-    "tags": [
-      "动画"
-    ],
-    "social_link": "https://github.com/zhist2028",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-07T10:21:54Z",
-    "logo": "https://raw.githubusercontent.com/zhist2028/astrbot_plugin_anime1_list/main/logo.png"
   },
   "astrbot_plugin_deltaforce_loot_broadcast": {
     "name": "astrbot_plugin_deltaforce_loot_broadcast",
@@ -102,41 +103,6 @@
     "version": "v0.1.3",
     "updated_at": "2026-04-06T14:19:06Z",
     "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
-  },
-  "astrbot_plugin_mailer": {
-    "name": "astrbot_plugin_mailer",
-    "display_name": "未审核：学会发邮件",
-    "desc": "为Agent提供一个受控的 SMTP 电子邮件发送工具，支持 HTML 格式、内嵌图片以及附件功能。",
-    "author": "Fold",
-    "repo": "https://github.com/FFFold/astrbot_plugin_mailer",
-    "tags": [
-      "email",
-      "电子邮件",
-      "smtp"
-    ],
-    "social_link": "https://github.com/FFFold",
-    "stars": 1,
-    "version": "0.1.1",
-    "updated_at": "2026-04-06T12:22:15Z",
-    "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_mailer/main/logo.png"
-  },
-  "astrbot_plugin_cninfocrawler": {
-    "name": "astrbot_plugin_cninfocrawler",
-    "display_name": "未审核：巨潮资讯上市公司公告自动爬取工具",
-    "desc": "CNInfoHedgeCrawler 是基于巨潮资讯的 A 股上市公司公告爬取工具，支持任意关键词搜索、日期范围过滤、PDF 批量下载和企业微信推送。",
-    "author": "Interstellar1217",
-    "repo": "https://github.com/Interstellar1217/CNInfoHedgeCrawler",
-    "tags": [
-      "套期保值",
-      "公告查询",
-      "巨潮资讯",
-      "业绩预告",
-      "金融"
-    ],
-    "social_link": "https://github.com/Interstellar1217",
-    "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2026-04-06T10:05:05Z"
   },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
@@ -1742,22 +1708,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-03-21T03:50:09Z"
-  },
-  "astrbot_plugin_bilibili_push": {
-    "name": "astrbot_plugin_bilibili_push",
-    "display_name": "未审核：B站解析推送助手",
-    "desc": "一个简洁的 Bilibili 视频被动解析与订阅推送插件，支持扫码登录持久化 Cookie、视频/图文双发送策略。",
-    "author": "ZASENJC",
-    "repo": "https://github.com/ZASENJC/astrbot_plugin_bilibili_push",
-    "tags": [
-      "B站",
-      "推送",
-      "解析"
-    ],
-    "social_link": "https://github.com/ZASENJC",
-    "stars": 0,
-    "version": "v0.4.2",
-    "updated_at": "2026-03-20T16:59:55Z"
   },
   "astro_weather": {
     "name": "astro_weather",
