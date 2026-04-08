@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_dg-lab": {
+    "name": "astrbot_plugin_dg-lab",
+    "display_name": "未审核：AstrBot郊狼控制器",
+    "desc": "让大模型控制你的郊狼吧 ,通过与 AstrBot 聊天控制 DG-LAB 郊狼脉冲主机。",
+    "author": "桂鸢",
+    "repo": "https://github.com/guiyuanyuanbao/astrbot_plugin_DG-LAB",
+    "tags": [
+      "玩具",
+      "郊狼",
+      "DG-LAB"
+    ],
+    "social_link": "https://github.com/guiyuanyuanbao",
+    "stars": 3,
+    "version": "v2.0.0",
+    "updated_at": "2026-04-08T14:28:49Z",
+    "logo": "https://raw.githubusercontent.com/guiyuanyuanbao/astrbot_plugin_DG-LAB/main/logo.png"
+  },
   "astrbot_plugin_magnetic_link_analysis": {
     "name": "astrbot_plugin_magnetic_link_analysis",
     "display_name": "未审核：狐娘磁链解析",
@@ -243,23 +260,6 @@
     "stars": 0,
     "version": "v3.0.2",
     "updated_at": "2026-04-06T06:27:20Z"
-  },
-  "astrbot_plugin_dg-lab": {
-    "name": "astrbot_plugin_dg-lab",
-    "display_name": "未审核：AstrBot郊狼控制器",
-    "desc": "让大模型控制你的郊狼吧 ,通过与 AstrBot 聊天控制 DG-LAB 郊狼脉冲主机。",
-    "author": "桂鸢",
-    "repo": "https://github.com/guiyuanyuanbao/astrbot_plugin_DG-LAB",
-    "tags": [
-      "玩具",
-      "郊狼",
-      "DG-LAB"
-    ],
-    "social_link": "https://github.com/guiyuanyuanbao",
-    "stars": 3,
-    "version": "v2.0.0",
-    "updated_at": "2026-04-06T05:23:50Z",
-    "logo": "https://raw.githubusercontent.com/guiyuanyuanbao/astrbot_plugin_DG-LAB/main/logo.png"
   },
   "astrbot_plugin_political_test": {
     "name": "astrbot_plugin_political_test",
