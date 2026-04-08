@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_magnetic_link_analysis": {
+    "name": "astrbot_plugin_magnetic_link_analysis",
+    "display_name": "未审核：狐娘磁链解析",
+    "desc": "这是一个 AstrBot 磁力链接解析插件：无需指令即可自动识别聊天中的 magnet 链接，调用 whatslink.info 获取资源详情并生成预览消息（名称、文件数、大小，可选截图）。支持 QQ/OneBot 合并转发以减少刷屏，并提供截图加噪与自动回退机制以提高图片发送的稳定性。",
+    "author": "Lin100101",
+    "repo": "https://github.com/Lin100101/astrbot_plugin_magnetic_link_analysis",
+    "tags": [
+      "磁力链接",
+      "工具"
+    ],
+    "social_link": "https://github.com/Lin100101",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-08T11:32:24Z",
+    "logo": "https://raw.githubusercontent.com/Lin100101/astrbot_plugin_magnetic_link_analysis/main/logo.png"
+  },
   "astrbot_plugin_steam_friend_monitor": {
     "name": "astrbot_plugin_steam_friend_monitor",
     "display_name": "未审核：Steam 好友世间插件",
