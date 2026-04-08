@@ -10,9 +10,21 @@
     ],
     "social_link": "https://github.com/FlandreSatori",
     "stars": 0,
-    "version": "v1.1.1",
-    "updated_at": "2026-04-08T04:58:01Z",
+    "version": "v1.1.5",
+    "updated_at": "2026-04-08T06:55:31Z",
     "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
+  },
+  "astrbot_plugin_cross_session_awareness": {
+    "name": "astrbot_plugin_cross_session_awareness",
+    "display_name": "未审核：群聊消息感知",
+    "desc": "让bot能感知群内/私聊消息，跨群/私聊时会发送你在群里/私聊说的话。",
+    "author": "TaiLaa",
+    "repo": "https://github.com/TaiLaaa/astrbot_plugin_cross_session_awareness",
+    "tags": [],
+    "social_link": "https://github.com/TaiLaaa",
+    "stars": 1,
+    "version": "v2.1.0",
+    "updated_at": "2026-04-08T06:44:20Z"
   },
   "astrbot_plugin_deltaforce_loot_broadcast": {
     "name": "astrbot_plugin_deltaforce_loot_broadcast",
@@ -26,8 +38,23 @@
     ],
     "social_link": "https://github.com/XiuYanX",
     "stars": 1,
-    "version": "1.0.14",
-    "updated_at": "2026-04-08T04:11:33Z"
+    "version": "1.0.16",
+    "updated_at": "2026-04-08T06:40:39Z"
+  },
+  "astrbot_plugin_markdown": {
+    "name": "astrbot_plugin_markdown",
+    "display_name": "未审核：markdown 自动转图片",
+    "desc": "vscode 同款 markdown 渲染器，在 llm 输出包含 markdown 时自动转为 github 风格的渲染图片",
+    "author": "zijinshanren",
+    "repo": "https://github.com/Li-Zheng-Rong/astrbot_plugin_markdown",
+    "tags": [
+      "markdown",
+      "image"
+    ],
+    "social_link": "https://github.com/Li-Zheng-Rong",
+    "stars": 0,
+    "version": "0.5.0",
+    "updated_at": "2026-04-08T06:12:50Z"
   },
   "astrbot_plugin_helpmenu": {
     "name": "astrbot_plugin_helpmenu",
@@ -323,18 +350,6 @@
     "version": "v1.6.3",
     "updated_at": "2026-04-05T01:15:51Z"
   },
-  "astrbot_plugin_cross_session_awareness": {
-    "name": "astrbot_plugin_cross_session_awareness",
-    "display_name": "未审核：群聊消息感知",
-    "desc": "让bot能感知群内/私聊消息，跨群/私聊时会发送你在群里/私聊说的话。",
-    "author": "TaiLaa",
-    "repo": "https://github.com/TaiLaaa/astrbot_plugin_cross_session_awareness",
-    "tags": [],
-    "social_link": "https://github.com/TaiLaaa",
-    "stars": 1,
-    "version": "v2.1.0",
-    "updated_at": "2026-04-05T00:41:43Z"
-  },
   "astrbot_plugin_github_copilot": {
     "name": "astrbot_plugin_github_copilot",
     "display_name": "未审核：GitHub Copilot",
@@ -368,21 +383,6 @@
     "version": "v0.9.3",
     "updated_at": "2026-04-04T08:27:01Z",
     "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_fakechat/main/logo.png"
-  },
-  "astrbot_plugin_markdown": {
-    "name": "astrbot_plugin_markdown",
-    "display_name": "未审核：markdown 自动转图片",
-    "desc": "vscode 同款 markdown 渲染器，在 llm 输出包含 markdown 时自动转为 github 风格的渲染图片",
-    "author": "zijinshanren",
-    "repo": "https://github.com/Li-Zheng-Rong/astrbot_plugin_markdown",
-    "tags": [
-      "markdown",
-      "image"
-    ],
-    "social_link": "https://github.com/Li-Zheng-Rong",
-    "stars": 0,
-    "version": "0.5.0",
-    "updated_at": "2026-04-04T05:12:56Z"
   },
   "astrbot_plugin_token_tracker": {
     "name": "astrbot_plugin_token_tracker",
