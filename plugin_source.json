@@ -1,4 +1,34 @@
 {
+  "astrbot_plugin_steam_friend_monitor": {
+    "name": "astrbot_plugin_steam_friend_monitor",
+    "display_name": "未审核：Steam 好友世间插件",
+    "desc": "看看谁在偷偷玩游戏！\n支持上线/下线/启动游戏/切换游戏 多选触发图片推送，支持成就播报。",
+    "author": "FlandreSatori",
+    "repo": "https://github.com/FlandreSatori/astrbot_plugin_steam_friend_monitor",
+    "tags": [
+      "steam"
+    ],
+    "social_link": "https://github.com/FlandreSatori",
+    "stars": 0,
+    "version": "v1.1.1",
+    "updated_at": "2026-04-08T04:58:01Z",
+    "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
+  },
+  "astrbot_plugin_deltaforce_loot_broadcast": {
+    "name": "astrbot_plugin_deltaforce_loot_broadcast",
+    "display_name": "未审核：三角洲物资播报",
+    "desc": "监测玩家最近对局的撤离带出物品，并在命中高价值收集品时进行主动播报。",
+    "author": "XiuYan",
+    "repo": "https://github.com/XiuYanX/astrbot_plugin_deltaforce_loot_broadcast",
+    "tags": [
+      "三角洲",
+      "deltaforce"
+    ],
+    "social_link": "https://github.com/XiuYanX",
+    "stars": 1,
+    "version": "1.0.14",
+    "updated_at": "2026-04-08T04:11:33Z"
+  },
   "astrbot_plugin_helpmenu": {
     "name": "astrbot_plugin_helpmenu",
     "display_name": "未审核：HelpMenu",
@@ -80,21 +110,6 @@
     "version": "1.0.0",
     "updated_at": "2026-04-07T10:25:45Z",
     "logo": "https://raw.githubusercontent.com/soiwm/astrbot_plugin_vtuber/main/logo.png"
-  },
-  "astrbot_plugin_deltaforce_loot_broadcast": {
-    "name": "astrbot_plugin_deltaforce_loot_broadcast",
-    "display_name": "未审核：三角洲物资播报",
-    "desc": "监测玩家最近对局的撤离带出物品，并在命中高价值收集品时进行主动播报。",
-    "author": "XiuYan",
-    "repo": "https://github.com/XiuYanX/astrbot_plugin_deltaforce_loot_broadcast",
-    "tags": [
-      "三角洲",
-      "deltaforce"
-    ],
-    "social_link": "https://github.com/XiuYanX",
-    "stars": 1,
-    "version": "1.0.13",
-    "updated_at": "2026-04-07T09:54:55Z"
   },
   "astrbot_plugin_setu": {
     "name": "astrbot_plugin_setu",
@@ -368,21 +383,6 @@
     "stars": 0,
     "version": "0.5.0",
     "updated_at": "2026-04-04T05:12:56Z"
-  },
-  "astrbot_plugin_steam_friend_monitor": {
-    "name": "astrbot_plugin_steam_friend_monitor",
-    "display_name": "未审核：Steam 好友世间插件",
-    "desc": "看看谁在偷偷玩游戏！\n支持上线/下线/启动游戏/切换游戏 多选触发图片推送，支持成就播报。",
-    "author": "FlandreSatori",
-    "repo": "https://github.com/FlandreSatori/astrbot_plugin_steam_friend_monitor",
-    "tags": [
-      "steam"
-    ],
-    "social_link": "https://github.com/FlandreSatori",
-    "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-04-04T03:45:02Z",
-    "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
   },
   "astrbot_plugin_token_tracker": {
     "name": "astrbot_plugin_token_tracker",
