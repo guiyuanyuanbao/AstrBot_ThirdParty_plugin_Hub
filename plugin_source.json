@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_helpmenu": {
+    "name": "astrbot_plugin_helpmenu",
+    "display_name": "未审核：HelpMenu",
+    "desc": "为 AstrBot 提供更好的可翻页的帮助菜单，支持文本输出与图片输出，自动监测插件变化并更新。",
+    "author": "Sagiri777",
+    "repo": "https://github.com/Sagiri777/astrbot_plugin_helpmenu",
+    "tags": [
+      "help",
+      "menu"
+    ],
+    "social_link": "https://github.com/Sagiri777",
+    "stars": 0,
+    "version": "v1.0.16",
+    "updated_at": "2026-04-08T02:04:08Z"
+  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -1139,21 +1154,6 @@
     "stars": 0,
     "version": "1.0.0",
     "updated_at": "2026-03-26T15:24:10Z"
-  },
-  "astrbot_plugin_helpmenu": {
-    "name": "astrbot_plugin_helpmenu",
-    "display_name": "未审核：HelpMenu",
-    "desc": "为 AstrBot 提供更好的可翻页的帮助菜单，支持文本输出与图片输出，自动监测插件变化并更新。",
-    "author": "Sagiri777",
-    "repo": "https://github.com/Sagiri777/astrbot_plugin_helpmenu",
-    "tags": [
-      "help",
-      "menu"
-    ],
-    "social_link": "https://github.com/Sagiri777",
-    "stars": 0,
-    "version": "v1.0.16",
-    "updated_at": "2026-03-26T15:10:36Z"
   },
   "astrbot_plugin_vtube_studio": {
     "name": "astrbot_plugin_vtube_studio",
