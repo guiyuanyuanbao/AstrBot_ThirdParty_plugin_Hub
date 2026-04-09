@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_pimeng_blacklist": {
+    "name": "astrbot_plugin_pimeng_blacklist",
+    "display_name": "未审核：皮梦云黑库对接插件",
+    "desc": "基于皮梦云黑库接入插件，可查询用户是否在黑名单",
+    "author": "N(Ni-ShuWu),P(Pimeng's)",
+    "repo": "https://github.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist",
+    "tags": [
+      "云黑库"
+    ],
+    "social_link": "https://github.com/Ni-ShuWu",
+    "stars": 1,
+    "version": "2.8.0",
+    "updated_at": "2026-04-09T10:42:36Z",
+    "logo": "https://raw.githubusercontent.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist/main/logo.png"
+  },
   "astrbot_plugin_kfc_crazy_thursday": {
     "name": "astrbot_plugin_kfc_crazy_thursday",
     "display_name": "未审核：秦始皇疯狂星期四",
