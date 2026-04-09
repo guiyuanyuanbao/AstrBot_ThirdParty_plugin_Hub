@@ -1,4 +1,17 @@
 {
+  "astrbot_plugin_kfc_crazy_thursday": {
+    "name": "astrbot_plugin_kfc_crazy_thursday",
+    "display_name": "未审核：秦始皇疯狂星期四",
+    "desc": "疯狂星期四秦始皇马甲回复插件，检测UMO白名单会话中的疯狂星期四话术并自动以秦始皇口吻回复",
+    "author": "Compilerror",
+    "repo": "https://github.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday",
+    "tags": [],
+    "social_link": "https://github.com/CompilError-bts",
+    "stars": 0,
+    "version": "v1.4.0",
+    "updated_at": "2026-04-09T08:36:20Z",
+    "logo": "https://raw.githubusercontent.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday/master/logo.png"
+  },
   "astrbot_plugin_magnetic_link_analysis": {
     "name": "astrbot_plugin_magnetic_link_analysis",
     "display_name": "未审核：狐娘磁链解析",
@@ -552,19 +565,6 @@
     "stars": 0,
     "version": "1.2.2",
     "updated_at": "2026-04-02T16:40:28Z"
-  },
-  "astrbot_plugin_kfc_crazy_thursday": {
-    "name": "astrbot_plugin_kfc_crazy_thursday",
-    "display_name": "未审核：秦始皇疯狂星期四",
-    "desc": "疯狂星期四秦始皇马甲回复插件，检测UMO白名单会话中的疯狂星期四话术并自动以秦始皇口吻回复",
-    "author": "Compilerror",
-    "repo": "https://github.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday",
-    "tags": [],
-    "social_link": "https://github.com/CompilError-bts",
-    "stars": 0,
-    "version": "v1.3.0",
-    "updated_at": "2026-04-02T07:34:45Z",
-    "logo": "https://raw.githubusercontent.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday/master/logo.png"
   },
   "astrbot_plugin_plugin_finder": {
     "name": "astrbot_plugin_plugin_finder",
