@@ -1,4 +1,35 @@
 {
+  "astrbot_plugin_magnetic_link_analysis": {
+    "name": "astrbot_plugin_magnetic_link_analysis",
+    "display_name": "未审核：狐娘磁链解析",
+    "desc": "这是一个 AstrBot 磁力链接解析插件：无需指令即可自动识别聊天中的 magnet 链接，调用 whatslink.info 获取资源详情并生成预览消息（名称、文件数、大小，可选截图）。支持 QQ/OneBot 合并转发以减少刷屏，并提供截图加噪与自动回退机制以提高图片发送的稳定性。",
+    "author": "Lin100101",
+    "repo": "https://github.com/Lin100101/astrbot_plugin_magnetic_link_analysis",
+    "tags": [
+      "磁力链接",
+      "工具"
+    ],
+    "social_link": "https://github.com/Lin100101",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-09T02:03:25Z",
+    "logo": "https://raw.githubusercontent.com/Lin100101/astrbot_plugin_magnetic_link_analysis/main/logo.png"
+  },
+  "astrbot_plugin_chatimitate": {
+    "name": "astrbot_plugin_chatimitate",
+    "display_name": "未审核：ChatImitate",
+    "desc": "这是一个 Astrbot 插件，旨在让 bot 从群聊记录中学习和模仿人类聊天，而不是使用AI生成内容",
+    "author": "EightEggs",
+    "repo": "https://github.com/EightEggs/astrbot_plugin_chatimitate",
+    "tags": [
+      "群聊学习"
+    ],
+    "social_link": "https://github.com/EightEggs",
+    "stars": 1,
+    "version": "v3.1.4",
+    "updated_at": "2026-04-09T01:11:38Z",
+    "logo": "https://raw.githubusercontent.com/EightEggs/astrbot_plugin_chatimitate/master/logo.png"
+  },
   "astrbot_plugin_keywords_miko": {
     "name": "astrbot_plugin_keywords_miko",
     "display_name": "未审核：关键字回复系统",
@@ -29,22 +60,6 @@
     "version": "v2.0.0",
     "updated_at": "2026-04-08T14:28:49Z",
     "logo": "https://raw.githubusercontent.com/guiyuanyuanbao/astrbot_plugin_DG-LAB/main/logo.png"
-  },
-  "astrbot_plugin_magnetic_link_analysis": {
-    "name": "astrbot_plugin_magnetic_link_analysis",
-    "display_name": "未审核：狐娘磁链解析",
-    "desc": "这是一个 AstrBot 磁力链接解析插件：无需指令即可自动识别聊天中的 magnet 链接，调用 whatslink.info 获取资源详情并生成预览消息（名称、文件数、大小，可选截图）。支持 QQ/OneBot 合并转发以减少刷屏，并提供截图加噪与自动回退机制以提高图片发送的稳定性。",
-    "author": "Lin100101",
-    "repo": "https://github.com/Lin100101/astrbot_plugin_magnetic_link_analysis",
-    "tags": [
-      "磁力链接",
-      "工具"
-    ],
-    "social_link": "https://github.com/Lin100101",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-08T11:32:24Z",
-    "logo": "https://raw.githubusercontent.com/Lin100101/astrbot_plugin_magnetic_link_analysis/main/logo.png"
   },
   "astrbot_plugin_steam_friend_monitor": {
     "name": "astrbot_plugin_steam_friend_monitor",
@@ -1400,21 +1415,6 @@
     "stars": 0,
     "version": "v1.1.0",
     "updated_at": "2026-03-24T03:25:53Z"
-  },
-  "astrbot_plugin_chatimitate": {
-    "name": "astrbot_plugin_chatimitate",
-    "display_name": "未审核：ChatImitate",
-    "desc": "这是一个 Astrbot 插件，旨在让 bot 从群聊记录中学习和模仿人类聊天，而不是使用AI生成内容",
-    "author": "EightEggs",
-    "repo": "https://github.com/EightEggs/astrbot_plugin_chatimitate",
-    "tags": [
-      "群聊学习"
-    ],
-    "social_link": "https://github.com/EightEggs",
-    "stars": 1,
-    "version": "v3.1.3",
-    "updated_at": "2026-03-24T02:38:45Z",
-    "logo": "https://raw.githubusercontent.com/EightEggs/astrbot_plugin_chatimitate/master/logo.png"
   },
   "astrbot_plugin_bye": {
     "name": "astrbot_plugin_bye",
