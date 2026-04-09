@@ -2,7 +2,7 @@
   "astrbot_plugin_pimeng_blacklist": {
     "name": "astrbot_plugin_pimeng_blacklist",
     "display_name": "未审核：皮梦云黑库对接插件",
-    "desc": "基于皮梦云黑库接入插件，可查询用户是否在黑名单",
+    "desc": "基于皮梦云黑库接入插件 - 支持查询/添加/删除/同步/自动踢出黑名单成员",
     "author": "N(Ni-ShuWu),P(Pimeng's)",
     "repo": "https://github.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist",
     "tags": [
@@ -11,7 +11,7 @@
     "social_link": "https://github.com/Ni-ShuWu",
     "stars": 1,
     "version": "2.8.0",
-    "updated_at": "2026-04-09T10:42:36Z",
+    "updated_at": "2026-04-09T12:04:41Z",
     "logo": "https://raw.githubusercontent.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist/main/logo.png"
   },
   "astrbot_plugin_kfc_crazy_thursday": {
@@ -979,20 +979,6 @@
     "stars": 0,
     "version": "v1.0.9",
     "updated_at": "2026-03-29T06:49:49Z"
-  },
-  "astrbot_plugin_llm_output_audit": {
-    "name": "astrbot_plugin_llm_output_audit",
-    "display_name": "未审核：LLM内容合规审计",
-    "desc": "有效阻止用户输入/llm输出违规内容",
-    "author": "Wyccotccy",
-    "repo": "https://github.com/Wyccotccy/astrbot_plugin_llm_Output_audit",
-    "tags": [
-      "安全"
-    ],
-    "social_link": "www.wyccotccy.cn",
-    "stars": 0,
-    "version": "1.3.0",
-    "updated_at": "2026-03-29T06:31:54Z"
   },
   "astrbot_plugin_avatar_manager": {
     "name": "astrbot_plugin_avatar_manager",
