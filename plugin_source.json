@@ -1,4 +1,17 @@
 {
+  "astrbot_plugin_qiukan": {
+    "name": "astrbot_plugin_qiukan",
+    "display_name": "未审核：骑砍英雄传",
+    "desc": "AI改的文字RPG游戏",
+    "author": "阿氰叔叔",
+    "repo": "https://github.com/Uncle-Clyde/astrbot_plugin_qiukan",
+    "tags": [],
+    "social_link": "https://github.com/Uncle-Clyde",
+    "stars": 0,
+    "version": "v0.1.21",
+    "updated_at": "2026-04-10T20:18:40Z",
+    "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
+  },
   "astrbot_plugin_minecraft_multi_monitor": {
     "name": "astrbot_plugin_minecraft_multi_monitor",
     "display_name": "未审核：Minecraft 多服务器监控",
@@ -30,19 +43,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-04-10T12:42:23Z",
     "logo": "https://raw.githubusercontent.com/Lin100101/astrbot_plugin_magnetic_link_analysis/main/logo.png"
-  },
-  "astrbot_plugin_qiukan": {
-    "name": "astrbot_plugin_qiukan",
-    "display_name": "未审核：骑砍英雄传",
-    "desc": "AI改的文字RPG游戏",
-    "author": "阿氰叔叔",
-    "repo": "https://github.com/Uncle-Clyde/astrbot_plugin_qiukan",
-    "tags": [],
-    "social_link": "https://github.com/Uncle-Clyde",
-    "stars": 0,
-    "version": "v0.1.21",
-    "updated_at": "2026-04-10T12:13:14Z",
-    "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
   },
   "astrbot_plugin_setu": {
     "name": "astrbot_plugin_setu",
