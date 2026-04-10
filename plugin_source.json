@@ -1,19 +1,4 @@
 {
-  "astrbot_plugin_rocket_chat_adapter": {
-    "name": "astrbot_plugin_rocket_chat_adapter",
-    "display_name": "未审核：Rocket.Chat 适配器",
-    "desc": "AstrBot 的 Rocket.Chat 消息平台适配器，支持通过 WebSocket 实时接收消息，通过 REST API 发送消息",
-    "author": "星光の殲滅者",
-    "repo": "https://github.com/NET-Homeless/astrbot_plugin_rocket_chat_adapter",
-    "tags": [
-      "消息平台",
-      "适配器"
-    ],
-    "social_link": "https://github.com/starlight02",
-    "stars": 2,
-    "version": "v0.1.0",
-    "updated_at": "2026-04-10T08:58:37Z"
-  },
   "astrbot_plugin_setu": {
     "name": "astrbot_plugin_setu",
     "display_name": "未审核：瑟瑟！",
@@ -35,8 +20,29 @@
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 2,
     "version": "v1.2.1",
-    "updated_at": "2026-04-10T07:33:14Z",
+    "updated_at": "2026-04-10T09:46:55Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
+  },
+  "astrbot_plugin_local_reminiscence": {
+    "name": "astrbot_plugin_local_reminiscence",
+    "display_name": "未审核：本地回忆[APLR]",
+    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
+    "author": "olozhika",
+    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
+    "tags": [
+      "记忆",
+      "回忆",
+      "每日总结",
+      "语义识别",
+      "关键词",
+      "上下文注入",
+      "长期记忆"
+    ],
+    "social_link": "https://github.com/olozhika",
+    "stars": 22,
+    "version": "v1.2.3",
+    "updated_at": "2026-04-10T09:35:05Z",
+    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot_plugin_deerpipe": {
     "name": "astrbot_plugin_deerpipe",
@@ -248,27 +254,6 @@
     "stars": 0,
     "version": "v1.0.16",
     "updated_at": "2026-04-08T02:04:08Z"
-  },
-  "astrbot_plugin_local_reminiscence": {
-    "name": "astrbot_plugin_local_reminiscence",
-    "display_name": "未审核：本地回忆[APLR]",
-    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
-    "author": "olozhika",
-    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
-    "tags": [
-      "记忆",
-      "回忆",
-      "每日总结",
-      "语义识别",
-      "关键词",
-      "上下文注入",
-      "长期记忆"
-    ],
-    "social_link": "https://github.com/olozhika",
-    "stars": 22,
-    "version": "v1.2.3",
-    "updated_at": "2026-04-07T22:38:56Z",
-    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot_plugin_bilibili_push": {
     "name": "astrbot_plugin_bilibili_push",
