@@ -1,4 +1,61 @@
 {
+  "astrbot_plugin_setu": {
+    "name": "astrbot_plugin_setu",
+    "display_name": "未审核：瑟瑟！",
+    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
+    "tags": [
+      "瑟瑟",
+      "色图",
+      "setu",
+      "福利",
+      "色色",
+      "lolicon",
+      "sexyan",
+      "atri",
+      "图片",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 2,
+    "version": "v1.1.0",
+    "updated_at": "2026-04-10T02:10:52Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
+  },
+  "astrbot_plugin_deerpipe": {
+    "name": "astrbot_plugin_deerpipe",
+    "display_name": "未审核：鹿乃子月历",
+    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
+    "tags": [
+      "鹿乃子",
+      "鹿",
+      "🦌",
+      "🦌乃子",
+      "月历",
+      "打卡",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 2,
+    "version": "v1.0.7",
+    "updated_at": "2026-04-10T00:24:37Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
+  },
+  "astrbot_plugin_vtube_studio": {
+    "name": "astrbot_plugin_vtube_studio",
+    "display_name": "未审核：VTube Studio Live2D 控制",
+    "desc": "vtube_studio连接支持",
+    "author": "EterUltimate",
+    "repo": "https://github.com/EterUltimate/astrbot_plugin_vtube_studio",
+    "tags": [],
+    "social_link": "https://github.com/EterUltimate",
+    "stars": 0,
+    "version": "1.2.0",
+    "updated_at": "2026-04-09T23:47:40Z"
+  },
   "astrbot_plugin_pimeng_blacklist": {
     "name": "astrbot_plugin_pimeng_blacklist",
     "display_name": "未审核：皮梦云黑库对接插件",
@@ -230,51 +287,6 @@
     "updated_at": "2026-04-07T10:25:45Z",
     "logo": "https://raw.githubusercontent.com/soiwm/astrbot_plugin_vtuber/main/logo.png"
   },
-  "astrbot_plugin_setu": {
-    "name": "astrbot_plugin_setu",
-    "display_name": "未审核：瑟瑟！",
-    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
-    "tags": [
-      "瑟瑟",
-      "色图",
-      "setu",
-      "福利",
-      "色色",
-      "lolicon",
-      "sexyan",
-      "atri",
-      "图片",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 2,
-    "version": "v1.1.0",
-    "updated_at": "2026-04-06T20:41:36Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
-  },
-  "astrbot_plugin_deerpipe": {
-    "name": "astrbot_plugin_deerpipe",
-    "display_name": "未审核：鹿乃子月历",
-    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
-    "tags": [
-      "鹿乃子",
-      "鹿",
-      "🦌",
-      "🦌乃子",
-      "月历",
-      "打卡",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 2,
-    "version": "v1.0.7",
-    "updated_at": "2026-04-06T20:41:08Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
-  },
   "astrbot_plugin_qiukan": {
     "name": "astrbot_plugin_qiukan",
     "display_name": "未审核：骑砍英雄传",
@@ -359,22 +371,6 @@
     "stars": 0,
     "version": "v3.11.1",
     "updated_at": "2026-04-05T15:37:23Z"
-  },
-  "astrbot_plugin_uapipro_toolbox": {
-    "name": "astrbot_plugin_uapipro_toolbox",
-    "display_name": "未审核：UApiPro 工具箱",
-    "desc": "调用 UApiPro 提供的免费 API，支持一言、天气、IP 查询，卡片图片返回。",
-    "author": "lingyun",
-    "repo": "https://github.com/lingyun14beta/astrbot_plugin_uapipro_toolbox",
-    "tags": [
-      "api",
-      "uapi"
-    ],
-    "social_link": "https://github.com/lingyun14beta",
-    "stars": 0,
-    "version": "1.6.5",
-    "updated_at": "2026-04-05T13:16:37Z",
-    "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_uapipro_toolbox/main/logo.png"
   },
   "astrbot_plugin_hardworking": {
     "name": "astrbot_plugin_hardworking",
@@ -1186,18 +1182,6 @@
     "stars": 0,
     "version": "1.0.0",
     "updated_at": "2026-03-26T15:24:10Z"
-  },
-  "astrbot_plugin_vtube_studio": {
-    "name": "astrbot_plugin_vtube_studio",
-    "display_name": "未审核：VTube Studio Live2D 控制",
-    "desc": "vtube_studio连接支持",
-    "author": "EterUltimate",
-    "repo": "https://github.com/EterUltimate/astrbot_plugin_vtube_studio",
-    "tags": [],
-    "social_link": "https://github.com/EterUltimate",
-    "stars": 0,
-    "version": "1.2.0",
-    "updated_at": "2026-03-26T13:47:05Z"
   },
   "astrbot_plugin_wechat_auth": {
     "name": "astrbot_plugin_wechat_auth",
