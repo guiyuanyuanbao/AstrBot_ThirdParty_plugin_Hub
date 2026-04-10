@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_rocket_chat_adapter": {
+    "name": "astrbot_plugin_rocket_chat_adapter",
+    "display_name": "未审核：Rocket.Chat 适配器",
+    "desc": "AstrBot 的 Rocket.Chat 消息平台适配器，支持通过 WebSocket 实时接收消息，通过 REST API 发送消息",
+    "author": "星光の殲滅者",
+    "repo": "https://github.com/NET-Homeless/astrbot_plugin_rocket_chat_adapter",
+    "tags": [
+      "消息平台",
+      "适配器"
+    ],
+    "social_link": "https://github.com/starlight02",
+    "stars": 2,
+    "version": "v0.1.0",
+    "updated_at": "2026-04-10T08:58:37Z"
+  },
   "astrbot_plugin_setu": {
     "name": "astrbot_plugin_setu",
     "display_name": "未审核：瑟瑟！",
@@ -19,8 +34,8 @@
     ],
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 2,
-    "version": "v1.2.0",
-    "updated_at": "2026-04-10T07:16:52Z",
+    "version": "v1.2.1",
+    "updated_at": "2026-04-10T07:33:14Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
   },
   "astrbot_plugin_deerpipe": {
