@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_touch_head": {
+    "name": "astrbot_plugin_touch_head",
+    "display_name": "未审核：touch_head",
+    "desc": "摸头杀GIF插件",
+    "author": "mjy1113451",
+    "repo": "https://github.com/mjy1113451/touch_head",
+    "tags": [],
+    "social_link": "https://github.com/mjy1113451",
+    "stars": 0,
+    "version": "v1.1.1",
+    "updated_at": "2026-04-11T11:57:27Z"
+  },
   "astrbot_plugin_minecraft_multi_monitor": {
     "name": "astrbot_plugin_minecraft_multi_monitor",
     "display_name": "未审核：Minecraft 多服务器监控",
@@ -85,7 +97,7 @@
       "长期记忆"
     ],
     "social_link": "https://github.com/olozhika",
-    "stars": 22,
+    "stars": 23,
     "version": "v1.2.3",
     "updated_at": "2026-04-10T09:35:05Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
@@ -809,7 +821,7 @@
       "工具"
     ],
     "social_link": "https://github.com/rorangeeee",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.1.1",
     "updated_at": "2026-03-30T13:51:46Z"
   },
@@ -1005,18 +1017,6 @@
     "version": "1.0.0",
     "updated_at": "2026-03-29T03:07:04Z",
     "logo": "https://raw.githubusercontent.com/MMaltSugar/astrbot_plugin_avatar_manager/main/logo.png"
-  },
-  "astrbot_plugin_touch_head": {
-    "name": "astrbot_plugin_touch_head",
-    "display_name": "未审核：touch_head",
-    "desc": "摸头杀GIF插件",
-    "author": "mjy1113451",
-    "repo": "https://github.com/mjy1113451/touch_head",
-    "tags": [],
-    "social_link": "https://github.com/mjy1113451",
-    "stars": 0,
-    "version": "v1.1.1",
-    "updated_at": "2026-03-28T11:20:13Z"
   },
   "astrbot_plugin_pjsk_guess_jacket": {
     "name": "astrbot_plugin_pjsk_guess_jacket",
