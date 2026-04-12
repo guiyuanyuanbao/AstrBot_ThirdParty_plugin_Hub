@@ -1,4 +1,25 @@
 {
+  "astrbot_plugin_local_reminiscence": {
+    "name": "astrbot_plugin_local_reminiscence",
+    "display_name": "未审核：本地回忆[APLR]",
+    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
+    "author": "olozhika",
+    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
+    "tags": [
+      "记忆",
+      "回忆",
+      "每日总结",
+      "语义识别",
+      "关键词",
+      "上下文注入",
+      "长期记忆"
+    ],
+    "social_link": "https://github.com/olozhika",
+    "stars": 24,
+    "version": "v1.2.3",
+    "updated_at": "2026-04-12T17:12:43Z",
+    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
+  },
   "astrbot_plugin_meme_manufacturer": {
     "name": "astrbot_plugin_meme_manufacturer",
     "display_name": "未审核：表情包制造厂",
@@ -25,7 +46,7 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 4,
+    "stars": 5,
     "version": "1.1.0",
     "updated_at": "2026-04-12T15:47:25Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
@@ -189,27 +210,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-04-10T12:42:23Z",
     "logo": "https://raw.githubusercontent.com/Lin100101/astrbot_plugin_magnetic_link_analysis/main/logo.png"
-  },
-  "astrbot_plugin_local_reminiscence": {
-    "name": "astrbot_plugin_local_reminiscence",
-    "display_name": "未审核：本地回忆[APLR]",
-    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
-    "author": "olozhika",
-    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
-    "tags": [
-      "记忆",
-      "回忆",
-      "每日总结",
-      "语义识别",
-      "关键词",
-      "上下文注入",
-      "长期记忆"
-    ],
-    "social_link": "https://github.com/olozhika",
-    "stars": 24,
-    "version": "v1.2.3",
-    "updated_at": "2026-04-10T09:35:05Z",
-    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot_plugin_deerpipe": {
     "name": "astrbot_plugin_deerpipe",
