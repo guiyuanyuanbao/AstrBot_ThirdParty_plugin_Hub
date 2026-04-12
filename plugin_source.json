@@ -1,4 +1,32 @@
 {
+  "astrbot_plugin_group_wakepro": {
+    "name": "astrbot_plugin_group_wakepro",
+    "display_name": "未审核：群唤醒增强",
+    "desc": "为每个群聊配置独立的唤醒规则，支持指令拦截，持续活跃，无艾特的引用拦截等见文档",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/abpl_group_wakepro",
+    "tags": [],
+    "social_link": "https://github.com/landamao",
+    "stars": 2,
+    "version": "v8.8.1",
+    "updated_at": "2026-04-12T10:38:34Z",
+    "logo": "https://raw.githubusercontent.com/landamao/abpl_group_wakepro/main/logo.png"
+  },
+  "astrbot_plugin_steam_watch_status": {
+    "name": "astrbot_plugin_steam_watch_status",
+    "display_name": "未审核：Steam 状态监控插件",
+    "desc": "Steam 游戏更新推送，好友状态监控，历史价格查询",
+    "author": "moemoli",
+    "repo": "https://github.com/moemoli/astrbot_plugin_steam_watch_status",
+    "tags": [
+      "steam"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v0.1.0",
+    "updated_at": "2026-04-12T10:01:44Z",
+    "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_steam_watch_status/master/logo.png"
+  },
   "astrbot_plugin_kb_plus": {
     "name": "astrbot_plugin_kb_plus",
     "display_name": "未审核：知识库检索增强",
@@ -98,23 +126,10 @@
       "娱乐"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.3.0",
     "updated_at": "2026-04-11T22:10:40Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
-  },
-  "astrbot_plugin_group_wakepro": {
-    "name": "astrbot_plugin_group_wakepro",
-    "display_name": "未审核：群唤醒增强",
-    "desc": "为每个群聊配置独立的唤醒规则，支持指令拦截，持续活跃，无艾特的引用拦截等见文档",
-    "author": "懒大猫",
-    "repo": "https://github.com/landamao/abpl_group_wakepro",
-    "tags": [],
-    "social_link": "https://github.com/landamao",
-    "stars": 2,
-    "version": "v8.7.1",
-    "updated_at": "2026-04-11T20:47:44Z",
-    "logo": "https://raw.githubusercontent.com/landamao/abpl_group_wakepro/main/logo.png"
   },
   "astrbot_plugin_minecraft_multi_monitor": {
     "name": "astrbot_plugin_minecraft_multi_monitor",
@@ -2042,21 +2057,6 @@
     "stars": 0,
     "version": "1.0.0",
     "updated_at": "2026-03-17T12:22:53Z"
-  },
-  "astrbot_plugin_steam_watch_status": {
-    "name": "astrbot_plugin_steam_watch_status",
-    "display_name": "未审核：Steam 状态监控插件",
-    "desc": "Steam 游戏更新推送，好友状态监控，历史价格查询",
-    "author": "moemoli",
-    "repo": "https://github.com/moemoli/astrbot_plugin_steam_watch_status",
-    "tags": [
-      "steam"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v0.1.0",
-    "updated_at": "2026-03-17T09:32:05Z",
-    "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_steam_watch_status/master/logo.png"
   },
   "astrbot_plugin_hsx-helloworld": {
     "name": "astrbot_plugin_hsx-helloworld",
