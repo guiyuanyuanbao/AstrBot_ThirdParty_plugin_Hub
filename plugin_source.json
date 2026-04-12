@@ -1,4 +1,34 @@
 {
+  "astrbot_plugin_meme_manufacturer": {
+    "name": "astrbot_plugin_meme_manufacturer",
+    "display_name": "未审核：表情包制造厂",
+    "desc": "将QQ群友头像做成表情包的工具。可以做成gif，也可以做成静态表情，内置多种表情包，水群利器",
+    "author": "神秘嘉宾",
+    "repo": "https://github.com/zhajunyao/astrbot_plugin_meme_manufacturer",
+    "tags": [
+      "娱乐",
+      "表情包",
+      "互动",
+      "gif"
+    ],
+    "social_link": "https://github.com/zhajunyao",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-04-12T14:12:11Z",
+    "logo": "https://raw.githubusercontent.com/zhajunyao/astrbot_plugin_meme_manufacturer/main/logo.png"
+  },
+  "astrbot_plugin_rocom": {
+    "name": "astrbot_plugin_rocom",
+    "display_name": "未审核：洛克王国数据查询",
+    "desc": "基于 WeGame API 的洛克王国数据查询插件，支持扫码登录和凭证导入，涵盖档案、战绩、背包宠物图鉴等查询渲染。",
+    "author": "bvzrays & 熵增项目组",
+    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
+    "tags": [],
+    "social_link": "",
+    "stars": 4,
+    "version": "1.1.0",
+    "updated_at": "2026-04-12T13:11:36Z"
+  },
   "astrbot_plugin_setu": {
     "name": "astrbot_plugin_setu",
     "display_name": "未审核：瑟瑟！",
@@ -112,24 +142,6 @@
     "stars": 1,
     "version": "v1.1.1",
     "updated_at": "2026-04-12T05:42:16Z"
-  },
-  "astrbot_plugin_meme_manufacturer": {
-    "name": "astrbot_plugin_meme_manufacturer",
-    "display_name": "未审核：表情包制造厂",
-    "desc": "将QQ群友头像做成表情包的工具。可以做成gif，也可以做成静态表情，内置多种表情包，水群利器",
-    "author": "神秘嘉宾",
-    "repo": "https://github.com/zhajunyao/astrbot_plugin_meme_manufacturer",
-    "tags": [
-      "娱乐",
-      "表情包",
-      "互动",
-      "gif"
-    ],
-    "social_link": "https://github.com/zhajunyao",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-04-12T04:14:59Z",
-    "logo": "https://raw.githubusercontent.com/zhajunyao/astrbot_plugin_meme_manufacturer/main/logo.png"
   },
   "astrbot_plugin_minecraft_multi_monitor": {
     "name": "astrbot_plugin_minecraft_multi_monitor",
