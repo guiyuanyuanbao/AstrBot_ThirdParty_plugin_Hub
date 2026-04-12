@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_meme_manufacturer": {
+    "name": "astrbot_plugin_meme_manufacturer",
+    "display_name": "未审核：表情包制造厂",
+    "desc": "将QQ群友头像做成表情包的工具。可以做成gif，也可以做成静态表情，内置多种表情包，水群利器",
+    "author": "神秘嘉宾",
+    "repo": "https://github.com/zhajunyao/astrbot_plugin_meme_manufacturer",
+    "tags": [
+      "娱乐",
+      "表情包",
+      "互动",
+      "gif"
+    ],
+    "social_link": "https://github.com/zhajunyao",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-04-12T04:14:59Z",
+    "logo": "https://raw.githubusercontent.com/zhajunyao/astrbot_plugin_meme_manufacturer/main/logo.png"
+  },
   "astrbot_plugin_setu": {
     "name": "astrbot_plugin_setu",
     "display_name": "未审核：瑟瑟！",
@@ -110,7 +128,7 @@
       "长期记忆"
     ],
     "social_link": "https://github.com/olozhika",
-    "stars": 23,
+    "stars": 24,
     "version": "v1.2.3",
     "updated_at": "2026-04-10T09:35:05Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
