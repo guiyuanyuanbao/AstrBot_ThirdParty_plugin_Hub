@@ -1,4 +1,66 @@
 {
+  "astrbot_plugin_kb_plus": {
+    "name": "astrbot_plugin_kb_plus",
+    "display_name": "未审核：知识库检索增强",
+    "desc": "一个astrbot知识库函数增强插件，支持通过指令指定知识库或者指定文件检索，不再进行全库检索",
+    "author": "shijinkarusui",
+    "repo": "https://github.com/shijinkarusui/astrbot_plugin_kb_plus",
+    "tags": [
+      "知识库",
+      "指定检索"
+    ],
+    "social_link": "https://github.com/shijinkarusui",
+    "stars": 0,
+    "version": "v0.2.0",
+    "updated_at": "2026-04-12T06:47:43Z"
+  },
+  "astrbot_plugin_pjsk_guess_lyrics": {
+    "name": "astrbot_plugin_pjsk_guess_lyrics",
+    "display_name": "未审核：PJSK歌词猜曲插件",
+    "desc": "专注于《初音未来 缤纷舞台》的歌词猜曲游戏插件。用户根据歌词片段猜出歌曲名称",
+    "author": "慵懒午睡",
+    "repo": "https://github.com/yonglanws/astrbot_plugin_pjsk_guess_lyrics",
+    "tags": [
+      "世界计划",
+      "pjsk",
+      "歌词猜曲"
+    ],
+    "social_link": "https://github.com/yonglanws",
+    "stars": 1,
+    "version": "v1.0.1",
+    "updated_at": "2026-04-12T06:31:48Z",
+    "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_lyrics/master/logo.png"
+  },
+  "astrbot_plugin_pjsk_guess_jacket": {
+    "name": "astrbot_plugin_pjsk_guess_jacket",
+    "display_name": "未审核：PJSK猜曲绘插件",
+    "desc": "PJSK猜曲绘游戏，用户根据处理后的封面图片猜出歌曲名称，歌曲资源截至日服5.5周年前",
+    "author": "慵懒午睡",
+    "repo": "https://github.com/yonglanws/astrbot_plugin_pjsk_guess_jacket",
+    "tags": [
+      "pjsk",
+      "世界计划",
+      "游戏",
+      "猜曲绘"
+    ],
+    "social_link": "https://github.com/yonglanws",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-12T06:31:37Z",
+    "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_jacket/master/logo.png"
+  },
+  "astrbot_plugin_touch_head": {
+    "name": "astrbot_plugin_touch_head",
+    "display_name": "未审核：touch_head",
+    "desc": "摸头杀GIF插件",
+    "author": "mjy1113451",
+    "repo": "https://github.com/mjy1113451/touch_head",
+    "tags": [],
+    "social_link": "https://github.com/mjy1113451",
+    "stars": 1,
+    "version": "v1.1.1",
+    "updated_at": "2026-04-12T05:42:16Z"
+  },
   "astrbot_plugin_meme_manufacturer": {
     "name": "astrbot_plugin_meme_manufacturer",
     "display_name": "未审核：表情包制造厂",
@@ -53,18 +115,6 @@
     "version": "v8.7.1",
     "updated_at": "2026-04-11T20:47:44Z",
     "logo": "https://raw.githubusercontent.com/landamao/abpl_group_wakepro/main/logo.png"
-  },
-  "astrbot_plugin_touch_head": {
-    "name": "astrbot_plugin_touch_head",
-    "display_name": "未审核：touch_head",
-    "desc": "摸头杀GIF插件",
-    "author": "mjy1113451",
-    "repo": "https://github.com/mjy1113451/touch_head",
-    "tags": [],
-    "social_link": "https://github.com/mjy1113451",
-    "stars": 1,
-    "version": "v1.1.1",
-    "updated_at": "2026-04-11T15:03:29Z"
   },
   "astrbot_plugin_minecraft_multi_monitor": {
     "name": "astrbot_plugin_minecraft_multi_monitor",
@@ -1048,41 +1098,6 @@
     "version": "1.0.0",
     "updated_at": "2026-03-29T03:07:04Z",
     "logo": "https://raw.githubusercontent.com/MMaltSugar/astrbot_plugin_avatar_manager/main/logo.png"
-  },
-  "astrbot_plugin_pjsk_guess_jacket": {
-    "name": "astrbot_plugin_pjsk_guess_jacket",
-    "display_name": "未审核：PJSK猜曲绘插件",
-    "desc": "PJSK猜曲绘游戏，用户根据处理后的封面图片猜出歌曲名称，歌曲资源截至日服5.5周年前",
-    "author": "慵懒午睡",
-    "repo": "https://github.com/yonglanws/astrbot_plugin_pjsk_guess_jacket",
-    "tags": [
-      "pjsk",
-      "世界计划",
-      "游戏",
-      "猜曲绘"
-    ],
-    "social_link": "https://github.com/yonglanws",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-28T11:03:22Z",
-    "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_jacket/master/logo.png"
-  },
-  "astrbot_plugin_pjsk_guess_lyrics": {
-    "name": "astrbot_plugin_pjsk_guess_lyrics",
-    "display_name": "未审核：PJSK歌词猜曲插件",
-    "desc": "专注于《初音未来 缤纷舞台》的歌词猜曲游戏插件。用户根据歌词片段猜出歌曲名称",
-    "author": "慵懒午睡",
-    "repo": "https://github.com/yonglanws/astrbot_plugin_pjsk_guess_lyrics",
-    "tags": [
-      "世界计划",
-      "pjsk",
-      "歌词猜曲"
-    ],
-    "social_link": "https://github.com/yonglanws",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-28T10:37:57Z",
-    "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_lyrics/master/logo.png"
   },
   "astrbot_plugin_anti_memes": {
     "name": "astrbot_plugin_anti_memes",
