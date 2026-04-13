@@ -20,24 +20,6 @@
     "updated_at": "2026-04-12T18:53:15Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
-  "astrbot_plugin_meme_manufacturer": {
-    "name": "astrbot_plugin_meme_manufacturer",
-    "display_name": "未审核：表情包制造厂",
-    "desc": "将QQ群友头像做成表情包的工具。可以做成gif，也可以做成静态表情，内置多种表情包，水群利器",
-    "author": "神秘嘉宾",
-    "repo": "https://github.com/zhajunyao/astrbot_plugin_meme_manufacturer",
-    "tags": [
-      "娱乐",
-      "表情包",
-      "互动",
-      "gif"
-    ],
-    "social_link": "https://github.com/zhajunyao",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-04-12T16:17:58Z",
-    "logo": "https://raw.githubusercontent.com/zhajunyao/astrbot_plugin_meme_manufacturer/main/logo.png"
-  },
   "astrbot_plugin_rocom": {
     "name": "astrbot_plugin_rocom",
     "display_name": "未审核：洛克王国数据查询",
@@ -83,7 +65,7 @@
     "repo": "https://github.com/landamao/abpl_group_wakepro",
     "tags": [],
     "social_link": "https://github.com/landamao",
-    "stars": 2,
+    "stars": 3,
     "version": "v8.8.1",
     "updated_at": "2026-04-12T10:38:34Z",
     "logo": "https://raw.githubusercontent.com/landamao/abpl_group_wakepro/main/logo.png"
