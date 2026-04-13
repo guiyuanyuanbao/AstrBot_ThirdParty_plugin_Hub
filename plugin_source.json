@@ -1,4 +1,44 @@
 {
+  "astrbot_plugin_tts_sanitizer_bilingual": {
+    "name": "astrbot_plugin_tts_sanitizer_bilingual",
+    "display_name": "未审核：tts外语朗读",
+    "desc": "TTS文本过滤插件 - 支持双语TTS、语音Tool、MiniMax停顿标记，基于柯尔的tts_sanitizer扩展",
+    "author": "柠弥",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual",
+    "tags": [
+      "tts",
+      "翻译"
+    ],
+    "social_link": "https://github.com/chenluQwQ",
+    "stars": 0,
+    "version": "v1.4.0",
+    "updated_at": "2026-04-13T08:02:13Z",
+    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
+  },
+  "astrbot_plugin_setu": {
+    "name": "astrbot_plugin_setu",
+    "display_name": "未审核：瑟瑟！",
+    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
+    "tags": [
+      "瑟瑟",
+      "色图",
+      "setu",
+      "福利",
+      "色色",
+      "lolicon",
+      "sexyan",
+      "atri",
+      "图片",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 4,
+    "version": "v1.3.0",
+    "updated_at": "2026-04-13T07:23:24Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
+  },
   "astrbot_plugin_deerpipe": {
     "name": "astrbot_plugin_deerpipe",
     "display_name": "未审核：鹿乃子月历",
@@ -54,30 +94,6 @@
     "updated_at": "2026-04-12T15:47:25Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
-  "astrbot_plugin_setu": {
-    "name": "astrbot_plugin_setu",
-    "display_name": "未审核：瑟瑟！",
-    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
-    "tags": [
-      "瑟瑟",
-      "色图",
-      "setu",
-      "福利",
-      "色色",
-      "lolicon",
-      "sexyan",
-      "atri",
-      "图片",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 4,
-    "version": "v1.3.0",
-    "updated_at": "2026-04-12T12:14:23Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
-  },
   "astrbot_plugin_group_wakepro": {
     "name": "astrbot_plugin_group_wakepro",
     "display_name": "未审核：群唤醒增强",
@@ -120,41 +136,6 @@
     "stars": 0,
     "version": "v0.2.0",
     "updated_at": "2026-04-12T08:00:55Z"
-  },
-  "astrbot_plugin_pjsk_guess_lyrics": {
-    "name": "astrbot_plugin_pjsk_guess_lyrics",
-    "display_name": "未审核：PJSK歌词猜曲插件",
-    "desc": "专注于《初音未来 缤纷舞台》的歌词猜曲游戏插件。用户根据歌词片段猜出歌曲名称",
-    "author": "慵懒午睡",
-    "repo": "https://github.com/yonglanws/astrbot_plugin_pjsk_guess_lyrics",
-    "tags": [
-      "世界计划",
-      "pjsk",
-      "歌词猜曲"
-    ],
-    "social_link": "https://github.com/yonglanws",
-    "stars": 1,
-    "version": "v1.0.1",
-    "updated_at": "2026-04-12T06:31:48Z",
-    "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_lyrics/master/logo.png"
-  },
-  "astrbot_plugin_pjsk_guess_jacket": {
-    "name": "astrbot_plugin_pjsk_guess_jacket",
-    "display_name": "未审核：PJSK猜曲绘插件",
-    "desc": "PJSK猜曲绘游戏，用户根据处理后的封面图片猜出歌曲名称，歌曲资源截至日服5.5周年前",
-    "author": "慵懒午睡",
-    "repo": "https://github.com/yonglanws/astrbot_plugin_pjsk_guess_jacket",
-    "tags": [
-      "pjsk",
-      "世界计划",
-      "游戏",
-      "猜曲绘"
-    ],
-    "social_link": "https://github.com/yonglanws",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-12T06:31:37Z",
-    "logo": "https://raw.githubusercontent.com/yonglanws/astrbot_plugin_pjsk_guess_jacket/master/logo.png"
   },
   "astrbot_plugin_touch_head": {
     "name": "astrbot_plugin_touch_head",
@@ -295,7 +276,7 @@
       "DG-LAB"
     ],
     "social_link": "https://github.com/guiyuanyuanbao",
-    "stars": 4,
+    "stars": 5,
     "version": "v2.0.0",
     "updated_at": "2026-04-08T14:28:49Z",
     "logo": "https://raw.githubusercontent.com/guiyuanyuanbao/astrbot_plugin_DG-LAB/main/logo.png"
@@ -314,22 +295,6 @@
     "version": "v1.1.6",
     "updated_at": "2026-04-08T09:20:13Z",
     "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
-  },
-  "astrbot_plugin_tts_sanitizer_bilingual": {
-    "name": "astrbot_plugin_tts_sanitizer_bilingual",
-    "display_name": "未审核：tts外语朗读",
-    "desc": "TTS文本过滤插件 - 支持双语TTS、语音Tool、MiniMax停顿标记，基于柯尔的tts_sanitizer扩展",
-    "author": "柠弥",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual",
-    "tags": [
-      "tts",
-      "翻译"
-    ],
-    "social_link": "https://github.com/chenluQwQ",
-    "stars": 0,
-    "version": "v1.4.0",
-    "updated_at": "2026-04-08T08:36:59Z",
-    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
   },
   "astrbot_plugin_cross_session_awareness": {
     "name": "astrbot_plugin_cross_session_awareness",
