@@ -1,4 +1,31 @@
 {
+  "astrbot_plugin_cross_session_awareness": {
+    "name": "astrbot_plugin_cross_session_awareness",
+    "display_name": "未审核：群聊消息感知",
+    "desc": "让bot能感知群内/私聊消息，跨群/私聊时会发送你在群里/私聊说的话。",
+    "author": "TaiLaa",
+    "repo": "https://github.com/TaiLaaa/astrbot_plugin_cross_session_awareness",
+    "tags": [],
+    "social_link": "https://github.com/TaiLaaa",
+    "stars": 1,
+    "version": "v2.1.0",
+    "updated_at": "2026-04-14T08:45:34Z"
+  },
+  "astrbot_plugin_pimeng_blacklist": {
+    "name": "astrbot_plugin_pimeng_blacklist",
+    "display_name": "未审核：皮梦云黑库对接插件",
+    "desc": "基于皮梦云黑库接入插件 - 支持查询/添加/删除/同步/自动踢出黑名单成员",
+    "author": "N(Ni-ShuWu),P(Pimeng's)",
+    "repo": "https://github.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist",
+    "tags": [
+      "云黑库"
+    ],
+    "social_link": "https://github.com/Ni-ShuWu",
+    "stars": 1,
+    "version": "2.8.0",
+    "updated_at": "2026-04-14T07:50:18Z",
+    "logo": "https://raw.githubusercontent.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist/main/logo.png"
+  },
   "astrbot_plugin_kb_plus": {
     "name": "astrbot_plugin_kb_plus",
     "display_name": "未审核：知识库检索增强",
@@ -254,21 +281,6 @@
     "version": "1.2.0",
     "updated_at": "2026-04-09T23:47:40Z"
   },
-  "astrbot_plugin_pimeng_blacklist": {
-    "name": "astrbot_plugin_pimeng_blacklist",
-    "display_name": "未审核：皮梦云黑库对接插件",
-    "desc": "基于皮梦云黑库接入插件 - 支持查询/添加/删除/同步/自动踢出黑名单成员",
-    "author": "N(Ni-ShuWu),P(Pimeng's)",
-    "repo": "https://github.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist",
-    "tags": [
-      "云黑库"
-    ],
-    "social_link": "https://github.com/Ni-ShuWu",
-    "stars": 1,
-    "version": "2.8.0",
-    "updated_at": "2026-04-09T12:04:41Z",
-    "logo": "https://raw.githubusercontent.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist/main/logo.png"
-  },
   "astrbot_plugin_kfc_crazy_thursday": {
     "name": "astrbot_plugin_kfc_crazy_thursday",
     "display_name": "未审核：秦始皇疯狂星期四",
@@ -327,18 +339,6 @@
     "version": "v2.0.0",
     "updated_at": "2026-04-08T14:28:49Z",
     "logo": "https://raw.githubusercontent.com/guiyuanyuanbao/astrbot_plugin_DG-LAB/main/logo.png"
-  },
-  "astrbot_plugin_cross_session_awareness": {
-    "name": "astrbot_plugin_cross_session_awareness",
-    "display_name": "未审核：群聊消息感知",
-    "desc": "让bot能感知群内/私聊消息，跨群/私聊时会发送你在群里/私聊说的话。",
-    "author": "TaiLaa",
-    "repo": "https://github.com/TaiLaaa/astrbot_plugin_cross_session_awareness",
-    "tags": [],
-    "social_link": "https://github.com/TaiLaaa",
-    "stars": 1,
-    "version": "v2.1.0",
-    "updated_at": "2026-04-08T08:09:59Z"
   },
   "astrbot_plugin_deltaforce_loot_broadcast": {
     "name": "astrbot_plugin_deltaforce_loot_broadcast",
