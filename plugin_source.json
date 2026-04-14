@@ -1,15 +1,18 @@
 {
-  "astrbot_plugin_cross_session_awareness": {
-    "name": "astrbot_plugin_cross_session_awareness",
-    "display_name": "未审核：群聊消息感知",
-    "desc": "让bot能感知群内/私聊消息，跨群/私聊时会发送你在群里/私聊说的话。",
-    "author": "TaiLaa",
-    "repo": "https://github.com/TaiLaaa/astrbot_plugin_cross_session_awareness",
-    "tags": [],
-    "social_link": "https://github.com/TaiLaaa",
-    "stars": 1,
-    "version": "v2.1.0",
-    "updated_at": "2026-04-14T08:45:34Z"
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：修仙模拟器",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.11.1",
+    "updated_at": "2026-04-14T10:55:30Z"
   },
   "astrbot_plugin_pimeng_blacklist": {
     "name": "astrbot_plugin_pimeng_blacklist",
@@ -23,8 +26,54 @@
     "social_link": "https://github.com/Ni-ShuWu",
     "stars": 1,
     "version": "2.8.0",
-    "updated_at": "2026-04-14T07:50:18Z",
+    "updated_at": "2026-04-14T10:47:49Z",
     "logo": "https://raw.githubusercontent.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist/main/logo.png"
+  },
+  "astrbot_plugin_group_wakepro": {
+    "name": "astrbot_plugin_group_wakepro",
+    "display_name": "未审核：群唤醒增强",
+    "desc": "为每个群聊配置独立的唤醒规则，支持指令拦截，持续活跃，无艾特的引用拦截等见文档",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/abpl_group_wakepro",
+    "tags": [],
+    "social_link": "https://github.com/landamao",
+    "stars": 3,
+    "version": "v8.8.4",
+    "updated_at": "2026-04-14T10:04:00Z",
+    "logo": "https://raw.githubusercontent.com/landamao/abpl_group_wakepro/main/logo.png"
+  },
+  "astrbot_plugin_local_reminiscence": {
+    "name": "astrbot_plugin_local_reminiscence",
+    "display_name": "未审核：本地回忆[APLR]",
+    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
+    "author": "olozhika",
+    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
+    "tags": [
+      "记忆",
+      "回忆",
+      "每日总结",
+      "语义识别",
+      "关键词",
+      "上下文注入",
+      "长期记忆"
+    ],
+    "social_link": "https://github.com/olozhika",
+    "stars": 24,
+    "version": "v1.3.0",
+    "updated_at": "2026-04-14T09:30:27Z",
+    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
+  },
+  "astrbot_plugin_cross_session_awareness": {
+    "name": "astrbot_plugin_cross_session_awareness",
+    "display_name": "未审核：群聊消息感知",
+    "desc": "让bot能感知群内/私聊消息，跨群/私聊时会发送你在群里/私聊说的话。",
+    "author": "TaiLaa",
+    "repo": "https://github.com/TaiLaaa/astrbot_plugin_cross_session_awareness",
+    "tags": [],
+    "social_link": "https://github.com/TaiLaaa",
+    "stars": 1,
+    "version": "v2.1.0",
+    "updated_at": "2026-04-14T08:45:34Z"
   },
   "astrbot_plugin_kb_plus": {
     "name": "astrbot_plugin_kb_plus",
@@ -40,21 +89,6 @@
     "stars": 0,
     "version": "v0.3.0",
     "updated_at": "2026-04-14T06:13:44Z"
-  },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：修仙模拟器",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.11.1",
-    "updated_at": "2026-04-14T05:37:56Z"
   },
   "astrbot_plugin_rocom": {
     "name": "astrbot_plugin_rocom",
@@ -129,27 +163,6 @@
     "updated_at": "2026-04-13T20:17:32Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
   },
-  "astrbot_plugin_local_reminiscence": {
-    "name": "astrbot_plugin_local_reminiscence",
-    "display_name": "未审核：本地回忆[APLR]",
-    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
-    "author": "olozhika",
-    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
-    "tags": [
-      "记忆",
-      "回忆",
-      "每日总结",
-      "语义识别",
-      "关键词",
-      "上下文注入",
-      "长期记忆"
-    ],
-    "social_link": "https://github.com/olozhika",
-    "stars": 24,
-    "version": "v1.2.3",
-    "updated_at": "2026-04-13T17:28:21Z",
-    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
-  },
   "astrbot_plugin_touch_head": {
     "name": "astrbot_plugin_touch_head",
     "display_name": "未审核：touch_head",
@@ -194,19 +207,6 @@
     "version": "v1.4.0",
     "updated_at": "2026-04-13T08:02:13Z",
     "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
-  },
-  "astrbot_plugin_group_wakepro": {
-    "name": "astrbot_plugin_group_wakepro",
-    "display_name": "未审核：群唤醒增强",
-    "desc": "为每个群聊配置独立的唤醒规则，支持指令拦截，持续活跃，无艾特的引用拦截等见文档",
-    "author": "懒大猫",
-    "repo": "https://github.com/landamao/abpl_group_wakepro",
-    "tags": [],
-    "social_link": "https://github.com/landamao",
-    "stars": 3,
-    "version": "v8.8.1",
-    "updated_at": "2026-04-12T10:38:34Z",
-    "logo": "https://raw.githubusercontent.com/landamao/abpl_group_wakepro/main/logo.png"
   },
   "astrbot_plugin_steam_watch_status": {
     "name": "astrbot_plugin_steam_watch_status",
