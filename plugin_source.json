@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_bilibililive_watcher": {
+    "name": "astrbot_plugin_bilibililive_watcher",
+    "display_name": "未审核：一起看B站直播！",
+    "desc": "让你AstrBot能看B站直播！定时抓取B站直播间弹幕与语音上下文，触发模型生成短回复，并可双通道发送到AstrBot会话与B站直播弹幕，也可注入会话作为上下文",
+    "author": "qingquanlingyu",
+    "repo": "https://github.com/qingquanlingyu/astrbot_plugin_bilibililive_watcher",
+    "tags": [],
+    "social_link": "https://github.com/qingquanlingyu",
+    "stars": 0,
+    "version": "v1.2.6",
+    "updated_at": "2026-04-15T14:50:06Z"
+  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -1045,18 +1057,6 @@
     "version": "1.0.0",
     "updated_at": "2026-03-30T02:40:59Z",
     "logo": "https://raw.githubusercontent.com/0d00-Ciallo-0721/astrbot_plugin_qq_interactive_tools/main/logo.png"
-  },
-  "astrbot_plugin_bilibililive_watcher": {
-    "name": "astrbot_plugin_bilibililive_watcher",
-    "display_name": "未审核：一起看B站直播！",
-    "desc": "让你AstrBot能看B站直播！定时抓取B站直播间弹幕与语音上下文，触发模型生成短回复，并可双通道发送到AstrBot会话与B站直播弹幕，也可注入会话作为上下文",
-    "author": "qingquanlingyu",
-    "repo": "https://github.com/qingquanlingyu/astrbot_plugin_bilibililive_watcher",
-    "tags": [],
-    "social_link": "https://github.com/qingquanlingyu",
-    "stars": 0,
-    "version": "v1.2.6",
-    "updated_at": "2026-03-29T15:30:07Z"
   },
   "astrbot_plugin_custom_api": {
     "name": "astrbot_plugin_custom_api",
