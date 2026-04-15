@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_topic_context": {
+    "name": "astrbot_plugin_topic_context",
+    "display_name": "未审核：织忆",
+    "desc": "基于主题的记忆组织与上下文管理。自动总结对话、按主题存储记忆、注入上下文，让 Bot 拥有跨会话记忆能力。",
+    "author": "TerryZ",
+    "repo": "https://github.com/tyz1994/astrbot_plugin_topic_context",
+    "tags": [
+      "记忆",
+      "上下文"
+    ],
+    "social_link": "https://github.com/tyz1994",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-15T22:35:01Z",
+    "logo": "https://raw.githubusercontent.com/tyz1994/astrbot_plugin_topic_context/master/logo.png"
+  },
   "astrbot_plugin_qiukan": {
     "name": "astrbot_plugin_qiukan",
     "display_name": "未审核：骑砍英雄传",
@@ -57,22 +73,6 @@
     "version": "1.5.0",
     "updated_at": "2026-04-15T14:00:22Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
-  },
-  "astrbot_plugin_topic_context": {
-    "name": "astrbot_plugin_topic_context",
-    "display_name": "未审核：织忆",
-    "desc": "基于主题的记忆组织与上下文管理。自动总结对话、按主题存储记忆、注入上下文，让 Bot 拥有跨会话记忆能力。",
-    "author": "TerryZ",
-    "repo": "https://github.com/tyz1994/astrbot_plugin_topic_context",
-    "tags": [
-      "记忆",
-      "上下文"
-    ],
-    "social_link": "https://github.com/tyz1994",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-15T13:48:17Z",
-    "logo": "https://raw.githubusercontent.com/tyz1994/astrbot_plugin_topic_context/master/logo.png"
   },
   "group_manager": {
     "name": "group_manager",
