@@ -1,45 +1,4 @@
 {
-  "astrbot_plugin_rocom": {
-    "name": "astrbot_plugin_rocom",
-    "display_name": "未审核：洛克王国数据查询",
-    "desc": "基于 WeGame API 的洛克王国数据查询插件，支持扫码登录和凭证导入，涵盖档案、战绩、背包宠物图鉴等查询渲染。",
-    "author": "bvzrays & 熵增项目组",
-    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
-    "tags": [],
-    "social_link": "",
-    "stars": 9,
-    "version": "1.5.0",
-    "updated_at": "2026-04-15T11:03:52Z",
-    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
-  },
-  "astrbot_plugin_collectimage": {
-    "name": "astrbot_plugin_collectimage",
-    "display_name": "未审核：群聊图片手机",
-    "desc": "自动识别群聊图片内容、提取标签和角色，并实现本地持久化存储与检索。",
-    "author": "FineTortinita",
-    "repo": "https://github.com/FineTortinita/astrbot_plugin_collectimage",
-    "tags": [],
-    "social_link": "https://github.com/FineTortinita",
-    "stars": 0,
-    "version": "v1.8.0",
-    "updated_at": "2026-04-15T04:41:36Z"
-  },
-  "astrbot_plugin_topic_context": {
-    "name": "astrbot_plugin_topic_context",
-    "display_name": "未审核：织忆",
-    "desc": "基于主题的记忆组织与上下文管理。自动总结对话、按主题存储记忆、注入上下文，让 Bot 拥有跨会话记忆能力。",
-    "author": "TerryZ",
-    "repo": "https://github.com/tyz1994/astrbot_plugin_topic_context",
-    "tags": [
-      "记忆",
-      "上下文"
-    ],
-    "social_link": "https://github.com/tyz1994",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-14T23:54:23Z",
-    "logo": "https://raw.githubusercontent.com/tyz1994/astrbot_plugin_topic_context/master/logo.png"
-  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -57,9 +16,62 @@
     ],
     "social_link": "https://github.com/olozhika",
     "stars": 24,
-    "version": "v1.3.0",
-    "updated_at": "2026-04-14T16:19:21Z",
+    "version": "v1.3.1",
+    "updated_at": "2026-04-15T14:45:59Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
+  },
+  "astrbot_plugin_rocom": {
+    "name": "astrbot_plugin_rocom",
+    "display_name": "未审核：洛克王国数据查询",
+    "desc": "基于 WeGame API 的洛克王国数据查询插件，支持扫码登录和凭证导入，涵盖档案、战绩、背包宠物图鉴等查询渲染。",
+    "author": "bvzrays & 熵增项目组",
+    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
+    "tags": [],
+    "social_link": "",
+    "stars": 9,
+    "version": "1.5.0",
+    "updated_at": "2026-04-15T14:00:22Z",
+    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
+  },
+  "astrbot_plugin_topic_context": {
+    "name": "astrbot_plugin_topic_context",
+    "display_name": "未审核：织忆",
+    "desc": "基于主题的记忆组织与上下文管理。自动总结对话、按主题存储记忆、注入上下文，让 Bot 拥有跨会话记忆能力。",
+    "author": "TerryZ",
+    "repo": "https://github.com/tyz1994/astrbot_plugin_topic_context",
+    "tags": [
+      "记忆",
+      "上下文"
+    ],
+    "social_link": "https://github.com/tyz1994",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-15T13:48:17Z",
+    "logo": "https://raw.githubusercontent.com/tyz1994/astrbot_plugin_topic_context/master/logo.png"
+  },
+  "group_manager": {
+    "name": "group_manager",
+    "display_name": "未审核：插件名astrbot_plugin_group_manager",
+    "desc": "",
+    "author": "mjy1113451",
+    "repo": "https://github.com/mjy1113451/group_manager",
+    "tags": [],
+    "social_link": "https://github.com/mjy1113451",
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-04-15T11:12:46Z"
+  },
+  "astrbot_plugin_collectimage": {
+    "name": "astrbot_plugin_collectimage",
+    "display_name": "未审核：群聊图片手机",
+    "desc": "自动识别群聊图片内容、提取标签和角色，并实现本地持久化存储与检索。",
+    "author": "FineTortinita",
+    "repo": "https://github.com/FineTortinita/astrbot_plugin_collectimage",
+    "tags": [],
+    "social_link": "https://github.com/FineTortinita",
+    "stars": 0,
+    "version": "v1.8.0",
+    "updated_at": "2026-04-15T04:41:36Z"
   },
   "astrbot_plugin_memorypro": {
     "name": "astrbot_plugin_memorypro",
