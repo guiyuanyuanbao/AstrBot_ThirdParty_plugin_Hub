@@ -1,4 +1,61 @@
 {
+  "astrbot_plugin_parserurl": {
+    "name": "astrbot_plugin_parserurl",
+    "display_name": "未审核：社交媒体链接自动解析插件",
+    "desc": "社交媒体分享链接解析插件。将A站、B站、抖音、小红书、微博...等网站的视频、图集、音频进行解析并发送",
+    "author": "Ishning",
+    "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
+    "tags": [],
+    "social_link": "https://github.com/Ishning",
+    "stars": 0,
+    "version": "v2.3.2",
+    "updated_at": "2026-04-16T06:46:41Z",
+    "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
+  },
+  "astrbot_plugin_rocom": {
+    "name": "astrbot_plugin_rocom",
+    "display_name": "未审核：洛克王国数据查询",
+    "desc": "基于 WeGame API 的洛克王国数据查询插件，支持扫码登录和凭证导入，涵盖档案、战绩、背包宠物图鉴等查询渲染。",
+    "author": "bvzrays & 熵增项目组",
+    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
+    "tags": [],
+    "social_link": "",
+    "stars": 10,
+    "version": "1.7.0",
+    "updated_at": "2026-04-16T06:03:27Z",
+    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
+  },
+  "astrbot_plugin_memorypro": {
+    "name": "astrbot_plugin_memorypro",
+    "display_name": "未审核：MemoryPro",
+    "desc": "人格核心记忆增强：极简人格化总结版，让 AI 拥有持续且自然的日记感记录。",
+    "author": "DD",
+    "repo": "https://github.com/Doreen1016/astrbot_plugin_memorypro",
+    "tags": [
+      "记忆总结",
+      "人格化",
+      "情感"
+    ],
+    "social_link": "",
+    "stars": 3,
+    "version": "1.1.1",
+    "updated_at": "2026-04-16T06:03:01Z"
+  },
+  "astrbot_plugin_monixiuxianv3": {
+    "name": "astrbot_plugin_monixiuxianv3",
+    "display_name": "未审核：修仙模拟器",
+    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
+    "author": "EtafCisky",
+    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
+    "tags": [
+      "修仙",
+      "游戏"
+    ],
+    "social_link": "https://github.com/EtafCisky",
+    "stars": 0,
+    "version": "v3.11.1",
+    "updated_at": "2026-04-16T05:42:56Z"
+  },
   "astrbot_plugin_topic_context": {
     "name": "astrbot_plugin_topic_context",
     "display_name": "未审核：织忆",
@@ -27,19 +84,6 @@
     "version": "v0.1.21",
     "updated_at": "2026-04-15T20:54:40Z",
     "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
-  },
-  "astrbot_plugin_parserurl": {
-    "name": "astrbot_plugin_parserurl",
-    "display_name": "未审核：社交媒体链接自动解析插件",
-    "desc": "社交媒体分享链接解析插件。将A站、B站、抖音、小红书、微博...等网站的视频、图集、音频进行解析并发送",
-    "author": "Ishning",
-    "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
-    "tags": [],
-    "social_link": "https://github.com/Ishning",
-    "stars": 0,
-    "version": "v2.3.1",
-    "updated_at": "2026-04-15T15:55:47Z",
-    "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
   },
   "astrbot_plugin_bilibililive_watcher": {
     "name": "astrbot_plugin_bilibililive_watcher",
@@ -74,19 +118,6 @@
     "updated_at": "2026-04-15T14:45:59Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
-  "astrbot_plugin_rocom": {
-    "name": "astrbot_plugin_rocom",
-    "display_name": "未审核：洛克王国数据查询",
-    "desc": "基于 WeGame API 的洛克王国数据查询插件，支持扫码登录和凭证导入，涵盖档案、战绩、背包宠物图鉴等查询渲染。",
-    "author": "bvzrays & 熵增项目组",
-    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
-    "tags": [],
-    "social_link": "",
-    "stars": 9,
-    "version": "1.5.0",
-    "updated_at": "2026-04-15T14:00:22Z",
-    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
-  },
   "group_manager": {
     "name": "group_manager",
     "display_name": "未审核：插件名astrbot_plugin_group_manager",
@@ -110,37 +141,6 @@
     "stars": 0,
     "version": "v1.8.0",
     "updated_at": "2026-04-15T04:41:36Z"
-  },
-  "astrbot_plugin_memorypro": {
-    "name": "astrbot_plugin_memorypro",
-    "display_name": "未审核：MemoryPro",
-    "desc": "人格核心记忆增强：极简人格化总结版，让 AI 拥有持续且自然的日记感记录。",
-    "author": "DD",
-    "repo": "https://github.com/Doreen1016/astrbot_plugin_memorypro",
-    "tags": [
-      "记忆总结",
-      "人格化",
-      "情感"
-    ],
-    "social_link": "",
-    "stars": 3,
-    "version": "1.1.1",
-    "updated_at": "2026-04-14T14:12:15Z"
-  },
-  "astrbot_plugin_monixiuxianv3": {
-    "name": "astrbot_plugin_monixiuxianv3",
-    "display_name": "未审核：修仙模拟器",
-    "desc": "基于清晰架构重构的修仙模拟游戏插件，支持修炼、战斗、宗门、炼丹等丰富玩法，对模拟修仙v2的代码进行了重新构建编写，便于后续的更新新玩法和修复，同时完善了原版未实现的功能，调整了部分功能并更新了新功能",
-    "author": "EtafCisky",
-    "repo": "https://github.com/EtafCisky/astrbot_plugin_monixiuxianv3",
-    "tags": [
-      "修仙",
-      "游戏"
-    ],
-    "social_link": "https://github.com/EtafCisky",
-    "stars": 0,
-    "version": "v3.11.1",
-    "updated_at": "2026-04-14T10:55:30Z"
   },
   "astrbot_plugin_pimeng_blacklist": {
     "name": "astrbot_plugin_pimeng_blacklist",
