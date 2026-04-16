@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_localmemes": {
+    "name": "astrbot_plugin_localmemes",
+    "display_name": "未审核：本地表情包",
+    "desc": "AstrBot本地表情包插件，支持自定义分类表情发送与学习，可由LLM规划发送或替换人设关键词发送",
+    "author": "清蒸云鸭",
+    "repo": "https://github.com/WhiteCloudOL/astrbot_plugin_localmemes",
+    "tags": [
+      "表情",
+      "meme",
+      "功能"
+    ],
+    "social_link": "https://github.com/WhiteCloudOL",
+    "stars": 0,
+    "version": "v1.3.0",
+    "updated_at": "2026-04-16T15:50:16Z",
+    "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_localmemes/master/logo.png"
+  },
   "astrbot_plugin_rocom": {
     "name": "astrbot_plugin_rocom",
     "display_name": "未审核：洛克王国数据查询",
@@ -567,23 +584,6 @@
     "stars": 2,
     "version": "2.0.0",
     "updated_at": "2026-04-06T03:50:53Z"
-  },
-  "astrbot_plugin_localmemes": {
-    "name": "astrbot_plugin_localmemes",
-    "display_name": "未审核：本地表情包",
-    "desc": "AstrBot本地表情包插件，支持自定义分类表情发送与学习，可由LLM规划发送或替换人设关键词发送",
-    "author": "清蒸云鸭",
-    "repo": "https://github.com/WhiteCloudOL/astrbot_plugin_localmemes",
-    "tags": [
-      "表情",
-      "meme",
-      "功能"
-    ],
-    "social_link": "https://github.com/WhiteCloudOL",
-    "stars": 0,
-    "version": "v1.2.2",
-    "updated_at": "2026-04-05T16:11:12Z",
-    "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_localmemes/master/logo.png"
   },
   "astrbot_plugin_hardworking": {
     "name": "astrbot_plugin_hardworking",
