@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_orangequiz": {
+    "name": "astrbot_plugin_orangequiz",
+    "display_name": "未审核：橘子问卷",
+    "desc": "让大模型化身性格鉴定师！LLM自动生成互动问卷，智能分析结果，测完还送一张属性海报。",
+    "author": "largefox",
+    "repo": "https://github.com/largefox/astrbot_plugin_orangequiz",
+    "tags": [
+      "问答",
+      "问卷"
+    ],
+    "social_link": "https://github.com/largefox/",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-17T18:10:22Z"
+  },
   "astrbot_plugin_complaint": {
     "name": "astrbot_plugin_complaint",
     "display_name": "未审核：机器人告状插件",
