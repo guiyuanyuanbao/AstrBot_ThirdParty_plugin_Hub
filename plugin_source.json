@@ -1,4 +1,29 @@
 {
+  "astrbot_plugin_groupmanager": {
+    "name": "astrbot_plugin_groupmanager",
+    "display_name": "未审核：Groupmanager",
+    "desc": "群申请关键词审核",
+    "author": "mjy1113451",
+    "repo": "https://github.com/mjy1113451/group_manager",
+    "tags": [],
+    "social_link": "https://github.com/mjy1113451",
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-04-17T09:04:18Z"
+  },
+  "astrbot_plugin_parserurl": {
+    "name": "astrbot_plugin_parserurl",
+    "display_name": "未审核：社交媒体链接自动解析插件",
+    "desc": "社交媒体分享链接解析插件。将A站、B站、抖音、小红书、微博...等网站的视频、图集、音频进行解析并发送",
+    "author": "Ishning",
+    "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
+    "tags": [],
+    "social_link": "https://github.com/Ishning",
+    "stars": 0,
+    "version": "v2.3.3",
+    "updated_at": "2026-04-17T07:55:07Z",
+    "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
+  },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
     "display_name": "未审核：b站bot",
@@ -96,18 +121,6 @@
     "version": "1.0.0",
     "updated_at": "2026-04-16T13:24:11Z"
   },
-  "astrbot_plugin_groupmanager": {
-    "name": "astrbot_plugin_groupmanager",
-    "display_name": "未审核：Groupmanager",
-    "desc": "群申请关键词审核",
-    "author": "mjy1113451",
-    "repo": "https://github.com/mjy1113451/group_manager",
-    "tags": [],
-    "social_link": "https://github.com/mjy1113451",
-    "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2026-04-16T11:53:24Z"
-  },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
     "display_name": "未审核：枝江自动推送",
@@ -138,19 +151,6 @@
     "stars": 0,
     "version": "v3.11.2",
     "updated_at": "2026-04-16T07:58:01Z"
-  },
-  "astrbot_plugin_parserurl": {
-    "name": "astrbot_plugin_parserurl",
-    "display_name": "未审核：社交媒体链接自动解析插件",
-    "desc": "社交媒体分享链接解析插件。将A站、B站、抖音、小红书、微博...等网站的视频、图集、音频进行解析并发送",
-    "author": "Ishning",
-    "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
-    "tags": [],
-    "social_link": "https://github.com/Ishning",
-    "stars": 0,
-    "version": "v2.3.2",
-    "updated_at": "2026-04-16T06:46:41Z",
-    "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
   },
   "astrbot_plugin_memorypro": {
     "name": "astrbot_plugin_memorypro",
