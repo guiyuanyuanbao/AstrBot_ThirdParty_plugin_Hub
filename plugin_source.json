@@ -1,4 +1,43 @@
 {
+  "astrbot_plugin_bilibili_ai_bot": {
+    "name": "astrbot_plugin_bilibili_ai_bot",
+    "display_name": "未审核：b站bot",
+    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
+    "author": "chenluQwQ",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
+    "tags": [
+      "bilibili",
+      "B站",
+      "评论回复",
+      "主动交互",
+      "语义记忆"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "1.1.1",
+    "updated_at": "2026-04-17T04:24:52Z"
+  },
+  "astrbot_plugin_deerpipe": {
+    "name": "astrbot_plugin_deerpipe",
+    "display_name": "未审核：鹿乃子月历",
+    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
+    "tags": [
+      "鹿乃子",
+      "鹿",
+      "🦌",
+      "🦌乃子",
+      "月历",
+      "打卡",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 3,
+    "version": "v1.0.8",
+    "updated_at": "2026-04-17T03:49:17Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
+  },
   "astrbot_plugin_topic_context": {
     "name": "astrbot_plugin_topic_context",
     "display_name": "未审核：织忆",
@@ -68,24 +107,6 @@
     "stars": 0,
     "version": "v1.0.1",
     "updated_at": "2026-04-16T11:53:24Z"
-  },
-  "astrbot_plugin_bilibili_ai_bot": {
-    "name": "astrbot_plugin_bilibili_ai_bot",
-    "display_name": "未审核：b站bot",
-    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
-    "author": "chenluQwQ",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
-    "tags": [
-      "bilibili",
-      "B站",
-      "评论回复",
-      "主动交互",
-      "语义记忆"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "1.1.1",
-    "updated_at": "2026-04-16T11:17:46Z"
   },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
@@ -298,27 +319,6 @@
     "version": "v1.3.0",
     "updated_at": "2026-04-13T20:17:50Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
-  },
-  "astrbot_plugin_deerpipe": {
-    "name": "astrbot_plugin_deerpipe",
-    "display_name": "未审核：鹿乃子月历",
-    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
-    "tags": [
-      "鹿乃子",
-      "鹿",
-      "🦌",
-      "🦌乃子",
-      "月历",
-      "打卡",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 3,
-    "version": "v1.0.7",
-    "updated_at": "2026-04-13T20:17:32Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
   },
   "astrbot_plugin_touch_head": {
     "name": "astrbot_plugin_touch_head",
