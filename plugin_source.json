@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_complaint": {
+    "name": "astrbot_plugin_complaint",
+    "display_name": "未审核：机器人告状插件",
+    "desc": "还在担心你的机器人被打压？机器人告状插件（astrbot_plugin_complaint）能让机器人向管理员告状",
+    "author": "yyswys-yjyj",
+    "repo": "https://github.com/yyswys-yjyj/astrbot_plugin_complaint",
+    "tags": [
+      "对话",
+      "审查"
+    ],
+    "social_link": "https://github.com/yyswys-yjyj",
+    "stars": 0,
+    "version": "v2.0.0",
+    "updated_at": "2026-04-17T14:41:32Z"
+  },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
     "display_name": "未审核：社交媒体链接自动解析插件",
