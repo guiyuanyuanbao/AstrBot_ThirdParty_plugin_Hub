@@ -1,4 +1,32 @@
 {
+  "astrbot_plugin_whythemistake": {
+    "name": "astrbot_plugin_whythemistake",
+    "display_name": "未审核：轮椅日志debug",
+    "desc": "后台静默监听终端日志，检测到 WARNING / ERROR / CRITICAL 时自动提交 LLM 分析，将问题原因与解决方案（中文，≤50字）打印到终端。",
+    "author": "molamaker",
+    "repo": "https://github.com/Mola-maker/astrbot_plugin_whythemistake",
+    "tags": [],
+    "social_link": "2249464964@qq.com",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-18T09:37:07Z",
+    "logo": "https://raw.githubusercontent.com/Mola-maker/astrbot_plugin_whythemistake/master/logo.png"
+  },
+  "astrbot_plugin_complaint": {
+    "name": "astrbot_plugin_complaint",
+    "display_name": "未审核：机器人告状插件",
+    "desc": "[仅aiocqhttp]还在担心你的机器人被打压？机器人告状插件（astrbot_plugin_complaint）能让机器人向管理员告状",
+    "author": "yyswys-yjyj",
+    "repo": "https://github.com/yyswys-yjyj/astrbot_plugin_complaint",
+    "tags": [
+      "对话",
+      "审查"
+    ],
+    "social_link": "https://github.com/yyswys-yjyj",
+    "stars": 0,
+    "version": "v2.0.0",
+    "updated_at": "2026-04-18T09:36:13Z"
+  },
   "astrbot_plugin_orangequiz": {
     "name": "astrbot_plugin_orangequiz",
     "display_name": "未审核：橘子问卷",
@@ -14,19 +42,6 @@
     "version": "v1.0.1",
     "updated_at": "2026-04-18T08:46:50Z"
   },
-  "astrbot_plugin_whythemistake": {
-    "name": "astrbot_plugin_whythemistake",
-    "display_name": "未审核：轮椅日志debug",
-    "desc": "后台静默监听终端日志，检测到 WARNING / ERROR / CRITICAL 时自动提交 LLM 分析，将问题原因与解决方案（中文，≤50字）打印到终端。",
-    "author": "molamaker",
-    "repo": "https://github.com/Mola-maker/astrbot_plugin_whythemistake",
-    "tags": [],
-    "social_link": "2249464964@qq.com",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-18T07:54:58Z",
-    "logo": "https://raw.githubusercontent.com/Mola-maker/astrbot_plugin_whythemistake/master/logo.png"
-  },
   "astrbot_plugin_rocom": {
     "name": "astrbot_plugin_rocom",
     "display_name": "未审核：洛克王国数据查询",
@@ -35,7 +50,7 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 11,
+    "stars": 12,
     "version": "1.8.0",
     "updated_at": "2026-04-18T04:59:23Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
@@ -69,21 +84,6 @@
     "stars": 0,
     "version": "v0.1.2",
     "updated_at": "2026-04-17T23:48:55Z"
-  },
-  "astrbot_plugin_complaint": {
-    "name": "astrbot_plugin_complaint",
-    "display_name": "未审核：机器人告状插件",
-    "desc": "还在担心你的机器人被打压？机器人告状插件（astrbot_plugin_complaint）能让机器人向管理员告状",
-    "author": "yyswys-yjyj",
-    "repo": "https://github.com/yyswys-yjyj/astrbot_plugin_complaint",
-    "tags": [
-      "对话",
-      "审查"
-    ],
-    "social_link": "https://github.com/yyswys-yjyj",
-    "stars": 0,
-    "version": "v2.0.0",
-    "updated_at": "2026-04-17T15:53:50Z"
   },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
