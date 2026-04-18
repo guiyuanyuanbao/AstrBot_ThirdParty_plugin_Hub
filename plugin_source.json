@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_counton": {
+    "name": "astrbot_plugin_counton",
+    "display_name": "未审核：CountOn",
+    "desc": "提供了群聊中为离开的人计时的功能，并在其暂时离开期间帮助其回复收到的@消息",
+    "author": "Sagiri777",
+    "repo": "https://github.com/Sagiri777/astrbot_plugin_counton",
+    "tags": [
+      "群聊",
+      "离开",
+      "计时",
+      "暂时"
+    ],
+    "social_link": "https://github.com/Sagiri777",
+    "stars": 0,
+    "version": "v0.1.2",
+    "updated_at": "2026-04-17T23:48:55Z"
+  },
   "astrbot_plugin_orangequiz": {
     "name": "astrbot_plugin_orangequiz",
     "display_name": "未审核：橘子问卷",
