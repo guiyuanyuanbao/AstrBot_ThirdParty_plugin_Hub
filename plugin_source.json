@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin": {
+    "name": "astrbot_plugin",
+    "display_name": "未审核：人际关系合集",
+    "desc": "bot关系处理",
+    "author": "mjy1113451",
+    "repo": "https://github.com/mjy1113451/bot_responsible",
+    "tags": [],
+    "social_link": "https://github.com/mjy1113451",
+    "stars": 0,
+    "version": "v0.01",
+    "updated_at": "2026-04-18T15:06:54Z"
+  },
   "astrbot_plugin_adapter_watchdog": {
     "name": "astrbot_plugin_adapter_watchdog",
     "display_name": "未审核：适配器看门狗",
