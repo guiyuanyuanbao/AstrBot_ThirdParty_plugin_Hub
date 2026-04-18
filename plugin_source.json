@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_adapter_watchdog": {
+    "name": "astrbot_plugin_adapter_watchdog",
+    "display_name": "未审核：适配器看门狗",
+    "desc": "监控平台适配器在线状态，掉线或恢复时向指定会话发送通知。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_adapter_watchdog",
+    "tags": [
+      "掉线",
+      "QQ",
+      "监控"
+    ],
+    "social_link": "https://github.com/Foolllll-J",
+    "stars": 0,
+    "version": "v1.0",
+    "updated_at": "2026-04-18T12:51:12Z",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
+  },
   "astrbot_plugin_text_to_image": {
     "name": "astrbot_plugin_text_to_image",
     "display_name": "未审核：二次元风格-文本转图",
@@ -1372,23 +1389,6 @@
     "stars": 0,
     "version": "v1.2.0",
     "updated_at": "2026-03-13T08:40:35Z"
-  },
-  "astrbot_plugin_adapter_watchdog": {
-    "name": "astrbot_plugin_adapter_watchdog",
-    "display_name": "未审核：适配器看门狗",
-    "desc": "监控平台适配器在线状态，掉线或恢复时向指定会话发送通知。",
-    "author": "Foolllll",
-    "repo": "https://github.com/Foolllll-J/astrbot_plugin_adapter_watchdog",
-    "tags": [
-      "掉线",
-      "QQ",
-      "监控"
-    ],
-    "social_link": "https://github.com/Foolllll-J",
-    "stars": 0,
-    "version": "v1.0",
-    "updated_at": "2026-03-27T06:11:40Z",
-    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
   },
   "astrbot_plugin_coding_plan_chat": {
     "name": "astrbot_plugin_coding_plan_chat",
