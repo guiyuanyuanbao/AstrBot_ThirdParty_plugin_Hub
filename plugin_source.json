@@ -1,4 +1,17 @@
 {
+  "astrbot_plugin_rocom": {
+    "name": "astrbot_plugin_rocom",
+    "display_name": "未审核：洛克王国数据查询",
+    "desc": "基于 WeGame API 的洛克王国数据查询插件，支持扫码登录和凭证导入，涵盖档案、战绩、背包、查蛋配种等查询渲染。",
+    "author": "bvzrays & 熵增项目组",
+    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
+    "tags": [],
+    "social_link": "",
+    "stars": 13,
+    "version": "2.0.0",
+    "updated_at": "2026-04-18T16:31:47Z",
+    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
+  },
   "astrbot_plugin": {
     "name": "astrbot_plugin",
     "display_name": "未审核：人际关系合集",
@@ -89,19 +102,6 @@
     "stars": 0,
     "version": "v1.0.1",
     "updated_at": "2026-04-18T08:46:50Z"
-  },
-  "astrbot_plugin_rocom": {
-    "name": "astrbot_plugin_rocom",
-    "display_name": "未审核：洛克王国数据查询",
-    "desc": "基于 WeGame API 的洛克王国数据查询插件，支持扫码登录和凭证导入，涵盖档案、战绩、背包、查蛋配种等查询渲染。",
-    "author": "bvzrays & 熵增项目组",
-    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
-    "tags": [],
-    "social_link": "",
-    "stars": 13,
-    "version": "1.8.0",
-    "updated_at": "2026-04-18T04:59:23Z",
-    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot_plugin_qiukan": {
     "name": "astrbot_plugin_qiukan",
