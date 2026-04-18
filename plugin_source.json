@@ -1,4 +1,23 @@
 {
+  "astrbot_plugin_text_to_image": {
+    "name": "astrbot_plugin_text_to_image",
+    "display_name": "未审核：二次元风格-文本转图",
+    "desc": "更好看的文转图，基于外部api的二次元风格文转图，使bot以图片形式返回内容，将文本以图片的形式发送",
+    "author": "浅月tniay",
+    "repo": "https://github.com/tniany/astrbot_plugin_text_to_Image",
+    "tags": [
+      "文转图",
+      "fishcat",
+      "动漫",
+      "二次元",
+      "api"
+    ],
+    "social_link": "https://github.com/tniany",
+    "stars": 1,
+    "version": "v1.1.1",
+    "updated_at": "2026-04-18T11:29:31Z",
+    "logo": "https://raw.githubusercontent.com/tniany/astrbot_plugin_text_to_Image/main/logo.png"
+  },
   "astrbot_plugin_whythemistake": {
     "name": "astrbot_plugin_whythemistake",
     "display_name": "未审核：轮椅日志debug",
@@ -30,7 +49,7 @@
   "astrbot_plugin_orangequiz": {
     "name": "astrbot_plugin_orangequiz",
     "display_name": "未审核：橘子问卷",
-    "desc": "让大模型化身性格鉴定师！LLM自动生成互动问卷，智能分析结果，测完还送一张属性海报。",
+    "desc": "让bot化身性格鉴定师！LLM自动生成互动问卷，智能分析结果，测完还送一张属性海报。",
     "author": "largefox",
     "repo": "https://github.com/largefox/astrbot_plugin_orangequiz",
     "tags": [
@@ -50,7 +69,7 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 12,
+    "stars": 13,
     "version": "1.8.0",
     "updated_at": "2026-04-18T04:59:23Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
@@ -1790,7 +1809,7 @@
       "小米"
     ],
     "social_link": "https://github.com/huachabobo",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
     "updated_at": "2026-03-22T07:20:20Z"
   },
@@ -2417,25 +2436,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-14T13:55:53Z",
     "logo": "https://raw.githubusercontent.com/tniany/astrbot_plugin_upload_yuanshennb/main/logo.png"
-  },
-  "astrbot_plugin_text_to_image": {
-    "name": "astrbot_plugin_text_to_image",
-    "display_name": "未审核：二次元风格-文本转图",
-    "desc": "更好看的文转图，基于外部api的二次元风格文转图，使bot以图片形式返回内容，将文本以图片的形式发送",
-    "author": "浅月tniay",
-    "repo": "https://github.com/tniany/astrbot_plugin_text_to_Image",
-    "tags": [
-      "文转图",
-      "fishcat",
-      "动漫",
-      "二次元",
-      "api"
-    ],
-    "social_link": "https://github.com/tniany",
-    "stars": 1,
-    "version": "v1.1.1",
-    "updated_at": "2026-03-14T08:29:50Z",
-    "logo": "https://raw.githubusercontent.com/tniany/astrbot_plugin_text_to_Image/main/logo.png"
   },
   "astrbot_plugin_wordmaster": {
     "name": "astrbot_plugin_wordmaster",
