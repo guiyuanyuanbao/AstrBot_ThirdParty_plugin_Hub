@@ -1,32 +1,4 @@
 {
-  "astrbot_plugin_remote_kb": {
-    "name": "astrbot_plugin_remote_kb",
-    "display_name": "未审核：远程知识库插件",
-    "desc": "将Astrbot知识库查询功能包装为HTTP服务，支持跨Astrbot实例的知识库共享与查询。服务端和客户端都需要安装",
-    "author": "elecvoid243",
-    "repo": "https://github.com/elecvoid243/astrbot_plugin_remote_kb",
-    "tags": [
-      "知识库",
-      "rag"
-    ],
-    "social_link": "https://github.com/elecvoid243",
-    "stars": 0,
-    "version": "1.1.0",
-    "updated_at": "2026-04-19T05:27:59Z"
-  },
-  "astrbot_plugin_rocom": {
-    "name": "astrbot_plugin_rocom",
-    "display_name": "未审核：洛克王国数据查询",
-    "desc": "基于 WeGame API 的洛克王国数据查询插件，支持扫码登录和凭证导入，涵盖档案、战绩、背包、查蛋配种等查询渲染。",
-    "author": "bvzrays & 熵增项目组",
-    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
-    "tags": [],
-    "social_link": "",
-    "stars": 13,
-    "version": "2.2.0",
-    "updated_at": "2026-04-19T04:37:12Z",
-    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
-  },
   "astrbot_plugin_media_portal": {
     "name": "astrbot_plugin_media_portal",
     "display_name": "未审核：Media Portal",
@@ -42,23 +14,21 @@
     "social_link": "https://github.com/Moudicat",
     "stars": 0,
     "version": "v0.2.0",
-    "updated_at": "2026-04-19T04:12:42Z",
+    "updated_at": "2026-04-19T06:21:31Z",
     "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
   },
-  "astrbot_plugin_orangequiz": {
-    "name": "astrbot_plugin_orangequiz",
-    "display_name": "未审核：橘子问卷",
-    "desc": "让bot化身性格鉴定师！LLM自动生成互动问卷，智能分析结果，测完还送一张属性海报。",
-    "author": "largefox",
-    "repo": "https://github.com/largefox/astrbot_plugin_orangequiz",
-    "tags": [
-      "问答",
-      "问卷"
-    ],
-    "social_link": "https://github.com/largefox/",
-    "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2026-04-19T02:33:34Z"
+  "astrbot_plugin_rocom": {
+    "name": "astrbot_plugin_rocom",
+    "display_name": "未审核：洛克王国数据查询",
+    "desc": "基于 WeGame API 的洛克王国数据查询插件，支持扫码登录和凭证导入，涵盖档案、战绩、背包、查蛋配种等查询渲染。",
+    "author": "bvzrays & 熵增项目组",
+    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
+    "tags": [],
+    "social_link": "",
+    "stars": 13,
+    "version": "2.2.0",
+    "updated_at": "2026-04-19T04:37:12Z",
+    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot_plugin_setu": {
     "name": "astrbot_plugin_setu",
@@ -104,18 +74,6 @@
     "version": "v1.0.9",
     "updated_at": "2026-04-18T22:47:58Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
-  },
-  "astrbot_plugin": {
-    "name": "astrbot_plugin",
-    "display_name": "未审核：人际关系合集",
-    "desc": "bot关系处理",
-    "author": "mjy1113451",
-    "repo": "https://github.com/mjy1113451/bot_responsible",
-    "tags": [],
-    "social_link": "https://github.com/mjy1113451",
-    "stars": 0,
-    "version": "v0.01",
-    "updated_at": "2026-04-18T15:06:54Z"
   },
   "astrbot_plugin_adapter_watchdog": {
     "name": "astrbot_plugin_adapter_watchdog",
@@ -193,23 +151,6 @@
     "version": "v0.1.21",
     "updated_at": "2026-04-18T03:40:55Z",
     "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
-  },
-  "astrbot_plugin_counton": {
-    "name": "astrbot_plugin_counton",
-    "display_name": "未审核：CountOn",
-    "desc": "提供了群聊中为离开的人计时的功能，并在其暂时离开期间帮助其回复收到的@消息",
-    "author": "Sagiri777",
-    "repo": "https://github.com/Sagiri777/astrbot_plugin_counton",
-    "tags": [
-      "群聊",
-      "离开",
-      "计时",
-      "暂时"
-    ],
-    "social_link": "https://github.com/Sagiri777",
-    "stars": 0,
-    "version": "v0.1.2",
-    "updated_at": "2026-04-17T23:48:55Z"
   },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
