@@ -1,4 +1,39 @@
 {
+  "astrbot_plugin_media_portal": {
+    "name": "astrbot_plugin_media_portal",
+    "display_name": "未审核：Media Portal",
+    "desc": "为 AI 与用户打造的多媒体门户：支持 AI 智能分类收藏，集成音视频预览播放与可视化管理的 AstrBot 插件",
+    "author": "Moudicat",
+    "repo": "https://github.com/Moudicat/astrbot_plugin_media_portal",
+    "tags": [
+      "多媒体",
+      "图片",
+      "视频",
+      "音乐"
+    ],
+    "social_link": "https://github.com/Moudicat",
+    "stars": 0,
+    "version": "v0.2.1",
+    "updated_at": "2026-04-19T15:30:49Z",
+    "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
+  },
+  "astrbot_plugin_adapter_watchdog": {
+    "name": "astrbot_plugin_adapter_watchdog",
+    "display_name": "未审核：适配器看门狗",
+    "desc": "监控平台适配器在线状态，掉线或恢复时将发送通知。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_adapter_watchdog",
+    "tags": [
+      "掉线",
+      "QQ",
+      "监控"
+    ],
+    "social_link": "https://github.com/Foolllll-J",
+    "stars": 0,
+    "version": "v1.1",
+    "updated_at": "2026-04-19T15:13:09Z",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
+  },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
     "display_name": "未审核：社交媒体链接自动解析插件",
@@ -37,24 +72,6 @@
     "version": "v0.1.21",
     "updated_at": "2026-04-19T08:01:54Z",
     "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
-  },
-  "astrbot_plugin_media_portal": {
-    "name": "astrbot_plugin_media_portal",
-    "display_name": "未审核：Media Portal",
-    "desc": "为 AI 与用户打造的多媒体门户：支持 AI 智能分类收藏，集成音视频预览播放与可视化管理的 AstrBot 插件",
-    "author": "Moudicat",
-    "repo": "https://github.com/Moudicat/astrbot_plugin_media_portal",
-    "tags": [
-      "多媒体",
-      "图片",
-      "视频",
-      "音乐"
-    ],
-    "social_link": "https://github.com/Moudicat",
-    "stars": 0,
-    "version": "v0.2.0",
-    "updated_at": "2026-04-19T06:21:31Z",
-    "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
   },
   "astrbot_plugin_setu": {
     "name": "astrbot_plugin_setu",
@@ -100,23 +117,6 @@
     "version": "v1.0.9",
     "updated_at": "2026-04-18T22:47:58Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
-  },
-  "astrbot_plugin_adapter_watchdog": {
-    "name": "astrbot_plugin_adapter_watchdog",
-    "display_name": "未审核：适配器看门狗",
-    "desc": "监控平台适配器在线状态，掉线或恢复时向指定会话发送通知。",
-    "author": "Foolllll",
-    "repo": "https://github.com/Foolllll-J/astrbot_plugin_adapter_watchdog",
-    "tags": [
-      "掉线",
-      "QQ",
-      "监控"
-    ],
-    "social_link": "https://github.com/Foolllll-J",
-    "stars": 0,
-    "version": "v1.0",
-    "updated_at": "2026-04-18T12:51:12Z",
-    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
   },
   "astrbot_plugin_text_to_image": {
     "name": "astrbot_plugin_text_to_image",
