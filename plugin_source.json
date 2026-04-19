@@ -1,4 +1,50 @@
 {
+  "astrbot_plugin_remote_kb": {
+    "name": "astrbot_plugin_remote_kb",
+    "display_name": "未审核：远程知识库插件",
+    "desc": "将Astrbot知识库查询功能包装为HTTP服务，支持跨Astrbot实例的知识库共享与查询。服务端和客户端都需要安装",
+    "author": "elecvoid243",
+    "repo": "https://github.com/elecvoid243/astrbot_plugin_remote_kb",
+    "tags": [
+      "知识库",
+      "rag"
+    ],
+    "social_link": "https://github.com/elecvoid243",
+    "stars": 0,
+    "version": "1.1.0",
+    "updated_at": "2026-04-19T05:27:59Z"
+  },
+  "astrbot_plugin_rocom": {
+    "name": "astrbot_plugin_rocom",
+    "display_name": "未审核：洛克王国数据查询",
+    "desc": "基于 WeGame API 的洛克王国数据查询插件，支持扫码登录和凭证导入，涵盖档案、战绩、背包、查蛋配种等查询渲染。",
+    "author": "bvzrays & 熵增项目组",
+    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
+    "tags": [],
+    "social_link": "",
+    "stars": 13,
+    "version": "2.2.0",
+    "updated_at": "2026-04-19T04:37:12Z",
+    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
+  },
+  "astrbot_plugin_media_portal": {
+    "name": "astrbot_plugin_media_portal",
+    "display_name": "未审核：Media Portal",
+    "desc": "为 AI 与用户打造的多媒体门户：支持 AI 智能分类收藏，集成音视频预览播放与可视化管理的 AstrBot 插件",
+    "author": "Moudicat",
+    "repo": "https://github.com/Moudicat/astrbot_plugin_media_portal",
+    "tags": [
+      "多媒体",
+      "图片",
+      "视频",
+      "音乐"
+    ],
+    "social_link": "https://github.com/Moudicat",
+    "stars": 0,
+    "version": "v0.2.0",
+    "updated_at": "2026-04-19T04:12:42Z",
+    "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
+  },
   "astrbot_plugin_orangequiz": {
     "name": "astrbot_plugin_orangequiz",
     "display_name": "未审核：橘子问卷",
@@ -58,19 +104,6 @@
     "version": "v1.0.9",
     "updated_at": "2026-04-18T22:47:58Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
-  },
-  "astrbot_plugin_rocom": {
-    "name": "astrbot_plugin_rocom",
-    "display_name": "未审核：洛克王国数据查询",
-    "desc": "基于 WeGame API 的洛克王国数据查询插件，支持扫码登录和凭证导入，涵盖档案、战绩、背包、查蛋配种等查询渲染。",
-    "author": "bvzrays & 熵增项目组",
-    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
-    "tags": [],
-    "social_link": "",
-    "stars": 13,
-    "version": "2.0.0",
-    "updated_at": "2026-04-18T17:04:09Z",
-    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot_plugin": {
     "name": "astrbot_plugin",
