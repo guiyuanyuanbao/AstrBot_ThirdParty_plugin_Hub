@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_zhudongshiliao": {
+    "name": "astrbot_plugin_zhudongshiliao",
+    "display_name": "未审核：主动私聊",
+    "desc": "为ai提供了可以私聊的通道，可以通过语言让ai向特定的人或者群发送消息(包括转发消息，查询结果等，支持私聊-私聊，q群-私聊(由于模型有上下文所以这里直接叫要转发对象的nickname时ai会找到对方的qq进行发送)，私聊-q群)以及自定义报错和ai主动告状的功能",
+    "author": "引灯续昼",
+    "repo": "https://github.com/HLC2757808353/astrbot_plugin_zhudongshiliao",
+    "tags": [
+      "私发"
+    ],
+    "social_link": "https://github.com/HLC2757808353",
+    "stars": 0,
+    "version": "0.4.3",
+    "updated_at": "2026-04-19T16:08:11Z"
+  },
   "astrbot_plugin_media_portal": {
     "name": "astrbot_plugin_media_portal",
     "display_name": "未审核：Media Portal",
@@ -55,7 +69,7 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 15,
+    "stars": 16,
     "version": "2.2.0",
     "updated_at": "2026-04-19T13:59:09Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
@@ -1039,20 +1053,6 @@
     "stars": 5,
     "version": "0.1.7",
     "updated_at": "2026-03-31T14:38:55Z"
-  },
-  "astrbot_plugin_zhudongshiliao": {
-    "name": "astrbot_plugin_zhudongshiliao",
-    "display_name": "未审核：主动私聊",
-    "desc": "为ai提供了可以私聊的通道，可以通过语言让ai向特定的人或者群发送消息(包括转发消息，查询结果等，支持私聊-私聊，q群-私聊(由于模型有上下文所以这里直接叫要转发对象的nickname时ai会找到对方的qq进行发送)，私聊-q群)以及自定义报错和ai主动告状的功能",
-    "author": "引灯续昼",
-    "repo": "https://github.com/HLC2757808353/astrbot_plugin_zhudongshiliao",
-    "tags": [
-      "私发"
-    ],
-    "social_link": "https://github.com/HLC2757808353",
-    "stars": 0,
-    "version": "0.4.2",
-    "updated_at": "2026-03-31T09:52:15Z"
   },
   "astrbot_plugin_ctfpusher": {
     "name": "astrbot_plugin_ctfpusher",
