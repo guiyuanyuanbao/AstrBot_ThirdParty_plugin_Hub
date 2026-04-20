@@ -1,4 +1,49 @@
 {
+  "astrbot_plugin_setu": {
+    "name": "astrbot_plugin_setu",
+    "display_name": "未审核：瑟瑟！",
+    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
+    "tags": [
+      "瑟瑟",
+      "色图",
+      "setu",
+      "福利",
+      "色色",
+      "lolicon",
+      "sexyan",
+      "atri",
+      "图片",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 5,
+    "version": "v1.3.0",
+    "updated_at": "2026-04-20T20:03:29Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
+  },
+  "astrbot_plugin_deerpipe": {
+    "name": "astrbot_plugin_deerpipe",
+    "display_name": "未审核：鹿乃子月历",
+    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
+    "tags": [
+      "鹿乃子",
+      "鹿",
+      "🦌",
+      "🦌乃子",
+      "月历",
+      "打卡",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 3,
+    "version": "v1.0.9",
+    "updated_at": "2026-04-20T20:03:16Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
+  },
   "astrbot_plugin_media_portal": {
     "name": "astrbot_plugin_media_portal",
     "display_name": "未审核：Media Portal",
@@ -131,51 +176,6 @@
     "version": "v0.1.21",
     "updated_at": "2026-04-19T08:01:54Z",
     "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
-  },
-  "astrbot_plugin_setu": {
-    "name": "astrbot_plugin_setu",
-    "display_name": "未审核：瑟瑟！",
-    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
-    "tags": [
-      "瑟瑟",
-      "色图",
-      "setu",
-      "福利",
-      "色色",
-      "lolicon",
-      "sexyan",
-      "atri",
-      "图片",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 5,
-    "version": "v1.3.0",
-    "updated_at": "2026-04-18T23:00:02Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
-  },
-  "astrbot_plugin_deerpipe": {
-    "name": "astrbot_plugin_deerpipe",
-    "display_name": "未审核：鹿乃子月历",
-    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
-    "tags": [
-      "鹿乃子",
-      "鹿",
-      "🦌",
-      "🦌乃子",
-      "月历",
-      "打卡",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 3,
-    "version": "v1.0.9",
-    "updated_at": "2026-04-18T22:47:58Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
   },
   "astrbot_plugin_text_to_image": {
     "name": "astrbot_plugin_text_to_image",
@@ -359,22 +359,6 @@
     "stars": 0,
     "version": "v3.11.2",
     "updated_at": "2026-04-16T07:58:01Z"
-  },
-  "astrbot_plugin_memorypro": {
-    "name": "astrbot_plugin_memorypro",
-    "display_name": "未审核：MemoryPro",
-    "desc": "人格核心记忆增强：极简人格化总结版，让 AI 拥有持续且自然的日记感记录。",
-    "author": "DD",
-    "repo": "https://github.com/Doreen1016/astrbot_plugin_memorypro",
-    "tags": [
-      "记忆总结",
-      "人格化",
-      "情感"
-    ],
-    "social_link": "",
-    "stars": 3,
-    "version": "1.1.1",
-    "updated_at": "2026-04-16T06:03:01Z"
   },
   "astrbot_plugin_bilibililive_watcher": {
     "name": "astrbot_plugin_bilibililive_watcher",
