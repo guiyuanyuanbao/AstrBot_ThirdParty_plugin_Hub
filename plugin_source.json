@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_media_portal": {
+    "name": "astrbot_plugin_media_portal",
+    "display_name": "未审核：Media Portal",
+    "desc": "为 AI 与用户打造的多媒体门户：支持 AI 智能分类收藏，集成音视频预览播放与可视化管理的 AstrBot 插件",
+    "author": "Moudicat",
+    "repo": "https://github.com/Moudicat/astrbot_plugin_media_portal",
+    "tags": [
+      "多媒体",
+      "图片",
+      "视频",
+      "音乐"
+    ],
+    "social_link": "https://github.com/Moudicat",
+    "stars": 1,
+    "version": "v0.2.1",
+    "updated_at": "2026-04-20T03:37:38Z",
+    "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
+  },
   "astrbot_plugin_rocom": {
     "name": "astrbot_plugin_rocom",
     "display_name": "未审核：洛克王国数据查询",
@@ -40,24 +58,6 @@
     "stars": 0,
     "version": "0.4.3",
     "updated_at": "2026-04-19T16:08:11Z"
-  },
-  "astrbot_plugin_media_portal": {
-    "name": "astrbot_plugin_media_portal",
-    "display_name": "未审核：Media Portal",
-    "desc": "为 AI 与用户打造的多媒体门户：支持 AI 智能分类收藏，集成音视频预览播放与可视化管理的 AstrBot 插件",
-    "author": "Moudicat",
-    "repo": "https://github.com/Moudicat/astrbot_plugin_media_portal",
-    "tags": [
-      "多媒体",
-      "图片",
-      "视频",
-      "音乐"
-    ],
-    "social_link": "https://github.com/Moudicat",
-    "stars": 0,
-    "version": "v0.2.1",
-    "updated_at": "2026-04-19T15:30:49Z",
-    "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
   },
   "astrbot_plugin_adapter_watchdog": {
     "name": "astrbot_plugin_adapter_watchdog",
