@@ -1,4 +1,39 @@
 {
+  "astrbot_plugin_meme_manufacturer": {
+    "name": "astrbot_plugin_meme_manufacturer",
+    "display_name": "未审核：表情包制造厂",
+    "desc": "将QQ群友头像做成表情包的工具。可以做成gif，也可以做成静态表情，内置多种表情包，水群利器",
+    "author": "神秘嘉宾",
+    "repo": "https://github.com/zhajunyao/astrbot_plugin_meme_manufacturer",
+    "tags": [
+      "娱乐",
+      "表情包",
+      "互动",
+      "gif"
+    ],
+    "social_link": "https://github.com/zhajunyao",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-04-20T06:13:43Z",
+    "logo": "https://raw.githubusercontent.com/zhajunyao/astrbot_plugin_meme_manufacturer/main/logo.png"
+  },
+  "astrbot_plugin_adapter_watchdog": {
+    "name": "astrbot_plugin_adapter_watchdog",
+    "display_name": "未审核：适配器看门狗",
+    "desc": "监控平台适配器在线状态，掉线或恢复时将发送通知。",
+    "author": "Foolllll",
+    "repo": "https://github.com/Foolllll-J/astrbot_plugin_adapter_watchdog",
+    "tags": [
+      "掉线",
+      "QQ",
+      "监控"
+    ],
+    "social_link": "https://github.com/Foolllll-J",
+    "stars": 0,
+    "version": "v1.1",
+    "updated_at": "2026-04-20T06:11:40Z",
+    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
+  },
   "astrbot_plugin_media_portal": {
     "name": "astrbot_plugin_media_portal",
     "display_name": "未审核：Media Portal",
@@ -25,7 +60,7 @@
     "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
     "tags": [],
     "social_link": "",
-    "stars": 17,
+    "stars": 18,
     "version": "2.2.0",
     "updated_at": "2026-04-20T02:37:16Z",
     "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
@@ -58,23 +93,6 @@
     "stars": 0,
     "version": "0.4.3",
     "updated_at": "2026-04-19T16:08:11Z"
-  },
-  "astrbot_plugin_adapter_watchdog": {
-    "name": "astrbot_plugin_adapter_watchdog",
-    "display_name": "未审核：适配器看门狗",
-    "desc": "监控平台适配器在线状态，掉线或恢复时将发送通知。",
-    "author": "Foolllll",
-    "repo": "https://github.com/Foolllll-J/astrbot_plugin_adapter_watchdog",
-    "tags": [
-      "掉线",
-      "QQ",
-      "监控"
-    ],
-    "social_link": "https://github.com/Foolllll-J",
-    "stars": 0,
-    "version": "v1.1",
-    "updated_at": "2026-04-19T15:13:09Z",
-    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
   },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
@@ -476,24 +494,6 @@
     "updated_at": "2026-04-13T08:02:13Z",
     "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
   },
-  "astrbot_plugin_meme_manufacturer": {
-    "name": "astrbot_plugin_meme_manufacturer",
-    "display_name": "未审核：表情包制造厂",
-    "desc": "将QQ群友头像做成表情包的工具。可以做成gif，也可以做成静态表情，内置多种表情包，水群利器",
-    "author": "神秘嘉宾",
-    "repo": "https://github.com/zhajunyao/astrbot_plugin_meme_manufacturer",
-    "tags": [
-      "娱乐",
-      "表情包",
-      "互动",
-      "gif"
-    ],
-    "social_link": "https://github.com/zhajunyao",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-04-13T01:27:34Z",
-    "logo": "https://raw.githubusercontent.com/zhajunyao/astrbot_plugin_meme_manufacturer/main/logo.png"
-  },
   "astrbot_plugin_steam_watch_status": {
     "name": "astrbot_plugin_steam_watch_status",
     "display_name": "未审核：Steam 状态监控插件",
@@ -508,6 +508,21 @@
     "version": "v0.1.0",
     "updated_at": "2026-04-12T10:01:44Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_steam_watch_status/master/logo.png"
+  },
+  "astrbot_qq_to_local": {
+    "name": "astrbot_qq_to_local",
+    "display_name": "未审核：QQ群聊归档转发器",
+    "desc": "基于anka-afk / astrbot_sowing_discord二次开发，将QQ群聊消息自动归档成本地markdown文件，并且可选转发到其它qq群或者其他平台",
+    "author": "guiguisocute",
+    "repo": "https://github.com/guiguisocute/astrbot-QQtoLocal",
+    "tags": [
+      "本地归档",
+      "转发"
+    ],
+    "social_link": "https://github.com/guiguisocute",
+    "stars": 2,
+    "version": "1.2.0",
+    "updated_at": "2026-04-11T18:42:06Z"
   },
   "astrbot_plugin_minecraft_multi_monitor": {
     "name": "astrbot_plugin_minecraft_multi_monitor",
@@ -694,7 +709,7 @@
     "repo": "https://github.com/EterUltimate/astrbot_plugin_maibot_hijack",
     "tags": [],
     "social_link": "https://github.com/EterUltimate",
-    "stars": 2,
+    "stars": 1,
     "version": "2.0.0",
     "updated_at": "2026-04-06T03:50:53Z"
   },
