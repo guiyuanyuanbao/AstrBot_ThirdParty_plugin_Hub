@@ -1,18 +1,31 @@
 {
-  "astrbot_plugin_orangevibe": {
-    "name": "astrbot_plugin_orangevibe",
-    "display_name": "未审核：橘子鉴定",
-    "desc": "互动式成分鉴定插件，答题可生成AI专属锐评的海报，支持LLM辅助生成测试方案，分享结果至群聊还能探测同成分群友。",
-    "author": "largefox",
-    "repo": "https://github.com/largefox/astrbot_plugin_orangevibe",
+  "astrbot_plugin_rocom": {
+    "name": "astrbot_plugin_rocom",
+    "display_name": "未审核：洛克王国数据查询",
+    "desc": "基于熵增项目组API的洛克王国数据查询插件，支持远行商人 个人信息 精灵查询 交换大厅 图鉴 配队攻略等查询渲染。",
+    "author": "bvzrays & 熵增项目组",
+    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
+    "tags": [],
+    "social_link": "",
+    "stars": 17,
+    "version": "2.2.0",
+    "updated_at": "2026-04-20T02:37:16Z",
+    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
+  },
+  "astrbot_plugin_magnetic_info": {
+    "name": "astrbot_plugin_magnetic_info",
+    "display_name": "未审核：更好的磁链解析",
+    "desc": "更快，成功率更高，无需指令即可自动识别聊天中的 magnet 链接，生成预览消息（名称、文件数、大小，可选截图）",
+    "author": "Lin100101",
+    "repo": "https://github.com/Lin100101/astrbot_plugin_magnet_info",
     "tags": [
-      "成分鉴定",
-      "查成分"
+      "工具"
     ],
-    "social_link": "https://github.com/largefox/",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-19T19:37:46Z"
+    "social_link": "https://github.com/Lin100101",
+    "stars": 2,
+    "version": "v2.0.0",
+    "updated_at": "2026-04-20T01:33:47Z",
+    "logo": "https://raw.githubusercontent.com/Lin100101/astrbot_plugin_magnet_info/main/logo.png"
   },
   "astrbot_plugin_zhudongshiliao": {
     "name": "astrbot_plugin_zhudongshiliao",
@@ -75,19 +88,6 @@
     "version": "v2.3.7",
     "updated_at": "2026-04-19T14:19:51Z",
     "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
-  },
-  "astrbot_plugin_rocom": {
-    "name": "astrbot_plugin_rocom",
-    "display_name": "未审核：洛克王国数据查询",
-    "desc": "基于熵增项目组API的洛克王国数据查询插件，支持远行商人 个人信息 精灵查询 交换大厅 图鉴 配队攻略等查询渲染。",
-    "author": "bvzrays & 熵增项目组",
-    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
-    "tags": [],
-    "social_link": "",
-    "stars": 16,
-    "version": "2.2.0",
-    "updated_at": "2026-04-19T13:59:09Z",
-    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot_plugin_qiukan": {
     "name": "astrbot_plugin_qiukan",
@@ -525,22 +525,6 @@
     "stars": 0,
     "version": "0.1.0",
     "updated_at": "2026-04-11T08:37:40Z"
-  },
-  "astrbot_plugin_magnetic_link_analysis": {
-    "name": "astrbot_plugin_magnetic_link_analysis",
-    "display_name": "未审核：狐娘磁链解析",
-    "desc": "这是一个 AstrBot 磁力链接解析插件：无需指令即可自动识别聊天中的 magnet 链接，调用 whatslink.info 获取资源详情并生成预览消息（名称、文件数、大小，可选截图）。支持 QQ/OneBot 合并转发以减少刷屏，并提供截图加噪（可选）与截图安全下载限制。",
-    "author": "Lin100101",
-    "repo": "https://github.com/Lin100101/astrbot_plugin_magnetic_link_analysis",
-    "tags": [
-      "磁力链接",
-      "工具"
-    ],
-    "social_link": "https://github.com/Lin100101",
-    "stars": 2,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-10T12:42:23Z",
-    "logo": "https://raw.githubusercontent.com/Lin100101/astrbot_plugin_magnetic_link_analysis/main/logo.png"
   },
   "astrbot_plugin_vtube_studio": {
     "name": "astrbot_plugin_vtube_studio",
