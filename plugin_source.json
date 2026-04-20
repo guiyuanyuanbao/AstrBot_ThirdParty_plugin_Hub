@@ -1,17 +1,4 @@
 {
-  "astrbot_plugin_rocom": {
-    "name": "astrbot_plugin_rocom",
-    "display_name": "未审核：洛克王国数据查询",
-    "desc": "基于熵增项目组API的洛克王国数据查询插件，支持远行商人 个人信息 精灵查询 交换大厅 图鉴 配队攻略等查询渲染。",
-    "author": "bvzrays & 熵增项目组",
-    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
-    "tags": [],
-    "social_link": "",
-    "stars": 20,
-    "version": "2.2.1",
-    "updated_at": "2026-04-20T15:49:55Z",
-    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
-  },
   "astrbot_plugin_media_portal": {
     "name": "astrbot_plugin_media_portal",
     "display_name": "未审核：Media Portal",
@@ -26,9 +13,22 @@
     ],
     "social_link": "https://github.com/Moudicat",
     "stars": 1,
-    "version": "v0.2.2",
-    "updated_at": "2026-04-20T15:20:55Z",
+    "version": "v0.3.0",
+    "updated_at": "2026-04-20T16:49:21Z",
     "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
+  },
+  "astrbot_plugin_rocom": {
+    "name": "astrbot_plugin_rocom",
+    "display_name": "未审核：洛克王国数据查询",
+    "desc": "基于熵增项目组API的洛克王国数据查询插件，支持远行商人 个人信息 精灵查询 交换大厅 图鉴 配队攻略等查询渲染。",
+    "author": "bvzrays & 熵增项目组",
+    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
+    "tags": [],
+    "social_link": "",
+    "stars": 20,
+    "version": "2.2.1",
+    "updated_at": "2026-04-20T15:49:55Z",
+    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
