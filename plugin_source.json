@@ -1,4 +1,33 @@
 {
+  "astrbot_plugin_sensitive_word_monitor": {
+    "name": "astrbot_plugin_sensitive_word_monitor",
+    "display_name": "未审核：敏感词撤回插件",
+    "desc": "监测群聊的发言的合规 管理员权限可阶梯式禁言 下载即用 支持白名单控制 支持配置管理员私信提示  支持自定义敏感词 支持API远程检测 支持白名单",
+    "author": "JuanYi",
+    "repo": "https://github.com/juanyi6/astrbot_plugin_sensitive_word_monitor",
+    "tags": [
+      "撤回",
+      "敏感词"
+    ],
+    "social_link": "https://github.com/juanyi6",
+    "stars": 1,
+    "version": "v0.2.0",
+    "updated_at": "2026-04-21T05:09:54Z",
+    "logo": "https://raw.githubusercontent.com/juanyi6/astrbot_plugin_sensitive_word_monitor/main/logo.png"
+  },
+  "astrbot_plugin_qiukan": {
+    "name": "astrbot_plugin_qiukan",
+    "display_name": "未审核：骑砍英雄传",
+    "desc": "AI改的文字RPG游戏",
+    "author": "阿氰叔叔",
+    "repo": "https://github.com/Uncle-Clyde/astrbot_plugin_qiukan",
+    "tags": [],
+    "social_link": "https://github.com/Uncle-Clyde",
+    "stars": 0,
+    "version": "v0.1.21",
+    "updated_at": "2026-04-21T02:56:21Z",
+    "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
+  },
   "astrbot_plugin_topic_context": {
     "name": "astrbot_plugin_topic_context",
     "display_name": "未审核：织忆",
@@ -166,19 +195,6 @@
     "stars": 0,
     "version": "0.4.3",
     "updated_at": "2026-04-19T16:08:11Z"
-  },
-  "astrbot_plugin_qiukan": {
-    "name": "astrbot_plugin_qiukan",
-    "display_name": "未审核：骑砍英雄传",
-    "desc": "AI改的文字RPG游戏",
-    "author": "阿氰叔叔",
-    "repo": "https://github.com/Uncle-Clyde/astrbot_plugin_qiukan",
-    "tags": [],
-    "social_link": "https://github.com/Uncle-Clyde",
-    "stars": 0,
-    "version": "v0.1.21",
-    "updated_at": "2026-04-19T08:01:54Z",
-    "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
   },
   "astrbot_plugin_text_to_image": {
     "name": "astrbot_plugin_text_to_image",
@@ -476,22 +492,6 @@
     "version": "v1.4.0",
     "updated_at": "2026-04-13T08:02:13Z",
     "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
-  },
-  "astrbot_plugin_sensitive_word_monitor": {
-    "name": "astrbot_plugin_sensitive_word_monitor",
-    "display_name": "未审核：敏感词撤回插件",
-    "desc": "监测群聊的发言的合规 管理员权限可阶梯式禁言 下载即用 支持白名单控制 支持配置管理员私信提示  支持自定义敏感词 支持API远程检测 支持白名单",
-    "author": "JuanYi",
-    "repo": "https://github.com/juanyi6/astrbot_plugin_sensitive_word_monitor",
-    "tags": [
-      "撤回",
-      "敏感词"
-    ],
-    "social_link": "https://github.com/juanyi6",
-    "stars": 1,
-    "version": "v0.2.0",
-    "updated_at": "2026-04-13T05:56:04Z",
-    "logo": "https://raw.githubusercontent.com/juanyi6/astrbot_plugin_sensitive_word_monitor/main/logo.png"
   },
   "astrbot_plugin_steam_watch_status": {
     "name": "astrbot_plugin_steam_watch_status",
