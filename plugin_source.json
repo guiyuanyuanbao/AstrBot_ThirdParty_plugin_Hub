@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_topic_context": {
+    "name": "astrbot_plugin_topic_context",
+    "display_name": "未审核：织忆",
+    "desc": "基于主题的记忆组织与上下文管理。自动总结对话、按主题存储记忆、注入上下文，让 Bot 拥有跨会话记忆能力。",
+    "author": "TerryZ",
+    "repo": "https://github.com/tyz1994/astrbot_plugin_topic_context",
+    "tags": [
+      "记忆",
+      "上下文"
+    ],
+    "social_link": "https://github.com/tyz1994",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-04-20T23:53:43Z",
+    "logo": "https://raw.githubusercontent.com/tyz1994/astrbot_plugin_topic_context/master/logo.png"
+  },
   "astrbot_plugin_setu": {
     "name": "astrbot_plugin_setu",
     "display_name": "未审核：瑟瑟！",
@@ -61,19 +77,6 @@
     "version": "v0.3.0",
     "updated_at": "2026-04-20T16:49:21Z",
     "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
-  },
-  "astrbot_plugin_rocom": {
-    "name": "astrbot_plugin_rocom",
-    "display_name": "未审核：洛克王国数据查询",
-    "desc": "基于熵增项目组API的洛克王国数据查询插件，支持远行商人 个人信息 精灵查询 交换大厅 图鉴 配队攻略等查询渲染。",
-    "author": "bvzrays & 熵增项目组",
-    "repo": "https://github.com/Entropy-Increase-Team/astrbot_plugin_rocom",
-    "tags": [],
-    "social_link": "",
-    "stars": 20,
-    "version": "2.2.1",
-    "updated_at": "2026-04-20T15:49:55Z",
-    "logo": "https://raw.githubusercontent.com/Entropy-Increase-Team/astrbot_plugin_rocom/master/logo.png"
   },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
@@ -284,22 +287,6 @@
     "version": "1.1.1",
     "updated_at": "2026-04-17T04:24:52Z"
   },
-  "astrbot_plugin_topic_context": {
-    "name": "astrbot_plugin_topic_context",
-    "display_name": "未审核：织忆",
-    "desc": "基于主题的记忆组织与上下文管理。自动总结对话、按主题存储记忆、注入上下文，让 Bot 拥有跨会话记忆能力。",
-    "author": "TerryZ",
-    "repo": "https://github.com/tyz1994/astrbot_plugin_topic_context",
-    "tags": [
-      "记忆",
-      "上下文"
-    ],
-    "social_link": "https://github.com/tyz1994",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-16T23:28:53Z",
-    "logo": "https://raw.githubusercontent.com/tyz1994/astrbot_plugin_topic_context/master/logo.png"
-  },
   "astrbot_plugin_localmemes": {
     "name": "astrbot_plugin_localmemes",
     "display_name": "未审核：本地表情包",
@@ -489,6 +476,22 @@
     "version": "v1.4.0",
     "updated_at": "2026-04-13T08:02:13Z",
     "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
+  },
+  "astrbot_plugin_sensitive_word_monitor": {
+    "name": "astrbot_plugin_sensitive_word_monitor",
+    "display_name": "未审核：敏感词撤回插件",
+    "desc": "监测群聊的发言的合规 管理员权限可阶梯式禁言 下载即用 支持白名单控制 支持配置管理员私信提示  支持自定义敏感词 支持API远程检测 支持白名单",
+    "author": "JuanYi",
+    "repo": "https://github.com/juanyi6/astrbot_plugin_sensitive_word_monitor",
+    "tags": [
+      "撤回",
+      "敏感词"
+    ],
+    "social_link": "https://github.com/juanyi6",
+    "stars": 1,
+    "version": "v0.2.0",
+    "updated_at": "2026-04-13T05:56:04Z",
+    "logo": "https://raw.githubusercontent.com/juanyi6/astrbot_plugin_sensitive_word_monitor/main/logo.png"
   },
   "astrbot_plugin_steam_watch_status": {
     "name": "astrbot_plugin_steam_watch_status",
