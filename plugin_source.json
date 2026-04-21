@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_magneturi_info": {
+    "name": "astrbot_plugin_magneturi_info",
+    "display_name": "未审核：磁力狐侦探",
+    "desc": "更快，成功率更高，无需指令即可自动识别聊天中的 magnet 链接，生成预览消息（名称、文件数、大小，可选截图）",
+    "author": "Lin100101",
+    "repo": "https://github.com/Lin100101/astrbot_plugin_magnetURI_info",
+    "tags": [
+      "工具",
+      "磁力链接",
+      "磁链"
+    ],
+    "social_link": "https://github.com/Lin100101",
+    "stars": 2,
+    "version": "v2.0.0",
+    "updated_at": "2026-04-21T07:03:25Z",
+    "logo": "https://raw.githubusercontent.com/Lin100101/astrbot_plugin_magnetURI_info/main/logo.png"
+  },
   "astrbot_plugin_sensitive_word_monitor": {
     "name": "astrbot_plugin_sensitive_word_monitor",
     "display_name": "未审核：敏感词撤回插件",
@@ -166,21 +183,6 @@
     "version": "v1.1",
     "updated_at": "2026-04-20T06:11:40Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
-  },
-  "astrbot_plugin_magnetic_info": {
-    "name": "astrbot_plugin_magnetic_info",
-    "display_name": "未审核：更好的磁链解析",
-    "desc": "更快，成功率更高，无需指令即可自动识别聊天中的 magnet 链接，生成预览消息（名称、文件数、大小，可选截图）",
-    "author": "Lin100101",
-    "repo": "https://github.com/Lin100101/astrbot_plugin_magnet_info",
-    "tags": [
-      "工具"
-    ],
-    "social_link": "https://github.com/Lin100101",
-    "stars": 2,
-    "version": "v2.0.0",
-    "updated_at": "2026-04-20T01:33:47Z",
-    "logo": "https://raw.githubusercontent.com/Lin100101/astrbot_plugin_magnet_info/main/logo.png"
   },
   "astrbot_plugin_zhudongshiliao": {
     "name": "astrbot_plugin_zhudongshiliao",
