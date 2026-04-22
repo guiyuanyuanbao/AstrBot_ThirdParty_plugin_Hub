@@ -1,4 +1,25 @@
 {
+  "astrbot_plugin_cosplay_image_saver": {
+    "name": "astrbot_plugin_cosplay_image_saver",
+    "display_name": "未审核：女装图片保存助手",
+    "desc": "基于 AI 视觉模型的群聊图片智能保存插件。自动识别群友女装并存储，支持数据库持久化记录、自动去重、7 天数据清理。内置 SMTP 邮件推送和每日统计日报功能，支持多平台部署。",
+    "author": "WUHINS",
+    "repo": "https://github.com/WUHINS/astrbot_plugin_cosplay_image_saver",
+    "tags": [
+      "女装",
+      "图片",
+      "南梁",
+      "邮件",
+      "群聊",
+      "互动",
+      "恶趣"
+    ],
+    "social_link": "https://home.hinswu.top",
+    "stars": 2,
+    "version": "1.1.0",
+    "updated_at": "2026-04-22T16:34:27Z",
+    "logo": "https://raw.githubusercontent.com/WUHINS/astrbot_plugin_cosplay_image_saver/main/logo.png"
+  },
   "astrbot_plugin_nsjail": {
     "name": "astrbot_plugin_nsjail",
     "display_name": "未审核：NsJail 沙箱执行",
@@ -12,7 +33,7 @@
     "social_link": "https://github.com/ssttkkl",
     "stars": 0,
     "version": "0.1.0",
-    "updated_at": "2026-04-22T15:05:41Z"
+    "updated_at": "2026-04-22T15:52:22Z"
   },
   "astrbot_plugin_localmemes": {
     "name": "astrbot_plugin_localmemes",
@@ -1199,27 +1220,6 @@
     "version": "0.2.1",
     "updated_at": "2026-03-29T15:27:06Z",
     "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
-  },
-  "astrbot_plugin_cosplay_image_saver": {
-    "name": "astrbot_plugin_cosplay_image_saver",
-    "display_name": "未审核：女装图片保存助手",
-    "desc": "基于 AI 视觉模型的群聊图片智能保存插件。自动识别群友女装并存储，支持数据库持久化记录、自动去重、7 天数据清理。内置 SMTP 邮件推送和每日统计日报功能，支持多平台部署。",
-    "author": "WUHINS",
-    "repo": "https://github.com/WUHINS/astrbot_plugin_cosplay_image_saver",
-    "tags": [
-      "女装",
-      "图片",
-      "南梁",
-      "邮件",
-      "群聊",
-      "互动",
-      "恶趣"
-    ],
-    "social_link": "https://home.hinswu.top",
-    "stars": 2,
-    "version": "1.1.0",
-    "updated_at": "2026-03-29T14:18:59Z",
-    "logo": "https://raw.githubusercontent.com/WUHINS/astrbot_plugin_cosplay_image_saver/main/logo.png"
   },
   "astrbot_plugin_opensoftware": {
     "name": "astrbot_plugin_opensoftware",
