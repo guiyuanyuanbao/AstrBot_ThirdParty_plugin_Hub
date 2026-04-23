@@ -1,4 +1,38 @@
 {
+  "astrbot_plugin_monningsignin": {
+    "name": "astrbot_plugin_monningsignin",
+    "display_name": "未审核：莫宁宁的币",
+    "desc": "一个有趣而有深度的经济+好感度系统",
+    "author": "NumInvis",
+    "repo": "https://github.com/NumInvis/astrbot-plugin-monningsignin",
+    "tags": [
+      "经济",
+      "签到",
+      "好感度",
+      "世界观",
+      "股市"
+    ],
+    "social_link": "https://github.com/NumInvis",
+    "stars": 1,
+    "version": "v2.0.1",
+    "updated_at": "2026-04-23T07:32:56Z",
+    "logo": "https://raw.githubusercontent.com/NumInvis/astrbot-plugin-monningsignin/main/logo.png"
+  },
+  "astrbot_plugin_chatimitate": {
+    "name": "astrbot_plugin_chatimitate",
+    "display_name": "未审核：ChatImitate",
+    "desc": "这是一个 Astrbot 插件，旨在让 bot 从群聊记录中学习和模仿人类聊天，而不是使用AI生成内容",
+    "author": "EightEggs",
+    "repo": "https://github.com/EightEggs/astrbot_plugin_chatimitate",
+    "tags": [
+      "群聊学习"
+    ],
+    "social_link": "https://github.com/EightEggs",
+    "stars": 1,
+    "version": "v3.1.5",
+    "updated_at": "2026-04-23T07:03:44Z",
+    "logo": "https://raw.githubusercontent.com/EightEggs/astrbot_plugin_chatimitate/master/logo.png"
+  },
   "astrbot_plugin_qiukan": {
     "name": "astrbot_plugin_qiukan",
     "display_name": "未审核：骑砍英雄传",
@@ -9,7 +43,7 @@
     "social_link": "https://github.com/Uncle-Clyde",
     "stars": 0,
     "version": "v0.1.21",
-    "updated_at": "2026-04-22T19:45:33Z",
+    "updated_at": "2026-04-23T06:47:34Z",
     "logo": "https://raw.githubusercontent.com/Uncle-Clyde/astrbot_plugin_qiukan/master/logo.png"
   },
   "astrbot_plugin_cosplay_image_saver": {
@@ -381,7 +415,7 @@
     "repo": "https://github.com/SakuraYH1080/astrbot_plugin_smart_tutor",
     "tags": [],
     "social_link": "",
-    "stars": 0,
+    "stars": 2,
     "version": "1.0.0",
     "updated_at": "2026-04-16T13:24:11Z"
   },
@@ -602,21 +636,6 @@
     "version": "v1.4.0",
     "updated_at": "2026-04-09T08:36:20Z",
     "logo": "https://raw.githubusercontent.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday/master/logo.png"
-  },
-  "astrbot_plugin_chatimitate": {
-    "name": "astrbot_plugin_chatimitate",
-    "display_name": "未审核：ChatImitate",
-    "desc": "这是一个 Astrbot 插件，旨在让 bot 从群聊记录中学习和模仿人类聊天，而不是使用AI生成内容",
-    "author": "EightEggs",
-    "repo": "https://github.com/EightEggs/astrbot_plugin_chatimitate",
-    "tags": [
-      "群聊学习"
-    ],
-    "social_link": "https://github.com/EightEggs",
-    "stars": 1,
-    "version": "v3.1.4",
-    "updated_at": "2026-04-09T01:11:38Z",
-    "logo": "https://raw.githubusercontent.com/EightEggs/astrbot_plugin_chatimitate/master/logo.png"
   },
   "astrbot_plugin_keywords_miko": {
     "name": "astrbot_plugin_keywords_miko",
@@ -2374,25 +2393,6 @@
     "version": "1.0.0",
     "updated_at": "2026-03-14T14:21:30Z",
     "logo": "https://raw.githubusercontent.com/NumInvis/astrbot-plugin-ICanSeeTieba/main/logo.png"
-  },
-  "astrbot_plugin_monningsignin": {
-    "name": "astrbot_plugin_monningsignin",
-    "display_name": "未审核：莫宁宁的币",
-    "desc": "一个有趣而有深度的经济+好感度系统",
-    "author": "NumInvis",
-    "repo": "https://github.com/NumInvis/astrbot-plugin-monningsignin",
-    "tags": [
-      "经济",
-      "签到",
-      "好感度",
-      "世界观",
-      "股市"
-    ],
-    "social_link": "https://github.com/NumInvis",
-    "stars": 1,
-    "version": "v2.0.1",
-    "updated_at": "2026-03-14T14:17:26Z",
-    "logo": "https://raw.githubusercontent.com/NumInvis/astrbot-plugin-monningsignin/main/logo.png"
   },
   "astrbot_plugin_upload_yuanshennb": {
     "name": "astrbot_plugin_upload_yuanshennb",
