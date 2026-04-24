@@ -1,4 +1,16 @@
 {
+  "hermes": {
+    "name": "hermes",
+    "display_name": "未审核：Hermes适配器",
+    "desc": "Hermes Agent 适配器 (WebSocket 版本) - 实现 AstrBot 与 Hermes 的双向通信",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/abpl_hermes_spq",
+    "tags": [],
+    "social_link": "https://github.com/landamao",
+    "stars": 0,
+    "version": "v3.6.0",
+    "updated_at": "2026-04-24T04:36:10Z"
+  },
   "astrbot_plugin_zhudongshiliao": {
     "name": "astrbot_plugin_zhudongshiliao",
     "display_name": "未审核：主动私聊",
@@ -10,8 +22,8 @@
     ],
     "social_link": "https://github.com/HLC2757808353",
     "stars": 0,
-    "version": "0.6.7",
-    "updated_at": "2026-04-23T19:04:07Z"
+    "version": "0.6.8",
+    "updated_at": "2026-04-24T02:56:29Z"
   },
   "astrbot_plugin_steamstore_sniper": {
     "name": "astrbot_plugin_steamstore_sniper",
