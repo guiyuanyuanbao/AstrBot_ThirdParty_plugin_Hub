@@ -1,4 +1,35 @@
 {
+  "astrbot_plugin_ba_pvp_recorder": {
+    "name": "astrbot_plugin_ba_pvp_recorder",
+    "display_name": "未审核：Blue Archive 蔚蓝档案竞技场记录插件",
+    "desc": "自动调用 LLM 识别并记录指定群聊中的竞技场战报截图，同时提供对应的查询命令。",
+    "author": "yiktllw",
+    "repo": "https://github.com/yiktllw/astrbot_plugin_ba_pvp_recorder",
+    "tags": [
+      "1.0.0"
+    ],
+    "social_link": "https://github.com/yiktllw",
+    "stars": 0,
+    "version": "v0.2.3",
+    "updated_at": "2026-04-24T16:44:54Z"
+  },
+  "astrbot_plugin_bili_all_function": {
+    "name": "astrbot_plugin_bili_all_function",
+    "display_name": "未审核：全功能B站工具",
+    "desc": "B站链接解析 + UP主动态订阅。",
+    "author": "existyay",
+    "repo": "https://github.com/existyay/astrbot_plugin_bili_all_function",
+    "tags": [
+      "B站",
+      "解析",
+      "订阅",
+      "监控"
+    ],
+    "social_link": "https://github.com/existyay",
+    "stars": 0,
+    "version": "v0.2.1",
+    "updated_at": "2026-04-24T16:01:44Z"
+  },
   "astrbot_plugin_steamstore_sniper": {
     "name": "astrbot_plugin_steamstore_sniper",
     "display_name": "未审核：Steam 商店速查插件",
@@ -2984,23 +3015,6 @@
     "stars": 1,
     "version": "2.2.6",
     "updated_at": "2026-03-06T05:33:56Z"
-  },
-  "astrbot_plugin_bili_all_function": {
-    "name": "astrbot_plugin_bili_all_function",
-    "display_name": "未审核：全功能B站工具",
-    "desc": "B站链接解析 + UP主动态订阅。",
-    "author": "existyay",
-    "repo": "https://github.com/existyay/astrbot_plugin_bili_all_function",
-    "tags": [
-      "B站",
-      "解析",
-      "订阅",
-      "监控"
-    ],
-    "social_link": "https://github.com/existyay",
-    "stars": 0,
-    "version": "v0.2.1",
-    "updated_at": "2026-03-06T05:14:22Z"
   },
   "astrbot_plugin_mute": {
     "name": "astrbot_plugin_mute",
