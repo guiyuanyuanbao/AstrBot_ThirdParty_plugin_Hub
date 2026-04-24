@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_steamstore_sniper": {
+    "name": "astrbot_plugin_steamstore_sniper",
+    "display_name": "未审核：Steam 商店速查插件",
+    "desc": "无需登录账号即可通过 AppID 或商店链接快速查询 Steam 游戏信息，支持封面图、简介、多地区价格、分语言区评测。",
+    "author": "B2347",
+    "repo": "https://github.com/NorNeko/astrbot_plugin_steamstore_sniper",
+    "tags": [
+      "steam",
+      "解析",
+      "网页解析"
+    ],
+    "social_link": "https://github.com/NorNeko",
+    "stars": 0,
+    "version": "v0.2.0",
+    "updated_at": "2026-04-24T06:26:50Z",
+    "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steamstore_sniper/main/logo.png"
+  },
   "hermes": {
     "name": "hermes",
     "display_name": "未审核：Hermes适配器",
@@ -8,8 +25,8 @@
     "tags": [],
     "social_link": "https://github.com/landamao",
     "stars": 0,
-    "version": "v3.6.0",
-    "updated_at": "2026-04-24T04:36:10Z"
+    "version": "v3.6.1",
+    "updated_at": "2026-04-24T06:08:09Z"
   },
   "astrbot_plugin_zhudongshiliao": {
     "name": "astrbot_plugin_zhudongshiliao",
@@ -24,23 +41,6 @@
     "stars": 0,
     "version": "0.6.8",
     "updated_at": "2026-04-24T02:56:29Z"
-  },
-  "astrbot_plugin_steamstore_sniper": {
-    "name": "astrbot_plugin_steamstore_sniper",
-    "display_name": "未审核：Steam 商店速查插件",
-    "desc": "无需登录账号即可通过 AppID 或商店链接快速查询 Steam 游戏信息，支持封面图、简介、多地区价格、分语言区评测。",
-    "author": "B2347",
-    "repo": "https://github.com/NorNeko/astrbot_plugin_steamstore_sniper",
-    "tags": [
-      "steam",
-      "解析",
-      "网页解析"
-    ],
-    "social_link": "https://github.com/NorNeko",
-    "stars": 0,
-    "version": "v0.1.0",
-    "updated_at": "2026-04-23T18:41:44Z",
-    "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steamstore_sniper/main/logo.png"
   },
   "astrbot_plugin_llmsupport": {
     "name": "astrbot_plugin_llmsupport",
