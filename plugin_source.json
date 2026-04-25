@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_zhudongshiliao": {
+    "name": "astrbot_plugin_zhudongshiliao",
+    "display_name": "未审核：主动私聊",
+    "desc": "为ai提供了可以私聊的通道，可以通过语言让ai向特定的人或者群发送消息(包括转发消息，查询结果等，支持私聊-私聊，q群-私聊(由于模型有上下文所以这里直接叫要转发对象的nickname时ai会找到对方的qq进行发送)，私聊-q群)以及自定义报错和ai主动告状的功能",
+    "author": "引灯续昼",
+    "repo": "https://github.com/HLC2757808353/astrbot_plugin_zhudongshiliao",
+    "tags": [
+      "私发"
+    ],
+    "social_link": "https://github.com/HLC2757808353",
+    "stars": 0,
+    "version": "0.9.0",
+    "updated_at": "2026-04-25T08:01:22Z"
+  },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
     "display_name": "未审核：社交媒体链接自动解析插件",
@@ -92,20 +106,6 @@
     "stars": 0,
     "version": "v0.2.1",
     "updated_at": "2026-04-24T16:01:44Z"
-  },
-  "astrbot_plugin_zhudongshiliao": {
-    "name": "astrbot_plugin_zhudongshiliao",
-    "display_name": "未审核：主动私聊",
-    "desc": "为ai提供了可以私聊的通道，可以通过语言让ai向特定的人或者群发送消息(包括转发消息，查询结果等，支持私聊-私聊，q群-私聊(由于模型有上下文所以这里直接叫要转发对象的nickname时ai会找到对方的qq进行发送)，私聊-q群)以及自定义报错和ai主动告状的功能",
-    "author": "引灯续昼",
-    "repo": "https://github.com/HLC2757808353/astrbot_plugin_zhudongshiliao",
-    "tags": [
-      "私发"
-    ],
-    "social_link": "https://github.com/HLC2757808353",
-    "stars": 0,
-    "version": "0.6.8",
-    "updated_at": "2026-04-24T02:56:29Z"
   },
   "astrbot_plugin_llmsupport": {
     "name": "astrbot_plugin_llmsupport",
