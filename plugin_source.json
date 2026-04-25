@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_keywords_miko": {
+    "name": "astrbot_plugin_keywords_miko",
+    "display_name": "未审核：关键字回复系统",
+    "desc": "简易使用，支持多类型添加，持久化媒体文件内容，若设置不当注意存储空间爆炸。",
+    "author": "MIKOvOKM",
+    "repo": "https://github.com/MIKOvOKM/astrbot_plugin_keywords_miko",
+    "tags": [
+      "关键字回复"
+    ],
+    "social_link": "https://github.com/MIKOvOKM",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-04-25T17:26:32Z"
+  },
   "astrbot_plugin_nsjail": {
     "name": "astrbot_plugin_nsjail",
     "display_name": "未审核：NsJail 沙箱执行",
@@ -725,20 +739,6 @@
     "version": "v1.4.0",
     "updated_at": "2026-04-09T08:36:20Z",
     "logo": "https://raw.githubusercontent.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday/master/logo.png"
-  },
-  "astrbot_plugin_keywords_miko": {
-    "name": "astrbot_plugin_keywords_miko",
-    "display_name": "未审核：关键字回复系统",
-    "desc": "简易使用，支持多类型添加，持久化媒体文件内容，若设置不当注意存储空间爆炸。",
-    "author": "MIKOvOKM",
-    "repo": "https://github.com/MIKOvOKM/astrbot_plugin_keywords_miko",
-    "tags": [
-      "关键字回复"
-    ],
-    "social_link": "https://github.com/MIKOvOKM",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-08T20:05:13Z"
   },
   "astrbot_plugin_dg-lab": {
     "name": "astrbot_plugin_dg-lab",
