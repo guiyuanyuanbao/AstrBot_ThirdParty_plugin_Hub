@@ -1,4 +1,34 @@
 {
+  "astrbot_plugin_parserurl": {
+    "name": "astrbot_plugin_parserurl",
+    "display_name": "未审核：社交媒体链接自动解析插件",
+    "desc": "社交媒体分享链接解析插件。将A站、B站、抖音、小红书、微博...等网站的视频、图集、音频进行解析并发送",
+    "author": "Ishning",
+    "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
+    "tags": [],
+    "social_link": "https://github.com/Ishning",
+    "stars": 0,
+    "version": "v2.4.0",
+    "updated_at": "2026-04-25T07:03:15Z",
+    "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
+  },
+  "astrbot_plugin_steamstore_sniper": {
+    "name": "astrbot_plugin_steamstore_sniper",
+    "display_name": "未审核：Steam 商店速查插件",
+    "desc": "无需登录账号即可通过 AppID 或商店链接快速查询 Steam 游戏信息，支持封面图、简介、多地区价格、分语言区评测。",
+    "author": "B2347",
+    "repo": "https://github.com/NorNeko/astrbot_plugin_steamstore_sniper",
+    "tags": [
+      "steam",
+      "解析",
+      "网页解析"
+    ],
+    "social_link": "https://github.com/NorNeko",
+    "stars": 0,
+    "version": "v0.2.0",
+    "updated_at": "2026-04-25T06:14:54Z",
+    "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steamstore_sniper/main/logo.png"
+  },
   "hermes": {
     "name": "hermes",
     "display_name": "未审核：Hermes适配器",
@@ -62,23 +92,6 @@
     "stars": 0,
     "version": "v0.2.1",
     "updated_at": "2026-04-24T16:01:44Z"
-  },
-  "astrbot_plugin_steamstore_sniper": {
-    "name": "astrbot_plugin_steamstore_sniper",
-    "display_name": "未审核：Steam 商店速查插件",
-    "desc": "无需登录账号即可通过 AppID 或商店链接快速查询 Steam 游戏信息，支持封面图、简介、多地区价格、分语言区评测。",
-    "author": "B2347",
-    "repo": "https://github.com/NorNeko/astrbot_plugin_steamstore_sniper",
-    "tags": [
-      "steam",
-      "解析",
-      "网页解析"
-    ],
-    "social_link": "https://github.com/NorNeko",
-    "stars": 0,
-    "version": "v0.2.0",
-    "updated_at": "2026-04-24T06:26:50Z",
-    "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steamstore_sniper/main/logo.png"
   },
   "astrbot_plugin_zhudongshiliao": {
     "name": "astrbot_plugin_zhudongshiliao",
@@ -355,19 +368,6 @@
     "version": "v1.0.9",
     "updated_at": "2026-04-20T20:03:16Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
-  },
-  "astrbot_plugin_parserurl": {
-    "name": "astrbot_plugin_parserurl",
-    "display_name": "未审核：社交媒体链接自动解析插件",
-    "desc": "社交媒体分享链接解析插件。将A站、B站、抖音、小红书、微博...等网站的视频、图集、音频进行解析并发送",
-    "author": "Ishning",
-    "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
-    "tags": [],
-    "social_link": "https://github.com/Ishning",
-    "stars": 0,
-    "version": "v2.3.9",
-    "updated_at": "2026-04-20T12:45:43Z",
-    "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
   },
   "astrbot_plugin_maibot_hijack": {
     "name": "astrbot_plugin_maibot_hijack",
