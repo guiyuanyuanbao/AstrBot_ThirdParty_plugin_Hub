@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_nsjail": {
+    "name": "astrbot_plugin_nsjail",
+    "display_name": "未审核：NsJail 沙箱执行",
+    "desc": "为 AstrBot 提供安全的代码执行环境，专为 LLM Skill 执行设计。🎯 LLM 工具集成 | 🔒 多会话隔离 | 🚀 复用宿主软件 | ⚡ 资源限制 | 💾 跨会话持久化",
+    "author": "ssttkkl",
+    "repo": "https://github.com/ssttkkl/astrbot-plugin-nsjail",
+    "tags": [
+      "沙盒",
+      "代码执行"
+    ],
+    "social_link": "https://github.com/ssttkkl",
+    "stars": 0,
+    "version": "0.1.0",
+    "updated_at": "2026-04-25T15:35:33Z"
+  },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
     "display_name": "未审核：社交媒体链接自动解析插件",
@@ -203,21 +218,6 @@
     "version": "1.1.0",
     "updated_at": "2026-04-22T16:34:27Z",
     "logo": "https://raw.githubusercontent.com/WUHINS/astrbot_plugin_cosplay_image_saver/main/logo.png"
-  },
-  "astrbot_plugin_nsjail": {
-    "name": "astrbot_plugin_nsjail",
-    "display_name": "未审核：NsJail 沙箱执行",
-    "desc": "为 AstrBot 提供安全的代码执行环境，专为 LLM Skill 执行设计。🎯 LLM 工具集成 | 🔒 多会话隔离 | 🚀 复用宿主软件 | ⚡ 资源限制 | 💾 跨会话持久化",
-    "author": "ssttkkl",
-    "repo": "https://github.com/ssttkkl/astrbot-plugin-nsjail",
-    "tags": [
-      "沙盒",
-      "代码执行"
-    ],
-    "social_link": "https://github.com/ssttkkl",
-    "stars": 0,
-    "version": "0.1.0",
-    "updated_at": "2026-04-22T15:52:22Z"
   },
   "astrbot_plugin_localmemes": {
     "name": "astrbot_plugin_localmemes",
