@@ -3,13 +3,13 @@
     "name": "astrbot_plugin_offline_dev",
     "display_name": "未审核：离线技能开发框架 Offline Dev",
     "desc": "技能包热移植 + 安全异步执行 + Loop 模式（间隔/cron/模板）+ Web 仪表盘实时显示",
-    "author": "chenlihuasb",
-    "repo": "https://github.com/Mola-maker/astrbot_plugin_offline_dev.git",
+    "author": "Mola-maker",
+    "repo": "https://github.com/Mola-maker/astrbot_plugin_offline_dev",
     "tags": [],
     "social_link": "https://github.com/Mola-maker",
     "stars": 0,
     "version": "v0.4.0",
-    "updated_at": "2026-04-25T10:44:05Z"
+    "updated_at": "2026-04-25T11:06:25Z"
   },
   "astrbot_plugin_zhudongshiliao": {
     "name": "astrbot_plugin_zhudongshiliao",
