@@ -1,4 +1,33 @@
 {
+  "astrbot_plugin_api_rate_limiter": {
+    "name": "astrbot_plugin_api_rate_limiter",
+    "display_name": "未审核：astrbot_plugin_api_rate_limiter",
+    "desc": "",
+    "author": "xiaohondan",
+    "repo": "https://github.com/xiaohondan/astrbot_plugin_api_rate_limiter",
+    "tags": [],
+    "social_link": "https://github.com/xiaohondan",
+    "stars": 0,
+    "version": "1.0.1",
+    "updated_at": "2026-04-26T07:20:51Z"
+  },
+  "astrbot_plugin_steamstore_sniper": {
+    "name": "astrbot_plugin_steamstore_sniper",
+    "display_name": "未审核：Steam 商店速查插件",
+    "desc": "无需登录账号即可通过 AppID 或商店链接快速查询 Steam 游戏信息，支持封面图、简介、多地区价格、分语言区评测。",
+    "author": "B2347",
+    "repo": "https://github.com/NorNeko/astrbot_plugin_steamstore_sniper",
+    "tags": [
+      "steam",
+      "解析",
+      "网页解析"
+    ],
+    "social_link": "https://github.com/NorNeko",
+    "stars": 0,
+    "version": "v0.2.0",
+    "updated_at": "2026-04-26T06:01:33Z",
+    "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steamstore_sniper/main/logo.png"
+  },
   "astrbot_plugin_robomaster_assistant": {
     "name": "astrbot_plugin_robomaster_assistant",
     "display_name": "未审核：RoboMaster赛事助手",
@@ -101,23 +130,6 @@
     "stars": 0,
     "version": "0.9.0",
     "updated_at": "2026-04-25T08:01:22Z"
-  },
-  "astrbot_plugin_steamstore_sniper": {
-    "name": "astrbot_plugin_steamstore_sniper",
-    "display_name": "未审核：Steam 商店速查插件",
-    "desc": "无需登录账号即可通过 AppID 或商店链接快速查询 Steam 游戏信息，支持封面图、简介、多地区价格、分语言区评测。",
-    "author": "B2347",
-    "repo": "https://github.com/NorNeko/astrbot_plugin_steamstore_sniper",
-    "tags": [
-      "steam",
-      "解析",
-      "网页解析"
-    ],
-    "social_link": "https://github.com/NorNeko",
-    "stars": 0,
-    "version": "v0.2.0",
-    "updated_at": "2026-04-25T06:14:54Z",
-    "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steamstore_sniper/main/logo.png"
   },
   "hermes": {
     "name": "hermes",
