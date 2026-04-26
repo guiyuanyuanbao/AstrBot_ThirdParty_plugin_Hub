@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_robomaster_assistant": {
+    "name": "astrbot_plugin_robomaster_assistant",
+    "display_name": "未审核：RoboMaster赛事助手",
+    "desc": "提供 RoboMaster 规则手册检索、RM 官网公告监控和 RoboMaster 赛事状态通知。",
+    "author": "EmberLuo",
+    "repo": "https://github.com/CUBOT-robomaster/astrbot_plugin_robomaster_assistant",
+    "tags": [
+      "RoboMaster"
+    ],
+    "social_link": "https://github.com/CUBOT-robomaster",
+    "stars": 1,
+    "version": "0.5.0",
+    "updated_at": "2026-04-26T02:20:43Z"
+  },
   "astrbot_plugin_keywords_miko": {
     "name": "astrbot_plugin_keywords_miko",
     "display_name": "未审核：关键字回复系统",
