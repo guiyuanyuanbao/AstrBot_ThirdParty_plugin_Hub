@@ -1,4 +1,34 @@
 {
+  "astrbot_plugin_bilibili_ai_bot": {
+    "name": "astrbot_plugin_bilibili_ai_bot",
+    "display_name": "未审核：b站bot",
+    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
+    "author": "chenluQwQ",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
+    "tags": [
+      "bilibili",
+      "B站",
+      "评论回复",
+      "主动交互",
+      "语义记忆"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "1.1.2",
+    "updated_at": "2026-04-26T14:38:10Z"
+  },
+  "astrbot_plugin_api_rate_limiter": {
+    "name": "astrbot_plugin_api_rate_limiter",
+    "display_name": "未审核：API调用限频器",
+    "desc": "多功能API调用管理插件，包含调用间隔限制、次数限制加冷却重开、安静时段定时切断三大功能",
+    "author": "小红蛋",
+    "repo": "https://github.com/xiaohondan/astrbot_plugin_api_rate_limiter",
+    "tags": [],
+    "social_link": "https://github.com/xiaohondan",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-04-26T14:01:57Z"
+  },
   "astrbot_plugin_hide_ai_chatter": {
     "name": "astrbot_plugin_hide_ai_chatter",
     "display_name": "未审核：防止ai群友被tx封掉",
@@ -24,18 +54,6 @@
     "stars": 0,
     "version": "0.9.1",
     "updated_at": "2026-04-26T08:09:32Z"
-  },
-  "astrbot_plugin_api_rate_limiter": {
-    "name": "astrbot_plugin_api_rate_limiter",
-    "display_name": "未审核：astrbot_plugin_api_rate_limiter",
-    "desc": "",
-    "author": "xiaohondan",
-    "repo": "https://github.com/xiaohondan/astrbot_plugin_api_rate_limiter",
-    "tags": [],
-    "social_link": "https://github.com/xiaohondan",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-04-26T07:59:31Z"
   },
   "astrbot_plugin_steamstore_sniper": {
     "name": "astrbot_plugin_steamstore_sniper",
@@ -287,24 +305,6 @@
     "version": "v1.3.2",
     "updated_at": "2026-04-22T06:47:50Z",
     "logo": "https://raw.githubusercontent.com/WhiteCloudOL/astrbot_plugin_localmemes/master/logo.png"
-  },
-  "astrbot_plugin_bilibili_ai_bot": {
-    "name": "astrbot_plugin_bilibili_ai_bot",
-    "display_name": "未审核：b站bot",
-    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
-    "author": "chenluQwQ",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
-    "tags": [
-      "bilibili",
-      "B站",
-      "评论回复",
-      "主动交互",
-      "语义记忆"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "1.1.1",
-    "updated_at": "2026-04-22T05:40:12Z"
   },
   "astrbot_plugin_monixiuxianv3": {
     "name": "astrbot_plugin_monixiuxianv3",
