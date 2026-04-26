@@ -1,4 +1,30 @@
 {
+  "astrbot_plugin_hide_ai_chatter": {
+    "name": "astrbot_plugin_hide_ai_chatter",
+    "display_name": "未审核：防止ai群友被tx封掉",
+    "desc": "tx限制了AIGC在群聊的使用，故开发此插件，将llm输出转化为为文本。",
+    "author": "c1f5d2dd",
+    "repo": "https://github.com/C1F5D2DD/HideAIChatter.git",
+    "tags": [],
+    "social_link": "https://github.com/C1F5D2DD",
+    "stars": 0,
+    "version": "v1.1",
+    "updated_at": "2026-04-26T08:25:29Z"
+  },
+  "astrbot_plugin_zhudongshiliao": {
+    "name": "astrbot_plugin_zhudongshiliao",
+    "display_name": "未审核：主动私聊",
+    "desc": "为ai提供了可以私聊的通道，可以通过语言让ai向特定的人或者群发送消息(包括转发消息，查询结果等，支持私聊-私聊，q群-私聊(由于模型有上下文所以这里直接叫要转发对象的nickname时ai会找到对方的qq进行发送)，私聊-q群)以及自定义报错和ai主动告状的功能",
+    "author": "引灯续昼",
+    "repo": "https://github.com/HLC2757808353/astrbot_plugin_zhudongshiliao",
+    "tags": [
+      "私发"
+    ],
+    "social_link": "https://github.com/HLC2757808353",
+    "stars": 0,
+    "version": "0.9.1",
+    "updated_at": "2026-04-26T08:09:32Z"
+  },
   "astrbot_plugin_api_rate_limiter": {
     "name": "astrbot_plugin_api_rate_limiter",
     "display_name": "未审核：astrbot_plugin_api_rate_limiter",
@@ -8,8 +34,8 @@
     "tags": [],
     "social_link": "https://github.com/xiaohondan",
     "stars": 0,
-    "version": "1.0.1",
-    "updated_at": "2026-04-26T07:20:51Z"
+    "version": "1.0.0",
+    "updated_at": "2026-04-26T07:59:31Z"
   },
   "astrbot_plugin_steamstore_sniper": {
     "name": "astrbot_plugin_steamstore_sniper",
@@ -116,20 +142,6 @@
     "stars": 0,
     "version": "v0.4.0",
     "updated_at": "2026-04-25T11:06:25Z"
-  },
-  "astrbot_plugin_zhudongshiliao": {
-    "name": "astrbot_plugin_zhudongshiliao",
-    "display_name": "未审核：主动私聊",
-    "desc": "为ai提供了可以私聊的通道，可以通过语言让ai向特定的人或者群发送消息(包括转发消息，查询结果等，支持私聊-私聊，q群-私聊(由于模型有上下文所以这里直接叫要转发对象的nickname时ai会找到对方的qq进行发送)，私聊-q群)以及自定义报错和ai主动告状的功能",
-    "author": "引灯续昼",
-    "repo": "https://github.com/HLC2757808353/astrbot_plugin_zhudongshiliao",
-    "tags": [
-      "私发"
-    ],
-    "social_link": "https://github.com/HLC2757808353",
-    "stars": 0,
-    "version": "0.9.0",
-    "updated_at": "2026-04-25T08:01:22Z"
   },
   "hermes": {
     "name": "hermes",
@@ -2571,18 +2583,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-03-13T17:17:31Z"
-  },
-  "astrbot_plugin_hide_ai_chatter": {
-    "name": "astrbot_plugin_hide_ai_chatter",
-    "display_name": "未审核：防止ai群友被tx封掉",
-    "desc": "tx限制了AIGC在群聊的使用，故开发此插件，将llm输出转化为为文本。",
-    "author": "c1f5d2dd",
-    "repo": "https://github.com/C1F5D2DD/HideAIChatter.git",
-    "tags": [],
-    "social_link": "https://github.com/C1F5D2DD",
-    "stars": 0,
-    "version": "v1.0",
-    "updated_at": "2026-03-13T16:41:08Z"
   },
   "astrbot_plugin_qfwy-mofang": {
     "name": "astrbot_plugin_qfwy-mofang",
