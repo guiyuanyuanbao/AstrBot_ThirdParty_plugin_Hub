@@ -1,44 +1,4 @@
 {
-  "astrbot_plugin_omnidraw": {
-    "name": "astrbot_plugin_omnidraw",
-    "display_name": "未审核：万象画卷",
-    "desc": "占用低、速度快、配置简洁、质量高的生图插件。支持文生图与图生图、人设自拍；兼容openai；支持 LLM 工具自然调用、指令直接出图、使用权限管理（QQ）。新增视频生成，采用静默幽灵式获取。拥有强大的副脑（提示词优化）功能",
-    "author": "雪碧bir",
-    "repo": "https://github.com/diaomin66/astrbot_plugin_omnidraw/",
-    "tags": [
-      "生图",
-      "视频",
-      "文生图",
-      "图生图",
-      "异步视频",
-      "人设自拍",
-      "模型热切换",
-      "提示词优化"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "0.6.0",
-    "updated_at": "2026-04-26T11:34:15Z",
-    "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
-  },
-  "astrbot_plugin_essentials": {
-    "name": "astrbot_plugin_essentials",
-    "display_name": "未审核：Essentials",
-    "desc": "一款集成权限、经济、安全、管理功能的 AstrBot 基础插件。",
-    "author": "季楠",
-    "repo": "https://github.com/CPJiNan/astrbot_plugin_essentials",
-    "tags": [
-      "权限",
-      "经济",
-      "安全",
-      "管理"
-    ],
-    "social_link": "https://github.com/CPJiNan",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-26T11:23:03Z",
-    "logo": "https://raw.githubusercontent.com/CPJiNan/astrbot_plugin_essentials/main/logo.png"
-  },
   "astrbot_plugin_hide_ai_chatter": {
     "name": "astrbot_plugin_hide_ai_chatter",
     "display_name": "未审核：防止ai群友被tx封掉",
@@ -924,22 +884,6 @@
     "version": "v1.0.1",
     "updated_at": "2026-04-06T05:20:00Z"
   },
-  "astrbot_plugin_hardworking": {
-    "name": "astrbot_plugin_hardworking",
-    "display_name": "未审核：防摸鱼水群",
-    "desc": "一个可以让bot在你想水群的时候提醒你不要水群的插件",
-    "author": "Waterwzy",
-    "repo": "https://github.com/Waterwzy/astrbot_plugin_hardworking",
-    "tags": [
-      "自律",
-      "努力"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-05T10:14:11Z",
-    "logo": "https://raw.githubusercontent.com/Waterwzy/astrbot_plugin_hardworking/master/logo.png"
-  },
   "astrbot_plugin_weibo_push": {
     "name": "astrbot_plugin_weibo_push",
     "display_name": "未审核：微博推送助手",
@@ -1245,23 +1189,6 @@
     "stars": 0,
     "version": "1.8.6",
     "updated_at": "2026-03-31T17:13:12Z"
-  },
-  "astrbot_plugin_skills_mcp_manager": {
-    "name": "astrbot_plugin_skills_mcp_manager",
-    "display_name": "未审核：Skills & MCP 管理器",
-    "desc": "为astrbot提供函数工具和指令来管理 AstrBot Skills 和 MCP 服务器。",
-    "author": "piexian",
-    "repo": "https://github.com/piexian/astrbot_plugin_skills_mcp_manager",
-    "tags": [
-      "工具",
-      "管理",
-      "mcp",
-      "skills"
-    ],
-    "social_link": "https://github.com/piexian",
-    "stars": 5,
-    "version": "0.1.7",
-    "updated_at": "2026-03-31T14:38:55Z"
   },
   "astrbot_plugin_ctfpusher": {
     "name": "astrbot_plugin_ctfpusher",
