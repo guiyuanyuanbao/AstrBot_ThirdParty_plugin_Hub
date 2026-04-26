@@ -17,8 +17,8 @@
     ],
     "social_link": "",
     "stars": 1,
-    "version": "0.5.0",
-    "updated_at": "2026-04-26T10:44:44Z",
+    "version": "0.6.0",
+    "updated_at": "2026-04-26T11:34:15Z",
     "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_omnidraw/main/logo.png"
   },
   "astrbot_plugin_essentials": {
@@ -36,7 +36,7 @@
     "social_link": "https://github.com/CPJiNan",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-04-26T10:00:36Z",
+    "updated_at": "2026-04-26T11:23:03Z",
     "logo": "https://raw.githubusercontent.com/CPJiNan/astrbot_plugin_essentials/main/logo.png"
   },
   "astrbot_plugin_hide_ai_chatter": {
