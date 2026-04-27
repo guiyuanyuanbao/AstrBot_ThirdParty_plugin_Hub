@@ -1,20 +1,4 @@
 {
-  "astrbot_plugin_bookshelf": {
-    "name": "astrbot_plugin_bookshelf",
-    "display_name": "未审核：书架系统",
-    "desc": "上传书籍文本，按章节切分存储，支持书架、目录、读章节、阅读进度、笔记、读后感、共读面板。",
-    "author": "沈砚清",
-    "repo": "https://github.com/yussica1016/astrbot_plugin_bookshelf",
-    "tags": [
-      "阅读",
-      "书籍",
-      "书架"
-    ],
-    "social_link": "",
-    "stars": 2,
-    "version": "2.0.0",
-    "updated_at": "2026-04-27T13:11:34Z"
-  },
   "astrbot_plugin_home_state": {
     "name": "astrbot_plugin_home_state",
     "display_name": "未审核：房间状态管理",
@@ -30,7 +14,53 @@
     "social_link": "",
     "stars": 2,
     "version": "1.1.0",
-    "updated_at": "2026-04-27T13:11:33Z"
+    "updated_at": "2026-04-27T15:21:27Z"
+  },
+  "astrbot_plugin_group_context_advanced": {
+    "name": "astrbot_plugin_group_context_advanced",
+    "display_name": "未审核：群聊上下文感知增强",
+    "desc": "更优雅的群聊上下文管理，全面替代内置的“群聊上下文感知”功能，支持更灵活的上下文控制、图片识别、合并转发分析。",
+    "author": "Fold",
+    "repo": "https://github.com/FFFold/astrbot_plugin_group_context_advanced",
+    "tags": [
+      "群聊",
+      "上下文"
+    ],
+    "social_link": "https://github.com/FFFold",
+    "stars": 0,
+    "version": "v0.1.0",
+    "updated_at": "2026-04-27T15:14:09Z"
+  },
+  "astrbot_qq_to_local": {
+    "name": "astrbot_qq_to_local",
+    "display_name": "未审核：QQ群聊归档转发器",
+    "desc": "基于anka-afk / astrbot_sowing_discord二次开发，将QQ群聊消息自动归档成本地markdown文件，并且可选转发到其它qq群或者其他平台",
+    "author": "guiguisocute",
+    "repo": "https://github.com/guiguisocute/astrbot-QQtoLocal",
+    "tags": [
+      "本地归档",
+      "转发"
+    ],
+    "social_link": "https://github.com/guiguisocute",
+    "stars": 2,
+    "version": "1.2.0",
+    "updated_at": "2026-04-27T14:38:10Z"
+  },
+  "astrbot_plugin_bookshelf": {
+    "name": "astrbot_plugin_bookshelf",
+    "display_name": "未审核：书架系统",
+    "desc": "上传书籍文本，按章节切分存储，支持书架、目录、读章节、阅读进度、笔记、读后感、共读面板。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_plugin_bookshelf",
+    "tags": [
+      "阅读",
+      "书籍",
+      "书架"
+    ],
+    "social_link": "",
+    "stars": 2,
+    "version": "2.0.0",
+    "updated_at": "2026-04-27T13:11:34Z"
   },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
@@ -67,23 +97,6 @@
     "version": "v0.3.1",
     "updated_at": "2026-04-27T11:48:19Z",
     "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
-  },
-  "astrbot_plugin_steamstore_sniper": {
-    "name": "astrbot_plugin_steamstore_sniper",
-    "display_name": "未审核：Steam 商店速查插件",
-    "desc": "无需登录账号即可通过 AppID 或商店链接快速查询 Steam 游戏信息，支持封面图、简介、多地区价格、分语言区评测。",
-    "author": "B2347",
-    "repo": "https://github.com/NorNeko/astrbot_plugin_steamstore_sniper",
-    "tags": [
-      "steam",
-      "解析",
-      "网页解析"
-    ],
-    "social_link": "https://github.com/NorNeko",
-    "stars": 0,
-    "version": "v0.3.5",
-    "updated_at": "2026-04-27T11:37:21Z",
-    "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steamstore_sniper/main/logo.png"
   },
   "astrbot_plugin_tts_sanitizer_bilingual": {
     "name": "astrbot_plugin_tts_sanitizer_bilingual",
@@ -775,21 +788,6 @@
     "version": "v0.1.0",
     "updated_at": "2026-04-12T10:01:44Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_steam_watch_status/master/logo.png"
-  },
-  "astrbot_qq_to_local": {
-    "name": "astrbot_qq_to_local",
-    "display_name": "未审核：QQ群聊归档转发器",
-    "desc": "基于anka-afk / astrbot_sowing_discord二次开发，将QQ群聊消息自动归档成本地markdown文件，并且可选转发到其它qq群或者其他平台",
-    "author": "guiguisocute",
-    "repo": "https://github.com/guiguisocute/astrbot-QQtoLocal",
-    "tags": [
-      "本地归档",
-      "转发"
-    ],
-    "social_link": "https://github.com/guiguisocute",
-    "stars": 2,
-    "version": "1.2.0",
-    "updated_at": "2026-04-11T18:42:06Z"
   },
   "astrbot_plugin_minecraft_multi_monitor": {
     "name": "astrbot_plugin_minecraft_multi_monitor",
