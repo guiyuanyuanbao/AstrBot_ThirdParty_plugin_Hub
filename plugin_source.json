@@ -16,18 +16,6 @@
     "updated_at": "2026-04-27T05:37:06Z",
     "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steamstore_sniper/main/logo.png"
   },
-  "astrbot_plugin_api_rate_limiter": {
-    "name": "astrbot_plugin_api_rate_limiter",
-    "display_name": "未审核：astrbot_plugin_api_rate_limiter",
-    "desc": "多功能API调用管理插件，包含调用间隔限制、次数限制加冷却重开、安静时段定时切断三大功能",
-    "author": "小红蛋",
-    "repo": "https://github.com/xiaohondan/astrbot_plugin_api_rate_limiter",
-    "tags": [],
-    "social_link": "https://github.com/xiaohondan",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-04-27T04:25:55Z"
-  },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
     "display_name": "未审核：b站bot",
@@ -72,19 +60,37 @@
     "version": "0.9.1",
     "updated_at": "2026-04-26T08:09:32Z"
   },
-  "astrbot_plugin_robomaster_assistant": {
-    "name": "astrbot_plugin_robomaster_assistant",
-    "display_name": "未审核：RoboMaster赛事助手",
-    "desc": "提供 RoboMaster 规则手册检索、RM 官网公告监控和 RoboMaster 赛事状态通知。",
-    "author": "EmberLuo",
-    "repo": "https://github.com/CUBOT-robomaster/astrbot_plugin_robomaster_assistant",
+  "astrbot_plugin_memory_system": {
+    "name": "astrbot_plugin_memory_system",
+    "display_name": "未审核：综合记忆管理系统（初级版）",
+    "desc": "综合记忆管理系统（初级版）。基于遗忘曲线和情绪效价的记忆管理，能存、能忘、能自己浮上来。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_plugin_memory_system",
     "tags": [
-      "RoboMaster"
+      "记忆",
+      "遗忘曲线",
+      "情绪"
     ],
-    "social_link": "https://github.com/CUBOT-robomaster",
-    "stars": 1,
-    "version": "0.5.0",
-    "updated_at": "2026-04-26T03:31:29Z"
+    "social_link": "",
+    "stars": 2,
+    "version": "1.0.0",
+    "updated_at": "2026-04-26T07:28:28Z"
+  },
+  "astrbot_plugin_dream": {
+    "name": "astrbot_plugin_dream",
+    "display_name": "未审核：做梦系统",
+    "desc": "做梦系统插件。每天自动从对话记忆和知识库中提取素材，生成诗意梦境。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_plugin_dream",
+    "tags": [
+      "梦境",
+      "自动化",
+      "诗意"
+    ],
+    "social_link": "",
+    "stars": 4,
+    "version": "1.0.0",
+    "updated_at": "2026-04-26T07:22:50Z"
   },
   "astrbot_plugin_keywords_miko": {
     "name": "astrbot_plugin_keywords_miko",
@@ -99,6 +105,55 @@
     "stars": 0,
     "version": "v1.1.0",
     "updated_at": "2026-04-25T22:42:11Z"
+  },
+  "astrbot_plugin_home_state": {
+    "name": "astrbot_plugin_home_state",
+    "display_name": "未审核：房间状态管理",
+    "desc": "房间状态管理插件。为AI提供场景化的环境描写和状态感知。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_plugin_home_state",
+    "tags": [
+      "房间",
+      "状态",
+      "场景",
+      "环境"
+    ],
+    "social_link": "",
+    "stars": 2,
+    "version": "1.0.0",
+    "updated_at": "2026-04-25T21:49:59Z"
+  },
+  "astrbot_plugin_bookshelf": {
+    "name": "astrbot_plugin_bookshelf",
+    "display_name": "未审核：书架系统",
+    "desc": "书架系统插件。管理在读/已读/想读书籍，支持阅读进度跟踪和书评。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_plugin_bookshelf",
+    "tags": [
+      "阅读",
+      "书籍",
+      "书架"
+    ],
+    "social_link": "",
+    "stars": 2,
+    "version": "2.0.0",
+    "updated_at": "2026-04-25T21:49:56Z"
+  },
+  "astrbot_context_injection_system": {
+    "name": "astrbot_context_injection_system",
+    "display_name": "未审核：上下文注入系统（3合1）",
+    "desc": "上下文注入系统（3合1）。包含记忆管理、记忆管理器、环境感知三个子插件。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_context_injection_system",
+    "tags": [
+      "上下文",
+      "记忆",
+      "环境感知"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "v0.0.0",
+    "updated_at": "2026-04-25T21:49:54Z"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
