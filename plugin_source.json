@@ -1,37 +1,36 @@
 {
-  "astrbot_plugin_media_portal": {
-    "name": "astrbot_plugin_media_portal",
-    "display_name": "未审核：Media Portal",
-    "desc": "为 AI 与用户打造的多媒体门户：支持 AI 智能分类收藏，集成音视频预览播放与可视化管理的 AstrBot 插件",
-    "author": "Moudicat",
-    "repo": "https://github.com/Moudicat/astrbot_plugin_media_portal",
+  "astrbot_plugin_bookshelf": {
+    "name": "astrbot_plugin_bookshelf",
+    "display_name": "未审核：书架系统",
+    "desc": "上传书籍文本，按章节切分存储，支持书架、目录、读章节、阅读进度、笔记、读后感、共读面板。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_plugin_bookshelf",
     "tags": [
-      "多媒体",
-      "图片",
-      "视频",
-      "音乐"
+      "阅读",
+      "书籍",
+      "书架"
     ],
-    "social_link": "https://github.com/Moudicat",
-    "stars": 1,
-    "version": "v0.3.1",
-    "updated_at": "2026-04-27T10:36:27Z",
-    "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
+    "social_link": "",
+    "stars": 2,
+    "version": "2.0.0",
+    "updated_at": "2026-04-27T13:11:34Z"
   },
-  "astrbot_plugin_tts_sanitizer_bilingual": {
-    "name": "astrbot_plugin_tts_sanitizer_bilingual",
-    "display_name": "未审核：tts外语朗读",
-    "desc": "TTS文本过滤插件 - 支持双语TTS、语音Tool、MiniMax停顿标记，基于柯尔的tts_sanitizer扩展",
-    "author": "柠弥",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual",
+  "astrbot_plugin_home_state": {
+    "name": "astrbot_plugin_home_state",
+    "display_name": "未审核：房间状态管理",
+    "desc": "为 AI 提供房间状态切换、场景 prompt 注入、休息模式硬拦截和宠物互动。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_plugin_home_state",
     "tags": [
-      "tts",
-      "翻译"
+      "房间",
+      "状态",
+      "场景",
+      "环境"
     ],
-    "social_link": "https://github.com/chenluQwQ",
-    "stars": 0,
-    "version": "v1.4.0",
-    "updated_at": "2026-04-27T09:21:11Z",
-    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
+    "social_link": "",
+    "stars": 2,
+    "version": "1.1.0",
+    "updated_at": "2026-04-27T13:11:33Z"
   },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
@@ -49,7 +48,25 @@
     "social_link": "",
     "stars": 0,
     "version": "1.1.2",
-    "updated_at": "2026-04-27T09:00:15Z"
+    "updated_at": "2026-04-27T13:09:30Z"
+  },
+  "astrbot_plugin_media_portal": {
+    "name": "astrbot_plugin_media_portal",
+    "display_name": "未审核：Media Portal",
+    "desc": "为 AI 与用户打造的多媒体门户：支持 AI 智能分类收藏，集成音视频预览播放与可视化管理的 AstrBot 插件",
+    "author": "Moudicat",
+    "repo": "https://github.com/Moudicat/astrbot_plugin_media_portal",
+    "tags": [
+      "多媒体",
+      "图片",
+      "视频",
+      "音乐"
+    ],
+    "social_link": "https://github.com/Moudicat",
+    "stars": 1,
+    "version": "v0.3.1",
+    "updated_at": "2026-04-27T11:48:19Z",
+    "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
   },
   "astrbot_plugin_steamstore_sniper": {
     "name": "astrbot_plugin_steamstore_sniper",
@@ -64,9 +81,25 @@
     ],
     "social_link": "https://github.com/NorNeko",
     "stars": 0,
-    "version": "v0.2.0",
-    "updated_at": "2026-04-27T05:37:06Z",
+    "version": "v0.3.5",
+    "updated_at": "2026-04-27T11:37:21Z",
     "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steamstore_sniper/main/logo.png"
+  },
+  "astrbot_plugin_tts_sanitizer_bilingual": {
+    "name": "astrbot_plugin_tts_sanitizer_bilingual",
+    "display_name": "未审核：tts外语朗读",
+    "desc": "TTS文本过滤插件 - 支持双语TTS、语音Tool、MiniMax停顿标记，基于柯尔的tts_sanitizer扩展",
+    "author": "柠弥",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual",
+    "tags": [
+      "tts",
+      "翻译"
+    ],
+    "social_link": "https://github.com/chenluQwQ",
+    "stars": 0,
+    "version": "v1.4.0",
+    "updated_at": "2026-04-27T09:21:11Z",
+    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
   },
   "astrbot_plugin_hide_ai_chatter": {
     "name": "astrbot_plugin_hide_ai_chatter",
@@ -139,39 +172,6 @@
     "stars": 0,
     "version": "v1.1.0",
     "updated_at": "2026-04-25T22:42:11Z"
-  },
-  "astrbot_plugin_home_state": {
-    "name": "astrbot_plugin_home_state",
-    "display_name": "未审核：房间状态管理",
-    "desc": "房间状态管理插件。为AI提供场景化的环境描写和状态感知。",
-    "author": "沈砚清",
-    "repo": "https://github.com/yussica1016/astrbot_plugin_home_state",
-    "tags": [
-      "房间",
-      "状态",
-      "场景",
-      "环境"
-    ],
-    "social_link": "",
-    "stars": 2,
-    "version": "1.0.0",
-    "updated_at": "2026-04-25T21:49:59Z"
-  },
-  "astrbot_plugin_bookshelf": {
-    "name": "astrbot_plugin_bookshelf",
-    "display_name": "未审核：书架系统",
-    "desc": "书架系统插件。管理在读/已读/想读书籍，支持阅读进度跟踪和书评。",
-    "author": "沈砚清",
-    "repo": "https://github.com/yussica1016/astrbot_plugin_bookshelf",
-    "tags": [
-      "阅读",
-      "书籍",
-      "书架"
-    ],
-    "social_link": "",
-    "stars": 2,
-    "version": "2.0.0",
-    "updated_at": "2026-04-25T21:49:56Z"
   },
   "astrbot_context_injection_system": {
     "name": "astrbot_context_injection_system",
