@@ -1,20 +1,37 @@
 {
-  "astrbot_plugin_steamstore_sniper": {
-    "name": "astrbot_plugin_steamstore_sniper",
-    "display_name": "未审核：Steam 商店速查插件",
-    "desc": "无需登录账号即可通过 AppID 或商店链接快速查询 Steam 游戏信息，支持封面图、简介、多地区价格、分语言区评测。",
-    "author": "B2347",
-    "repo": "https://github.com/NorNeko/astrbot_plugin_steamstore_sniper",
+  "astrbot_plugin_media_portal": {
+    "name": "astrbot_plugin_media_portal",
+    "display_name": "未审核：Media Portal",
+    "desc": "为 AI 与用户打造的多媒体门户：支持 AI 智能分类收藏，集成音视频预览播放与可视化管理的 AstrBot 插件",
+    "author": "Moudicat",
+    "repo": "https://github.com/Moudicat/astrbot_plugin_media_portal",
     "tags": [
-      "steam",
-      "解析",
-      "网页解析"
+      "多媒体",
+      "图片",
+      "视频",
+      "音乐"
     ],
-    "social_link": "https://github.com/NorNeko",
+    "social_link": "https://github.com/Moudicat",
+    "stars": 1,
+    "version": "v0.3.1",
+    "updated_at": "2026-04-27T10:36:27Z",
+    "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
+  },
+  "astrbot_plugin_tts_sanitizer_bilingual": {
+    "name": "astrbot_plugin_tts_sanitizer_bilingual",
+    "display_name": "未审核：tts外语朗读",
+    "desc": "TTS文本过滤插件 - 支持双语TTS、语音Tool、MiniMax停顿标记，基于柯尔的tts_sanitizer扩展",
+    "author": "柠弥",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual",
+    "tags": [
+      "tts",
+      "翻译"
+    ],
+    "social_link": "https://github.com/chenluQwQ",
     "stars": 0,
-    "version": "v0.2.0",
-    "updated_at": "2026-04-27T05:37:06Z",
-    "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steamstore_sniper/main/logo.png"
+    "version": "v1.4.0",
+    "updated_at": "2026-04-27T09:21:11Z",
+    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
   },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
@@ -32,7 +49,24 @@
     "social_link": "",
     "stars": 0,
     "version": "1.1.2",
-    "updated_at": "2026-04-26T14:55:07Z"
+    "updated_at": "2026-04-27T09:00:15Z"
+  },
+  "astrbot_plugin_steamstore_sniper": {
+    "name": "astrbot_plugin_steamstore_sniper",
+    "display_name": "未审核：Steam 商店速查插件",
+    "desc": "无需登录账号即可通过 AppID 或商店链接快速查询 Steam 游戏信息，支持封面图、简介、多地区价格、分语言区评测。",
+    "author": "B2347",
+    "repo": "https://github.com/NorNeko/astrbot_plugin_steamstore_sniper",
+    "tags": [
+      "steam",
+      "解析",
+      "网页解析"
+    ],
+    "social_link": "https://github.com/NorNeko",
+    "stars": 0,
+    "version": "v0.2.0",
+    "updated_at": "2026-04-27T05:37:06Z",
+    "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steamstore_sniper/main/logo.png"
   },
   "astrbot_plugin_hide_ai_chatter": {
     "name": "astrbot_plugin_hide_ai_chatter",
@@ -375,24 +409,6 @@
     "stars": 0,
     "version": "v3.11.2",
     "updated_at": "2026-04-21T15:48:50Z"
-  },
-  "astrbot_plugin_media_portal": {
-    "name": "astrbot_plugin_media_portal",
-    "display_name": "未审核：Media Portal",
-    "desc": "为 AI 与用户打造的多媒体门户：支持 AI 智能分类收藏，集成音视频预览播放与可视化管理的 AstrBot 插件",
-    "author": "Moudicat",
-    "repo": "https://github.com/Moudicat/astrbot_plugin_media_portal",
-    "tags": [
-      "多媒体",
-      "图片",
-      "视频",
-      "音乐"
-    ],
-    "social_link": "https://github.com/Moudicat",
-    "stars": 1,
-    "version": "v0.3.1",
-    "updated_at": "2026-04-21T11:18:10Z",
-    "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
   },
   "astrbot_plugin_magneturi_info": {
     "name": "astrbot_plugin_magneturi_info",
@@ -744,22 +760,6 @@
     "version": "1.0.0",
     "updated_at": "2026-04-13T12:43:09Z",
     "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
-  },
-  "astrbot_plugin_tts_sanitizer_bilingual": {
-    "name": "astrbot_plugin_tts_sanitizer_bilingual",
-    "display_name": "未审核：tts外语朗读",
-    "desc": "TTS文本过滤插件 - 支持双语TTS、语音Tool、MiniMax停顿标记，基于柯尔的tts_sanitizer扩展",
-    "author": "柠弥",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual",
-    "tags": [
-      "tts",
-      "翻译"
-    ],
-    "social_link": "https://github.com/chenluQwQ",
-    "stars": 0,
-    "version": "v1.4.0",
-    "updated_at": "2026-04-13T08:02:13Z",
-    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
   },
   "astrbot_plugin_steam_watch_status": {
     "name": "astrbot_plugin_steam_watch_status",
