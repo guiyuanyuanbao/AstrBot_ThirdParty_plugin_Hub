@@ -1,4 +1,107 @@
 {
+  "astrbot_plugin_mimo_tts": {
+    "name": "astrbot_plugin_mimo_tts",
+    "display_name": "未审核：MiMO TTS精细化控制",
+    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
+    "author": "unsuited_",
+    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
+    "tags": [
+      "TTS",
+      "语音合成"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "1.2.3",
+    "updated_at": "2026-04-28T09:05:33Z"
+  },
+  "astrbot_plugin_rate_limit": {
+    "name": "astrbot_plugin_rate_limit",
+    "display_name": "未审核：LLM 频率限制",
+    "desc": "限制用户及群组请求 LLM 的频率，防止滥用。支持个人限频、群限频、白名单，滑动窗口算法，WebUI 可视化配置，管理员指令动态调整。",
+    "author": "Antigravity&15515151",
+    "repo": "https://github.com/15515151/astrbot_plugin_rate_limit",
+    "tags": [
+      "频率限制",
+      "限流",
+      "管理"
+    ],
+    "social_link": "https://github.com/15515151",
+    "stars": 0,
+    "version": "1.2.1",
+    "updated_at": "2026-04-28T08:13:00Z"
+  },
+  "astrbot_context_injection_system": {
+    "name": "astrbot_context_injection_system",
+    "display_name": "未审核：上下文注入系统（3合1）",
+    "desc": "上下文注入系统（3合1）。包含记忆管理、记忆管理器、环境感知三个子插件。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_context_injection_system",
+    "tags": [
+      "上下文",
+      "记忆",
+      "环境感知"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-04-28T07:13:32Z"
+  },
+  "astrbot_plugin_memory_system": {
+    "name": "astrbot_plugin_memory_system",
+    "display_name": "未审核：综合记忆管理系统（初级版）",
+    "desc": "综合记忆管理系统（初级版）。基于遗忘曲线和情绪效价的记忆管理，能存、能忘、能自己浮上来。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_plugin_memory_system",
+    "tags": [
+      "记忆",
+      "遗忘曲线",
+      "情绪"
+    ],
+    "social_link": "",
+    "stars": 2,
+    "version": "1.0.0",
+    "updated_at": "2026-04-28T07:12:58Z"
+  },
+  "astrbot_plugin_dream": {
+    "name": "astrbot_plugin_dream",
+    "display_name": "未审核：做梦系统",
+    "desc": "做梦系统插件。每天自动从对话记忆和知识库中提取素材，生成诗意梦境。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_plugin_dream",
+    "tags": [
+      "梦境",
+      "自动化",
+      "诗意"
+    ],
+    "social_link": "",
+    "stars": 4,
+    "version": "1.0.0",
+    "updated_at": "2026-04-28T07:12:58Z"
+  },
+  "hermes": {
+    "name": "hermes",
+    "display_name": "未审核：Hermes适配器",
+    "desc": "Hermes Agent 适配器 (WebSocket 版本) - 实现 AstrBot 与 Hermes 的双向通信",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/abpl_hermes_spq",
+    "tags": [],
+    "social_link": "https://github.com/landamao",
+    "stars": 1,
+    "version": "v3.11.0",
+    "updated_at": "2026-04-28T07:01:32Z"
+  },
+  "astrbot_plugin_cs_match": {
+    "name": "astrbot_plugin_cs_match",
+    "display_name": "未审核：astrbot_plugin_cs2_match_push",
+    "desc": "CS2 比赛推送插件，支持关注战队、赛前提醒、赛后数据推送",
+    "author": "Aut-sep",
+    "repo": "https://github.com/Aut-sep/Astrbot-plugin-CS2-match-push",
+    "tags": [],
+    "social_link": "https://github.com/Aut-sep",
+    "stars": 0,
+    "version": "4.1.0",
+    "updated_at": "2026-04-28T06:17:17Z"
+  },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
     "display_name": "未审核：b站bot",
@@ -16,18 +119,6 @@
     "stars": 0,
     "version": "1.1.2",
     "updated_at": "2026-04-28T04:45:32Z"
-  },
-  "hermes": {
-    "name": "hermes",
-    "display_name": "未审核：Hermes适配器",
-    "desc": "Hermes Agent 适配器 (WebSocket 版本) - 实现 AstrBot 与 Hermes 的双向通信",
-    "author": "懒大猫",
-    "repo": "https://github.com/landamao/abpl_hermes_spq",
-    "tags": [],
-    "social_link": "https://github.com/landamao",
-    "stars": 1,
-    "version": "v3.11.0",
-    "updated_at": "2026-04-28T03:34:38Z"
   },
   "astrbot_plugin_setu": {
     "name": "astrbot_plugin_setu",
@@ -218,38 +309,6 @@
     "version": "v1.1",
     "updated_at": "2026-04-26T08:25:29Z"
   },
-  "astrbot_plugin_memory_system": {
-    "name": "astrbot_plugin_memory_system",
-    "display_name": "未审核：综合记忆管理系统（初级版）",
-    "desc": "综合记忆管理系统（初级版）。基于遗忘曲线和情绪效价的记忆管理，能存、能忘、能自己浮上来。",
-    "author": "沈砚清",
-    "repo": "https://github.com/yussica1016/astrbot_plugin_memory_system",
-    "tags": [
-      "记忆",
-      "遗忘曲线",
-      "情绪"
-    ],
-    "social_link": "",
-    "stars": 2,
-    "version": "1.0.0",
-    "updated_at": "2026-04-26T07:28:28Z"
-  },
-  "astrbot_plugin_dream": {
-    "name": "astrbot_plugin_dream",
-    "display_name": "未审核：做梦系统",
-    "desc": "做梦系统插件。每天自动从对话记忆和知识库中提取素材，生成诗意梦境。",
-    "author": "沈砚清",
-    "repo": "https://github.com/yussica1016/astrbot_plugin_dream",
-    "tags": [
-      "梦境",
-      "自动化",
-      "诗意"
-    ],
-    "social_link": "",
-    "stars": 4,
-    "version": "1.0.0",
-    "updated_at": "2026-04-26T07:22:50Z"
-  },
   "astrbot_plugin_keywords_miko": {
     "name": "astrbot_plugin_keywords_miko",
     "display_name": "未审核：关键字回复系统",
@@ -263,22 +322,6 @@
     "stars": 0,
     "version": "v1.1.0",
     "updated_at": "2026-04-25T22:42:11Z"
-  },
-  "astrbot_context_injection_system": {
-    "name": "astrbot_context_injection_system",
-    "display_name": "未审核：上下文注入系统（3合1）",
-    "desc": "上下文注入系统（3合1）。包含记忆管理、记忆管理器、环境感知三个子插件。",
-    "author": "沈砚清",
-    "repo": "https://github.com/yussica1016/astrbot_context_injection_system",
-    "tags": [
-      "上下文",
-      "记忆",
-      "环境感知"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "v0.0.0",
-    "updated_at": "2026-04-25T21:49:54Z"
   },
   "astrbot_plugin_nsjail": {
     "name": "astrbot_plugin_nsjail",
@@ -1757,18 +1800,6 @@
     "stars": 0,
     "version": "v1.0.1",
     "updated_at": "2026-03-23T22:40:13Z"
-  },
-  "astrbot_plugin_cs_match": {
-    "name": "astrbot_plugin_cs_match",
-    "display_name": "未审核：astrbot_plugin_cs2_match_push",
-    "desc": "CS2 比赛推送插件，支持关注战队、赛前提醒、赛后数据推送",
-    "author": "Aut-sep",
-    "repo": "https://github.com/Aut-sep/Astrbot-plugin-CS2-match-push",
-    "tags": [],
-    "social_link": "https://github.com/Aut-sep",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-23T17:11:08Z"
   },
   "astrbot_plugin_withdraw_image": {
     "name": "astrbot_plugin_withdraw_image",
@@ -3529,22 +3560,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-02-23T09:51:31Z"
-  },
-  "astrbot_plugin_rate_limit": {
-    "name": "astrbot_plugin_rate_limit",
-    "display_name": "未审核：LLM 频率限制",
-    "desc": "限制用户及群组请求 LLM 的频率，防止滥用。支持个人限频、群限频、白名单，滑动窗口算法，WebUI 可视化配置，管理员指令动态调整。",
-    "author": "Antigravity&15515151",
-    "repo": "https://github.com/15515151/astrbot_plugin_rate_limit",
-    "tags": [
-      "频率限制",
-      "限流",
-      "管理"
-    ],
-    "social_link": "https://github.com/15515151",
-    "stars": 0,
-    "version": "1.2.0",
-    "updated_at": "2026-02-22T20:29:11Z"
   },
   "astrbot_plugin_only_listen": {
     "name": "astrbot_plugin_only_listen",
