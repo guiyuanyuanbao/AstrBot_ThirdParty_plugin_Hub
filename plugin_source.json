@@ -1,18 +1,4 @@
 {
-  "astrbot_plugin_zhudongshiliao": {
-    "name": "astrbot_plugin_zhudongshiliao",
-    "display_name": "未审核：主动私聊",
-    "desc": "为ai提供了可以私聊的通道，可以通过语言让ai向特定的人或者群发送消息(包括转发消息，查询结果等，支持私聊-私聊，q群-私聊(由于模型有上下文所以这里直接叫要转发对象的nickname时ai会找到对方的qq进行发送)，私聊-q群)以及自定义报错和ai主动告状的功能",
-    "author": "引灯续昼",
-    "repo": "https://github.com/HLC2757808353/astrbot_plugin_zhudongshiliao",
-    "tags": [
-      "私发"
-    ],
-    "social_link": "https://github.com/HLC2757808353",
-    "stars": 0,
-    "version": "0.9.7",
-    "updated_at": "2026-04-28T11:10:52Z"
-  },
   "astrbot_plugin_media_portal": {
     "name": "astrbot_plugin_media_portal",
     "display_name": "未审核：Media Portal",
@@ -27,9 +13,27 @@
     ],
     "social_link": "https://github.com/Moudicat",
     "stars": 1,
-    "version": "v0.3.1",
-    "updated_at": "2026-04-28T10:28:46Z",
+    "version": "v0.4.0",
+    "updated_at": "2026-04-28T16:19:10Z",
     "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
+  },
+  "astrbot_plugin_bilibili_ai_bot": {
+    "name": "astrbot_plugin_bilibili_ai_bot",
+    "display_name": "未审核：b站bot",
+    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
+    "author": "chenluQwQ",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
+    "tags": [
+      "bilibili",
+      "B站",
+      "评论回复",
+      "主动交互",
+      "语义记忆"
+    ],
+    "social_link": "",
+    "stars": 4,
+    "version": "1.1.2",
+    "updated_at": "2026-04-28T13:12:06Z"
   },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
@@ -44,7 +48,21 @@
     "social_link": "",
     "stars": 1,
     "version": "1.2.3",
-    "updated_at": "2026-04-28T09:49:25Z"
+    "updated_at": "2026-04-28T12:52:38Z"
+  },
+  "astrbot_plugin_zhudongshiliao": {
+    "name": "astrbot_plugin_zhudongshiliao",
+    "display_name": "未审核：主动私聊",
+    "desc": "为ai提供了可以私聊的通道，可以通过语言让ai向特定的人或者群发送消息(包括转发消息，查询结果等，支持私聊-私聊，q群-私聊(由于模型有上下文所以这里直接叫要转发对象的nickname时ai会找到对方的qq进行发送)，私聊-q群)以及自定义报错和ai主动告状的功能",
+    "author": "引灯续昼",
+    "repo": "https://github.com/HLC2757808353/astrbot_plugin_zhudongshiliao",
+    "tags": [
+      "私发"
+    ],
+    "social_link": "https://github.com/HLC2757808353",
+    "stars": 0,
+    "version": "0.9.7",
+    "updated_at": "2026-04-28T11:10:52Z"
   },
   "astrbot_plugin_rate_limit": {
     "name": "astrbot_plugin_rate_limit",
@@ -133,24 +151,6 @@
     "stars": 0,
     "version": "4.1.0",
     "updated_at": "2026-04-28T06:17:17Z"
-  },
-  "astrbot_plugin_bilibili_ai_bot": {
-    "name": "astrbot_plugin_bilibili_ai_bot",
-    "display_name": "未审核：b站bot",
-    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
-    "author": "chenluQwQ",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
-    "tags": [
-      "bilibili",
-      "B站",
-      "评论回复",
-      "主动交互",
-      "语义记忆"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "1.1.2",
-    "updated_at": "2026-04-28T04:45:32Z"
   },
   "astrbot_plugin_setu": {
     "name": "astrbot_plugin_setu",
@@ -946,7 +946,7 @@
       "皮套"
     ],
     "social_link": "https://github.com/soiwm",
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
     "updated_at": "2026-04-07T10:25:45Z",
     "logo": "https://raw.githubusercontent.com/soiwm/astrbot_plugin_vtuber/main/logo.png"
