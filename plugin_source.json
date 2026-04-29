@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_group_context_advanced": {
+    "name": "astrbot_plugin_group_context_advanced",
+    "display_name": "未审核：群聊上下文感知增强",
+    "desc": "更优雅的群聊上下文管理，全面替代内置的“群聊上下文感知”功能，支持更灵活的上下文控制、图片识别、合并转发分析。",
+    "author": "Fold",
+    "repo": "https://github.com/FFFold/astrbot_plugin_group_context_advanced",
+    "tags": [
+      "群聊",
+      "上下文"
+    ],
+    "social_link": "https://github.com/FFFold",
+    "stars": 0,
+    "version": "v0.2.0",
+    "updated_at": "2026-04-29T12:18:51Z"
+  },
   "astrbot_plugin_memory_system": {
     "name": "astrbot_plugin_memory_system",
     "display_name": "未审核：综合记忆管理系统（初级版）",
@@ -250,21 +265,6 @@
     "version": "v1.0.9",
     "updated_at": "2026-04-27T20:40:57Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
-  },
-  "astrbot_plugin_group_context_advanced": {
-    "name": "astrbot_plugin_group_context_advanced",
-    "display_name": "未审核：群聊上下文感知增强",
-    "desc": "更优雅的群聊上下文管理，全面替代内置的“群聊上下文感知”功能，支持更灵活的上下文控制、图片识别、合并转发分析。",
-    "author": "Fold",
-    "repo": "https://github.com/FFFold/astrbot_plugin_group_context_advanced",
-    "tags": [
-      "群聊",
-      "上下文"
-    ],
-    "social_link": "https://github.com/FFFold",
-    "stars": 0,
-    "version": "v0.1.0",
-    "updated_at": "2026-04-27T15:58:44Z"
   },
   "astrbot_qq_to_local": {
     "name": "astrbot_qq_to_local",
