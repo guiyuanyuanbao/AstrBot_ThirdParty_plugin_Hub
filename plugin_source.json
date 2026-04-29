@@ -10,9 +10,9 @@
       "上下文"
     ],
     "social_link": "https://github.com/FFFold",
-    "stars": 0,
-    "version": "v0.2.0",
-    "updated_at": "2026-04-29T12:18:51Z"
+    "stars": 1,
+    "version": "v0.2.1",
+    "updated_at": "2026-04-29T14:15:47Z"
   },
   "astrbot_plugin_memory_system": {
     "name": "astrbot_plugin_memory_system",
@@ -26,7 +26,7 @@
       "情绪"
     ],
     "social_link": "",
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
     "updated_at": "2026-04-29T09:18:39Z"
   },
