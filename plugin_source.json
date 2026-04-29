@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_bilibili_ai_bot": {
+    "name": "astrbot_plugin_bilibili_ai_bot",
+    "display_name": "未审核：b站bot",
+    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
+    "author": "chenluQwQ",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
+    "tags": [
+      "bilibili",
+      "B站",
+      "评论回复",
+      "主动交互",
+      "语义记忆"
+    ],
+    "social_link": "",
+    "stars": 4,
+    "version": "1.1.2",
+    "updated_at": "2026-04-29T04:52:18Z"
+  },
   "hermes": {
     "name": "hermes",
     "display_name": "未审核：Hermes适配器",
@@ -49,24 +67,6 @@
     "version": "v0.4.0",
     "updated_at": "2026-04-28T16:19:10Z",
     "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
-  },
-  "astrbot_plugin_bilibili_ai_bot": {
-    "name": "astrbot_plugin_bilibili_ai_bot",
-    "display_name": "未审核：b站bot",
-    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
-    "author": "chenluQwQ",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
-    "tags": [
-      "bilibili",
-      "B站",
-      "评论回复",
-      "主动交互",
-      "语义记忆"
-    ],
-    "social_link": "",
-    "stars": 4,
-    "version": "1.1.2",
-    "updated_at": "2026-04-28T13:12:06Z"
   },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
@@ -141,7 +141,7 @@
       "情绪"
     ],
     "social_link": "",
-    "stars": 2,
+    "stars": 3,
     "version": "1.0.0",
     "updated_at": "2026-04-28T07:12:58Z"
   },
@@ -277,7 +277,7 @@
       "书架"
     ],
     "social_link": "",
-    "stars": 2,
+    "stars": 3,
     "version": "2.0.0",
     "updated_at": "2026-04-27T13:11:34Z"
   },
