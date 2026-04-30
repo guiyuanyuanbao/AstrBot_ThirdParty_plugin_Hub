@@ -1,4 +1,85 @@
 {
+  "astrbot_context_injection_system": {
+    "name": "astrbot_context_injection_system",
+    "display_name": "未审核：上下文注入系统（3合1）",
+    "desc": "上下文注入系统（3合1）。包含记忆管理、记忆管理器、环境感知三个子插件。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_context_injection_system",
+    "tags": [
+      "上下文",
+      "记忆",
+      "环境感知"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-04-30T15:21:47Z"
+  },
+  "astrbot_plugin_home_state": {
+    "name": "astrbot_plugin_home_state",
+    "display_name": "未审核：房间状态管理",
+    "desc": "为 AI 提供房间状态切换、场景 prompt 注入、休息模式硬拦截和宠物互动。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_plugin_home_state",
+    "tags": [
+      "房间",
+      "状态",
+      "场景",
+      "环境"
+    ],
+    "social_link": "",
+    "stars": 2,
+    "version": "1.1.0",
+    "updated_at": "2026-04-30T15:13:49Z"
+  },
+  "astrbot_plugin_dream": {
+    "name": "astrbot_plugin_dream",
+    "display_name": "未审核：做梦系统",
+    "desc": "做梦系统插件。每天自动从对话记忆和知识库中提取素材，生成诗意梦境。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_plugin_dream",
+    "tags": [
+      "梦境",
+      "自动化",
+      "诗意"
+    ],
+    "social_link": "",
+    "stars": 4,
+    "version": "1.0.0",
+    "updated_at": "2026-04-30T15:10:09Z"
+  },
+  "astrbot_plugin_bookshelf": {
+    "name": "astrbot_plugin_bookshelf",
+    "display_name": "未审核：书架系统",
+    "desc": "上传书籍文本，按章节切分存储，支持书架、目录、读章节、阅读进度、笔记、读后感、共读面板。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_plugin_bookshelf",
+    "tags": [
+      "阅读",
+      "书籍",
+      "书架"
+    ],
+    "social_link": "",
+    "stars": 4,
+    "version": "2.0.0",
+    "updated_at": "2026-04-30T15:06:26Z"
+  },
+  "astrbot_plugin_memory_system": {
+    "name": "astrbot_plugin_memory_system",
+    "display_name": "未审核：综合记忆管理系统（初级版）",
+    "desc": "综合记忆管理系统（初级版）。基于遗忘曲线和情绪效价的记忆管理，能存、能忘、能自己浮上来。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_plugin_memory_system",
+    "tags": [
+      "记忆",
+      "遗忘曲线",
+      "情绪"
+    ],
+    "social_link": "",
+    "stars": 4,
+    "version": "1.0.0",
+    "updated_at": "2026-04-30T15:03:40Z"
+  },
   "astrbot_plugin_custom_api": {
     "name": "astrbot_plugin_custom_api",
     "display_name": "未审核：自定义API管理",
@@ -76,71 +157,6 @@
     "version": "v0.2.2",
     "updated_at": "2026-04-30T03:11:32Z"
   },
-  "astrbot_plugin_memory_system": {
-    "name": "astrbot_plugin_memory_system",
-    "display_name": "未审核：综合记忆管理系统（初级版）",
-    "desc": "综合记忆管理系统（初级版）。基于遗忘曲线和情绪效价的记忆管理，能存、能忘、能自己浮上来。",
-    "author": "沈砚清",
-    "repo": "https://github.com/yussica1016/astrbot_plugin_memory_system",
-    "tags": [
-      "记忆",
-      "遗忘曲线",
-      "情绪"
-    ],
-    "social_link": "",
-    "stars": 4,
-    "version": "1.0.0",
-    "updated_at": "2026-04-29T09:18:39Z"
-  },
-  "astrbot_plugin_dream": {
-    "name": "astrbot_plugin_dream",
-    "display_name": "未审核：做梦系统",
-    "desc": "做梦系统插件。每天自动从对话记忆和知识库中提取素材，生成诗意梦境。",
-    "author": "沈砚清",
-    "repo": "https://github.com/yussica1016/astrbot_plugin_dream",
-    "tags": [
-      "梦境",
-      "自动化",
-      "诗意"
-    ],
-    "social_link": "",
-    "stars": 4,
-    "version": "1.0.0",
-    "updated_at": "2026-04-29T09:16:36Z"
-  },
-  "astrbot_plugin_home_state": {
-    "name": "astrbot_plugin_home_state",
-    "display_name": "未审核：房间状态管理",
-    "desc": "为 AI 提供房间状态切换、场景 prompt 注入、休息模式硬拦截和宠物互动。",
-    "author": "沈砚清",
-    "repo": "https://github.com/yussica1016/astrbot_plugin_home_state",
-    "tags": [
-      "房间",
-      "状态",
-      "场景",
-      "环境"
-    ],
-    "social_link": "",
-    "stars": 2,
-    "version": "1.1.0",
-    "updated_at": "2026-04-29T09:14:55Z"
-  },
-  "astrbot_plugin_bookshelf": {
-    "name": "astrbot_plugin_bookshelf",
-    "display_name": "未审核：书架系统",
-    "desc": "上传书籍文本，按章节切分存储，支持书架、目录、读章节、阅读进度、笔记、读后感、共读面板。",
-    "author": "沈砚清",
-    "repo": "https://github.com/yussica1016/astrbot_plugin_bookshelf",
-    "tags": [
-      "阅读",
-      "书籍",
-      "书架"
-    ],
-    "social_link": "",
-    "stars": 3,
-    "version": "2.0.0",
-    "updated_at": "2026-04-29T09:13:34Z"
-  },
   "hermes": {
     "name": "hermes",
     "display_name": "未审核：Hermes适配器",
@@ -187,7 +203,7 @@
       "长期记忆"
     ],
     "social_link": "https://github.com/olozhika",
-    "stars": 27,
+    "stars": 28,
     "version": "v1.3.2",
     "updated_at": "2026-04-28T18:59:24Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
@@ -221,22 +237,6 @@
     "stars": 0,
     "version": "1.2.1",
     "updated_at": "2026-04-28T08:13:00Z"
-  },
-  "astrbot_context_injection_system": {
-    "name": "astrbot_context_injection_system",
-    "display_name": "未审核：上下文注入系统（3合1）",
-    "desc": "上下文注入系统（3合1）。包含记忆管理、记忆管理器、环境感知三个子插件。",
-    "author": "沈砚清",
-    "repo": "https://github.com/yussica1016/astrbot_context_injection_system",
-    "tags": [
-      "上下文",
-      "记忆",
-      "环境感知"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2026-04-28T07:13:32Z"
   },
   "astrbot_plugin_cs_match": {
     "name": "astrbot_plugin_cs_match",
@@ -718,7 +718,7 @@
       "信息推送"
     ],
     "social_link": "https://github.com/LEN5010/",
-    "stars": 0,
+    "stars": 1,
     "version": "v3.0.2",
     "updated_at": "2026-04-16T10:45:05Z"
   },
