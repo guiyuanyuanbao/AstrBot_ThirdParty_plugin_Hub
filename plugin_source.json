@@ -12,7 +12,39 @@
     "social_link": "",
     "stars": 1,
     "version": "1.3.0",
-    "updated_at": "2026-04-30T06:04:48Z"
+    "updated_at": "2026-04-30T07:53:14Z"
+  },
+  "astrbot_plugin_media_portal": {
+    "name": "astrbot_plugin_media_portal",
+    "display_name": "未审核：Media Portal",
+    "desc": "为 AI 与用户打造的多媒体门户：支持 AI 智能分类收藏，集成音视频预览播放与可视化管理的 AstrBot 插件",
+    "author": "Moudicat",
+    "repo": "https://github.com/Moudicat/astrbot_plugin_media_portal",
+    "tags": [
+      "多媒体",
+      "图片",
+      "视频",
+      "音乐"
+    ],
+    "social_link": "https://github.com/Moudicat",
+    "stars": 1,
+    "version": "v0.4.0",
+    "updated_at": "2026-04-30T07:49:55Z",
+    "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
+  },
+  "astrbot_plugin_ba_pvp_recorder": {
+    "name": "astrbot_plugin_ba_pvp_recorder",
+    "display_name": "未审核：Blue Archive 蔚蓝档案竞技场记录插件",
+    "desc": "自动调用 LLM 识别并记录指定群聊中的竞技场战报截图，同时提供对应的查询命令。",
+    "author": "yiktllw",
+    "repo": "https://github.com/yiktllw/astrbot_plugin_ba_pvp_recorder",
+    "tags": [
+      "1.0.0"
+    ],
+    "social_link": "https://github.com/yiktllw",
+    "stars": 0,
+    "version": "v0.2.3",
+    "updated_at": "2026-04-30T07:41:52Z"
   },
   "astrbot_plugin_group_context_advanced": {
     "name": "astrbot_plugin_group_context_advanced",
@@ -144,24 +176,6 @@
     "version": "v1.3.2",
     "updated_at": "2026-04-28T18:59:24Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
-  },
-  "astrbot_plugin_media_portal": {
-    "name": "astrbot_plugin_media_portal",
-    "display_name": "未审核：Media Portal",
-    "desc": "为 AI 与用户打造的多媒体门户：支持 AI 智能分类收藏，集成音视频预览播放与可视化管理的 AstrBot 插件",
-    "author": "Moudicat",
-    "repo": "https://github.com/Moudicat/astrbot_plugin_media_portal",
-    "tags": [
-      "多媒体",
-      "图片",
-      "视频",
-      "音乐"
-    ],
-    "social_link": "https://github.com/Moudicat",
-    "stars": 1,
-    "version": "v0.4.0",
-    "updated_at": "2026-04-28T16:19:10Z",
-    "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
   },
   "astrbot_plugin_zhudongshiliao": {
     "name": "astrbot_plugin_zhudongshiliao",
@@ -362,20 +376,6 @@
     "stars": 0,
     "version": "v0.4.0",
     "updated_at": "2026-04-25T11:06:25Z"
-  },
-  "astrbot_plugin_ba_pvp_recorder": {
-    "name": "astrbot_plugin_ba_pvp_recorder",
-    "display_name": "未审核：Blue Archive 蔚蓝档案竞技场记录插件",
-    "desc": "自动调用 LLM 识别并记录指定群聊中的竞技场战报截图，同时提供对应的查询命令。",
-    "author": "yiktllw",
-    "repo": "https://github.com/yiktllw/astrbot_plugin_ba_pvp_recorder",
-    "tags": [
-      "1.0.0"
-    ],
-    "social_link": "https://github.com/yiktllw",
-    "stars": 0,
-    "version": "v0.2.3",
-    "updated_at": "2026-04-24T18:16:14Z"
   },
   "astrbot_plugin_bili_all_function": {
     "name": "astrbot_plugin_bili_all_function",
@@ -715,7 +715,7 @@
     "repo": "https://github.com/qingquanlingyu/astrbot_plugin_bilibililive_watcher",
     "tags": [],
     "social_link": "https://github.com/qingquanlingyu",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.2.6",
     "updated_at": "2026-04-15T14:50:06Z"
   },
