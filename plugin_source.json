@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_custom_api": {
+    "name": "astrbot_plugin_custom_api",
+    "display_name": "未审核：自定义API管理",
+    "desc": "支持多样化的外部API调用，可处理文本、图片、语音和视频类型API，支持自定义参数配置，关键词触发调用",
+    "author": "Fishskys",
+    "repo": "https://github.com/Fishskys/astrbot_plugin_custom_api",
+    "tags": [
+      "api"
+    ],
+    "social_link": "https://github.com/Fishskys",
+    "stars": 0,
+    "version": "0.3.0",
+    "updated_at": "2026-04-30T12:02:21Z",
+    "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
+  },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
     "display_name": "未审核：MiMO TTS精细化控制",
@@ -1380,21 +1395,6 @@
     "version": "1.0.0",
     "updated_at": "2026-03-30T02:40:59Z",
     "logo": "https://raw.githubusercontent.com/0d00-Ciallo-0721/astrbot_plugin_qq_interactive_tools/main/logo.png"
-  },
-  "astrbot_plugin_custom_api": {
-    "name": "astrbot_plugin_custom_api",
-    "display_name": "未审核：自定义API管理",
-    "desc": "支持多样化的外部API调用，可处理文本、图片、语音和视频类型API，支持自定义参数配置，关键词触发调用",
-    "author": "Fishskys",
-    "repo": "https://github.com/Fishskys/astrbot_plugin_custom_api",
-    "tags": [
-      "api"
-    ],
-    "social_link": "https://github.com/Fishskys",
-    "stars": 0,
-    "version": "0.2.1",
-    "updated_at": "2026-03-29T15:27:06Z",
-    "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
   },
   "astrbot_plugin_opensoftware": {
     "name": "astrbot_plugin_opensoftware",
