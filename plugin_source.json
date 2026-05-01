@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_cs_match": {
+    "name": "astrbot_plugin_cs_match",
+    "display_name": "未审核：astrbot_plugin_cs2_match_push",
+    "desc": "CS2 比赛推送插件，支持关注战队、赛前提醒、赛后数据推送",
+    "author": "Aut-sep",
+    "repo": "https://github.com/Aut-sep/Astrbot-plugin-CS2-match-push",
+    "tags": [],
+    "social_link": "https://github.com/Aut-sep",
+    "stars": 0,
+    "version": "4.1.0",
+    "updated_at": "2026-05-01T10:56:22Z"
+  },
   "hermes": {
     "name": "hermes",
     "display_name": "未审核：Hermes适配器",
@@ -253,18 +265,6 @@
     "stars": 0,
     "version": "1.2.1",
     "updated_at": "2026-04-28T08:13:00Z"
-  },
-  "astrbot_plugin_cs_match": {
-    "name": "astrbot_plugin_cs_match",
-    "display_name": "未审核：astrbot_plugin_cs2_match_push",
-    "desc": "CS2 比赛推送插件，支持关注战队、赛前提醒、赛后数据推送",
-    "author": "Aut-sep",
-    "repo": "https://github.com/Aut-sep/Astrbot-plugin-CS2-match-push",
-    "tags": [],
-    "social_link": "https://github.com/Aut-sep",
-    "stars": 0,
-    "version": "4.1.0",
-    "updated_at": "2026-04-28T06:17:17Z"
   },
   "astrbot_plugin_setu": {
     "name": "astrbot_plugin_setu",
