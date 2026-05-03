@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_bili_parser": {
+    "name": "astrbot_plugin_bili_parser",
+    "display_name": "未审核：又一个哔哩哔哩链接解析",
+    "desc": "解析 bilibili 视频、番剧、直播、专栏、音频等链接，并生成预览卡片。",
+    "author": "jkfujr",
+    "repo": "https://github.com/jkfujr/astrbot_plugin_bili_parser",
+    "tags": [
+      "bilibili",
+      "哔哩哔哩",
+      "解析"
+    ],
+    "social_link": "https://github.com/jkfujr",
+    "stars": 0,
+    "version": "0.0.3",
+    "updated_at": "2026-05-03T10:33:53Z"
+  },
   "astrbot_plugin_conversation_rewriter": {
     "name": "astrbot_plugin_conversation_rewriter",
     "display_name": "未审核：会话修改插件",
@@ -27,22 +43,6 @@
     "stars": 0,
     "version": "v1.2.0",
     "updated_at": "2026-03-13T08:40:35Z"
-  },
-  "astrbot_plugin_bili_parser": {
-    "name": "astrbot_plugin_bili_parser",
-    "display_name": "未审核：又一个哔哩哔哩链接解析",
-    "desc": "解析 bilibili 视频、番剧、直播、专栏、音频等链接，并生成预览卡片。",
-    "author": "jkfujr",
-    "repo": "https://github.com/jkfujr/astrbot_plugin_bili_parser",
-    "tags": [
-      "bilibili",
-      "哔哩哔哩",
-      "解析"
-    ],
-    "social_link": "https://github.com/jkfujr",
-    "stars": 0,
-    "version": "0.0.3",
-    "updated_at": "2026-05-03T00:32:55Z"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
