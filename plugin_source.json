@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_qq_group_manager": {
+    "name": "astrbot_plugin_qq_group_manager",
+    "display_name": "未审核：QQ群管家",
+    "desc": "一款 QQ 群管家插件，支持自动同意加群、LLM 智能迎新送辞、以及机器人进群邀请的管理员审核。",
+    "author": "SunflowerYuuka",
+    "repo": "https://github.com/SunflowerYuuka/astrbot_plugin_qq_group-manager",
+    "tags": [
+      "QQ"
+    ],
+    "social_link": "https://github.com/SunflowerYuuka",
+    "stars": 0,
+    "version": "v1.2.0",
+    "updated_at": "2026-03-13T08:40:35Z"
+  },
   "astrbot_plugin_bili_parser": {
     "name": "astrbot_plugin_bili_parser",
     "display_name": "未审核：又一个哔哩哔哩链接解析",
@@ -103,7 +117,7 @@
       "环境感知"
     ],
     "social_link": "",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
     "updated_at": "2026-04-30T15:21:47Z"
   },
@@ -168,7 +182,7 @@
       "情绪"
     ],
     "social_link": "",
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.0",
     "updated_at": "2026-04-30T15:03:40Z"
   },
@@ -1570,20 +1584,6 @@
     "stars": 11,
     "version": "1.01",
     "updated_at": "2026-03-27T10:03:17Z"
-  },
-  "astrbot_plugin_qq_group_manager": {
-    "name": "astrbot_plugin_qq_group_manager",
-    "display_name": "未审核：QQ群管家",
-    "desc": "一款 QQ 群管家插件，支持自动同意加群、LLM 智能迎新送辞、以及机器人进群邀请的管理员审核。",
-    "author": "SunflowerYuuka",
-    "repo": "https://github.com/SunflowerYuuka/astrbot_plugin_qq_group-manager",
-    "tags": [
-      "QQ"
-    ],
-    "social_link": "https://github.com/SunflowerYuuka",
-    "stars": 0,
-    "version": "v1.2.0",
-    "updated_at": "2026-03-13T08:40:35Z"
   },
   "astrbot_plugin_coding_plan_chat": {
     "name": "astrbot_plugin_coding_plan_chat",
