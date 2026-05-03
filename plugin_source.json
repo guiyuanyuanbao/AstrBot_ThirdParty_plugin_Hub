@@ -11,8 +11,21 @@
     ],
     "social_link": "https://github.com/piexian",
     "stars": 4,
-    "version": "v0.3.0",
-    "updated_at": "2026-05-03T13:06:29Z"
+    "version": "v0.3.1",
+    "updated_at": "2026-05-03T14:15:28Z"
+  },
+  "astrbot_plugin_group_wakepro": {
+    "name": "astrbot_plugin_group_wakepro",
+    "display_name": "未审核：群唤醒增强",
+    "desc": "为每个群聊配置独立的唤醒规则，支持指令拦截，持续活跃，无艾特的引用拦截等见文档",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/abpl_group_wakepro",
+    "tags": [],
+    "social_link": "https://github.com/landamao",
+    "stars": 3,
+    "version": "v8.8.8",
+    "updated_at": "2026-05-03T13:52:26Z",
+    "logo": "https://raw.githubusercontent.com/landamao/abpl_group_wakepro/main/logo.png"
   },
   "astrbot_plugin_bili_parser": {
     "name": "astrbot_plugin_bili_parser",
@@ -806,19 +819,6 @@
     "stars": 0,
     "version": "v1.8.0",
     "updated_at": "2026-04-15T04:41:36Z"
-  },
-  "astrbot_plugin_group_wakepro": {
-    "name": "astrbot_plugin_group_wakepro",
-    "display_name": "未审核：群唤醒增强",
-    "desc": "为每个群聊配置独立的唤醒规则，支持指令拦截，持续活跃，无艾特的引用拦截等见文档",
-    "author": "懒大猫",
-    "repo": "https://github.com/landamao/abpl_group_wakepro",
-    "tags": [],
-    "social_link": "https://github.com/landamao",
-    "stars": 3,
-    "version": "v8.8.4",
-    "updated_at": "2026-04-14T10:04:00Z",
-    "logo": "https://raw.githubusercontent.com/landamao/abpl_group_wakepro/main/logo.png"
   },
   "astrbot_plugin_cross_session_awareness": {
     "name": "astrbot_plugin_cross_session_awareness",
