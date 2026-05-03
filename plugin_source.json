@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_conversation_rewriter": {
+    "name": "astrbot_plugin_conversation_rewriter",
+    "display_name": "未审核：会话修改插件",
+    "desc": "修改最后一条对话内容，可重写用户消息或 AI 记忆。",
+    "author": "yyswys-yjyj",
+    "repo": "https://github.com/yyswys-yjyj/astrbot_plugin_conversation_rewriter",
+    "tags": [
+      "会话控制",
+      "私聊"
+    ],
+    "social_link": "https://github.com/yyswys-yjyj",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-05-03T09:54:19Z"
+  },
   "astrbot_plugin_qq_group_manager": {
     "name": "astrbot_plugin_qq_group_manager",
     "display_name": "未审核：QQ群管家",
@@ -682,21 +697,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-04-18T09:55:04Z",
     "logo": "https://raw.githubusercontent.com/Mola-maker/astrbot_plugin_whythemistake/master/logo.png"
-  },
-  "astrbot_plugin_complaint": {
-    "name": "astrbot_plugin_complaint",
-    "display_name": "未审核：机器人告状插件",
-    "desc": "[仅aiocqhttp]还在担心你的机器人被打压？机器人告状插件（astrbot_plugin_complaint）能让机器人向管理员告状",
-    "author": "yyswys-yjyj",
-    "repo": "https://github.com/yyswys-yjyj/astrbot_plugin_complaint",
-    "tags": [
-      "对话",
-      "审查"
-    ],
-    "social_link": "https://github.com/yyswys-yjyj",
-    "stars": 0,
-    "version": "v2.0.0",
-    "updated_at": "2026-04-18T09:36:13Z"
   },
   "astrbot_plugin_steam_friend_monitor": {
     "name": "astrbot_plugin_steam_friend_monitor",
