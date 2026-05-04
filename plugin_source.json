@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_steam_radar": {
+    "name": "astrbot_plugin_steam_radar",
+    "display_name": "未审核：AstrBot Steam 雷达插件",
+    "desc": "一款面向群聊的功能强大的Steam 全能助手：游戏详情查询、多地区价格、截图、搜索、群愿望单、发售/史低自动通知。\n群愿望单支持跨群共享缓存、智能分层刷新、夜间模式、发售/史低 @提及通知。\n可选接入 IsThereAnyDeal，增强显示社区标签、Steam 史低、订阅服务（Game Pass / EA Play 等）、集换卡牌信息。",
+    "author": "B2347",
+    "repo": "https://github.com/NorNeko/astrbot_plugin_steam_radar",
+    "tags": [
+      "steam",
+      "解析",
+      "游戏"
+    ],
+    "social_link": "https://github.com/NorNeko",
+    "stars": 0,
+    "version": "v0.4.2",
+    "updated_at": "2026-05-04T08:48:54Z",
+    "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steam_radar/main/logo.png"
+  },
   "astrbot_plugin_simple_long_memory": {
     "name": "astrbot_plugin_simple_long_memory",
     "display_name": "未审核：简单长期记忆",
