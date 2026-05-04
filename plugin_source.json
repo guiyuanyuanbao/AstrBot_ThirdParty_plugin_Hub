@@ -12,20 +12,7 @@
     "social_link": "https://github.com/piexian",
     "stars": 5,
     "version": "v0.3.1",
-    "updated_at": "2026-05-03T14:15:28Z"
-  },
-  "astrbot_plugin_group_wakepro": {
-    "name": "astrbot_plugin_group_wakepro",
-    "display_name": "未审核：群唤醒增强",
-    "desc": "为每个群聊配置独立的唤醒规则，支持指令拦截，持续活跃，无艾特的引用拦截等见文档",
-    "author": "懒大猫",
-    "repo": "https://github.com/landamao/abpl_group_wakepro",
-    "tags": [],
-    "social_link": "https://github.com/landamao",
-    "stars": 3,
-    "version": "v8.8.8",
-    "updated_at": "2026-05-03T13:52:26Z",
-    "logo": "https://raw.githubusercontent.com/landamao/abpl_group_wakepro/main/logo.png"
+    "updated_at": "2026-05-04T04:09:40Z"
   },
   "astrbot_plugin_bili_parser": {
     "name": "astrbot_plugin_bili_parser",
@@ -41,7 +28,20 @@
     "social_link": "https://github.com/jkfujr",
     "stars": 0,
     "version": "0.0.3",
-    "updated_at": "2026-05-03T10:33:53Z"
+    "updated_at": "2026-05-04T03:28:55Z"
+  },
+  "astrbot_plugin_group_wakepro": {
+    "name": "astrbot_plugin_group_wakepro",
+    "display_name": "未审核：群唤醒增强",
+    "desc": "为每个群聊配置独立的唤醒规则，支持指令拦截，持续活跃，无艾特的引用拦截等见文档",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/abpl_group_wakepro",
+    "tags": [],
+    "social_link": "https://github.com/landamao",
+    "stars": 3,
+    "version": "v8.8.8",
+    "updated_at": "2026-05-03T13:52:26Z",
+    "logo": "https://raw.githubusercontent.com/landamao/abpl_group_wakepro/main/logo.png"
   },
   "astrbot_plugin_conversation_rewriter": {
     "name": "astrbot_plugin_conversation_rewriter",
