@@ -1,4 +1,32 @@
 {
+  "astrbot_plugin_endworld_img_api": {
+    "name": "astrbot_plugin_endworld_img_api",
+    "display_name": "未审核：随机图片",
+    "desc": "一个自定义API获取图片插件。 支持多指令分流、智能防超时、全网 API 兼容的高级图片引擎。基于mccloud_img重构。",
+    "author": "殇之冥歌",
+    "repo": "https://github.com/shangzhimingge/astrbot_plugin_endworld_img_api",
+    "tags": [
+      "api",
+      "图片"
+    ],
+    "social_link": "https://github.com/shangzhimingge",
+    "stars": 2,
+    "version": "v5.9",
+    "updated_at": "2026-05-04T18:24:33Z",
+    "logo": "https://raw.githubusercontent.com/shangzhimingge/astrbot_plugin_endworld_img_api/main/logo.png"
+  },
+  "astrbot_plugin_scp_cn_feed": {
+    "name": "astrbot_plugin_scp_cn_feed",
+    "display_name": "未审核：SCPCN新闻内容推送",
+    "desc": "推送 SCP 中文站精品 SCP、精品原创故事和竞赛相关新闻。",
+    "author": "yun474",
+    "repo": "https://github.com/yun474/astrbot_plugin_scp_cn_feed",
+    "tags": [],
+    "social_link": "",
+    "stars": 1,
+    "version": "0.1.4",
+    "updated_at": "2026-05-04T18:23:03Z"
+  },
   "astrbot_plugin_qq_group_manager": {
     "name": "astrbot_plugin_qq_group_manager",
     "display_name": "未审核：QQ群管家",
@@ -3250,22 +3278,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-03T23:46:01Z",
     "logo": "https://raw.githubusercontent.com/storyAura/astrbot_plugin_hellogif/main/logo.png"
-  },
-  "astrbot_plugin_endworld_img_api": {
-    "name": "astrbot_plugin_endworld_img_api",
-    "display_name": "未审核：随机图片",
-    "desc": "一个自定义API获取图片插件。 支持多指令分流、智能防超时、全网 API 兼容的高级图片引擎。基于mccloud_img重构。",
-    "author": "殇之冥歌",
-    "repo": "https://github.com/shangzhimingge/astrbot_plugin_endworld_img_api",
-    "tags": [
-      "api",
-      "图片"
-    ],
-    "social_link": "https://github.com/shangzhimingge",
-    "stars": 2,
-    "version": "v5.9",
-    "updated_at": "2026-03-03T14:00:33Z",
-    "logo": "https://raw.githubusercontent.com/shangzhimingge/astrbot_plugin_endworld_img_api/main/logo.png"
   },
   "astrbot_plugin_birthday_reminder": {
     "name": "astrbot_plugin_birthday_reminder",
