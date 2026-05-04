@@ -1,4 +1,35 @@
 {
+  "astrbot_plugin_qq_group_manager": {
+    "name": "astrbot_plugin_qq_group_manager",
+    "display_name": "未审核：QQ群管家",
+    "desc": "一款 QQ 群管家插件，支持自动同意加群、LLM 智能迎新送辞、以及机器人进群邀请的管理员审核。",
+    "author": "SunflowerYuuka",
+    "repo": "https://github.com/SunflowerYuuka/astrbot_plugin_qq_group-manager",
+    "tags": [
+      "QQ"
+    ],
+    "social_link": "https://github.com/SunflowerYuuka",
+    "stars": 0,
+    "version": "v1.2.0",
+    "updated_at": "2026-03-13T08:40:35Z"
+  },
+  "astrbot_plugin_steam_radar": {
+    "name": "astrbot_plugin_steam_radar",
+    "display_name": "未审核：Steam 雷达",
+    "desc": "一款面向群聊的功能强大的Steam 全能助手：游戏详情查询、多地区价格、截图、搜索、群愿望单、发售/史低自动通知。\\n群愿望单支持跨群共享缓存、智能分层刷新、夜间模式、发售/史低 @提及通知。\\n可选接入 IsThereAnyDeal，增强显示社区标签、Steam 史低、订阅服务（Game Pass / EA Play 等）、集换卡牌信息。",
+    "author": "B2347",
+    "repo": "https://github.com/NorNeko/astrbot_plugin_steam_radar",
+    "tags": [
+      "steam",
+      "游戏",
+      "解析"
+    ],
+    "social_link": "https://github.com/NorNeko",
+    "stars": 0,
+    "version": "v0.4.2",
+    "updated_at": "2026-05-04T15:59:08Z",
+    "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steam_radar/main/logo.png"
+  },
   "astrbot_plugin_deerpipe": {
     "name": "astrbot_plugin_deerpipe",
     "display_name": "未审核：鹿乃子月历",
@@ -36,23 +67,6 @@
     "version": "v3.0.2",
     "updated_at": "2026-05-04T11:03:32Z",
     "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
-  },
-  "astrbot_plugin_steam_radar": {
-    "name": "astrbot_plugin_steam_radar",
-    "display_name": "未审核：Steam 雷达",
-    "desc": "一款面向群聊的功能强大的Steam 全能助手：游戏详情查询、多地区价格、截图、搜索、群愿望单、发售/史低自动通知。\\n群愿望单支持跨群共享缓存、智能分层刷新、夜间模式、发售/史低 @提及通知。\\n可选接入 IsThereAnyDeal，增强显示社区标签、Steam 史低、订阅服务（Game Pass / EA Play 等）、集换卡牌信息。",
-    "author": "B2347",
-    "repo": "https://github.com/NorNeko/astrbot_plugin_steam_radar",
-    "tags": [
-      "steam",
-      "游戏",
-      "解析"
-    ],
-    "social_link": "https://github.com/NorNeko",
-    "stars": 0,
-    "version": "v0.4.2",
-    "updated_at": "2026-05-04T08:48:54Z",
-    "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steam_radar/main/logo.png"
   },
   "astrbot_plugin_simple_long_memory": {
     "name": "astrbot_plugin_simple_long_memory",
@@ -112,20 +126,6 @@
     "stars": 0,
     "version": "1.0.0",
     "updated_at": "2026-05-03T09:54:19Z"
-  },
-  "astrbot_plugin_qq_group_manager": {
-    "name": "astrbot_plugin_qq_group_manager",
-    "display_name": "未审核：QQ群管家",
-    "desc": "一款 QQ 群管家插件，支持自动同意加群、LLM 智能迎新送辞、以及机器人进群邀请的管理员审核。",
-    "author": "SunflowerYuuka",
-    "repo": "https://github.com/SunflowerYuuka/astrbot_plugin_qq_group-manager",
-    "tags": [
-      "QQ"
-    ],
-    "social_link": "https://github.com/SunflowerYuuka",
-    "stars": 0,
-    "version": "v1.2.0",
-    "updated_at": "2026-03-13T08:40:35Z"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
