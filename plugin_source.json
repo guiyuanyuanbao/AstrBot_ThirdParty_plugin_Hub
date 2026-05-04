@@ -1,4 +1,25 @@
 {
+  "astrbot_plugin_deerpipe": {
+    "name": "astrbot_plugin_deerpipe",
+    "display_name": "未审核：鹿乃子月历",
+    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
+    "tags": [
+      "鹿乃子",
+      "鹿",
+      "🦌",
+      "🦌乃子",
+      "月历",
+      "打卡",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 3,
+    "version": "v1.0.9",
+    "updated_at": "2026-05-04T13:24:15Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
+  },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
     "display_name": "未审核：枝江自动推送",
@@ -18,14 +39,14 @@
   },
   "astrbot_plugin_steam_radar": {
     "name": "astrbot_plugin_steam_radar",
-    "display_name": "未审核：AstrBot Steam 雷达插件",
-    "desc": "一款面向群聊的功能强大的Steam 全能助手：游戏详情查询、多地区价格、截图、搜索、群愿望单、发售/史低自动通知。\n群愿望单支持跨群共享缓存、智能分层刷新、夜间模式、发售/史低 @提及通知。\n可选接入 IsThereAnyDeal，增强显示社区标签、Steam 史低、订阅服务（Game Pass / EA Play 等）、集换卡牌信息。",
+    "display_name": "未审核：Steam 雷达",
+    "desc": "一款面向群聊的功能强大的Steam 全能助手：游戏详情查询、多地区价格、截图、搜索、群愿望单、发售/史低自动通知。\\n群愿望单支持跨群共享缓存、智能分层刷新、夜间模式、发售/史低 @提及通知。\\n可选接入 IsThereAnyDeal，增强显示社区标签、Steam 史低、订阅服务（Game Pass / EA Play 等）、集换卡牌信息。",
     "author": "B2347",
     "repo": "https://github.com/NorNeko/astrbot_plugin_steam_radar",
     "tags": [
       "steam",
-      "解析",
-      "游戏"
+      "游戏",
+      "解析"
     ],
     "social_link": "https://github.com/NorNeko",
     "stars": 0,
@@ -396,27 +417,6 @@
     "version": "v1.3.0",
     "updated_at": "2026-04-27T20:41:13Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
-  },
-  "astrbot_plugin_deerpipe": {
-    "name": "astrbot_plugin_deerpipe",
-    "display_name": "未审核：鹿乃子月历",
-    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
-    "tags": [
-      "鹿乃子",
-      "鹿",
-      "🦌",
-      "🦌乃子",
-      "月历",
-      "打卡",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 3,
-    "version": "v1.0.9",
-    "updated_at": "2026-04-27T20:40:57Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
   },
   "astrbot_qq_to_local": {
     "name": "astrbot_qq_to_local",
