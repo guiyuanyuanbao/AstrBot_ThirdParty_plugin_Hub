@@ -2,7 +2,7 @@
   "astrbot_plugin_steam_watch_status": {
     "name": "astrbot_plugin_steam_watch_status",
     "display_name": "未审核：Steam 状态监控",
-    "desc": "监控 Steam 好友状态、订阅游戏资讯/价格",
+    "desc": "Steam 游戏更新推送，好友状态监控，历史价格查询",
     "author": "moemoli",
     "repo": "https://github.com/moemoli/astrbot_plugin_steam_watch_status",
     "tags": [
@@ -11,7 +11,7 @@
     "social_link": "",
     "stars": 0,
     "version": "v0.1.0",
-    "updated_at": "2026-05-05T11:30:35Z",
+    "updated_at": "2026-05-05T12:03:25Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_steam_watch_status/master/logo.png"
   },
   "astrbot_plugin_markdown": {
@@ -240,7 +240,7 @@
     "repo": "https://github.com/landamao/abpl_hermes_spq",
     "tags": [],
     "social_link": "https://github.com/landamao",
-    "stars": 1,
+    "stars": 2,
     "version": "v3.15.2",
     "updated_at": "2026-05-01T07:31:59Z"
   },
@@ -304,7 +304,7 @@
       "环境"
     ],
     "social_link": "",
-    "stars": 2,
+    "stars": 3,
     "version": "1.1.0",
     "updated_at": "2026-04-30T15:13:49Z"
   },
@@ -320,7 +320,7 @@
       "诗意"
     ],
     "social_link": "",
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.0",
     "updated_at": "2026-04-30T15:10:09Z"
   },
@@ -352,7 +352,7 @@
       "情绪"
     ],
     "social_link": "",
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.0",
     "updated_at": "2026-04-30T15:03:40Z"
   },
