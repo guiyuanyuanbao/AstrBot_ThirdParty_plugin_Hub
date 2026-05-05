@@ -1,4 +1,18 @@
 {
+  "astrbot_plugin_nanally": {
+    "name": "astrbot_plugin_nanally",
+    "display_name": "未审核：娜娜莉-异环",
+    "desc": "基于NTEUID和TaJiDuo制作出的异环查询角色",
+    "author": "星浴",
+    "repo": "https://github.com/liangcka/astrbot_plugin_nanally",
+    "tags": [
+      "异环"
+    ],
+    "social_link": "xingyu.ink",
+    "stars": 0,
+    "version": "1.3.0",
+    "updated_at": "2026-05-05T01:01:20Z"
+  },
   "astrbot_plugin_endworld_img_api": {
     "name": "astrbot_plugin_endworld_img_api",
     "display_name": "未审核：随机图片",
