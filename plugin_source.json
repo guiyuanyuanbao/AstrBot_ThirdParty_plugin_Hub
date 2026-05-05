@@ -1,8 +1,8 @@
 {
   "astrbot_plugin_steam_watch_status": {
     "name": "astrbot_plugin_steam_watch_status",
-    "display_name": "未审核：Steam 状态监控插件",
-    "desc": "Steam 游戏更新推送，好友状态监控，历史价格查询",
+    "display_name": "未审核：Steam 状态监控",
+    "desc": "监控 Steam 好友状态、订阅游戏资讯/价格",
     "author": "moemoli",
     "repo": "https://github.com/moemoli/astrbot_plugin_steam_watch_status",
     "tags": [
@@ -11,7 +11,7 @@
     "social_link": "",
     "stars": 0,
     "version": "v0.1.0",
-    "updated_at": "2026-05-05T10:33:08Z",
+    "updated_at": "2026-05-05T11:30:35Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_steam_watch_status/master/logo.png"
   },
   "astrbot_plugin_markdown": {
