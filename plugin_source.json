@@ -11,8 +11,8 @@
     ],
     "social_link": "https://github.com/Li-Zheng-Rong",
     "stars": 0,
-    "version": "0.5.1",
-    "updated_at": "2026-05-05T05:37:36Z"
+    "version": "0.5.3",
+    "updated_at": "2026-05-05T06:22:17Z"
   },
   "astrbot_plugin_bili_parser": {
     "name": "astrbot_plugin_bili_parser",
@@ -979,7 +979,7 @@
       "Minecraft"
     ],
     "social_link": "",
-    "stars": 0,
+    "stars": 1,
     "version": "0.1.0",
     "updated_at": "2026-04-11T08:37:40Z"
   },
