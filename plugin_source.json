@@ -1,4 +1,37 @@
 {
+  "astrbot_plugin_apex_info": {
+    "name": "astrbot_plugin_apex_info",
+    "display_name": "未审核：Apex Legends 信息查询",
+    "desc": "查询 Apex Legends 地图轮换信息，支持自动提醒",
+    "author": "Sayaka",
+    "repo": "https://github.com/jiantoucn/astrbot_plugin_apex_info",
+    "tags": [
+      "游戏",
+      "Apex英雄",
+      "提醒"
+    ],
+    "social_link": "https://github.com/jiantoucn",
+    "stars": 0,
+    "version": "v1.0.2",
+    "updated_at": "2026-05-05T17:12:31Z",
+    "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_apex_info/main/logo.png"
+  },
+  "astrbot_plugin_bili_parser": {
+    "name": "astrbot_plugin_bili_parser",
+    "display_name": "未审核：又一个哔哩哔哩链接解析",
+    "desc": "解析 bilibili 视频、番剧、直播、专栏、音频等链接，并生成预览卡片。",
+    "author": "jkfujr",
+    "repo": "https://github.com/jkfujr/astrbot_plugin_bili_parser",
+    "tags": [
+      "bilibili",
+      "哔哩哔哩",
+      "解析"
+    ],
+    "social_link": "https://github.com/jkfujr",
+    "stars": 0,
+    "version": "0.0.3",
+    "updated_at": "2026-05-05T15:49:33Z"
+  },
   "astrbot_plugin_steam_watch_status": {
     "name": "astrbot_plugin_steam_watch_status",
     "display_name": "未审核：Steam 状态监控",
@@ -28,22 +61,6 @@
     "stars": 0,
     "version": "0.5.3",
     "updated_at": "2026-05-05T06:22:17Z"
-  },
-  "astrbot_plugin_bili_parser": {
-    "name": "astrbot_plugin_bili_parser",
-    "display_name": "未审核：又一个哔哩哔哩链接解析",
-    "desc": "解析 bilibili 视频、番剧、直播、专栏、音频等链接，并生成预览卡片。",
-    "author": "jkfujr",
-    "repo": "https://github.com/jkfujr/astrbot_plugin_bili_parser",
-    "tags": [
-      "bilibili",
-      "哔哩哔哩",
-      "解析"
-    ],
-    "social_link": "https://github.com/jkfujr",
-    "stars": 0,
-    "version": "0.0.3",
-    "updated_at": "2026-05-05T04:04:40Z"
   },
   "astrbot_plugin_nanally": {
     "name": "astrbot_plugin_nanally",
@@ -2083,7 +2100,7 @@
       "黑名单"
     ],
     "social_link": "https://github.com/oculr",
-    "stars": 0,
+    "stars": 1,
     "version": "v0.1.0",
     "updated_at": "2026-03-22T05:44:09Z"
   },
