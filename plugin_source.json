@@ -1,4 +1,38 @@
 {
+  "astrbot_plugin_apex_info": {
+    "name": "astrbot_plugin_apex_info",
+    "display_name": "未审核：Apex Legends 信息查询",
+    "desc": "查询 Apex Legends 地图轮换信息，支持自动提醒",
+    "author": "Sayaka",
+    "repo": "https://github.com/jiantoucn/astrbot_plugin_apex_info",
+    "tags": [
+      "游戏",
+      "Apex英雄",
+      "提醒"
+    ],
+    "social_link": "https://github.com/jiantoucn",
+    "stars": 0,
+    "version": "v1.1.2",
+    "updated_at": "2026-05-06T07:43:46Z",
+    "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_apex_info/main/logo.png"
+  },
+  "astrbot_plugin_steam_radar": {
+    "name": "astrbot_plugin_steam_radar",
+    "display_name": "未审核：Steam 雷达",
+    "desc": "一款面向群聊的功能强大的Steam 全能助手：游戏详情查询、多地区价格、截图、搜索、群愿望单、发售/史低自动通知。\\n群愿望单支持跨群共享缓存、智能分层刷新、夜间模式、发售/史低 @提及通知。\\n可选接入 IsThereAnyDeal，增强显示社区标签、Steam 史低、订阅服务（Game Pass / EA Play 等）、集换卡牌信息。",
+    "author": "B2347",
+    "repo": "https://github.com/NorNeko/astrbot_plugin_steam_radar",
+    "tags": [
+      "steam",
+      "游戏",
+      "解析"
+    ],
+    "social_link": "https://github.com/NorNeko",
+    "stars": 0,
+    "version": "v0.4.2",
+    "updated_at": "2026-05-06T07:10:17Z",
+    "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steam_radar/main/logo.png"
+  },
   "astrbot_plugin_scp_cn_feed": {
     "name": "astrbot_plugin_scp_cn_feed",
     "display_name": "未审核：SCPCN新闻内容推送",
@@ -27,23 +61,6 @@
     "version": "v0.1.0",
     "updated_at": "2026-05-06T03:50:24Z",
     "logo": "https://raw.githubusercontent.com/clashcatcat/astrbot_plugin_bubble_transform/main/logo.png"
-  },
-  "astrbot_plugin_apex_info": {
-    "name": "astrbot_plugin_apex_info",
-    "display_name": "未审核：Apex Legends 信息查询",
-    "desc": "查询 Apex Legends 地图轮换信息，支持自动提醒",
-    "author": "Sayaka",
-    "repo": "https://github.com/jiantoucn/astrbot_plugin_apex_info",
-    "tags": [
-      "游戏",
-      "Apex英雄",
-      "提醒"
-    ],
-    "social_link": "https://github.com/jiantoucn",
-    "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-05-05T18:19:57Z",
-    "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_apex_info/main/logo.png"
   },
   "astrbot_plugin_bili_parser": {
     "name": "astrbot_plugin_bili_parser",
@@ -134,23 +151,6 @@
     "stars": 0,
     "version": "v1.2.0",
     "updated_at": "2026-03-13T08:40:35Z"
-  },
-  "astrbot_plugin_steam_radar": {
-    "name": "astrbot_plugin_steam_radar",
-    "display_name": "未审核：Steam 雷达",
-    "desc": "一款面向群聊的功能强大的Steam 全能助手：游戏详情查询、多地区价格、截图、搜索、群愿望单、发售/史低自动通知。\\n群愿望单支持跨群共享缓存、智能分层刷新、夜间模式、发售/史低 @提及通知。\\n可选接入 IsThereAnyDeal，增强显示社区标签、Steam 史低、订阅服务（Game Pass / EA Play 等）、集换卡牌信息。",
-    "author": "B2347",
-    "repo": "https://github.com/NorNeko/astrbot_plugin_steam_radar",
-    "tags": [
-      "steam",
-      "游戏",
-      "解析"
-    ],
-    "social_link": "https://github.com/NorNeko",
-    "stars": 0,
-    "version": "v0.4.2",
-    "updated_at": "2026-05-04T15:59:08Z",
-    "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steam_radar/main/logo.png"
   },
   "astrbot_plugin_deerpipe": {
     "name": "astrbot_plugin_deerpipe",
