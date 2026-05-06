@@ -1,4 +1,33 @@
 {
+  "astrbot_plugin_scp_cn_feed": {
+    "name": "astrbot_plugin_scp_cn_feed",
+    "display_name": "未审核：SCPCN新闻内容推送",
+    "desc": "推送 SCP 中文站精品 SCP、精品原创故事和竞赛相关新闻。",
+    "author": "yun474",
+    "repo": "https://github.com/yun474/astrbot_plugin_scp_cn_feed",
+    "tags": [],
+    "social_link": "",
+    "stars": 1,
+    "version": "0.1.4",
+    "updated_at": "2026-05-06T04:52:21Z"
+  },
+  "astrbot_plugin_bubble_transform": {
+    "name": "astrbot_plugin_bubble_transform",
+    "display_name": "未审核：QQ视频转泡泡",
+    "desc": "回复 QQ 群视频消息后使用 把视频转为泡泡消息。",
+    "author": "CatCat",
+    "repo": "https://github.com/clashcatcat/astrbot_plugin_bubble_transform",
+    "tags": [
+      "qq",
+      "视频",
+      "泡泡"
+    ],
+    "social_link": "https://github.com/clashcatcat",
+    "stars": 1,
+    "version": "v0.1.0",
+    "updated_at": "2026-05-06T03:50:24Z",
+    "logo": "https://raw.githubusercontent.com/clashcatcat/astrbot_plugin_bubble_transform/main/logo.png"
+  },
   "astrbot_plugin_apex_info": {
     "name": "astrbot_plugin_apex_info",
     "display_name": "未审核：Apex Legends 信息查询",
@@ -91,18 +120,6 @@
     "version": "v5.9",
     "updated_at": "2026-05-04T18:24:33Z",
     "logo": "https://raw.githubusercontent.com/shangzhimingge/astrbot_plugin_endworld_img_api/main/logo.png"
-  },
-  "astrbot_plugin_scp_cn_feed": {
-    "name": "astrbot_plugin_scp_cn_feed",
-    "display_name": "未审核：SCPCN新闻内容推送",
-    "desc": "推送 SCP 中文站精品 SCP、精品原创故事和竞赛相关新闻。",
-    "author": "yun474",
-    "repo": "https://github.com/yun474/astrbot_plugin_scp_cn_feed",
-    "tags": [],
-    "social_link": "",
-    "stars": 1,
-    "version": "0.1.4",
-    "updated_at": "2026-05-04T18:23:03Z"
   },
   "astrbot_plugin_qq_group_manager": {
     "name": "astrbot_plugin_qq_group_manager",
