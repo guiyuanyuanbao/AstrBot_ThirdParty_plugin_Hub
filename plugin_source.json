@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_media_portal": {
+    "name": "astrbot_plugin_media_portal",
+    "display_name": "未审核：Media Portal",
+    "desc": "为 AI 与用户打造的多媒体门户：支持 AI 智能分类收藏，集成音视频预览播放与可视化管理的 AstrBot 插件",
+    "author": "Moudicat",
+    "repo": "https://github.com/Moudicat/astrbot_plugin_media_portal",
+    "tags": [
+      "多媒体",
+      "图片",
+      "视频",
+      "音乐"
+    ],
+    "social_link": "https://github.com/Moudicat",
+    "stars": 1,
+    "version": "v0.4.0",
+    "updated_at": "2026-05-07T16:43:49Z",
+    "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
+  },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
     "display_name": "未审核：社交媒体链接自动解析插件",
@@ -339,7 +357,7 @@
       "环境"
     ],
     "social_link": "",
-    "stars": 3,
+    "stars": 4,
     "version": "1.1.0",
     "updated_at": "2026-04-30T15:13:49Z"
   },
@@ -355,7 +373,7 @@
       "诗意"
     ],
     "social_link": "",
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.0",
     "updated_at": "2026-04-30T15:10:09Z"
   },
@@ -405,24 +423,6 @@
     "version": "0.3.0",
     "updated_at": "2026-04-30T12:02:21Z",
     "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
-  },
-  "astrbot_plugin_media_portal": {
-    "name": "astrbot_plugin_media_portal",
-    "display_name": "未审核：Media Portal",
-    "desc": "为 AI 与用户打造的多媒体门户：支持 AI 智能分类收藏，集成音视频预览播放与可视化管理的 AstrBot 插件",
-    "author": "Moudicat",
-    "repo": "https://github.com/Moudicat/astrbot_plugin_media_portal",
-    "tags": [
-      "多媒体",
-      "图片",
-      "视频",
-      "音乐"
-    ],
-    "social_link": "https://github.com/Moudicat",
-    "stars": 1,
-    "version": "v0.4.0",
-    "updated_at": "2026-04-30T07:49:55Z",
-    "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
   },
   "astrbot_plugin_ba_pvp_recorder": {
     "name": "astrbot_plugin_ba_pvp_recorder",
