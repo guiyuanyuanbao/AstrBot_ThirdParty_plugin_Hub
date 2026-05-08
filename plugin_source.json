@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_user_terms": {
+    "name": "astrbot_plugin_user_terms",
+    "display_name": "未审核：用户条款签署控制",
+    "desc": "用户条款签署控制插件，为指定用户 SID 或群组 SID 要求单独同意用户条款后才允许继续使用机器人",
+    "author": "AlanBacker",
+    "repo": "https://github.com/AlanBacker/astrbot_plugin_user_terms",
+    "tags": [
+      "用户条款",
+      "功能",
+      "安全"
+    ],
+    "social_link": "https://space.bilibili.com/702922307",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-05-08T10:01:46Z"
+  },
   "astrbot_plugin_deerpipe": {
     "name": "astrbot_plugin_deerpipe",
     "display_name": "未审核：鹿乃子月历",
@@ -17,7 +33,7 @@
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 3,
     "version": "v2.0.0",
-    "updated_at": "2026-05-08T09:17:12Z",
+    "updated_at": "2026-05-08T09:53:07Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
   },
   "astrbot_plugin_media_portal": {
@@ -2783,7 +2799,7 @@
     "repo": "https://github.com/Logxk/nailong",
     "tags": [],
     "social_link": "https://github.com/Logxk/nailong",
-    "stars": 5,
+    "stars": 6,
     "version": "v1.3.0",
     "updated_at": "2026-03-13T06:14:50Z"
   },
