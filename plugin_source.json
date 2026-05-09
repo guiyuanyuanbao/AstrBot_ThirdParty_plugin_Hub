@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_apex_info": {
+    "name": "astrbot_plugin_apex_info",
+    "display_name": "未审核：Apex Legends 信息查询",
+    "desc": "查询 Apex Legends 地图轮换信息，支持自动提醒",
+    "author": "Sayaka",
+    "repo": "https://github.com/jiantoucn/astrbot_plugin_apex_info",
+    "tags": [
+      "游戏",
+      "Apex英雄",
+      "提醒"
+    ],
+    "social_link": "https://github.com/jiantoucn",
+    "stars": 0,
+    "version": "v1.4.6",
+    "updated_at": "2026-05-09T15:42:36Z",
+    "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_apex_info/main/logo.png"
+  },
   "astrbot_plugin_pixivs_crawler": {
     "name": "astrbot_plugin_pixivs_crawler",
     "display_name": "未审核：Pixiv爬取",
@@ -143,23 +160,6 @@
     "updated_at": "2026-05-06T20:18:45Z",
     "logo": "https://raw.githubusercontent.com/shangzhimingge/astrbot_plugin_endworld_img_api/main/logo.png"
   },
-  "astrbot_plugin_apex_info": {
-    "name": "astrbot_plugin_apex_info",
-    "display_name": "未审核：Apex Legends 信息查询",
-    "desc": "查询 Apex Legends 地图轮换信息，支持自动提醒",
-    "author": "Sayaka",
-    "repo": "https://github.com/jiantoucn/astrbot_plugin_apex_info",
-    "tags": [
-      "游戏",
-      "Apex英雄",
-      "提醒"
-    ],
-    "social_link": "https://github.com/jiantoucn",
-    "stars": 0,
-    "version": "v1.4.2",
-    "updated_at": "2026-05-06T16:23:01Z",
-    "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_apex_info/main/logo.png"
-  },
   "astrbot_plugin_steam_radar": {
     "name": "astrbot_plugin_steam_radar",
     "display_name": "未审核：Steam 雷达",
@@ -172,7 +172,7 @@
       "解析"
     ],
     "social_link": "https://github.com/NorNeko",
-    "stars": 0,
+    "stars": 1,
     "version": "v0.4.2",
     "updated_at": "2026-05-06T07:10:17Z",
     "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steam_radar/main/logo.png"
