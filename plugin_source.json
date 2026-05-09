@@ -13,7 +13,25 @@
     "social_link": "https://github.com/starmiaoa",
     "stars": 6,
     "version": "1.1.3",
-    "updated_at": "2026-05-09T00:05:13Z"
+    "updated_at": "2026-05-09T05:18:50Z"
+  },
+  "astrbot_plugin_media_portal": {
+    "name": "astrbot_plugin_media_portal",
+    "display_name": "未审核：Media Portal",
+    "desc": "为 AI 与用户打造的多媒体门户：支持 AI 智能分类收藏，集成音视频预览播放与可视化管理的 AstrBot 插件",
+    "author": "Moudicat",
+    "repo": "https://github.com/Moudicat/astrbot_plugin_media_portal",
+    "tags": [
+      "多媒体",
+      "图片",
+      "视频",
+      "音乐"
+    ],
+    "social_link": "https://github.com/Moudicat",
+    "stars": 1,
+    "version": "v0.4.0",
+    "updated_at": "2026-05-09T03:55:55Z",
+    "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
   },
   "astrbot_plugin_nsjail": {
     "name": "astrbot_plugin_nsjail",
@@ -81,24 +99,6 @@
     "version": "v2.0.0",
     "updated_at": "2026-05-08T09:53:07Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
-  },
-  "astrbot_plugin_media_portal": {
-    "name": "astrbot_plugin_media_portal",
-    "display_name": "未审核：Media Portal",
-    "desc": "为 AI 与用户打造的多媒体门户：支持 AI 智能分类收藏，集成音视频预览播放与可视化管理的 AstrBot 插件",
-    "author": "Moudicat",
-    "repo": "https://github.com/Moudicat/astrbot_plugin_media_portal",
-    "tags": [
-      "多媒体",
-      "图片",
-      "视频",
-      "音乐"
-    ],
-    "social_link": "https://github.com/Moudicat",
-    "stars": 1,
-    "version": "v0.4.0",
-    "updated_at": "2026-05-07T16:43:49Z",
-    "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
   },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
@@ -452,7 +452,7 @@
       "情绪"
     ],
     "social_link": "",
-    "stars": 6,
+    "stars": 7,
     "version": "1.0.0",
     "updated_at": "2026-04-30T15:03:40Z"
   },
