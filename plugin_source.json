@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_cs_match": {
+    "name": "astrbot_plugin_cs_match",
+    "display_name": "未审核：astrbot_plugin_cs2_match_push",
+    "desc": "CS2 比赛推送插件，支持关注战队、赛前提醒、赛后数据推送",
+    "author": "Aut-sep",
+    "repo": "https://github.com/Aut-sep/Astrbot-plugin-CS2-match-push",
+    "tags": [],
+    "social_link": "https://github.com/Aut-sep",
+    "stars": 1,
+    "version": "4.1.0",
+    "updated_at": "2026-05-10T11:53:11Z"
+  },
   "astrbot_plugin_gpt_image_2": {
     "name": "astrbot_plugin_gpt_image_2",
     "display_name": "未审核：GPT Image 图像生成",
@@ -393,18 +405,6 @@
     "version": "v1.3.3",
     "updated_at": "2026-05-02T14:17:47Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
-  },
-  "astrbot_plugin_cs_match": {
-    "name": "astrbot_plugin_cs_match",
-    "display_name": "未审核：astrbot_plugin_cs2_match_push",
-    "desc": "CS2 比赛推送插件，支持关注战队、赛前提醒、赛后数据推送",
-    "author": "Aut-sep",
-    "repo": "https://github.com/Aut-sep/Astrbot-plugin-CS2-match-push",
-    "tags": [],
-    "social_link": "https://github.com/Aut-sep",
-    "stars": 0,
-    "version": "4.1.0",
-    "updated_at": "2026-05-01T12:08:05Z"
   },
   "hermes": {
     "name": "hermes",
