@@ -1,16 +1,4 @@
 {
-  "astrbot_plugin_nailong": {
-    "name": "astrbot_plugin_nailong",
-    "display_name": "未审核：奶龙波特",
-    "desc": "一个可以用来变速，倒放，对称，随机奶龙和添加表情的奶龙插件",
-    "author": "Logxk",
-    "repo": "https://github.com/Logxk/nailong",
-    "tags": [],
-    "social_link": "https://github.com/Logxk/nailong",
-    "stars": 6,
-    "version": "v1.3.0",
-    "updated_at": "2026-05-10T08:18:21Z"
-  },
   "astrbot_plugin_gpt_image_2": {
     "name": "astrbot_plugin_gpt_image_2",
     "display_name": "未审核：GPT Image 图像生成",
@@ -24,8 +12,20 @@
     ],
     "social_link": "https://github.com/starmiaoa",
     "stars": 7,
-    "version": "1.2.6",
-    "updated_at": "2026-05-10T07:36:42Z"
+    "version": "1.2.7",
+    "updated_at": "2026-05-10T09:17:05Z"
+  },
+  "astrbot_plugin_nailong": {
+    "name": "astrbot_plugin_nailong",
+    "display_name": "未审核：奶龙波特",
+    "desc": "一个可以用来变速，倒放，对称，随机奶龙和添加表情的奶龙插件",
+    "author": "Logxk",
+    "repo": "https://github.com/Logxk/nailong",
+    "tags": [],
+    "social_link": "https://github.com/Logxk/nailong",
+    "stars": 6,
+    "version": "v1.3.0",
+    "updated_at": "2026-05-10T08:18:21Z"
   },
   "astrbot_plugin_pimeng_blacklist": {
     "name": "astrbot_plugin_pimeng_blacklist",
@@ -3246,21 +3246,6 @@
     "stars": 1,
     "version": "2.2.6",
     "updated_at": "2026-03-06T05:33:56Z"
-  },
-  "astrbot_plugin_mute": {
-    "name": "astrbot_plugin_mute",
-    "display_name": "未审核：选择性回复",
-    "desc": "赋予大模型'已读不回'的能力，自主判断是否需要参与对话。",
-    "author": "小纳",
-    "repo": "https://github.com/lmeng1660-hash/astrbot_plugin_mute",
-    "tags": [
-      "消息过滤",
-      "智能回复"
-    ],
-    "social_link": "https://github.com/lmeng1660-hash",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-05T13:58:01Z"
   },
   "astrbot_plugin_ehentai_metadata": {
     "name": "astrbot_plugin_ehentai_metadata",
