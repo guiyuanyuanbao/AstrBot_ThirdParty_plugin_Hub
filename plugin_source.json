@@ -1,4 +1,37 @@
 {
+  "astrbot_plugin_bilibili_ai_bot": {
+    "name": "astrbot_plugin_bilibili_ai_bot",
+    "display_name": "未审核：b站bot",
+    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
+    "author": "chenluQwQ",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
+    "tags": [
+      "bilibili",
+      "B站",
+      "评论回复",
+      "主动交互",
+      "语义记忆"
+    ],
+    "social_link": "",
+    "stars": 5,
+    "version": "1.1.3",
+    "updated_at": "2026-05-11T12:13:05Z"
+  },
+  "astrbot_plugin_steam_watch_status": {
+    "name": "astrbot_plugin_steam_watch_status",
+    "display_name": "未审核：Steam 状态监控",
+    "desc": "Steam 游戏更新推送，好友状态监控，历史价格查询",
+    "author": "moemoli",
+    "repo": "https://github.com/moemoli/astrbot_plugin_steam_watch_status",
+    "tags": [
+      "steam"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v0.1.0",
+    "updated_at": "2026-05-11T11:48:07Z",
+    "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_steam_watch_status/master/logo.png"
+  },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
     "display_name": "未审核：MiMO TTS精细化控制",
@@ -105,7 +138,7 @@
       "OpenAI"
     ],
     "social_link": "https://github.com/starmiaoa",
-    "stars": 7,
+    "stars": 8,
     "version": "1.2.7",
     "updated_at": "2026-05-10T09:17:05Z"
   },
@@ -135,24 +168,6 @@
     "version": "2.8.1",
     "updated_at": "2026-05-10T07:05:38Z",
     "logo": "https://raw.githubusercontent.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist/main/logo.png"
-  },
-  "astrbot_plugin_bilibili_ai_bot": {
-    "name": "astrbot_plugin_bilibili_ai_bot",
-    "display_name": "未审核：b站bot",
-    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
-    "author": "chenluQwQ",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
-    "tags": [
-      "bilibili",
-      "B站",
-      "评论回复",
-      "主动交互",
-      "语义记忆"
-    ],
-    "social_link": "",
-    "stars": 5,
-    "version": "1.1.2",
-    "updated_at": "2026-05-09T20:15:59Z"
   },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
@@ -350,21 +365,6 @@
     "stars": 0,
     "version": "0.0.3",
     "updated_at": "2026-05-05T15:49:33Z"
-  },
-  "astrbot_plugin_steam_watch_status": {
-    "name": "astrbot_plugin_steam_watch_status",
-    "display_name": "未审核：Steam 状态监控",
-    "desc": "Steam 游戏更新推送，好友状态监控，历史价格查询",
-    "author": "moemoli",
-    "repo": "https://github.com/moemoli/astrbot_plugin_steam_watch_status",
-    "tags": [
-      "steam"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v0.1.0",
-    "updated_at": "2026-05-05T12:03:25Z",
-    "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_steam_watch_status/master/logo.png"
   },
   "astrbot_plugin_markdown": {
     "name": "astrbot_plugin_markdown",
@@ -1072,7 +1072,7 @@
       "open llm vtuber"
     ],
     "social_link": "https://space.bilibili.com/41761329",
-    "stars": 6,
+    "stars": 7,
     "version": "1.0.0",
     "updated_at": "2026-04-13T12:43:09Z",
     "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
@@ -1222,7 +1222,7 @@
       "解析"
     ],
     "social_link": "https://github.com/ZASENJC",
-    "stars": 1,
+    "stars": 2,
     "version": "2.1.7",
     "updated_at": "2026-04-05T02:27:25Z",
     "logo": "https://raw.githubusercontent.com/ZASENJC/astrbot_plugin_weibo_push/main/logo.png"
