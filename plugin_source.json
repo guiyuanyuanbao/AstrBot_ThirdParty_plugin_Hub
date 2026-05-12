@@ -12,7 +12,22 @@
     "social_link": "",
     "stars": 1,
     "version": "1.3.0",
-    "updated_at": "2026-05-12T14:21:29Z"
+    "updated_at": "2026-05-12T15:43:18Z"
+  },
+  "astrbot_plugin_markdown": {
+    "name": "astrbot_plugin_markdown",
+    "display_name": "未审核：markdown 自动转图片",
+    "desc": "vscode 同款 markdown 渲染器，在 llm 输出包含 markdown 时自动转为 github 风格的渲染图片",
+    "author": "zijinshanren",
+    "repo": "https://github.com/Li-Zheng-Rong/astrbot_plugin_markdown",
+    "tags": [
+      "markdown",
+      "image"
+    ],
+    "social_link": "https://github.com/Li-Zheng-Rong",
+    "stars": 0,
+    "version": "0.5.4",
+    "updated_at": "2026-05-12T15:36:50Z"
   },
   "astrbot_plugin_pixivs_crawler": {
     "name": "astrbot_plugin_pixivs_crawler",
@@ -69,7 +84,7 @@
       "视频总结"
     ],
     "social_link": "",
-    "stars": 0,
+    "stars": 1,
     "version": "v0.1.1",
     "updated_at": "2026-05-12T07:13:26Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_ai_summary/main/logo.png"
@@ -393,21 +408,6 @@
     "stars": 0,
     "version": "0.0.3",
     "updated_at": "2026-05-05T15:49:33Z"
-  },
-  "astrbot_plugin_markdown": {
-    "name": "astrbot_plugin_markdown",
-    "display_name": "未审核：markdown 自动转图片",
-    "desc": "vscode 同款 markdown 渲染器，在 llm 输出包含 markdown 时自动转为 github 风格的渲染图片",
-    "author": "zijinshanren",
-    "repo": "https://github.com/Li-Zheng-Rong/astrbot_plugin_markdown",
-    "tags": [
-      "markdown",
-      "image"
-    ],
-    "social_link": "https://github.com/Li-Zheng-Rong",
-    "stars": 0,
-    "version": "0.5.3",
-    "updated_at": "2026-05-05T06:22:17Z"
   },
   "astrbot_plugin_nanally": {
     "name": "astrbot_plugin_nanally",
