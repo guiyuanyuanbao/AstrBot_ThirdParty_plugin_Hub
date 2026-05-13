@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_ai_summary": {
+    "name": "astrbot_plugin_ai_summary",
+    "display_name": "未审核：AI 视频总结",
+    "desc": "基于本地语音转写，结合用户提示词与视觉信息的多模态 AI 视频总结工具",
+    "author": "drdon1234",
+    "repo": "https://github.com/drdon1234/astrbot_plugin_ai_summary",
+    "tags": [
+      "AI",
+      "视频总结"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "v0.1.3",
+    "updated_at": "2026-05-13T02:41:25Z",
+    "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_ai_summary/main/logo.png"
+  },
   "astrbot_plugin_pixivs_crawler": {
     "name": "astrbot_plugin_pixivs_crawler",
     "display_name": "未审核：Pixiv爬取",
@@ -72,22 +88,6 @@
     "stars": 2,
     "version": "v3.16.0",
     "updated_at": "2026-05-12T10:48:40Z"
-  },
-  "astrbot_plugin_ai_summary": {
-    "name": "astrbot_plugin_ai_summary",
-    "display_name": "未审核：AI 视频总结",
-    "desc": "基于本地语音转写，结合用户提示词与视觉信息的多模态 AI 视频总结工具",
-    "author": "drdon1234",
-    "repo": "https://github.com/drdon1234/astrbot_plugin_ai_summary",
-    "tags": [
-      "AI",
-      "视频总结"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "v0.1.1",
-    "updated_at": "2026-05-12T07:13:26Z",
-    "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_ai_summary/main/logo.png"
   },
   "astrbot_plugin_avatar_manager": {
     "name": "astrbot_plugin_avatar_manager",
