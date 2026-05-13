@@ -1,4 +1,52 @@
 {
+  "astrbot_plugin_gpt_image_2": {
+    "name": "astrbot_plugin_gpt_image_2",
+    "display_name": "未审核：GPT Image 图像生成",
+    "desc": "GPTImage图片生成插件，支持所有GPTImage系列模型。",
+    "author": "starmiaoa",
+    "repo": "https://github.com/starmiaoa/astrbot-plugin-gpt-image",
+    "tags": [
+      "图片生成",
+      "GPT Image",
+      "OpenAI"
+    ],
+    "social_link": "https://github.com/starmiaoa",
+    "stars": 8,
+    "version": "1.2.8",
+    "updated_at": "2026-05-13T14:15:13Z"
+  },
+  "astrbot_plugin_apex_info": {
+    "name": "astrbot_plugin_apex_info",
+    "display_name": "未审核：Apex Legends 信息查询",
+    "desc": "查询 Apex Legends 地图轮换信息，支持自动提醒",
+    "author": "Sayaka",
+    "repo": "https://github.com/jiantoucn/astrbot_plugin_apex_info",
+    "tags": [
+      "游戏",
+      "Apex英雄",
+      "提醒"
+    ],
+    "social_link": "https://github.com/jiantoucn",
+    "stars": 0,
+    "version": "v1.5.7",
+    "updated_at": "2026-05-13T14:13:20Z",
+    "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_apex_info/main/logo.png"
+  },
+  "astrbot_plugin_img_analysis": {
+    "name": "astrbot_plugin_img_analysis",
+    "display_name": "未审核：图片元数据解析",
+    "desc": "一个用于解析图片元数据的插件",
+    "author": "NightDust981989",
+    "repo": "https://github.com/NightDust981989/astrbot_plugin_img_analysis",
+    "tags": [
+      "工具"
+    ],
+    "social_link": "https://github.com/NightDust981989",
+    "stars": 0,
+    "version": "v2.1.1",
+    "updated_at": "2026-05-13T13:17:48Z",
+    "logo": "https://raw.githubusercontent.com/NightDust981989/astrbot_plugin_img_analysis/master/logo.png"
+  },
   "astrbot_plugin_anti_memes": {
     "name": "astrbot_plugin_anti_memes",
     "display_name": "未审核：图片精准撤回助手",
@@ -204,22 +252,6 @@
     "version": "v0.2.3",
     "updated_at": "2026-05-11T01:53:08Z"
   },
-  "astrbot_plugin_gpt_image_2": {
-    "name": "astrbot_plugin_gpt_image_2",
-    "display_name": "未审核：GPT Image 图像生成",
-    "desc": "GPTImage图片生成插件，支持所有GPTImage系列模型。",
-    "author": "starmiaoa",
-    "repo": "https://github.com/starmiaoa/astrbot-plugin-gpt-image",
-    "tags": [
-      "图片生成",
-      "GPT Image",
-      "OpenAI"
-    ],
-    "social_link": "https://github.com/starmiaoa",
-    "stars": 8,
-    "version": "1.2.7",
-    "updated_at": "2026-05-10T09:17:05Z"
-  },
   "astrbot_plugin_nailong": {
     "name": "astrbot_plugin_nailong",
     "display_name": "未审核：奶龙波特",
@@ -263,23 +295,6 @@
     "version": "v3.0.2",
     "updated_at": "2026-05-09T19:11:08Z",
     "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
-  },
-  "astrbot_plugin_apex_info": {
-    "name": "astrbot_plugin_apex_info",
-    "display_name": "未审核：Apex Legends 信息查询",
-    "desc": "查询 Apex Legends 地图轮换信息，支持自动提醒",
-    "author": "Sayaka",
-    "repo": "https://github.com/jiantoucn/astrbot_plugin_apex_info",
-    "tags": [
-      "游戏",
-      "Apex英雄",
-      "提醒"
-    ],
-    "social_link": "https://github.com/jiantoucn",
-    "stars": 0,
-    "version": "v1.5.4",
-    "updated_at": "2026-05-09T17:59:43Z",
-    "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_apex_info/main/logo.png"
   },
   "astrbot_plugin_media_portal": {
     "name": "astrbot_plugin_media_portal",
@@ -1569,20 +1584,6 @@
     "stars": 2,
     "version": "v1.1.1",
     "updated_at": "2026-03-30T13:51:46Z"
-  },
-  "astrbot_plugin_img_analysis": {
-    "name": "astrbot_plugin_img_analysis",
-    "display_name": "未审核：图片元数据解析",
-    "desc": "一个用于解析图片元数据的插件",
-    "author": "NightDust981989",
-    "repo": "https://github.com/NightDust981989/astrbot_plugin_img_analysis",
-    "tags": [
-      "工具"
-    ],
-    "social_link": "https://github.com/NightDust981989",
-    "stars": 0,
-    "version": "v2.1.0",
-    "updated_at": "2026-03-30T13:00:17Z"
   },
   "astrbot_plugin_image_symmetry": {
     "name": "astrbot_plugin_image_symmetry",
