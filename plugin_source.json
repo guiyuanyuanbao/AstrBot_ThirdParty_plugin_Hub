@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_anti_memes": {
+    "name": "astrbot_plugin_anti_memes",
+    "display_name": "未审核：图片精准撤回助手",
+    "desc": "【仅支持基于 QQ 的 aiohttp / OneBot V11 平台】该插件基于 AstrBot，用于对指定用户发送的图片进行自动检测并触发撤回操作（需权限支持），适用于内容管理与群组秩序维护。支持自定义目标用户与规则配置。\n(Only supports QQ platforms based on aiohttp / OneBot V11.)This plugin for AstrBot monitors images sent by specified users and automatically recalls them (with proper permissions). It is designed for moderation and group management, with configurable targets and rules.",
+    "author": "Qrzzzz",
+    "repo": "https://github.com/Qrzzzz/astrbot_plugin_anti_memes",
+    "tags": [
+      "图片",
+      "vibe coding",
+      "屏蔽",
+      "消息处理",
+      "QQ"
+    ],
+    "social_link": "https://github.com/Qrzzzz",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-05-13T10:27:59Z"
+  },
   "astrbot_plugin_ai_summary": {
     "name": "astrbot_plugin_ai_summary",
     "display_name": "未审核：AI 视频总结",
@@ -185,24 +203,6 @@
     "stars": 3,
     "version": "v0.2.3",
     "updated_at": "2026-05-11T01:53:08Z"
-  },
-  "astrbot_plugin_anti_memes": {
-    "name": "astrbot_plugin_anti_memes",
-    "display_name": "未审核：图片精准撤回助手",
-    "desc": "【仅支持基于 QQ 的 aiohttp / OneBot V11 平台】该插件基于 AstrBot，用于对指定用户发送的图片进行自动检测并触发撤回操作（需权限支持），适用于内容管理与群组秩序维护。支持自定义目标用户与规则配置。\n(Only supports QQ platforms based on aiohttp / OneBot V11.)This plugin for AstrBot monitors images sent by specified users and automatically recalls them (with proper permissions). It is designed for moderation and group management, with configurable targets and rules.",
-    "author": "Qrzzzz",
-    "repo": "https://github.com/Qrzzzz/astrbot_plugin_anti_memes",
-    "tags": [
-      "图片",
-      "vibe coding",
-      "屏蔽",
-      "消息处理",
-      "QQ"
-    ],
-    "social_link": "https://github.com/Qrzzzz",
-    "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2026-05-10T15:43:33Z"
   },
   "astrbot_plugin_gpt_image_2": {
     "name": "astrbot_plugin_gpt_image_2",
