@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_simple_long_memory": {
+    "name": "astrbot_plugin_simple_long_memory",
+    "display_name": "未审核：简单长期记忆",
+    "desc": "为 AstrBot 提供长期记忆能力，基于内置知识库实现用户偏好、历史交互和重要事实的记忆存储与召回",
+    "author": "piexian",
+    "repo": "https://github.com/piexian/astrbot_plugin_simple_long_memory",
+    "tags": [
+      "长期记忆",
+      "记忆"
+    ],
+    "social_link": "https://github.com/piexian",
+    "stars": 5,
+    "version": "v0.3.2",
+    "updated_at": "2026-05-13T22:09:57Z"
+  },
   "astrbot_plugin_gpt_image_2": {
     "name": "astrbot_plugin_gpt_image_2",
     "display_name": "未审核：GPT Image 图像生成",
@@ -451,21 +466,6 @@
     "stars": 0,
     "version": "v1.2.0",
     "updated_at": "2026-03-13T08:40:35Z"
-  },
-  "astrbot_plugin_simple_long_memory": {
-    "name": "astrbot_plugin_simple_long_memory",
-    "display_name": "未审核：简单长期记忆",
-    "desc": "为 AstrBot 提供长期记忆能力，基于内置知识库实现用户偏好、历史交互和重要事实的记忆存储与召回",
-    "author": "piexian",
-    "repo": "https://github.com/piexian/astrbot_plugin_simple_long_memory",
-    "tags": [
-      "长期记忆",
-      "记忆"
-    ],
-    "social_link": "https://github.com/piexian",
-    "stars": 5,
-    "version": "v0.3.1",
-    "updated_at": "2026-05-04T04:09:40Z"
   },
   "astrbot_plugin_group_wakepro": {
     "name": "astrbot_plugin_group_wakepro",
