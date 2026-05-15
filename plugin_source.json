@@ -1,4 +1,48 @@
 {
+  "astrbot_plugin_parserurl": {
+    "name": "astrbot_plugin_parserurl",
+    "display_name": "未审核：社交媒体链接自动解析插件",
+    "desc": "社交媒体分享链接解析插件。将A站、B站、抖音、小红书、微博...等网站的视频、图集、音频进行解析并发送",
+    "author": "Ishning",
+    "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
+    "tags": [],
+    "social_link": "https://github.com/Ishning",
+    "stars": 0,
+    "version": "v2.4.2",
+    "updated_at": "2026-05-15T09:07:45Z",
+    "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
+  },
+  "astrbot_plugin_gpt_image_2": {
+    "name": "astrbot_plugin_gpt_image_2",
+    "display_name": "未审核：GPT Image 图像生成",
+    "desc": "GPTImage图片生成插件，支持所有GPTImage系列模型。",
+    "author": "starmiaoa",
+    "repo": "https://github.com/starmiaoa/astrbot-plugin-gpt-image",
+    "tags": [
+      "图片生成",
+      "GPT Image",
+      "OpenAI"
+    ],
+    "social_link": "https://github.com/starmiaoa",
+    "stars": 9,
+    "version": "1.2.10",
+    "updated_at": "2026-05-15T09:00:42Z"
+  },
+  "astrbot_plugin_chatimitate": {
+    "name": "astrbot_plugin_chatimitate",
+    "display_name": "未审核：ChatImitate",
+    "desc": "这是一个 Astrbot 插件，旨在让 bot 从群聊记录中学习和模仿人类聊天，而不是使用AI生成内容",
+    "author": "EightEggs",
+    "repo": "https://github.com/EightEggs/astrbot_plugin_chatimitate",
+    "tags": [
+      "群聊学习"
+    ],
+    "social_link": "https://github.com/EightEggs",
+    "stars": 1,
+    "version": "v3.1.6",
+    "updated_at": "2026-05-15T07:43:29Z",
+    "logo": "https://raw.githubusercontent.com/EightEggs/astrbot_plugin_chatimitate/master/logo.png"
+  },
   "astrbot_plugin_ai_summary": {
     "name": "astrbot_plugin_ai_summary",
     "display_name": "未审核：AI 视频总结",
@@ -12,7 +56,7 @@
     "social_link": "",
     "stars": 1,
     "version": "v0.2.0",
-    "updated_at": "2026-05-14T17:42:23Z",
+    "updated_at": "2026-05-15T06:41:27Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_ai_summary/main/logo.png"
   },
   "astrbot_plugin_bilibili_ai_bot": {
@@ -80,37 +124,6 @@
     "stars": 1,
     "version": "1.0.0",
     "updated_at": "2026-05-14T00:36:15Z"
-  },
-  "astrbot_plugin_simple_long_memory": {
-    "name": "astrbot_plugin_simple_long_memory",
-    "display_name": "未审核：简单长期记忆",
-    "desc": "为 AstrBot 提供长期记忆能力，基于内置知识库实现用户偏好、历史交互和重要事实的记忆存储与召回",
-    "author": "piexian",
-    "repo": "https://github.com/piexian/astrbot_plugin_simple_long_memory",
-    "tags": [
-      "长期记忆",
-      "记忆"
-    ],
-    "social_link": "https://github.com/piexian",
-    "stars": 6,
-    "version": "v0.3.2",
-    "updated_at": "2026-05-13T22:13:24Z"
-  },
-  "astrbot_plugin_gpt_image_2": {
-    "name": "astrbot_plugin_gpt_image_2",
-    "display_name": "未审核：GPT Image 图像生成",
-    "desc": "GPTImage图片生成插件，支持所有GPTImage系列模型。",
-    "author": "starmiaoa",
-    "repo": "https://github.com/starmiaoa/astrbot-plugin-gpt-image",
-    "tags": [
-      "图片生成",
-      "GPT Image",
-      "OpenAI"
-    ],
-    "social_link": "https://github.com/starmiaoa",
-    "stars": 8,
-    "version": "1.2.8",
-    "updated_at": "2026-05-13T14:15:13Z"
   },
   "astrbot_plugin_apex_info": {
     "name": "astrbot_plugin_apex_info",
@@ -359,19 +372,6 @@
     "stars": 0,
     "version": "1.0.0",
     "updated_at": "2026-05-08T11:56:43Z"
-  },
-  "astrbot_plugin_parserurl": {
-    "name": "astrbot_plugin_parserurl",
-    "display_name": "未审核：社交媒体链接自动解析插件",
-    "desc": "社交媒体分享链接解析插件。将A站、B站、抖音、小红书、微博...等网站的视频、图集、音频进行解析并发送",
-    "author": "Ishning",
-    "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
-    "tags": [],
-    "social_link": "https://github.com/Ishning",
-    "stars": 0,
-    "version": "v2.4.2",
-    "updated_at": "2026-05-07T06:15:01Z",
-    "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
   },
   "astrbot_plugin_endworld_img_api": {
     "name": "astrbot_plugin_endworld_img_api",
@@ -796,21 +796,6 @@
     "version": "v2.0.1",
     "updated_at": "2026-04-23T10:07:17Z",
     "logo": "https://raw.githubusercontent.com/NumInvis/astrbot-plugin-monningsignin/main/logo.png"
-  },
-  "astrbot_plugin_chatimitate": {
-    "name": "astrbot_plugin_chatimitate",
-    "display_name": "未审核：ChatImitate",
-    "desc": "这是一个 Astrbot 插件，旨在让 bot 从群聊记录中学习和模仿人类聊天，而不是使用AI生成内容",
-    "author": "EightEggs",
-    "repo": "https://github.com/EightEggs/astrbot_plugin_chatimitate",
-    "tags": [
-      "群聊学习"
-    ],
-    "social_link": "https://github.com/EightEggs",
-    "stars": 1,
-    "version": "v3.1.5",
-    "updated_at": "2026-04-23T07:03:44Z",
-    "logo": "https://raw.githubusercontent.com/EightEggs/astrbot_plugin_chatimitate/master/logo.png"
   },
   "astrbot_plugin_qiukan": {
     "name": "astrbot_plugin_qiukan",
