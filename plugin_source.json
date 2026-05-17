@@ -1,4 +1,43 @@
 {
+  "astrbot_plugin_setu": {
+    "name": "astrbot_plugin_setu",
+    "display_name": "未审核：瑟瑟！",
+    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
+    "tags": [
+      "瑟瑟",
+      "色图",
+      "setu",
+      "福利",
+      "色色",
+      "lolicon",
+      "sexyan",
+      "atri",
+      "图片",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 6,
+    "version": "v2.0.0",
+    "updated_at": "2026-05-17T13:18:39Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
+  },
+  "astrbot_plugin_qzone_ultra": {
+    "name": "astrbot_plugin_qzone_ultra",
+    "display_name": "未审核：QQ空间Ultra",
+    "desc": "QQ空间Ultra，对标 QQ 空间中文命令体系，支持看/评/赞/发/写/删说说、回评、投稿审核、自动发评和 LLM tools。",
+    "author": "雪碧bir",
+    "repo": "https://github.com/diaomin66/astrbot_plugin_qzone_ultra",
+    "tags": [
+      "QQ空间"
+    ],
+    "social_link": "",
+    "stars": 2,
+    "version": "0.2.0",
+    "updated_at": "2026-05-17T12:07:22Z",
+    "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
+  },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
     "display_name": "未审核：枝江自动推送",
@@ -27,30 +66,6 @@
     "stars": 2,
     "version": "v5.0.9",
     "updated_at": "2026-05-17T10:57:38Z"
-  },
-  "astrbot_plugin_setu": {
-    "name": "astrbot_plugin_setu",
-    "display_name": "未审核：瑟瑟！",
-    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
-    "tags": [
-      "瑟瑟",
-      "色图",
-      "setu",
-      "福利",
-      "色色",
-      "lolicon",
-      "sexyan",
-      "atri",
-      "图片",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 6,
-    "version": "v1.3.0",
-    "updated_at": "2026-05-17T10:52:53Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
   },
   "astrbot_context_injection_system": {
     "name": "astrbot_context_injection_system",
