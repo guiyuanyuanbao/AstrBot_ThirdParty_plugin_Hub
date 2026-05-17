@@ -1,4 +1,16 @@
 {
+  "hermes": {
+    "name": "hermes",
+    "display_name": "未审核：Hermes适配器",
+    "desc": "Hermes Agent 适配器 (WebSocket 版本) - 实现 AstrBot 与 Hermes 的双向通信",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/abpl_hermes_spq",
+    "tags": [],
+    "social_link": "https://github.com/landamao",
+    "stars": 2,
+    "version": "v6.1.1",
+    "updated_at": "2026-05-17T19:08:02Z"
+  },
   "astrbot_plugin_setu": {
     "name": "astrbot_plugin_setu",
     "display_name": "未审核：瑟瑟！",
@@ -20,7 +32,7 @@
     "social_link": "https://github.com/FlanChanXwO",
     "stars": 6,
     "version": "v2.0.0",
-    "updated_at": "2026-05-17T17:52:30Z",
+    "updated_at": "2026-05-17T18:19:21Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
   },
   "astrbot_plugin_gpt_image_2": {
@@ -38,18 +50,6 @@
     "stars": 9,
     "version": "1.2.16",
     "updated_at": "2026-05-17T15:00:37Z"
-  },
-  "hermes": {
-    "name": "hermes",
-    "display_name": "未审核：Hermes适配器",
-    "desc": "Hermes Agent 适配器 (WebSocket 版本) - 实现 AstrBot 与 Hermes 的双向通信",
-    "author": "懒大猫",
-    "repo": "https://github.com/landamao/abpl_hermes_spq",
-    "tags": [],
-    "social_link": "https://github.com/landamao",
-    "stars": 2,
-    "version": "v5.1.2",
-    "updated_at": "2026-05-17T14:32:52Z"
   },
   "astrbot_plugin_qzone_ultra": {
     "name": "astrbot_plugin_qzone_ultra",
