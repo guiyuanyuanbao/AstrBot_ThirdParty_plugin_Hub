@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_gpt_image_2": {
+    "name": "astrbot_plugin_gpt_image_2",
+    "display_name": "未审核：GPT Image 图像生成",
+    "desc": "GPTImage图片生成插件，支持所有GPTImage系列模型。",
+    "author": "starmiaoa",
+    "repo": "https://github.com/starmiaoa/astrbot-plugin-gpt-image",
+    "tags": [
+      "图片生成",
+      "GPT Image",
+      "OpenAI"
+    ],
+    "social_link": "https://github.com/starmiaoa",
+    "stars": 9,
+    "version": "1.2.16",
+    "updated_at": "2026-05-17T15:00:37Z"
+  },
   "hermes": {
     "name": "hermes",
     "display_name": "未审核：Hermes适配器",
@@ -164,22 +180,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-05-17T04:51:13Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_gpt_image/main/logo.png"
-  },
-  "astrbot_plugin_gpt_image_2": {
-    "name": "astrbot_plugin_gpt_image_2",
-    "display_name": "未审核：GPT Image 图像生成",
-    "desc": "GPTImage图片生成插件，支持所有GPTImage系列模型。",
-    "author": "starmiaoa",
-    "repo": "https://github.com/starmiaoa/astrbot-plugin-gpt-image",
-    "tags": [
-      "图片生成",
-      "GPT Image",
-      "OpenAI"
-    ],
-    "social_link": "https://github.com/starmiaoa",
-    "stars": 9,
-    "version": "1.2.16",
-    "updated_at": "2026-05-16T18:29:28Z"
   },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
