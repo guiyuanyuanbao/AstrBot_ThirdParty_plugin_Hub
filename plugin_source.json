@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_gpt_image": {
+    "name": "astrbot_plugin_gpt_image",
+    "display_name": "未审核：GPT Image 2 精细生图改图",
+    "desc": "基于 gpt-image-2 的精细生图改图插件，支持提示词、引用图和分辨率控制。",
+    "author": "drdon1234",
+    "repo": "https://github.com/drdon1234/astrbot_plugin_gpt_image",
+    "tags": [
+      "AI",
+      "生图",
+      "改图",
+      "image"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-05-17T04:51:13Z",
+    "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_gpt_image/main/logo.png"
+  },
   "astrbot_plugin_gpt_image_2": {
     "name": "astrbot_plugin_gpt_image_2",
     "display_name": "未审核：GPT Image 图像生成",
