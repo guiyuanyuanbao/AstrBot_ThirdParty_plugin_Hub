@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_asoul": {
+    "name": "astrbot_plugin_asoul",
+    "display_name": "未审核：枝江自动推送",
+    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
+    "author": "LEN5010",
+    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
+    "tags": [
+      "ASOUL",
+      "自动推送",
+      "信息推送"
+    ],
+    "social_link": "https://github.com/LEN5010/",
+    "stars": 1,
+    "version": "v3.0.2",
+    "updated_at": "2026-05-17T11:02:26Z",
+    "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
+  },
   "hermes": {
     "name": "hermes",
     "display_name": "未审核：Hermes适配器",
@@ -8,8 +25,97 @@
     "tags": [],
     "social_link": "https://github.com/landamao",
     "stars": 2,
-    "version": "v5.0.1",
-    "updated_at": "2026-05-17T08:53:54Z"
+    "version": "v5.0.9",
+    "updated_at": "2026-05-17T10:57:38Z"
+  },
+  "astrbot_plugin_setu": {
+    "name": "astrbot_plugin_setu",
+    "display_name": "未审核：瑟瑟！",
+    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
+    "author": "FlanChanXwO",
+    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
+    "tags": [
+      "瑟瑟",
+      "色图",
+      "setu",
+      "福利",
+      "色色",
+      "lolicon",
+      "sexyan",
+      "atri",
+      "图片",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/FlanChanXwO",
+    "stars": 6,
+    "version": "v1.3.0",
+    "updated_at": "2026-05-17T10:52:53Z",
+    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
+  },
+  "astrbot_context_injection_system": {
+    "name": "astrbot_context_injection_system",
+    "display_name": "未审核：上下文注入系统（3合1）",
+    "desc": "上下文注入系统（3合1）。包含记忆管理、记忆管理器、环境感知三个子插件。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_context_injection_system",
+    "tags": [
+      "上下文",
+      "记忆",
+      "环境感知"
+    ],
+    "social_link": "",
+    "stars": 2,
+    "version": "1.0.0",
+    "updated_at": "2026-05-17T09:50:04Z"
+  },
+  "astrbot_plugin_memory_system": {
+    "name": "astrbot_plugin_memory_system",
+    "display_name": "未审核：综合记忆管理系统（初级版）",
+    "desc": "综合记忆管理系统（初级版）。基于遗忘曲线和情绪效价的记忆管理，能存、能忘、能自己浮上来。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_plugin_memory_system",
+    "tags": [
+      "记忆",
+      "遗忘曲线",
+      "情绪"
+    ],
+    "social_link": "",
+    "stars": 7,
+    "version": "1.0.0",
+    "updated_at": "2026-05-17T09:50:02Z"
+  },
+  "astrbot_plugin_dream": {
+    "name": "astrbot_plugin_dream",
+    "display_name": "未审核：做梦系统",
+    "desc": "做梦系统插件。每天自动从对话记忆和知识库中提取素材，生成诗意梦境。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_plugin_dream",
+    "tags": [
+      "梦境",
+      "自动化",
+      "诗意"
+    ],
+    "social_link": "",
+    "stars": 6,
+    "version": "1.0.0",
+    "updated_at": "2026-05-17T09:50:00Z"
+  },
+  "astrbot_plugin_home_state": {
+    "name": "astrbot_plugin_home_state",
+    "display_name": "未审核：房间状态管理",
+    "desc": "为 AI 提供房间状态切换、场景 prompt 注入、休息模式硬拦截和宠物互动。",
+    "author": "沈砚清",
+    "repo": "https://github.com/yussica1016/astrbot_plugin_home_state",
+    "tags": [
+      "房间",
+      "状态",
+      "场景",
+      "环境"
+    ],
+    "social_link": "",
+    "stars": 5,
+    "version": "1.1.0",
+    "updated_at": "2026-05-17T09:49:58Z"
   },
   "astrbot_plugin_pimeng_blacklist": {
     "name": "astrbot_plugin_pimeng_blacklist",
@@ -325,23 +431,6 @@
     "version": "v1.3.0",
     "updated_at": "2026-05-10T08:18:21Z"
   },
-  "astrbot_plugin_asoul": {
-    "name": "astrbot_plugin_asoul",
-    "display_name": "未审核：枝江自动推送",
-    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
-    "author": "LEN5010",
-    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
-    "tags": [
-      "ASOUL",
-      "自动推送",
-      "信息推送"
-    ],
-    "social_link": "https://github.com/LEN5010/",
-    "stars": 1,
-    "version": "v3.0.2",
-    "updated_at": "2026-05-09T19:11:08Z",
-    "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
-  },
   "astrbot_plugin_media_portal": {
     "name": "astrbot_plugin_media_portal",
     "display_name": "未审核：Media Portal",
@@ -529,55 +618,6 @@
     "updated_at": "2026-05-01T07:13:32Z",
     "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
   },
-  "astrbot_context_injection_system": {
-    "name": "astrbot_context_injection_system",
-    "display_name": "未审核：上下文注入系统（3合1）",
-    "desc": "上下文注入系统（3合1）。包含记忆管理、记忆管理器、环境感知三个子插件。",
-    "author": "沈砚清",
-    "repo": "https://github.com/yussica1016/astrbot_context_injection_system",
-    "tags": [
-      "上下文",
-      "记忆",
-      "环境感知"
-    ],
-    "social_link": "",
-    "stars": 2,
-    "version": "1.0.0",
-    "updated_at": "2026-04-30T15:21:47Z"
-  },
-  "astrbot_plugin_home_state": {
-    "name": "astrbot_plugin_home_state",
-    "display_name": "未审核：房间状态管理",
-    "desc": "为 AI 提供房间状态切换、场景 prompt 注入、休息模式硬拦截和宠物互动。",
-    "author": "沈砚清",
-    "repo": "https://github.com/yussica1016/astrbot_plugin_home_state",
-    "tags": [
-      "房间",
-      "状态",
-      "场景",
-      "环境"
-    ],
-    "social_link": "",
-    "stars": 5,
-    "version": "1.1.0",
-    "updated_at": "2026-04-30T15:13:49Z"
-  },
-  "astrbot_plugin_dream": {
-    "name": "astrbot_plugin_dream",
-    "display_name": "未审核：做梦系统",
-    "desc": "做梦系统插件。每天自动从对话记忆和知识库中提取素材，生成诗意梦境。",
-    "author": "沈砚清",
-    "repo": "https://github.com/yussica1016/astrbot_plugin_dream",
-    "tags": [
-      "梦境",
-      "自动化",
-      "诗意"
-    ],
-    "social_link": "",
-    "stars": 6,
-    "version": "1.0.0",
-    "updated_at": "2026-04-30T15:10:09Z"
-  },
   "astrbot_plugin_bookshelf": {
     "name": "astrbot_plugin_bookshelf",
     "display_name": "未审核：书架系统",
@@ -593,22 +633,6 @@
     "stars": 4,
     "version": "2.0.0",
     "updated_at": "2026-04-30T15:06:26Z"
-  },
-  "astrbot_plugin_memory_system": {
-    "name": "astrbot_plugin_memory_system",
-    "display_name": "未审核：综合记忆管理系统（初级版）",
-    "desc": "综合记忆管理系统（初级版）。基于遗忘曲线和情绪效价的记忆管理，能存、能忘、能自己浮上来。",
-    "author": "沈砚清",
-    "repo": "https://github.com/yussica1016/astrbot_plugin_memory_system",
-    "tags": [
-      "记忆",
-      "遗忘曲线",
-      "情绪"
-    ],
-    "social_link": "",
-    "stars": 7,
-    "version": "1.0.0",
-    "updated_at": "2026-04-30T15:03:40Z"
   },
   "astrbot_plugin_custom_api": {
     "name": "astrbot_plugin_custom_api",
@@ -668,30 +692,6 @@
     "stars": 0,
     "version": "1.2.1",
     "updated_at": "2026-04-28T08:13:00Z"
-  },
-  "astrbot_plugin_setu": {
-    "name": "astrbot_plugin_setu",
-    "display_name": "未审核：瑟瑟！",
-    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
-    "tags": [
-      "瑟瑟",
-      "色图",
-      "setu",
-      "福利",
-      "色色",
-      "lolicon",
-      "sexyan",
-      "atri",
-      "图片",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 6,
-    "version": "v1.3.0",
-    "updated_at": "2026-04-27T20:41:13Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
   },
   "astrbot_qq_to_local": {
     "name": "astrbot_qq_to_local",
