@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_qzone_ultra": {
+    "name": "astrbot_plugin_qzone_ultra",
+    "display_name": "未审核：QQ空间Ultra",
+    "desc": "QQ空间Ultra，更稳定的QQ空间插件，支持自动绑定QQ空间，采用独立进程：占用极低、稳定性极高，支持看/评/赞/发/写/删说说、回评、投稿审核、自动发评和 LLM tools。",
+    "author": "雪碧bir",
+    "repo": "https://github.com/diaomin66/astrbot_plugin_qzone_ultra",
+    "tags": [
+      "QQ空间"
+    ],
+    "social_link": "",
+    "stars": 3,
+    "version": "0.2.0",
+    "updated_at": "2026-05-18T15:05:30Z",
+    "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
+  },
   "astrbot_plugin_meme_grabber": {
     "name": "astrbot_plugin_meme_grabber",
     "display_name": "未审核：表情包提取",
@@ -14,21 +29,6 @@
     "stars": 1,
     "version": "2.2.6",
     "updated_at": "2026-05-18T12:22:10Z"
-  },
-  "astrbot_plugin_qzone_ultra": {
-    "name": "astrbot_plugin_qzone_ultra",
-    "display_name": "未审核：QQ空间Ultra",
-    "desc": "QQ空间Ultra，对标 QQ 空间中文命令体系，支持看/评/赞/发/写/删说说、回评、投稿审核、自动发评和 LLM tools。",
-    "author": "雪碧bir",
-    "repo": "https://github.com/diaomin66/astrbot_plugin_qzone_ultra",
-    "tags": [
-      "QQ空间"
-    ],
-    "social_link": "",
-    "stars": 2,
-    "version": "0.2.0",
-    "updated_at": "2026-05-18T10:51:57Z",
-    "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "astrbot_plugin_setu": {
     "name": "astrbot_plugin_setu",
