@@ -8,8 +8,26 @@
     "tags": [],
     "social_link": "https://github.com/landamao",
     "stars": 2,
-    "version": "v6.2.4",
-    "updated_at": "2026-05-19T08:34:47Z"
+    "version": "v6.2.8",
+    "updated_at": "2026-05-19T12:37:43Z"
+  },
+  "astrbot_plugin_bilibili_ai_bot": {
+    "name": "astrbot_plugin_bilibili_ai_bot",
+    "display_name": "未审核：b站bot",
+    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
+    "author": "chenluQwQ",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
+    "tags": [
+      "bilibili",
+      "B站",
+      "评论回复",
+      "主动交互",
+      "语义记忆"
+    ],
+    "social_link": "",
+    "stars": 5,
+    "version": "1.1.3",
+    "updated_at": "2026-05-19T09:57:55Z"
   },
   "astrbot_plugin_memory_system": {
     "name": "astrbot_plugin_memory_system",
@@ -248,24 +266,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-05-17T04:51:13Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_gpt_image/main/logo.png"
-  },
-  "astrbot_plugin_bilibili_ai_bot": {
-    "name": "astrbot_plugin_bilibili_ai_bot",
-    "display_name": "未审核：b站bot",
-    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
-    "author": "chenluQwQ",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
-    "tags": [
-      "bilibili",
-      "B站",
-      "评论回复",
-      "主动交互",
-      "语义记忆"
-    ],
-    "social_link": "",
-    "stars": 5,
-    "version": "1.1.3",
-    "updated_at": "2026-05-16T06:30:41Z"
   },
   "astrbot_plugin_anti_memes": {
     "name": "astrbot_plugin_anti_memes",
@@ -510,22 +510,6 @@
     "stars": 0,
     "version": "0.1.1",
     "updated_at": "2026-05-08T15:16:16Z"
-  },
-  "astrbot_plugin_user_terms": {
-    "name": "astrbot_plugin_user_terms",
-    "display_name": "未审核：用户条款签署控制",
-    "desc": "用户条款签署控制插件，为指定用户 SID 或群组 SID 要求单独同意用户条款后才允许继续使用机器人",
-    "author": "AlanBacker",
-    "repo": "https://github.com/AlanBacker/astrbot_plugin_user_terms",
-    "tags": [
-      "用户条款",
-      "功能",
-      "安全"
-    ],
-    "social_link": "https://space.bilibili.com/702922307",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-05-08T11:56:43Z"
   },
   "astrbot_plugin_endworld_img_api": {
     "name": "astrbot_plugin_endworld_img_api",
@@ -2304,23 +2288,6 @@
     "updated_at": "2026-03-21T08:21:29Z",
     "logo": "https://raw.githubusercontent.com/s-3-s/astrbot_plugin_api_caller/master/logo.png"
   },
-  "astrbot_plugin_qcm": {
-    "name": "astrbot_plugin_qcm",
-    "display_name": "未审核：QQ Connect Minecraft 群服互联",
-    "desc": "定时监听指定群的消息并发送到MC服务器，同时接收MC服务器的消息并转发到群。",
-    "author": "Huntersxy",
-    "repo": "https://github.com/huntersxy/astrbot_plugin_qcm",
-    "tags": [
-      "互联",
-      "群",
-      "我的世界",
-      "minecraft"
-    ],
-    "social_link": "https://github.com/huntersxy",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-21T03:50:09Z"
-  },
   "astro_weather": {
     "name": "astro_weather",
     "display_name": "未审核：astro_weather",
@@ -2332,24 +2299,6 @@
     "stars": 0,
     "version": "1.0.0",
     "updated_at": "2026-03-20T14:47:38Z"
-  },
-  "telethon_bot_adapter": {
-    "name": "telethon_bot_adapter",
-    "display_name": "未审核：Telegram Bot Adapter",
-    "desc": "Telethon-based Telegram Bot adapter / 基于 Telethon 的 Telegram Bot 适配器",
-    "author": "outlook84",
-    "repo": "https://github.com/outlook84/astrbot_plugin_telethon_bot_adapter",
-    "tags": [
-      "telegram",
-      "telethon",
-      "adapter",
-      "bot"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "0.5.0",
-    "updated_at": "2026-03-20T11:25:32Z",
-    "logo": "https://raw.githubusercontent.com/outlook84/astrbot_plugin_telethon_bot_adapter/main/logo.png"
   },
   "astrbot_plugin_anti_limit_xx": {
     "name": "astrbot_plugin_anti_limit_xx",
@@ -2365,21 +2314,6 @@
     "stars": 1,
     "version": "1.1.0",
     "updated_at": "2026-03-20T11:08:28Z"
-  },
-  "astrbot_plugin_subagent_worktogether": {
-    "name": "astrbot_plugin_subagent_worktogether",
-    "display_name": "未审核：更好的Agent间通信",
-    "desc": "能够支持子Agent之间直接通信，可以控制互相通信的深度和次数，可以输出Agent互相通信的完整链路",
-    "author": "ScarletAugus",
-    "repo": "https://github.com/ScarletAugus/astrbot_plugin_subagent_worktogether",
-    "tags": [
-      "Agent",
-      "SubAgent"
-    ],
-    "social_link": "https://github.com/ScarletAugus",
-    "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-03-20T09:26:12Z"
   },
   "astrbot_plugin_subagent_shell": {
     "name": "astrbot_plugin_subagent_shell",
