@@ -1,4 +1,31 @@
 {
+  "astrbot-plugin-genshin-activity-cover": {
+    "name": "astrbot-plugin-genshin-activity-cover",
+    "display_name": "未审核：米游社官方咨询实时搬运插件",
+    "desc": "",
+    "author": "galaxy-b612",
+    "repo": "https://github.com/galaxy-b612/astrbot-plugin-genshin-activity-cover",
+    "tags": [],
+    "social_link": "https://github.com/galaxy-b612",
+    "stars": 0,
+    "version": "6.5.1",
+    "updated_at": "2026-05-19T15:24:07Z"
+  },
+  "astrbot_plugin_pimeng_blacklist": {
+    "name": "astrbot_plugin_pimeng_blacklist",
+    "display_name": "未审核：皮梦云黑库对接插件",
+    "desc": "基于皮梦云黑库接入插件 - 支持查询/添加/删除/同步/自动踢出黑名单成员",
+    "author": "N(Ni-ShuWu),P(Pimeng's)",
+    "repo": "https://github.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist",
+    "tags": [
+      "云黑库"
+    ],
+    "social_link": "https://github.com/Ni-ShuWu",
+    "stars": 2,
+    "version": "2.9.1",
+    "updated_at": "2026-05-19T13:36:20Z",
+    "logo": "https://raw.githubusercontent.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist/main/logo.png"
+  },
   "hermes": {
     "name": "hermes",
     "display_name": "未审核：Hermes适配器",
@@ -9,7 +36,25 @@
     "social_link": "https://github.com/landamao",
     "stars": 2,
     "version": "v6.2.8",
-    "updated_at": "2026-05-19T12:37:43Z"
+    "updated_at": "2026-05-19T13:21:21Z"
+  },
+  "astrbot_plugin_meme_manufacturer": {
+    "name": "astrbot_plugin_meme_manufacturer",
+    "display_name": "未审核：表情包制造厂",
+    "desc": "将QQ群友头像做成表情包的工具。可以做成gif，也可以做成静态表情，内置多种表情包，水群利器",
+    "author": "神秘嘉宾",
+    "repo": "https://github.com/zhajunyao/astrbot_plugin_meme_manufacturer",
+    "tags": [
+      "娱乐",
+      "表情包",
+      "互动",
+      "gif"
+    ],
+    "social_link": "https://github.com/zhajunyao",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-05-19T13:05:23Z",
+    "logo": "https://raw.githubusercontent.com/zhajunyao/astrbot_plugin_meme_manufacturer/main/logo.png"
   },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
@@ -89,21 +134,6 @@
     "version": "v2.0.1",
     "updated_at": "2026-05-18T20:44:32Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
-  },
-  "astrbot_plugin_qzone_ultra": {
-    "name": "astrbot_plugin_qzone_ultra",
-    "display_name": "未审核：QQ空间Ultra",
-    "desc": "QQ空间Ultra，更稳定的QQ空间插件，支持自动绑定QQ空间，采用独立进程：占用极低、稳定性极高，支持看/评/赞/发/写/删说说、回评、投稿审核、自动发评和 LLM tools。",
-    "author": "雪碧bir",
-    "repo": "https://github.com/diaomin66/astrbot_plugin_qzone_ultra",
-    "tags": [
-      "QQ空间"
-    ],
-    "social_link": "",
-    "stars": 4,
-    "version": "0.2.0",
-    "updated_at": "2026-05-18T15:05:30Z",
-    "logo": "https://raw.githubusercontent.com/diaomin66/astrbot_plugin_qzone_ultra/main/logo.png"
   },
   "astrbot_plugin_meme_grabber": {
     "name": "astrbot_plugin_meme_grabber",
@@ -197,7 +227,7 @@
       "环境感知"
     ],
     "social_link": "",
-    "stars": 2,
+    "stars": 3,
     "version": "1.0.0",
     "updated_at": "2026-05-17T09:50:04Z"
   },
@@ -233,21 +263,6 @@
     "stars": 5,
     "version": "1.1.0",
     "updated_at": "2026-05-17T09:49:58Z"
-  },
-  "astrbot_plugin_pimeng_blacklist": {
-    "name": "astrbot_plugin_pimeng_blacklist",
-    "display_name": "未审核：皮梦云黑库对接插件",
-    "desc": "基于皮梦云黑库接入插件 - 支持查询/添加/删除/同步/自动踢出黑名单成员",
-    "author": "N(Ni-ShuWu),P(Pimeng's)",
-    "repo": "https://github.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist",
-    "tags": [
-      "云黑库"
-    ],
-    "social_link": "https://github.com/Ni-ShuWu",
-    "stars": 2,
-    "version": "2.9.1",
-    "updated_at": "2026-05-17T08:03:59Z",
-    "logo": "https://raw.githubusercontent.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist/main/logo.png"
   },
   "astrbot_plugin_gpt_image": {
     "name": "astrbot_plugin_gpt_image",
@@ -939,24 +954,6 @@
     "stars": 3,
     "version": "2.0.0",
     "updated_at": "2026-04-20T10:51:51Z"
-  },
-  "astrbot_plugin_meme_manufacturer": {
-    "name": "astrbot_plugin_meme_manufacturer",
-    "display_name": "未审核：表情包制造厂",
-    "desc": "将QQ群友头像做成表情包的工具。可以做成gif，也可以做成静态表情，内置多种表情包，水群利器",
-    "author": "神秘嘉宾",
-    "repo": "https://github.com/zhajunyao/astrbot_plugin_meme_manufacturer",
-    "tags": [
-      "娱乐",
-      "表情包",
-      "互动",
-      "gif"
-    ],
-    "social_link": "https://github.com/zhajunyao",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-04-20T06:13:43Z",
-    "logo": "https://raw.githubusercontent.com/zhajunyao/astrbot_plugin_meme_manufacturer/main/logo.png"
   },
   "astrbot_plugin_adapter_watchdog": {
     "name": "astrbot_plugin_adapter_watchdog",
