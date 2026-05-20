@@ -13,7 +13,19 @@
     "social_link": "",
     "stars": 0,
     "version": "1.0.0",
-    "updated_at": "2026-05-20T03:03:26Z"
+    "updated_at": "2026-05-20T06:56:42Z"
+  },
+  "hermes": {
+    "name": "hermes",
+    "display_name": "未审核：Hermes适配器",
+    "desc": "Hermes Agent 适配器 (WebSocket 版本) - 实现 AstrBot 与 Hermes 的双向通信",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/abpl_hermes_spq",
+    "tags": [],
+    "social_link": "https://github.com/landamao",
+    "stars": 2,
+    "version": "v6.3.4",
+    "updated_at": "2026-05-20T05:27:31Z"
   },
   "astrbot_plugin_genshin_activity_cover": {
     "name": "astrbot_plugin_genshin_activity_cover",
@@ -41,18 +53,6 @@
     "version": "2.9.1",
     "updated_at": "2026-05-19T13:36:20Z",
     "logo": "https://raw.githubusercontent.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist/main/logo.png"
-  },
-  "hermes": {
-    "name": "hermes",
-    "display_name": "未审核：Hermes适配器",
-    "desc": "Hermes Agent 适配器 (WebSocket 版本) - 实现 AstrBot 与 Hermes 的双向通信",
-    "author": "懒大猫",
-    "repo": "https://github.com/landamao/abpl_hermes_spq",
-    "tags": [],
-    "social_link": "https://github.com/landamao",
-    "stars": 2,
-    "version": "v6.2.8",
-    "updated_at": "2026-05-19T13:21:21Z"
   },
   "astrbot_plugin_meme_manufacturer": {
     "name": "astrbot_plugin_meme_manufacturer",
@@ -226,7 +226,7 @@
       "信息推送"
     ],
     "social_link": "https://github.com/LEN5010/",
-    "stars": 1,
+    "stars": 2,
     "version": "v3.0.2",
     "updated_at": "2026-05-17T11:02:26Z",
     "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
@@ -1320,24 +1320,6 @@
     "version": "v1.1.0",
     "updated_at": "2026-04-04T12:50:22Z",
     "logo": "https://raw.githubusercontent.com/html5syt/astrbot_plugin_github_copilot/master/logo.png"
-  },
-  "astrbot_plugin_sadstory": {
-    "name": "astrbot_plugin_sadstory",
-    "display_name": "未审核：伪装聊天",
-    "desc": "在群聊中以合并转发消息的形式展示伪装聊天，支持 LLM 生成、Prompt 风格管理、故事模板参考、自定义角色等",
-    "author": "Towqs",
-    "repo": "https://github.com/Towqs/astrbot_plugin_fakechat",
-    "tags": [
-      "聊天",
-      "QQ",
-      "伪装",
-      "娱乐"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "v0.9.3",
-    "updated_at": "2026-04-04T08:27:01Z",
-    "logo": "https://raw.githubusercontent.com/Towqs/astrbot_plugin_fakechat/main/logo.png"
   },
   "astrbot_plugin_token_tracker": {
     "name": "astrbot_plugin_token_tracker",
