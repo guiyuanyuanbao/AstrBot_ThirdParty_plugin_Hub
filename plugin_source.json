@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_draw_and_guess": {
+    "name": "astrbot_plugin_draw_and_guess",
+    "display_name": "未审核：你画我猜",
+    "desc": "你画我猜竞猜模式：群内开房、LLM 出题、私聊发题给作画者、手机白板作画、激活竞猜、生成图片积分排行榜",
+    "author": "TeamBreaker",
+    "repo": "https://github.com/TeamBreakerr/astrbot_plugin_draw_and_guess",
+    "tags": [
+      "游戏",
+      "你画我猜",
+      "群聊互动"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-05-20T03:03:26Z"
+  },
   "astrbot_plugin_genshin_activity_cover": {
     "name": "astrbot_plugin_genshin_activity_cover",
     "display_name": "未审核：米游社官方咨询实时搬运插件",
