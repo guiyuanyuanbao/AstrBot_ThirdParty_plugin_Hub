@@ -1,22 +1,4 @@
 {
-  "astrbot_plugin_smart_imagesender": {
-    "name": "astrbot_plugin_smart_imagesender",
-    "display_name": "未审核：智能图片回复",
-    "desc": "LLM 驱动的智能发图插件。自动构建基于特征标签的图像库，通过分析用户意图和对话语境，智能输出合适的图片/表情包。",
-    "author": "青尘工作室",
-    "repo": "https://github.com/QingchenWait/astrbot_plugin_smart_imagesender",
-    "tags": [
-      "智能回复",
-      "图片",
-      "表情包",
-      "图像检索"
-    ],
-    "social_link": "https://space.bilibili.com/385556208",
-    "stars": 1,
-    "version": "v2.1.2",
-    "updated_at": "2026-05-21T09:12:42Z",
-    "logo": "https://raw.githubusercontent.com/QingchenWait/astrbot_plugin_smart_imagesender/main/logo.png"
-  },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
     "display_name": "未审核：QQ群智能守护者",
@@ -34,8 +16,26 @@
     "social_link": "https://github.com/zcj-ui/",
     "stars": 1,
     "version": "v1.9.6",
-    "updated_at": "2026-05-20T17:30:59Z",
+    "updated_at": "2026-05-21T17:48:41Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
+  },
+  "astrbot_plugin_smart_imagesender": {
+    "name": "astrbot_plugin_smart_imagesender",
+    "display_name": "未审核：智能图片回复",
+    "desc": "LLM 驱动的智能发图插件。自动构建基于特征标签的图像库，通过分析用户意图和对话语境，智能输出合适的图片/表情包。",
+    "author": "青尘工作室",
+    "repo": "https://github.com/QingchenWait/astrbot_plugin_smart_imagesender",
+    "tags": [
+      "智能回复",
+      "图片",
+      "表情包",
+      "图像检索"
+    ],
+    "social_link": "https://space.bilibili.com/385556208",
+    "stars": 1,
+    "version": "v2.1.2",
+    "updated_at": "2026-05-21T09:12:42Z",
+    "logo": "https://raw.githubusercontent.com/QingchenWait/astrbot_plugin_smart_imagesender/main/logo.png"
   },
   "hermes": {
     "name": "hermes",
