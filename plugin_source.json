@@ -15,8 +15,8 @@
     ],
     "social_link": "https://github.com/zcj-ui/",
     "stars": 1,
-    "version": "v1.9.6",
-    "updated_at": "2026-05-21T17:48:41Z",
+    "version": "v1.9.8",
+    "updated_at": "2026-05-21T20:02:46Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
   },
   "astrbot_plugin_smart_imagesender": {
@@ -34,7 +34,7 @@
     "social_link": "https://space.bilibili.com/385556208",
     "stars": 1,
     "version": "v2.1.2",
-    "updated_at": "2026-05-21T09:12:42Z",
+    "updated_at": "2026-05-21T18:26:06Z",
     "logo": "https://raw.githubusercontent.com/QingchenWait/astrbot_plugin_smart_imagesender/main/logo.png"
   },
   "hermes": {
