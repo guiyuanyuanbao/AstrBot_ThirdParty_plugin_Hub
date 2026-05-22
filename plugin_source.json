@@ -16,20 +16,8 @@
     "social_link": "https://github.com/zcj-ui/",
     "stars": 1,
     "version": "v1.9.8",
-    "updated_at": "2026-05-22T17:03:06Z",
+    "updated_at": "2026-05-22T19:32:46Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
-  },
-  "astrbot_plugin_nailong": {
-    "name": "astrbot_plugin_nailong",
-    "display_name": "未审核：奶龙波特",
-    "desc": "一个可以用来变速，倒放，对称，随机奶龙和添加表情的奶龙插件",
-    "author": "Logxk",
-    "repo": "https://github.com/Logxk/nailong",
-    "tags": [],
-    "social_link": "https://github.com/Logxk/nailong",
-    "stars": 6,
-    "version": "v1.3.0",
-    "updated_at": "2026-05-22T16:27:47Z"
   },
   "astrbot_plugin_smart_imagechat_hub": {
     "name": "astrbot_plugin_smart_imagechat_hub",
@@ -45,9 +33,21 @@
     ],
     "social_link": "",
     "stars": 1,
-    "version": "v2.4.0",
-    "updated_at": "2026-05-22T15:57:58Z",
+    "version": "v2.4.2",
+    "updated_at": "2026-05-22T17:40:44Z",
     "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
+  },
+  "astrbot_plugin_nailong": {
+    "name": "astrbot_plugin_nailong",
+    "display_name": "未审核：奶龙波特",
+    "desc": "一个可以用来变速，倒放，对称，随机奶龙和添加表情的奶龙插件",
+    "author": "Logxk",
+    "repo": "https://github.com/Logxk/nailong",
+    "tags": [],
+    "social_link": "https://github.com/Logxk/nailong",
+    "stars": 6,
+    "version": "v1.3.0",
+    "updated_at": "2026-05-22T16:27:47Z"
   },
   "astrbot_plugin_vision_bridge": {
     "name": "astrbot_plugin_vision_bridge",
@@ -3220,7 +3220,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 6,
+    "stars": 8,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
