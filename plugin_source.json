@@ -1,16 +1,4 @@
 {
-  "astrbot_plugin_vision_bridge": {
-    "name": "astrbot_plugin_vision_bridge",
-    "display_name": "未审核：vision_bridge",
-    "desc": "让普通文本模型通过工具获得图像能力。包括文生图与图片转文本，方便非多模态模型处理包含图片的文件",
-    "author": "Soulmate404",
-    "repo": "https://github.com/Soulmate404/astrbot_plugin_vision_bridge",
-    "tags": [],
-    "social_link": "",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-05-22T11:35:40Z"
-  },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
     "display_name": "未审核：QQ群智能守护者",
@@ -28,8 +16,50 @@
     "social_link": "https://github.com/zcj-ui/",
     "stars": 1,
     "version": "v1.9.8",
-    "updated_at": "2026-05-22T03:10:31Z",
+    "updated_at": "2026-05-22T17:03:06Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
+  },
+  "astrbot_plugin_nailong": {
+    "name": "astrbot_plugin_nailong",
+    "display_name": "未审核：奶龙波特",
+    "desc": "一个可以用来变速，倒放，对称，随机奶龙和添加表情的奶龙插件",
+    "author": "Logxk",
+    "repo": "https://github.com/Logxk/nailong",
+    "tags": [],
+    "social_link": "https://github.com/Logxk/nailong",
+    "stars": 6,
+    "version": "v1.3.0",
+    "updated_at": "2026-05-22T16:27:47Z"
+  },
+  "astrbot_plugin_smart_imagechat_hub": {
+    "name": "astrbot_plugin_smart_imagechat_hub",
+    "display_name": "未审核：智能图片对话",
+    "desc": "LLM 驱动的一体化智能图片对话插件。自动为图库中的每张图片（上传/偷图）构建多重特征标签，通过分析用户意图和对话语境，输出合适的图片/表情包。",
+    "author": "青尘工作室",
+    "repo": "https://github.com/JREion/astrbot_plugin_smart_imagechat_hub",
+    "tags": [
+      "图片对话",
+      "图库",
+      "表情包",
+      "webui"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "v2.4.0",
+    "updated_at": "2026-05-22T15:57:58Z",
+    "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
+  },
+  "astrbot_plugin_vision_bridge": {
+    "name": "astrbot_plugin_vision_bridge",
+    "display_name": "未审核：vision_bridge",
+    "desc": "让普通文本模型通过工具获得图像能力。包括文生图与图片转文本，方便非多模态模型处理包含图片的文件",
+    "author": "Soulmate404",
+    "repo": "https://github.com/Soulmate404/astrbot_plugin_vision_bridge",
+    "tags": [],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-05-22T11:35:40Z"
   },
   "hermes": {
     "name": "hermes",
@@ -528,18 +558,6 @@
     "stars": 3,
     "version": "v0.2.3",
     "updated_at": "2026-05-11T01:53:08Z"
-  },
-  "astrbot_plugin_nailong": {
-    "name": "astrbot_plugin_nailong",
-    "display_name": "未审核：奶龙波特",
-    "desc": "一个可以用来变速，倒放，对称，随机奶龙和添加表情的奶龙插件",
-    "author": "Logxk",
-    "repo": "https://github.com/Logxk/nailong",
-    "tags": [],
-    "social_link": "https://github.com/Logxk/nailong",
-    "stars": 6,
-    "version": "v1.3.0",
-    "updated_at": "2026-05-10T08:18:21Z"
   },
   "astrbot_plugin_media_portal": {
     "name": "astrbot_plugin_media_portal",
@@ -3202,7 +3220,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 5,
+    "stars": 6,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
