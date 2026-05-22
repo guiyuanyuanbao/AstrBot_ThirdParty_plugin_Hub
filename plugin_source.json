@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_vision_bridge": {
+    "name": "astrbot_plugin_vision_bridge",
+    "display_name": "未审核：vision_bridge",
+    "desc": "让普通文本模型通过工具获得图像能力。包括文生图与图片转文本，方便非多模态模型处理包含图片的文件",
+    "author": "Soulmate404",
+    "repo": "https://github.com/Soulmate404/astrbot_plugin_vision_bridge",
+    "tags": [],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-05-22T11:35:40Z"
+  },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
     "display_name": "未审核：QQ群智能守护者",
@@ -3208,7 +3220,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 2,
+    "stars": 3,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
