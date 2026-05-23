@@ -15,7 +15,19 @@
     "social_link": "https://github.com/Qrzzzz",
     "stars": 1,
     "version": "1.2.0",
-    "updated_at": "2026-05-23T04:28:07Z"
+    "updated_at": "2026-05-23T05:27:38Z"
+  },
+  "astrbot_plugin_genshin_activity_cover": {
+    "name": "astrbot_plugin_genshin_activity_cover",
+    "display_name": "未审核：米游社官方咨询实时搬运插件",
+    "desc": "自动轮询米游社API，实时搬运原神官方资讯到QQ群聊",
+    "author": "iris",
+    "repo": "https://github.com/galaxy-b612/astrbot-plugin-genshin-activity-cover",
+    "tags": [],
+    "social_link": "",
+    "stars": 0,
+    "version": "6.5.1",
+    "updated_at": "2026-05-23T04:57:33Z"
   },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
@@ -121,18 +133,6 @@
     "stars": 0,
     "version": "1.0.0",
     "updated_at": "2026-05-20T06:56:42Z"
-  },
-  "astrbot_plugin_genshin_activity_cover": {
-    "name": "astrbot_plugin_genshin_activity_cover",
-    "display_name": "未审核：米游社官方咨询实时搬运插件",
-    "desc": "自动轮询米游社API，实时搬运原神官方资讯到QQ群聊",
-    "author": "iris",
-    "repo": "https://github.com/galaxy-b612/astrbot-plugin-genshin-activity-cover",
-    "tags": [],
-    "social_link": "",
-    "stars": 0,
-    "version": "6.5.1",
-    "updated_at": "2026-05-19T19:12:27Z"
   },
   "astrbot_plugin_pimeng_blacklist": {
     "name": "astrbot_plugin_pimeng_blacklist",
@@ -3220,7 +3220,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 13,
+    "stars": 14,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
