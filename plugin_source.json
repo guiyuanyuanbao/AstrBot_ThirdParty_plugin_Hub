@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_nailong": {
+    "name": "astrbot_plugin_nailong",
+    "display_name": "未审核：奶龙波特",
+    "desc": "一个可以用来变速，倒放，对称，随机奶龙和添加表情的奶龙插件",
+    "author": "Logxk",
+    "repo": "https://github.com/Logxk/nailong",
+    "tags": [],
+    "social_link": "https://github.com/Logxk/nailong",
+    "stars": 6,
+    "version": "v1.3.0",
+    "updated_at": "2026-05-24T12:59:28Z"
+  },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
     "display_name": "未审核：MiMO TTS精细化控制",
@@ -12,7 +24,7 @@
     "social_link": "",
     "stars": 0,
     "version": "v1.3.0",
-    "updated_at": "2026-05-24T11:15:22Z"
+    "updated_at": "2026-05-24T12:19:51Z"
   },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
@@ -140,18 +152,6 @@
     "version": "v2.4.2",
     "updated_at": "2026-05-22T17:40:44Z",
     "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
-  },
-  "astrbot_plugin_nailong": {
-    "name": "astrbot_plugin_nailong",
-    "display_name": "未审核：奶龙波特",
-    "desc": "一个可以用来变速，倒放，对称，随机奶龙和添加表情的奶龙插件",
-    "author": "Logxk",
-    "repo": "https://github.com/Logxk/nailong",
-    "tags": [],
-    "social_link": "https://github.com/Logxk/nailong",
-    "stars": 6,
-    "version": "v1.3.0",
-    "updated_at": "2026-05-22T16:27:47Z"
   },
   "astrbot_plugin_vision_bridge": {
     "name": "astrbot_plugin_vision_bridge",
