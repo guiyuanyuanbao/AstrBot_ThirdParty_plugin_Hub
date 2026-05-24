@@ -15,8 +15,8 @@
     ],
     "social_link": "https://github.com/zcj-ui/",
     "stars": 1,
-    "version": "v2.2.1",
-    "updated_at": "2026-05-24T17:00:41Z",
+    "version": "v2.2.2",
+    "updated_at": "2026-05-24T17:33:33Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
   },
   "astrbot_plugin_smart_imagechat_hub": {
@@ -3232,7 +3232,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 19,
+    "stars": 21,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
