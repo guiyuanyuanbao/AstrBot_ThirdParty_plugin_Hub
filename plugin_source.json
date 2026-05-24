@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_smart_imagechat_hub": {
+    "name": "astrbot_plugin_smart_imagechat_hub",
+    "display_name": "未审核：智能图片对话",
+    "desc": "LLM 驱动的一体化智能图片对话插件。自动为图库中的每张图片（上传/偷图）构建多重特征标签，通过分析用户意图和对话语境，输出合适的图片/表情包。",
+    "author": "青尘工作室",
+    "repo": "https://github.com/JREion/astrbot_plugin_smart_imagechat_hub",
+    "tags": [
+      "图片对话",
+      "图库",
+      "表情包",
+      "webui"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "v2.5.7",
+    "updated_at": "2026-05-24T14:54:42Z",
+    "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
+  },
   "astrbot_plugin_nailong": {
     "name": "astrbot_plugin_nailong",
     "display_name": "未审核：奶龙波特",
@@ -134,24 +152,6 @@
     "stars": 0,
     "version": "6.5.1",
     "updated_at": "2026-05-23T04:57:33Z"
-  },
-  "astrbot_plugin_smart_imagechat_hub": {
-    "name": "astrbot_plugin_smart_imagechat_hub",
-    "display_name": "未审核：智能图片对话",
-    "desc": "LLM 驱动的一体化智能图片对话插件。自动为图库中的每张图片（上传/偷图）构建多重特征标签，通过分析用户意图和对话语境，输出合适的图片/表情包。",
-    "author": "青尘工作室",
-    "repo": "https://github.com/JREion/astrbot_plugin_smart_imagechat_hub",
-    "tags": [
-      "图片对话",
-      "图库",
-      "表情包",
-      "webui"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "v2.4.2",
-    "updated_at": "2026-05-22T17:40:44Z",
-    "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
   },
   "astrbot_plugin_vision_bridge": {
     "name": "astrbot_plugin_vision_bridge",
