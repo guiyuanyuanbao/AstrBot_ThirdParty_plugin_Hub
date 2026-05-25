@@ -1,4 +1,31 @@
 {
+  "astrbot_plugin_yuanbao": {
+    "name": "astrbot_plugin_yuanbao",
+    "display_name": "未审核：腾讯元宝 机器人龙虾的适配插件。 平台适配器",
+    "desc": "腾讯元宝派 机器人的适配插件",
+    "author": "tjc6666666666666",
+    "repo": "https://github.com/tjc6666666666666/astrbot_plugin_yuanbao",
+    "tags": [],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.0.2",
+    "updated_at": "2026-05-25T09:49:26Z"
+  },
+  "astrbot_plugin_mimo_tts": {
+    "name": "astrbot_plugin_mimo_tts",
+    "display_name": "未审核：MiMO TTS精细化控制",
+    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
+    "author": "unsuited_",
+    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
+    "tags": [
+      "TTS",
+      "语音合成"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.3.0",
+    "updated_at": "2026-05-25T08:57:52Z"
+  },
   "astrbot_plugin_liushui": {
     "name": "astrbot_plugin_liushui",
     "display_name": "未审核：ios畅销榜排名查阅",
@@ -16,21 +43,6 @@
     "stars": 0,
     "version": "1.0.0",
     "updated_at": "2026-05-25T08:19:26Z"
-  },
-  "astrbot_plugin_mimo_tts": {
-    "name": "astrbot_plugin_mimo_tts",
-    "display_name": "未审核：MiMO TTS精细化控制",
-    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
-    "author": "unsuited_",
-    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
-    "tags": [
-      "TTS",
-      "语音合成"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v1.3.0",
-    "updated_at": "2026-05-25T07:56:00Z"
   },
   "astrbot_plugin_talkative_king": {
     "name": "astrbot_plugin_talkative_king",
@@ -102,7 +114,7 @@
     "name": "astrbot_plugin_bilibili_ai_bot",
     "display_name": "未审核：b站bot",
     "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
-    "author": "chenluQwQ",
+    "author": "chenluQwQ,claude",
     "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
     "tags": [
       "bilibili",
@@ -3130,19 +3142,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-08T17:46:11Z"
   },
-  "astrbot_plugin_neohelp": {
-    "name": "astrbot_plugin_neohelp",
-    "display_name": "未审核：NeoHelp",
-    "desc": "可选地展示已安装插件命令，渲染为精美的图片帮助菜单。支持高度自定义。",
-    "author": "Cccc_",
-    "repo": "https://github.com/Cccc-owo/astrbot_plugin_neohelp",
-    "tags": [],
-    "social_link": "https://github.com/Cccc-owo",
-    "stars": 2,
-    "version": "v1.3.2",
-    "updated_at": "2026-03-08T15:49:11Z",
-    "logo": "https://raw.githubusercontent.com/Cccc-owo/astrbot_plugin_neohelp/master/logo.png"
-  },
   "astrbot_plugin_think_mode": {
     "name": "astrbot_plugin_think_mode",
     "display_name": "未审核：AstrBot 思考模式切换插件",
@@ -3217,7 +3216,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 26,
+    "stars": 28,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
