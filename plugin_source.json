@@ -1,16 +1,4 @@
 {
-  "astrbot_plugin_yuanbao": {
-    "name": "astrbot_plugin_yuanbao",
-    "display_name": "未审核：腾讯元宝 机器人龙虾的适配插件。 平台适配器",
-    "desc": "腾讯元宝派 机器人的适配插件",
-    "author": "tjc6666666666666",
-    "repo": "https://github.com/tjc6666666666666/astrbot_plugin_yuanbao",
-    "tags": [],
-    "social_link": "",
-    "stars": 0,
-    "version": "v1.0.2",
-    "updated_at": "2026-05-25T17:42:16Z"
-  },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
     "display_name": "未审核：MiMO TTS精细化控制",
@@ -23,8 +11,20 @@
     ],
     "social_link": "",
     "stars": 0,
-    "version": "v1.3.0",
-    "updated_at": "2026-05-25T17:36:45Z"
+    "version": "v1.4.0",
+    "updated_at": "2026-05-25T18:36:05Z"
+  },
+  "astrbot_plugin_yuanbao": {
+    "name": "astrbot_plugin_yuanbao",
+    "display_name": "未审核：腾讯元宝 机器人龙虾的适配插件。 平台适配器",
+    "desc": "腾讯元宝派 机器人的适配插件",
+    "author": "tjc6666666666666",
+    "repo": "https://github.com/tjc6666666666666/astrbot_plugin_yuanbao",
+    "tags": [],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.0.2",
+    "updated_at": "2026-05-25T17:43:43Z"
   },
   "astrbot_plugin_smart_imagechat_hub": {
     "name": "astrbot_plugin_smart_imagechat_hub",
@@ -3216,7 +3216,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 31,
+    "stars": 32,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
