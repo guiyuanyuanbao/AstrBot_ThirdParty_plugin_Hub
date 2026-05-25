@@ -1,4 +1,49 @@
 {
+  "astrbot_plugin_yuanbao": {
+    "name": "astrbot_plugin_yuanbao",
+    "display_name": "未审核：腾讯元宝 机器人龙虾的适配插件。 平台适配器",
+    "desc": "腾讯元宝派 机器人的适配插件",
+    "author": "tjc6666666666666",
+    "repo": "https://github.com/tjc6666666666666/astrbot_plugin_yuanbao",
+    "tags": [],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.0.2",
+    "updated_at": "2026-05-25T17:42:16Z"
+  },
+  "astrbot_plugin_mimo_tts": {
+    "name": "astrbot_plugin_mimo_tts",
+    "display_name": "未审核：MiMO TTS精细化控制",
+    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
+    "author": "unsuited_",
+    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
+    "tags": [
+      "TTS",
+      "语音合成"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.3.0",
+    "updated_at": "2026-05-25T17:36:45Z"
+  },
+  "astrbot_plugin_smart_imagechat_hub": {
+    "name": "astrbot_plugin_smart_imagechat_hub",
+    "display_name": "未审核：智能图片对话",
+    "desc": "LLM 驱动的一体化智能图片对话插件。自动为图库中的每张图片（上传/偷图）构建多重特征标签，通过分析用户意图和对话语境，输出合适的图片/表情包。",
+    "author": "青尘工作室",
+    "repo": "https://github.com/JREion/astrbot_plugin_smart_imagechat_hub",
+    "tags": [
+      "图片对话",
+      "图库",
+      "表情包",
+      "webui"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "v2.4.8",
+    "updated_at": "2026-05-25T17:18:45Z",
+    "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
+  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -19,33 +64,6 @@
     "version": "v1.3.4",
     "updated_at": "2026-05-25T13:40:49Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
-  },
-  "astrbot_plugin_yuanbao": {
-    "name": "astrbot_plugin_yuanbao",
-    "display_name": "未审核：腾讯元宝 机器人龙虾的适配插件。 平台适配器",
-    "desc": "腾讯元宝派 机器人的适配插件",
-    "author": "tjc6666666666666",
-    "repo": "https://github.com/tjc6666666666666/astrbot_plugin_yuanbao",
-    "tags": [],
-    "social_link": "",
-    "stars": 0,
-    "version": "v1.0.2",
-    "updated_at": "2026-05-25T13:07:49Z"
-  },
-  "astrbot_plugin_mimo_tts": {
-    "name": "astrbot_plugin_mimo_tts",
-    "display_name": "未审核：MiMO TTS精细化控制",
-    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
-    "author": "unsuited_",
-    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
-    "tags": [
-      "TTS",
-      "语音合成"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v1.3.0",
-    "updated_at": "2026-05-25T08:57:52Z"
   },
   "astrbot_plugin_liushui": {
     "name": "astrbot_plugin_liushui",
@@ -100,24 +118,6 @@
     "version": "v2.2.3",
     "updated_at": "2026-05-25T00:56:40Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
-  },
-  "astrbot_plugin_smart_imagechat_hub": {
-    "name": "astrbot_plugin_smart_imagechat_hub",
-    "display_name": "未审核：智能图片对话",
-    "desc": "LLM 驱动的一体化智能图片对话插件。自动为图库中的每张图片（上传/偷图）构建多重特征标签，通过分析用户意图和对话语境，输出合适的图片/表情包。",
-    "author": "青尘工作室",
-    "repo": "https://github.com/JREion/astrbot_plugin_smart_imagechat_hub",
-    "tags": [
-      "图片对话",
-      "图库",
-      "表情包",
-      "webui"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "v2.4.8",
-    "updated_at": "2026-05-24T15:27:33Z",
-    "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
   },
   "astrbot_plugin_nailong": {
     "name": "astrbot_plugin_nailong",
