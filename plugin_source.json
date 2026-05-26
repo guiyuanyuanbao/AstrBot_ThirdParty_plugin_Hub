@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_bilibili_ai_bot": {
+    "name": "astrbot_plugin_bilibili_ai_bot",
+    "display_name": "未审核：b站bot",
+    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
+    "author": "chenluQwQ,claude",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
+    "tags": [
+      "bilibili",
+      "B站",
+      "评论回复",
+      "主动交互",
+      "语义记忆"
+    ],
+    "social_link": "",
+    "stars": 5,
+    "version": "1.1.31",
+    "updated_at": "2026-05-26T02:06:56Z"
+  },
   "hermes": {
     "name": "hermes",
     "display_name": "未审核：Hermes适配器",
@@ -187,24 +205,6 @@
     "stars": 6,
     "version": "v1.3.0",
     "updated_at": "2026-05-24T12:59:28Z"
-  },
-  "astrbot_plugin_bilibili_ai_bot": {
-    "name": "astrbot_plugin_bilibili_ai_bot",
-    "display_name": "未审核：b站bot",
-    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
-    "author": "chenluQwQ,claude",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
-    "tags": [
-      "bilibili",
-      "B站",
-      "评论回复",
-      "主动交互",
-      "语义记忆"
-    ],
-    "social_link": "",
-    "stars": 5,
-    "version": "1.1.31",
-    "updated_at": "2026-05-24T07:44:58Z"
   },
   "astrbot_plugin_suanle_bushuo": {
     "name": "astrbot_plugin_suanle_bushuo",
@@ -905,20 +905,6 @@
     "stars": 0,
     "version": "v1.1",
     "updated_at": "2026-04-26T08:25:29Z"
-  },
-  "astrbot_plugin_keywords_miko": {
-    "name": "astrbot_plugin_keywords_miko",
-    "display_name": "未审核：关键字回复系统",
-    "desc": "简易使用，支持多类型添加，持久化媒体文件内容，若设置不当注意存储空间爆炸。",
-    "author": "MIKOvOKM",
-    "repo": "https://github.com/MIKOvOKM/astrbot_plugin_keywords_miko",
-    "tags": [
-      "关键字回复"
-    ],
-    "social_link": "https://github.com/MIKOvOKM",
-    "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-04-25T22:42:11Z"
   },
   "astrbot_plugin_offline_dev": {
     "name": "astrbot_plugin_offline_dev",
