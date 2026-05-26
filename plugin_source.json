@@ -1,4 +1,50 @@
 {
+  "astrbot_plugin_mimo_tts": {
+    "name": "astrbot_plugin_mimo_tts",
+    "display_name": "未审核：MiMO TTS精细化控制",
+    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
+    "author": "unsuited_",
+    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
+    "tags": [
+      "TTS",
+      "语音合成"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.4.0",
+    "updated_at": "2026-05-26T07:47:57Z"
+  },
+  "astrbot_plugin_irmia_devkit": {
+    "name": "astrbot_plugin_irmia_devkit",
+    "display_name": "未审核：弥亚开发工具箱",
+    "desc": "为 Agent 提供实用且安全的开发工具 — 备份/语法检查/回滚，63 工具 + 1 Skill",
+    "author": "伊尔弥亚",
+    "repo": "https://github.com/irmia2026/irmia_devkit_open",
+    "tags": [
+      "开发工具",
+      "代码审查",
+      "Git",
+      "安全编辑",
+      "文件处理"
+    ],
+    "social_link": "",
+    "stars": 11,
+    "version": "2.2.0",
+    "updated_at": "2026-05-26T07:40:50Z",
+    "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
+  },
+  "astrbot_plugin_yuanbao": {
+    "name": "astrbot_plugin_yuanbao",
+    "display_name": "未审核：腾讯元宝 机器人龙虾的适配插件。 平台适配器",
+    "desc": "腾讯元宝派 机器人的适配插件",
+    "author": "tjc6666666666666",
+    "repo": "https://github.com/tjc6666666666666/astrbot_plugin_yuanbao",
+    "tags": [],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.0.2",
+    "updated_at": "2026-05-26T05:08:08Z"
+  },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
     "display_name": "未审核：b站bot",
@@ -93,33 +139,6 @@
     "version": "v2.0.1",
     "updated_at": "2026-05-25T20:27:47Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
-  },
-  "astrbot_plugin_mimo_tts": {
-    "name": "astrbot_plugin_mimo_tts",
-    "display_name": "未审核：MiMO TTS精细化控制",
-    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
-    "author": "unsuited_",
-    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
-    "tags": [
-      "TTS",
-      "语音合成"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v1.4.0",
-    "updated_at": "2026-05-25T18:36:05Z"
-  },
-  "astrbot_plugin_yuanbao": {
-    "name": "astrbot_plugin_yuanbao",
-    "display_name": "未审核：腾讯元宝 机器人龙虾的适配插件。 平台适配器",
-    "desc": "腾讯元宝派 机器人的适配插件",
-    "author": "tjc6666666666666",
-    "repo": "https://github.com/tjc6666666666666/astrbot_plugin_yuanbao",
-    "tags": [],
-    "social_link": "",
-    "stars": 0,
-    "version": "v1.0.2",
-    "updated_at": "2026-05-25T17:43:43Z"
   },
   "astrbot_plugin_smart_imagechat_hub": {
     "name": "astrbot_plugin_smart_imagechat_hub",
@@ -3202,7 +3221,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 33,
+    "stars": 35,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
