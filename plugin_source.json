@@ -1,18 +1,19 @@
 {
-  "astrbot_plugin_mimo_tts": {
-    "name": "astrbot_plugin_mimo_tts",
-    "display_name": "未审核：MiMO TTS精细化控制",
-    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
-    "author": "unsuited_",
-    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
+  "astrbot_plugin_nyxbot": {
+    "name": "astrbot_plugin_nyxbot",
+    "display_name": "未审核：NyxBot",
+    "desc": "astrbot的warframe助手插件，目标实现与nyxbot功能相同。",
+    "author": "KingPrimes",
+    "repo": "https://github.com/KingPrimes/astrbot_plugin_nyxbot",
     "tags": [
-      "TTS",
-      "语音合成"
+      "Warframe助手",
+      "游戏辅助"
     ],
-    "social_link": "",
+    "social_link": "https://kingprimes.top",
     "stars": 0,
-    "version": "v1.4.0",
-    "updated_at": "2026-05-26T07:47:57Z"
+    "version": "v1.0.0",
+    "updated_at": "2026-05-26T14:55:30Z",
+    "logo": "https://raw.githubusercontent.com/KingPrimes/astrbot_plugin_nyxbot/master/logo.png"
   },
   "astrbot_plugin_irmia_devkit": {
     "name": "astrbot_plugin_irmia_devkit",
@@ -28,10 +29,43 @@
       "文件处理"
     ],
     "social_link": "",
-    "stars": 11,
+    "stars": 12,
     "version": "2.2.0",
-    "updated_at": "2026-05-26T07:40:50Z",
+    "updated_at": "2026-05-26T12:04:56Z",
     "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
+  },
+  "astrbot_plugin_anti_memes": {
+    "name": "astrbot_plugin_anti_memes",
+    "display_name": "未审核：图片精准撤回助手",
+    "desc": "【仅支持基于 QQ 的 aiohttp / OneBot V11 平台】该插件基于 AstrBot，用于对指定用户发送的图片进行自动检测并触发撤回操作（需权限支持），适用于内容管理与群组秩序维护。支持自定义目标用户与规则配置。\n(Only supports QQ platforms based on aiohttp / OneBot V11.)This plugin for AstrBot monitors images sent by specified users and automatically recalls them (with proper permissions). It is designed for moderation and group management, with configurable targets and rules.",
+    "author": "Qrzzzz",
+    "repo": "https://github.com/Qrzzzz/astrbot_plugin_anti_memes",
+    "tags": [
+      "图片",
+      "vibe coding",
+      "屏蔽",
+      "消息处理",
+      "QQ"
+    ],
+    "social_link": "https://github.com/Qrzzzz",
+    "stars": 1,
+    "version": "1.3.0",
+    "updated_at": "2026-05-26T11:57:07Z"
+  },
+  "astrbot_plugin_mimo_tts": {
+    "name": "astrbot_plugin_mimo_tts",
+    "display_name": "未审核：MiMO TTS精细化控制",
+    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
+    "author": "unsuited_",
+    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
+    "tags": [
+      "TTS",
+      "语音合成"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.4.0",
+    "updated_at": "2026-05-26T08:36:16Z"
   },
   "astrbot_plugin_yuanbao": {
     "name": "astrbot_plugin_yuanbao",
@@ -114,7 +148,7 @@
       "娱乐"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 7,
+    "stars": 8,
     "version": "v2.0.2",
     "updated_at": "2026-05-25T20:27:58Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
@@ -143,7 +177,7 @@
   "astrbot_plugin_smart_imagechat_hub": {
     "name": "astrbot_plugin_smart_imagechat_hub",
     "display_name": "未审核：智能图片对话",
-    "desc": "LLM 驱动的一体化智能图片对话插件。自动为图库中的每张图片（上传/偷图）构建多重特征标签，通过分析用户意图和对话语境，输出合适的图片/表情包。",
+    "desc": "LLM 驱动的一体化图片对话插件。通过多模态语义分析，实现智能斗图、主动表情、表情包分享等多种功能，支持多源导入图库 (上传 & 偷图)。",
     "author": "青尘工作室",
     "repo": "https://github.com/JREion/astrbot_plugin_smart_imagechat_hub",
     "tags": [
@@ -174,7 +208,7 @@
       "长期记忆"
     ],
     "social_link": "https://github.com/olozhika",
-    "stars": 31,
+    "stars": 32,
     "version": "v1.3.4",
     "updated_at": "2026-05-25T13:40:49Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
@@ -265,24 +299,6 @@
     "version": "v1.1.0",
     "updated_at": "2026-05-23T08:34:34Z",
     "logo": "https://raw.githubusercontent.com/tyz1994/astrbot_plugin_topic_context/master/logo.png"
-  },
-  "astrbot_plugin_anti_memes": {
-    "name": "astrbot_plugin_anti_memes",
-    "display_name": "未审核：图片精准撤回助手",
-    "desc": "【仅支持基于 QQ 的 aiohttp / OneBot V11 平台】该插件基于 AstrBot，用于对指定用户发送的图片进行自动检测并触发撤回操作（需权限支持），适用于内容管理与群组秩序维护。支持自定义目标用户与规则配置。\n(Only supports QQ platforms based on aiohttp / OneBot V11.)This plugin for AstrBot monitors images sent by specified users and automatically recalls them (with proper permissions). It is designed for moderation and group management, with configurable targets and rules.",
-    "author": "Qrzzzz",
-    "repo": "https://github.com/Qrzzzz/astrbot_plugin_anti_memes",
-    "tags": [
-      "图片",
-      "vibe coding",
-      "屏蔽",
-      "消息处理",
-      "QQ"
-    ],
-    "social_link": "https://github.com/Qrzzzz",
-    "stars": 1,
-    "version": "1.2.0",
-    "updated_at": "2026-05-23T05:27:38Z"
   },
   "astrbot_plugin_genshin_activity_cover": {
     "name": "astrbot_plugin_genshin_activity_cover",
@@ -3221,7 +3237,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 35,
+    "stars": 38,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
