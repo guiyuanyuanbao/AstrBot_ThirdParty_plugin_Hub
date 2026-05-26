@@ -1,4 +1,16 @@
 {
+  "hermes": {
+    "name": "hermes",
+    "display_name": "未审核：Hermes适配器",
+    "desc": "Hermes Agent 适配器 (WebSocket 版本) - 实现 AstrBot 与 Hermes 的双向通信",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/abpl_hermes_spq",
+    "tags": [],
+    "social_link": "https://github.com/landamao",
+    "stars": 2,
+    "version": "v6.7.6",
+    "updated_at": "2026-05-26T18:13:34Z"
+  },
   "astrbot_plugin_nyxbot": {
     "name": "astrbot_plugin_nyxbot",
     "display_name": "未审核：NyxBot",
@@ -12,7 +24,7 @@
     "social_link": "https://kingprimes.top",
     "stars": 0,
     "version": "v1.0.0",
-    "updated_at": "2026-05-26T14:55:30Z",
+    "updated_at": "2026-05-26T17:37:11Z",
     "logo": "https://raw.githubusercontent.com/KingPrimes/astrbot_plugin_nyxbot/master/logo.png"
   },
   "astrbot_plugin_irmia_devkit": {
@@ -96,18 +108,6 @@
     "stars": 5,
     "version": "1.1.31",
     "updated_at": "2026-05-26T02:06:56Z"
-  },
-  "hermes": {
-    "name": "hermes",
-    "display_name": "未审核：Hermes适配器",
-    "desc": "Hermes Agent 适配器 (WebSocket 版本) - 实现 AstrBot 与 Hermes 的双向通信",
-    "author": "懒大猫",
-    "repo": "https://github.com/landamao/abpl_hermes_spq",
-    "tags": [],
-    "social_link": "https://github.com/landamao",
-    "stars": 2,
-    "version": "v6.6.8",
-    "updated_at": "2026-05-25T21:48:16Z"
   },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
@@ -3237,7 +3237,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 38,
+    "stars": 40,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
