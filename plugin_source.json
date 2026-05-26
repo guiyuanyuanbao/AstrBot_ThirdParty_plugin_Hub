@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_nyxbot": {
+    "name": "astrbot_plugin_nyxbot",
+    "display_name": "未审核：NyxBot",
+    "desc": "astrbot的warframe助手插件，目标实现与nyxbot功能相同。",
+    "author": "KingPrimes",
+    "repo": "https://github.com/KingPrimes/astrbot_plugin_nyxbot",
+    "tags": [
+      "Warframe助手",
+      "游戏辅助"
+    ],
+    "social_link": "https://kingprimes.top",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-05-26T21:53:55Z",
+    "logo": "https://raw.githubusercontent.com/KingPrimes/astrbot_plugin_nyxbot/master/logo.png"
+  },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
     "display_name": "未审核：QQ群智能守护者",
@@ -15,8 +31,8 @@
     ],
     "social_link": "https://github.com/zcj-ui/",
     "stars": 2,
-    "version": "v2.2.4",
-    "updated_at": "2026-05-26T20:49:25Z",
+    "version": "v2.2.5",
+    "updated_at": "2026-05-26T20:57:45Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
   },
   "hermes": {
@@ -30,22 +46,6 @@
     "stars": 2,
     "version": "v6.7.7",
     "updated_at": "2026-05-26T19:00:30Z"
-  },
-  "astrbot_plugin_nyxbot": {
-    "name": "astrbot_plugin_nyxbot",
-    "display_name": "未审核：NyxBot",
-    "desc": "astrbot的warframe助手插件，目标实现与nyxbot功能相同。",
-    "author": "KingPrimes",
-    "repo": "https://github.com/KingPrimes/astrbot_plugin_nyxbot",
-    "tags": [
-      "Warframe助手",
-      "游戏辅助"
-    ],
-    "social_link": "https://kingprimes.top",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-05-26T17:37:11Z",
-    "logo": "https://raw.githubusercontent.com/KingPrimes/astrbot_plugin_nyxbot/master/logo.png"
   },
   "astrbot_plugin_irmia_devkit": {
     "name": "astrbot_plugin_irmia_devkit",
@@ -3237,7 +3237,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 42,
+    "stars": 44,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
