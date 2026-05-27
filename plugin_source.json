@@ -1,4 +1,23 @@
 {
+  "astrbot_plugin_irmia_devkit": {
+    "name": "astrbot_plugin_irmia_devkit",
+    "display_name": "未审核：弥亚开发工具箱",
+    "desc": "为 Agent 提供实用且安全的开发工具 — 备份/语法检查/回滚，63 工具 + 1 Skill",
+    "author": "伊尔弥亚",
+    "repo": "https://github.com/irmia2026/irmia_devkit_open",
+    "tags": [
+      "开发工具",
+      "代码审查",
+      "Git",
+      "安全编辑",
+      "文件处理"
+    ],
+    "social_link": "",
+    "stars": 14,
+    "version": "2.2.0",
+    "updated_at": "2026-05-27T19:46:20Z",
+    "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
+  },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
     "display_name": "未审核：MiMO TTS精细化控制",
@@ -167,25 +186,6 @@
     "version": "v0.3.0",
     "updated_at": "2026-05-27T08:17:38Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_ai_summary/main/logo.png"
-  },
-  "astrbot_plugin_irmia_devkit": {
-    "name": "astrbot_plugin_irmia_devkit",
-    "display_name": "未审核：弥亚开发工具箱",
-    "desc": "为 Agent 提供实用且安全的开发工具 — 备份/语法检查/回滚，63 工具 + 1 Skill",
-    "author": "伊尔弥亚",
-    "repo": "https://github.com/irmia2026/irmia_devkit_open",
-    "tags": [
-      "开发工具",
-      "代码审查",
-      "Git",
-      "安全编辑",
-      "文件处理"
-    ],
-    "social_link": "",
-    "stars": 14,
-    "version": "2.2.0",
-    "updated_at": "2026-05-27T07:14:12Z",
-    "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
