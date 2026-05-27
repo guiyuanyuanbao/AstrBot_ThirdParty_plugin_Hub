@@ -1,4 +1,68 @@
 {
+  "astrbot_plugin_mimo_tts": {
+    "name": "astrbot_plugin_mimo_tts",
+    "display_name": "未审核：MiMO TTS精细化控制",
+    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
+    "author": "unsuited_",
+    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
+    "tags": [
+      "TTS",
+      "语音合成"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v2.0.0",
+    "updated_at": "2026-05-27T19:12:39Z"
+  },
+  "astrbot_plugin_pocketmoney": {
+    "name": "astrbot_plugin_pocketmoney",
+    "display_name": "未审核：贝塔零花钱系统",
+    "desc": "给机器人设计的小金库系统和小背包系统，增加一些rp乐趣。",
+    "author": "柯尔",
+    "repo": "https://github.com/Luna-channel/astrbot_plugin_pocketmoney",
+    "tags": [
+      "零花钱",
+      "rp",
+      "互动"
+    ],
+    "social_link": "",
+    "stars": 3,
+    "version": "v1.8.0",
+    "updated_at": "2026-05-27T18:40:05Z",
+    "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_pocketmoney/main/logo.png"
+  },
+  "astrbot_plugin_random_reply": {
+    "name": "astrbot_plugin_random_reply",
+    "display_name": "未审核：禁止机器人间无限对话",
+    "desc": "适用于多机器人，想看bot们互动的群聊。为复数机器人群聊设计的防止炸群插件，防止机器人之间无限对话但不完全阻断机器人间的互动，支持agent获取群机器人名单",
+    "author": "柯尔",
+    "repo": "https://github.com/Luna-channel/astrbot_plugin_Random_Reply",
+    "tags": [
+      "群聊",
+      "多机器人互动"
+    ],
+    "social_link": "",
+    "stars": 2,
+    "version": "v1.0.1",
+    "updated_at": "2026-05-27T18:38:54Z",
+    "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Random_Reply/master/logo.png"
+  },
+  "astrbot_plugin_chillchat": {
+    "name": "astrbot_plugin_chillchat",
+    "display_name": "未审核：chillchat聊天记录控制",
+    "desc": "上下文字符数裁剪插件，支持多档位上限（默认/二档/三档），不同用户/群可分配不同上下文长度",
+    "author": "柯尔",
+    "repo": "https://github.com/Luna-channel/astrbot_plugin_chillchat",
+    "tags": [
+      "token控制",
+      "省钱"
+    ],
+    "social_link": "",
+    "stars": 2,
+    "version": "1.1.1",
+    "updated_at": "2026-05-27T18:30:05Z",
+    "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_chillchat/main/logo.png"
+  },
   "astrbot_plugin_nyxbot": {
     "name": "astrbot_plugin_nyxbot",
     "display_name": "未审核：NyxBot",
@@ -14,21 +78,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-05-27T15:03:35Z",
     "logo": "https://raw.githubusercontent.com/KingPrimes/astrbot_plugin_nyxbot/master/logo.png"
-  },
-  "astrbot_plugin_mimo_tts": {
-    "name": "astrbot_plugin_mimo_tts",
-    "display_name": "未审核：MiMO TTS精细化控制",
-    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
-    "author": "unsuited_",
-    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
-    "tags": [
-      "TTS",
-      "语音合成"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v1.4.0",
-    "updated_at": "2026-05-27T14:32:06Z"
   },
   "astrbot_plugin_qq_email_verify": {
     "name": "astrbot_plugin_qq_email_verify",
@@ -1164,19 +1213,6 @@
     "version": "v1.1.1",
     "updated_at": "2026-04-18T11:29:31Z",
     "logo": "https://raw.githubusercontent.com/tniany/astrbot_plugin_text_to_Image/main/logo.png"
-  },
-  "astrbot_plugin_whythemistake": {
-    "name": "astrbot_plugin_whythemistake",
-    "display_name": "未审核：轮椅日志debug",
-    "desc": "后台静默监听终端日志，检测到 WARNING / ERROR / CRITICAL 时自动提交 LLM 分析，将问题原因与解决方案（中文，≤50字）打印到终端。",
-    "author": "molamaker",
-    "repo": "https://github.com/Mola-maker/astrbot_plugin_whythemistake",
-    "tags": [],
-    "social_link": "2249464964@qq.com",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-18T09:55:04Z",
-    "logo": "https://raw.githubusercontent.com/Mola-maker/astrbot_plugin_whythemistake/master/logo.png"
   },
   "astrbot_plugin_steam_friend_monitor": {
     "name": "astrbot_plugin_steam_friend_monitor",
@@ -2368,21 +2404,6 @@
     "updated_at": "2026-03-21T13:30:15Z",
     "logo": "https://raw.githubusercontent.com/2350047329f-art/astrbot_plugin_aiToIot/master/logo.png"
   },
-  "astrbot_plugin_group_recall": {
-    "name": "astrbot_plugin_group_recall",
-    "display_name": "未审核：群聊撤回助手",
-    "desc": "在 QQ 群聊中批量撤回消息，支持只撤回机器人自己的消息或所有人的消息。",
-    "author": "lingyun",
-    "repo": "https://github.com/lingyun14beta/astrbot_plugin_group_recall",
-    "tags": [
-      "群撤回"
-    ],
-    "social_link": "https://github.com/lingyun14beta",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-21T09:18:56Z",
-    "logo": "https://raw.githubusercontent.com/lingyun14beta/astrbot_plugin_group_recall/main/logo.png"
-  },
   "astrbot_plugin_api_caller": {
     "name": "astrbot_plugin_api_caller",
     "display_name": "未审核：天气插件",
@@ -3237,7 +3258,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 50,
+    "stars": 51,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
