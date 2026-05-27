@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_nyxbot": {
+    "name": "astrbot_plugin_nyxbot",
+    "display_name": "未审核：NyxBot",
+    "desc": "astrbot的warframe助手插件，目标实现与nyxbot功能相同。",
+    "author": "KingPrimes",
+    "repo": "https://github.com/KingPrimes/astrbot_plugin_nyxbot",
+    "tags": [
+      "Warframe助手",
+      "游戏辅助"
+    ],
+    "social_link": "https://kingprimes.top",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-05-27T15:03:35Z",
+    "logo": "https://raw.githubusercontent.com/KingPrimes/astrbot_plugin_nyxbot/master/logo.png"
+  },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
     "display_name": "未审核：MiMO TTS精细化控制",
@@ -12,7 +28,63 @@
     "social_link": "",
     "stars": 0,
     "version": "v1.4.0",
-    "updated_at": "2026-05-27T09:31:47Z"
+    "updated_at": "2026-05-27T14:32:06Z"
+  },
+  "astrbot_plugin_qq_email_verify": {
+    "name": "astrbot_plugin_qq_email_verify",
+    "display_name": "未审核：入群验证但是邮箱",
+    "desc": "这是一个为 AstrBot 设计的 QQ 群入群验证插件。当新成员加入群聊时，插件会自动向其 QQ 邮箱（QQ号@qq.com）发送包含 6 位数字验证码的邮件。用户需要在规定时间内在群聊中发送正确的验证码以完成验证，否则将被自动移出群聊。",
+    "author": "5060ti个马力的6999",
+    "repo": "https://github.com/HSOS6/astrbot_plugin_qq_email_verify",
+    "tags": [
+      "电子邮件",
+      "QQ群",
+      "入群验证"
+    ],
+    "social_link": "https://github.com/HSOS6",
+    "stars": 3,
+    "version": "v1.3.0",
+    "updated_at": "2026-05-27T13:37:33Z",
+    "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_qq_email_verify/main/logo.png"
+  },
+  "astrbot_plugin_yuanbao": {
+    "name": "astrbot_plugin_yuanbao",
+    "display_name": "未审核：腾讯元宝 机器人龙虾的适配插件。 平台适配器",
+    "desc": "腾讯元宝派 机器人的适配插件",
+    "author": "tjc6666666666666",
+    "repo": "https://github.com/tjc6666666666666/astrbot_plugin_yuanbao",
+    "tags": [],
+    "social_link": "",
+    "stars": 0,
+    "version": "v1.0.2",
+    "updated_at": "2026-05-27T12:31:53Z"
+  },
+  "astrbot_plugin_nsjail": {
+    "name": "astrbot_plugin_nsjail",
+    "display_name": "未审核：NsJail 沙箱执行",
+    "desc": "为 AstrBot 提供安全的代码执行环境，专为 LLM Skill 执行设计。🎯 LLM 工具集成 | 🔒 多会话隔离 | 🚀 复用宿主软件 | ⚡ 资源限制 | 💾 跨会话持久化",
+    "author": "ssttkkl",
+    "repo": "https://github.com/ssttkkl/astrbot-plugin-nsjail",
+    "tags": [
+      "沙盒",
+      "代码执行"
+    ],
+    "social_link": "https://github.com/ssttkkl",
+    "stars": 0,
+    "version": "0.1.1",
+    "updated_at": "2026-05-27T11:01:31Z"
+  },
+  "astrbot_plugin_collectimage": {
+    "name": "astrbot_plugin_collectimage",
+    "display_name": "未审核：群聊图片手机",
+    "desc": "自动识别群聊图片内容、提取标签和角色，并实现本地持久化存储与检索。",
+    "author": "FineTortinita",
+    "repo": "https://github.com/FineTortinita/astrbot_plugin_collectimage",
+    "tags": [],
+    "social_link": "https://github.com/FineTortinita",
+    "stars": 0,
+    "version": "v1.8.0",
+    "updated_at": "2026-05-27T10:33:57Z"
   },
   "astrbot_plugin_adapter_watchdog": {
     "name": "astrbot_plugin_adapter_watchdog",
@@ -104,22 +176,6 @@
     "version": "1.3.0",
     "updated_at": "2026-05-27T01:58:13Z"
   },
-  "astrbot_plugin_nyxbot": {
-    "name": "astrbot_plugin_nyxbot",
-    "display_name": "未审核：NyxBot",
-    "desc": "astrbot的warframe助手插件，目标实现与nyxbot功能相同。",
-    "author": "KingPrimes",
-    "repo": "https://github.com/KingPrimes/astrbot_plugin_nyxbot",
-    "tags": [
-      "Warframe助手",
-      "游戏辅助"
-    ],
-    "social_link": "https://kingprimes.top",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-05-26T21:53:55Z",
-    "logo": "https://raw.githubusercontent.com/KingPrimes/astrbot_plugin_nyxbot/master/logo.png"
-  },
   "hermes": {
     "name": "hermes",
     "display_name": "未审核：Hermes适配器",
@@ -131,18 +187,6 @@
     "stars": 2,
     "version": "v6.7.7",
     "updated_at": "2026-05-26T19:00:30Z"
-  },
-  "astrbot_plugin_yuanbao": {
-    "name": "astrbot_plugin_yuanbao",
-    "display_name": "未审核：腾讯元宝 机器人龙虾的适配插件。 平台适配器",
-    "desc": "腾讯元宝派 机器人的适配插件",
-    "author": "tjc6666666666666",
-    "repo": "https://github.com/tjc6666666666666/astrbot_plugin_yuanbao",
-    "tags": [],
-    "social_link": "",
-    "stars": 0,
-    "version": "v1.0.2",
-    "updated_at": "2026-05-26T05:08:08Z"
   },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
@@ -703,21 +747,6 @@
     "updated_at": "2026-05-09T03:55:55Z",
     "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
   },
-  "astrbot_plugin_nsjail": {
-    "name": "astrbot_plugin_nsjail",
-    "display_name": "未审核：NsJail 沙箱执行",
-    "desc": "为 AstrBot 提供安全的代码执行环境，专为 LLM Skill 执行设计。🎯 LLM 工具集成 | 🔒 多会话隔离 | 🚀 复用宿主软件 | ⚡ 资源限制 | 💾 跨会话持久化",
-    "author": "ssttkkl",
-    "repo": "https://github.com/ssttkkl/astrbot-plugin-nsjail",
-    "tags": [
-      "沙盒",
-      "代码执行"
-    ],
-    "social_link": "https://github.com/ssttkkl",
-    "stars": 0,
-    "version": "0.1.1",
-    "updated_at": "2026-05-08T15:16:16Z"
-  },
   "astrbot_plugin_endworld_img_api": {
     "name": "astrbot_plugin_endworld_img_api",
     "display_name": "未审核：随机图片",
@@ -1199,18 +1228,6 @@
     "stars": 1,
     "version": "v1.2.6",
     "updated_at": "2026-04-15T14:50:06Z"
-  },
-  "astrbot_plugin_collectimage": {
-    "name": "astrbot_plugin_collectimage",
-    "display_name": "未审核：群聊图片手机",
-    "desc": "自动识别群聊图片内容、提取标签和角色，并实现本地持久化存储与检索。",
-    "author": "FineTortinita",
-    "repo": "https://github.com/FineTortinita/astrbot_plugin_collectimage",
-    "tags": [],
-    "social_link": "https://github.com/FineTortinita",
-    "stars": 0,
-    "version": "v1.8.0",
-    "updated_at": "2026-04-15T04:41:36Z"
   },
   "astrbot_plugin_cross_session_awareness": {
     "name": "astrbot_plugin_cross_session_awareness",
@@ -2346,7 +2363,7 @@
       "嵌入式"
     ],
     "social_link": "https://space.bilibili.com/662600708",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
     "updated_at": "2026-03-21T13:30:15Z",
     "logo": "https://raw.githubusercontent.com/2350047329f-art/astrbot_plugin_aiToIot/master/logo.png"
@@ -2992,23 +3009,6 @@
     "updated_at": "2026-03-11T09:35:55Z",
     "logo": "https://raw.githubusercontent.com/sanqi-ya/astrbot_plugin_qqfarm/main/logo.png"
   },
-  "astrbot_plugin_qq_email_verify": {
-    "name": "astrbot_plugin_qq_email_verify",
-    "display_name": "未审核：入群验证但是邮箱",
-    "desc": "这是一个为 AstrBot 设计的 QQ 群入群验证插件。当新成员加入群聊时，插件会自动向其 QQ 邮箱（QQ号@qq.com）发送包含 6 位数字验证码的邮件。用户需要在规定时间内在群聊中发送正确的验证码以完成验证，否则将被自动移出群聊。",
-    "author": "5060ti个马力的6999",
-    "repo": "https://github.com/HSOS6/astrbot_plugin_qq_email_verify",
-    "tags": [
-      "电子邮件",
-      "QQ群",
-      "入群验证"
-    ],
-    "social_link": "https://github.com/HSOS6",
-    "stars": 3,
-    "version": "v1.3.0",
-    "updated_at": "2026-03-11T04:57:35Z",
-    "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_qq_email_verify/main/logo.png"
-  },
   "astrbot_plugin_suangua": {
     "name": "astrbot_plugin_suangua",
     "display_name": "未审核：易经算卦",
@@ -3237,7 +3237,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 47,
+    "stars": 50,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
