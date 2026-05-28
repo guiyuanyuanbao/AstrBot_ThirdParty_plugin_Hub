@@ -1,4 +1,35 @@
 {
+  "astrbot_plugin_moshen_query": {
+    "name": "astrbot_plugin_moshen_query",
+    "display_name": "未审核：astrbot_plugin_moshen_query",
+    "desc": "",
+    "author": "sakikosunchaser",
+    "repo": "https://github.com/sakikosunchaser/astrbot_plugin_moshen_query.git",
+    "tags": [],
+    "social_link": "https://github.com/sakikosunchaser",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-05-28T15:38:42Z"
+  },
+  "astrbot_plugin_irmia_devkit": {
+    "name": "astrbot_plugin_irmia_devkit",
+    "display_name": "未审核：弥亚开发工具箱",
+    "desc": "为 Agent 提供实用且安全的开发工具 — 备份/语法检查/回滚，63 工具 + 1 Skill",
+    "author": "伊尔弥亚",
+    "repo": "https://github.com/irmia2026/irmia_devkit_open",
+    "tags": [
+      "开发工具",
+      "代码审查",
+      "Git",
+      "安全编辑",
+      "文件处理"
+    ],
+    "social_link": "",
+    "stars": 14,
+    "version": "2.2.0",
+    "updated_at": "2026-05-28T15:18:49Z",
+    "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
+  },
   "astrbot_plugin_image_anti_rc": {
     "name": "astrbot_plugin_image_anti_rc",
     "display_name": "未审核：图片反风控",
@@ -9,7 +40,7 @@
     "social_link": "https://github.com/FFFold",
     "stars": 0,
     "version": "0.2.1",
-    "updated_at": "2026-05-28T11:36:30Z"
+    "updated_at": "2026-05-28T13:10:04Z"
   },
   "astrbot_plugin_collectimage": {
     "name": "astrbot_plugin_collectimage",
@@ -39,25 +70,6 @@
     "version": "v3.0.2",
     "updated_at": "2026-05-28T06:15:12Z",
     "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
-  },
-  "astrbot_plugin_irmia_devkit": {
-    "name": "astrbot_plugin_irmia_devkit",
-    "display_name": "未审核：弥亚开发工具箱",
-    "desc": "为 Agent 提供实用且安全的开发工具 — 备份/语法检查/回滚，63 工具 + 1 Skill",
-    "author": "伊尔弥亚",
-    "repo": "https://github.com/irmia2026/irmia_devkit_open",
-    "tags": [
-      "开发工具",
-      "代码审查",
-      "Git",
-      "安全编辑",
-      "文件处理"
-    ],
-    "social_link": "",
-    "stars": 14,
-    "version": "2.2.0",
-    "updated_at": "2026-05-27T19:46:20Z",
-    "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
@@ -363,7 +375,7 @@
       "长期记忆"
     ],
     "social_link": "https://github.com/olozhika",
-    "stars": 32,
+    "stars": 33,
     "version": "v1.3.4",
     "updated_at": "2026-05-25T13:40:49Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
@@ -3014,18 +3026,6 @@
     "version": "1.7.0",
     "updated_at": "2026-03-11T21:57:08Z"
   },
-  "astrbot_plugin_moshen_query": {
-    "name": "astrbot_plugin_moshen_query",
-    "display_name": "未审核：astrbot_plugin_moshen_query",
-    "desc": "",
-    "author": "sakikosunchaser",
-    "repo": "https://github.com/sakikosunchaser/astrbot_plugin_moshen_query.git",
-    "tags": [],
-    "social_link": "https://github.com/sakikosunchaser",
-    "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-03-11T13:59:09Z"
-  },
   "astrbot_plugin_qqfarm": {
     "name": "astrbot_plugin_qqfarm",
     "display_name": "未审核：QQ农场助手插件",
@@ -3270,7 +3270,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 60,
+    "stars": 61,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
