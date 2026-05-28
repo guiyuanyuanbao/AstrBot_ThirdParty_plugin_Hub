@@ -207,7 +207,7 @@
       "监控"
     ],
     "social_link": "https://github.com/Foolllll-J",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.2",
     "updated_at": "2026-05-27T09:18:39Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
@@ -1315,18 +1315,6 @@
     "stars": 0,
     "version": "v0.3.0",
     "updated_at": "2026-04-14T06:13:44Z"
-  },
-  "astrbot_plugin_touch_head": {
-    "name": "astrbot_plugin_touch_head",
-    "display_name": "未审核：touch_head",
-    "desc": "摸头杀GIF插件",
-    "author": "mjy1113451",
-    "repo": "https://github.com/mjy1113451/touch_head",
-    "tags": [],
-    "social_link": "https://github.com/mjy1113451",
-    "stars": 1,
-    "version": "v1.1.1",
-    "updated_at": "2026-04-13T15:31:41Z"
   },
   "astrbot_plugin_self_open_llm_vtuber": {
     "name": "astrbot_plugin_self_open_llm_vtuber",
@@ -3270,7 +3258,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 61,
+    "stars": 62,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
