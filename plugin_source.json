@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_asoul": {
+    "name": "astrbot_plugin_asoul",
+    "display_name": "未审核：枝江自动推送",
+    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
+    "author": "LEN5010",
+    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
+    "tags": [
+      "ASOUL",
+      "自动推送",
+      "信息推送"
+    ],
+    "social_link": "https://github.com/LEN5010/",
+    "stars": 2,
+    "version": "v3.0.2",
+    "updated_at": "2026-05-28T06:15:12Z",
+    "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
+  },
   "astrbot_plugin_irmia_devkit": {
     "name": "astrbot_plugin_irmia_devkit",
     "display_name": "未审核：弥亚开发工具箱",
@@ -577,23 +594,6 @@
     "stars": 10,
     "version": "1.2.16",
     "updated_at": "2026-05-17T15:00:37Z"
-  },
-  "astrbot_plugin_asoul": {
-    "name": "astrbot_plugin_asoul",
-    "display_name": "未审核：枝江自动推送",
-    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
-    "author": "LEN5010",
-    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
-    "tags": [
-      "ASOUL",
-      "自动推送",
-      "信息推送"
-    ],
-    "social_link": "https://github.com/LEN5010/",
-    "stars": 2,
-    "version": "v3.0.2",
-    "updated_at": "2026-05-17T11:02:26Z",
-    "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
   },
   "astrbot_context_injection_system": {
     "name": "astrbot_context_injection_system",
@@ -3258,7 +3258,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 54,
+    "stars": 58,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
