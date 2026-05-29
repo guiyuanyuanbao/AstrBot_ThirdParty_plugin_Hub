@@ -1,4 +1,36 @@
 {
+  "astrbot_plugin_asoul": {
+    "name": "astrbot_plugin_asoul",
+    "display_name": "未审核：枝江自动推送",
+    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
+    "author": "LEN5010",
+    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
+    "tags": [
+      "ASOUL",
+      "自动推送",
+      "信息推送"
+    ],
+    "social_link": "https://github.com/LEN5010/",
+    "stars": 2,
+    "version": "v3.0.2",
+    "updated_at": "2026-05-29T07:18:47Z",
+    "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
+  },
+  "astrbot_plugin_mimo_tts": {
+    "name": "astrbot_plugin_mimo_tts",
+    "display_name": "未审核：MiMO TTS精细化控制",
+    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
+    "author": "unsuited_",
+    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
+    "tags": [
+      "TTS",
+      "语音合成"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v2.0.0",
+    "updated_at": "2026-05-29T06:57:38Z"
+  },
   "hermes": {
     "name": "hermes",
     "display_name": "未审核：Hermes适配器",
@@ -65,38 +97,6 @@
     "stars": 0,
     "version": "v1.8.0",
     "updated_at": "2026-05-28T11:06:38Z"
-  },
-  "astrbot_plugin_asoul": {
-    "name": "astrbot_plugin_asoul",
-    "display_name": "未审核：枝江自动推送",
-    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
-    "author": "LEN5010",
-    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
-    "tags": [
-      "ASOUL",
-      "自动推送",
-      "信息推送"
-    ],
-    "social_link": "https://github.com/LEN5010/",
-    "stars": 2,
-    "version": "v3.0.2",
-    "updated_at": "2026-05-28T06:15:12Z",
-    "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
-  },
-  "astrbot_plugin_mimo_tts": {
-    "name": "astrbot_plugin_mimo_tts",
-    "display_name": "未审核：MiMO TTS精细化控制",
-    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
-    "author": "unsuited_",
-    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
-    "tags": [
-      "TTS",
-      "语音合成"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v2.0.0",
-    "updated_at": "2026-05-27T19:12:39Z"
   },
   "astrbot_plugin_pocketmoney": {
     "name": "astrbot_plugin_pocketmoney",
@@ -906,7 +906,7 @@
     "repo": "https://github.com/landamao/abpl_group_wakepro",
     "tags": [],
     "social_link": "https://github.com/landamao",
-    "stars": 3,
+    "stars": 4,
     "version": "v8.8.8",
     "updated_at": "2026-05-03T13:52:26Z",
     "logo": "https://raw.githubusercontent.com/landamao/abpl_group_wakepro/main/logo.png"
@@ -1387,7 +1387,7 @@
       "DG-LAB"
     ],
     "social_link": "https://github.com/guiyuanyuanbao",
-    "stars": 6,
+    "stars": 7,
     "version": "v2.0.0",
     "updated_at": "2026-04-08T14:28:49Z",
     "logo": "https://raw.githubusercontent.com/guiyuanyuanbao/astrbot_plugin_DG-LAB/main/logo.png"
@@ -3258,7 +3258,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 68,
+    "stars": 69,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
@@ -3634,7 +3634,7 @@
       "玩机器、machine"
     ],
     "social_link": "https://github.com/Niolette",
-    "stars": 3,
+    "stars": 4,
     "version": "v1.0.1",
     "updated_at": "2026-02-25T17:14:14Z"
   },
