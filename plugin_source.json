@@ -1,16 +1,18 @@
 {
-  "astrbot_plugin_yoto": {
-    "name": "astrbot_plugin_yoto",
-    "display_name": "未审核：QQ群管理插件",
-    "desc": "QQ群多功能插件",
-    "author": "感情",
-    "repo": "https://github.com/YOYOFeelings/astrbot_plugin_YOTO",
-    "tags": [],
-    "social_link": "https://github.com/YOYOFeelings",
+  "astrbot_plugin_mimo_tts": {
+    "name": "astrbot_plugin_mimo_tts",
+    "display_name": "未审核：MiMO TTS精细化控制",
+    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
+    "author": "unsuited_",
+    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
+    "tags": [
+      "TTS",
+      "语音合成"
+    ],
+    "social_link": "",
     "stars": 0,
-    "version": "1.6",
-    "updated_at": "2026-05-29T15:24:34Z",
-    "logo": "https://raw.githubusercontent.com/YOYOFeelings/astrbot_plugin_YOTO/main/logo.png"
+    "version": "v2.1.0",
+    "updated_at": "2026-05-29T18:25:37Z"
   },
   "astrbot_plugin_count_loc": {
     "name": "astrbot_plugin_count_loc",
@@ -28,23 +30,21 @@
     "social_link": "https://github.com/DBJD-CR",
     "stars": 2,
     "version": "v1.0.0",
-    "updated_at": "2026-05-29T14:57:13Z",
+    "updated_at": "2026-05-29T18:06:07Z",
     "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_count_loc/main/logo.png"
   },
-  "astrbot_plugin_mimo_tts": {
-    "name": "astrbot_plugin_mimo_tts",
-    "display_name": "未审核：MiMO TTS精细化控制",
-    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
-    "author": "unsuited_",
-    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
-    "tags": [
-      "TTS",
-      "语音合成"
-    ],
-    "social_link": "",
+  "astrbot_plugin_yoto": {
+    "name": "astrbot_plugin_yoto",
+    "display_name": "未审核：QQ群管理插件",
+    "desc": "QQ群多功能插件",
+    "author": "感情",
+    "repo": "https://github.com/YOYOFeelings/astrbot_plugin_YOTO",
+    "tags": [],
+    "social_link": "https://github.com/YOYOFeelings",
     "stars": 0,
-    "version": "v2.0.0",
-    "updated_at": "2026-05-29T13:41:13Z"
+    "version": "1.6",
+    "updated_at": "2026-05-29T15:24:34Z",
+    "logo": "https://raw.githubusercontent.com/YOYOFeelings/astrbot_plugin_YOTO/main/logo.png"
   },
   "astrbot_plugin_tts_sanitizer_bilingual": {
     "name": "astrbot_plugin_tts_sanitizer_bilingual",
@@ -3290,7 +3290,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 77,
+    "stars": 78,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
