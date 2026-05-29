@@ -1,4 +1,51 @@
 {
+  "astrbot_plugin_yoto": {
+    "name": "astrbot_plugin_yoto",
+    "display_name": "未审核：QQ群管理插件",
+    "desc": "QQ群多功能插件",
+    "author": "感情",
+    "repo": "https://github.com/YOYOFeelings/astrbot_plugin_YOTO",
+    "tags": [],
+    "social_link": "https://github.com/YOYOFeelings",
+    "stars": 0,
+    "version": "1.6",
+    "updated_at": "2026-05-29T15:24:34Z",
+    "logo": "https://raw.githubusercontent.com/YOYOFeelings/astrbot_plugin_YOTO/main/logo.png"
+  },
+  "astrbot_plugin_count_loc": {
+    "name": "astrbot_plugin_count_loc",
+    "display_name": "未审核：代码统计 (CountLOC)",
+    "desc": "一个可以分析 GitHub/GitLab 公开仓库代码行数、文件数和注释行数的 AstrBot 插件喵。支持多分支选择、自定义忽略项过滤和 LLM 函数工具调用喵！",
+    "author": "DBJD-CR & Gemini",
+    "repo": "https://github.com/DBJD-CR/astrbot_plugin_count_loc",
+    "tags": [
+      "GitHub",
+      "GitLab",
+      "代码统计",
+      "代码分析",
+      "code-analysis"
+    ],
+    "social_link": "https://github.com/DBJD-CR",
+    "stars": 2,
+    "version": "v1.0.0",
+    "updated_at": "2026-05-29T14:57:13Z",
+    "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_count_loc/main/logo.png"
+  },
+  "astrbot_plugin_mimo_tts": {
+    "name": "astrbot_plugin_mimo_tts",
+    "display_name": "未审核：MiMO TTS精细化控制",
+    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
+    "author": "unsuited_",
+    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
+    "tags": [
+      "TTS",
+      "语音合成"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v2.0.0",
+    "updated_at": "2026-05-29T13:41:13Z"
+  },
   "astrbot_plugin_tts_sanitizer_bilingual": {
     "name": "astrbot_plugin_tts_sanitizer_bilingual",
     "display_name": "未审核：tts外语朗读",
@@ -12,7 +59,7 @@
     "social_link": "https://github.com/chenluQwQ",
     "stars": 0,
     "version": "v1.5.0",
-    "updated_at": "2026-05-29T11:14:35Z",
+    "updated_at": "2026-05-29T12:40:01Z",
     "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
   },
   "astrbot_plugin_parserurl": {
@@ -44,21 +91,6 @@
     "version": "v3.0.2",
     "updated_at": "2026-05-29T07:18:47Z",
     "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
-  },
-  "astrbot_plugin_mimo_tts": {
-    "name": "astrbot_plugin_mimo_tts",
-    "display_name": "未审核：MiMO TTS精细化控制",
-    "desc": "基于 MiMO-V2.5-TTS 的精细化语音合成插件。自动拦截 LLM 输出生成语音，支持 20 种情感、语速、音高、呼吸声、重音、唱歌、方言、音量、笑声、停顿、声音克隆、声音设计、预设系统。",
-    "author": "unsuited_",
-    "repo": "https://github.com/SteveBaka/astrbot_plugin_mimo_tts",
-    "tags": [
-      "TTS",
-      "语音合成"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v2.0.0",
-    "updated_at": "2026-05-29T06:57:38Z"
   },
   "hermes": {
     "name": "hermes",
@@ -404,7 +436,7 @@
       "长期记忆"
     ],
     "social_link": "https://github.com/olozhika",
-    "stars": 33,
+    "stars": 34,
     "version": "v1.3.4",
     "updated_at": "2026-05-25T13:40:49Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
@@ -3258,7 +3290,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 73,
+    "stars": 77,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
@@ -3412,19 +3444,6 @@
     "stars": 0,
     "version": "v1.0.1",
     "updated_at": "2026-03-03T06:45:02Z"
-  },
-  "astrbot_plugin_yoto": {
-    "name": "astrbot_plugin_yoto",
-    "display_name": "未审核：QQ群管理插件",
-    "desc": "QQ群多功能插件",
-    "author": "感情",
-    "repo": "https://github.com/YOYOFeelings/astrbot_plugin_YOTO",
-    "tags": [],
-    "social_link": "https://github.com/YOYOFeelings",
-    "stars": 0,
-    "version": "1.6",
-    "updated_at": "2026-03-02T14:23:01Z",
-    "logo": "https://raw.githubusercontent.com/YOYOFeelings/astrbot_plugin_YOTO/main/logo.png"
   },
   "astrbot_plugin_happybirthday": {
     "name": "astrbot_plugin_happybirthday",
