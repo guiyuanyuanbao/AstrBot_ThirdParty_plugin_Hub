@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_smart_imagechat_hub": {
+    "name": "astrbot_plugin_smart_imagechat_hub",
+    "display_name": "未审核：智能图片对话",
+    "desc": "LLM 驱动的一体化图片对话插件。通过多模态语义分析，实现智能斗图、主动表情、表情包分享等多种功能，支持多源导入图库 (上传 & 偷图)。",
+    "author": "青尘工作室",
+    "repo": "https://github.com/JREion/astrbot_plugin_smart_imagechat_hub",
+    "tags": [
+      "图片对话",
+      "图库",
+      "表情包",
+      "webui"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "v2.8.0",
+    "updated_at": "2026-05-30T14:59:31Z",
+    "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
+  },
   "astrbot_plugin_discordtoqqtransfer": {
     "name": "astrbot_plugin_discordtoqqtransfer",
     "display_name": "未审核：DiscordToQQTransfer",
@@ -413,24 +431,6 @@
     "version": "v2.0.1",
     "updated_at": "2026-05-25T20:27:47Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
-  },
-  "astrbot_plugin_smart_imagechat_hub": {
-    "name": "astrbot_plugin_smart_imagechat_hub",
-    "display_name": "未审核：智能图片对话",
-    "desc": "LLM 驱动的一体化图片对话插件。通过多模态语义分析，实现智能斗图、主动表情、表情包分享等多种功能，支持多源导入图库 (上传 & 偷图)。",
-    "author": "青尘工作室",
-    "repo": "https://github.com/JREion/astrbot_plugin_smart_imagechat_hub",
-    "tags": [
-      "图片对话",
-      "图库",
-      "表情包",
-      "webui"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "v2.4.8",
-    "updated_at": "2026-05-25T17:18:45Z",
-    "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
