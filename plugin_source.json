@@ -1,22 +1,37 @@
 {
-  "astrbot_plugin_count_loc": {
-    "name": "astrbot_plugin_count_loc",
-    "display_name": "未审核：代码统计 (CountLOC)",
-    "desc": "一个可以分析 GitHub/GitLab 公开仓库代码行数、文件数和注释行数的 AstrBot 插件喵。支持多分支选择、自定义忽略项过滤和 LLM 函数工具调用喵！",
-    "author": "DBJD-CR & Gemini",
-    "repo": "https://github.com/DBJD-CR/astrbot_plugin_count_loc",
+  "astrbot_plugin_smart_group_verify": {
+    "name": "astrbot_plugin_smart_group_verify",
+    "display_name": "未审核：智能入群验证审查",
+    "desc": "使用 AstrBot 中已配置的 LLM，根据每个 QQ 群的自定义规则自动审查 OneBot v11 入群申请。",
+    "author": "AlanBacker",
+    "repo": "https://github.com/AlanBacker/astrbot_plugin_smart_group_verify",
     "tags": [
-      "GitHub",
-      "GitLab",
-      "代码统计",
-      "代码分析",
-      "code-analysis"
+      "群管",
+      "验证",
+      "安全",
+      "OneBot"
     ],
-    "social_link": "https://github.com/DBJD-CR",
-    "stars": 2,
-    "version": "v1.0.0",
-    "updated_at": "2026-05-29T19:01:58Z",
-    "logo": "https://raw.githubusercontent.com/DBJD-CR/astrbot_plugin_count_loc/main/logo.png"
+    "social_link": "https://space.bilibili.com/702922307",
+    "stars": 0,
+    "version": "1.1.2",
+    "updated_at": "2026-05-30T06:40:12Z"
+  },
+  "astrbot_plugin_xjj": {
+    "name": "astrbot_plugin_xjj",
+    "display_name": "未审核：随机小姐姐视频插件",
+    "desc": "一个为 AstrBot 开发的随机小姐姐视频插件，可以获取随机的小姐姐视频内容。",
+    "author": "柠柚",
+    "repo": "https://github.com/ningyou8023/astrbot_plugin_xjj",
+    "tags": [
+      "小姐姐",
+      "视频",
+      "美女"
+    ],
+    "social_link": "https://github.com/ningyou8023",
+    "stars": 0,
+    "version": "v1.0.1",
+    "updated_at": "2026-05-30T05:11:19Z",
+    "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_xjj/main/logo.png"
   },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
@@ -115,25 +130,6 @@
     "stars": 0,
     "version": "v1.1.0",
     "updated_at": "2026-05-28T15:38:42Z"
-  },
-  "astrbot_plugin_irmia_devkit": {
-    "name": "astrbot_plugin_irmia_devkit",
-    "display_name": "未审核：弥亚开发工具箱",
-    "desc": "为 Agent 提供实用且安全的开发工具 — 备份/语法检查/回滚，63 工具 + 1 Skill",
-    "author": "伊尔弥亚",
-    "repo": "https://github.com/irmia2026/irmia_devkit_open",
-    "tags": [
-      "开发工具",
-      "代码审查",
-      "Git",
-      "安全编辑",
-      "文件处理"
-    ],
-    "social_link": "",
-    "stars": 14,
-    "version": "2.2.0",
-    "updated_at": "2026-05-28T15:18:49Z",
-    "logo": "https://raw.githubusercontent.com/irmia2026/irmia_devkit_open/main/logo.png"
   },
   "astrbot_plugin_image_anti_rc": {
     "name": "astrbot_plugin_image_anti_rc",
@@ -1854,23 +1850,6 @@
     "version": "v1.1.0",
     "updated_at": "2026-03-30T12:11:39Z"
   },
-  "astrbot_plugin_xjj": {
-    "name": "astrbot_plugin_xjj",
-    "display_name": "未审核：随机小姐姐视频插件",
-    "desc": "一个为 AstrBot 开发的随机小姐姐视频插件，可以获取随机的小姐姐视频内容。",
-    "author": "柠柚",
-    "repo": "https://github.com/ningyou8023/astrbot_plugin_xjj",
-    "tags": [
-      "小姐姐",
-      "视频",
-      "美女"
-    ],
-    "social_link": "https://github.com/ningyou8023",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-30T08:10:11Z",
-    "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_xjj/main/logo.png"
-  },
   "astrbot_plugin_qq_interactive_tools": {
     "name": "astrbot_plugin_qq_interactive_tools",
     "display_name": "未审核：QQ拟人化互动函数工具（llm_tools）",
@@ -3290,7 +3269,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 84,
+    "stars": 91,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
