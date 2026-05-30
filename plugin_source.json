@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_discordtoqqtransfer": {
+    "name": "astrbot_plugin_discordtoqqtransfer",
+    "display_name": "未审核：DiscordToQQTransfer",
+    "desc": "一个用于在discord与qq之间转发与同步消息的 AstrBot 插件。",
+    "author": "mmyddd",
+    "repo": "https://github.com/mmyddd/astrbot_plugin_DiscordToQQTransfer",
+    "tags": [
+      "Discord",
+      "·消息转发"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-05-30T08:58:49Z",
+    "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
+  },
   "astrbot_plugin_smart_group_verify": {
     "name": "astrbot_plugin_smart_group_verify",
     "display_name": "未审核：智能入群验证审查",
@@ -13,8 +29,8 @@
     ],
     "social_link": "https://space.bilibili.com/702922307",
     "stars": 0,
-    "version": "1.1.2",
-    "updated_at": "2026-05-30T06:40:12Z"
+    "version": "1.1.6",
+    "updated_at": "2026-05-30T07:32:29Z"
   },
   "astrbot_plugin_xjj": {
     "name": "astrbot_plugin_xjj",
@@ -372,7 +388,7 @@
       "娱乐"
     ],
     "social_link": "https://github.com/FlanChanXwO",
-    "stars": 8,
+    "stars": 9,
     "version": "v2.0.2",
     "updated_at": "2026-05-25T20:27:58Z",
     "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
@@ -970,22 +986,6 @@
     "version": "1.0.0",
     "updated_at": "2026-05-03T09:54:19Z"
   },
-  "astrbot_plugin_discordtoqqtransfer": {
-    "name": "astrbot_plugin_discordtoqqtransfer",
-    "display_name": "未审核：DiscordToQQTransfer",
-    "desc": "一个用于在discord与qq之间转发与同步消息的 AstrBot 插件。",
-    "author": "mmyddd",
-    "repo": "https://github.com/mmyddd/astrbot_plugin_DiscordToQQTransfer",
-    "tags": [
-      "Discord",
-      "·消息转发"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-05-01T07:13:32Z",
-    "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
-  },
   "astrbot_plugin_bookshelf": {
     "name": "astrbot_plugin_bookshelf",
     "display_name": "未审核：书架系统",
@@ -1096,7 +1096,7 @@
     "repo": "https://github.com/Mola-maker/astrbot_plugin_offline_dev",
     "tags": [],
     "social_link": "https://github.com/Mola-maker",
-    "stars": 0,
+    "stars": 1,
     "version": "v0.4.0",
     "updated_at": "2026-04-25T11:06:25Z"
   },
@@ -3269,7 +3269,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 91,
+    "stars": 92,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
