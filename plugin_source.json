@@ -1,4 +1,31 @@
 {
+  "astrbot_plugin_mc_helper": {
+    "name": "astrbot_plugin_mc_helper",
+    "display_name": "未审核：MC 错误报告分析",
+    "desc": "自动检测并分析用户上传的 Minecraft 错误报告压缩包（格式：错误报告-2026-日期.zip）。\n  下载、解压后读取错误日志，优先使用 AI 进行分析，辅以本地知识库兜底。\n  支持重复模组检测、日志位置定位、智能纠错建议。",
+    "author": "锦依卫2012",
+    "repo": "https://github.com/jinyiwei2012/astrbot_plugin_mc_helper",
+    "tags": [],
+    "social_link": "https://github.com/jinyiwei2012",
+    "stars": 0,
+    "version": "1.1.0",
+    "updated_at": "2026-05-31T14:32:23Z"
+  },
+  "astrbot_plugin_markdown": {
+    "name": "astrbot_plugin_markdown",
+    "display_name": "未审核：markdown 自动转图片",
+    "desc": "vscode 同款 markdown 渲染器，在 llm 输出包含 markdown 时自动转为 github 风格的渲染图片",
+    "author": "zijinshanren",
+    "repo": "https://github.com/Li-Zheng-Rong/astrbot_plugin_markdown",
+    "tags": [
+      "markdown",
+      "image"
+    ],
+    "social_link": "https://github.com/Li-Zheng-Rong",
+    "stars": 1,
+    "version": "0.5.4",
+    "updated_at": "2026-05-31T14:15:52Z"
+  },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
     "display_name": "未审核：QQ群智能守护者",
@@ -15,8 +42,8 @@
     ],
     "social_link": "https://github.com/zcj-ui/",
     "stars": 2,
-    "version": "v2.3.0",
-    "updated_at": "2026-05-31T10:16:05Z",
+    "version": "v2.3.1",
+    "updated_at": "2026-05-31T13:27:55Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
   },
   "astrbot_plugin_local_reminiscence": {
@@ -423,51 +450,6 @@
     "version": "1.1.31",
     "updated_at": "2026-05-26T02:06:56Z"
   },
-  "astrbot_plugin_setu": {
-    "name": "astrbot_plugin_setu",
-    "display_name": "未审核：瑟瑟！",
-    "desc": "随机福利图插件，支持标签与数量，以及图片分级控制，可以针对于特定平台配置概率绕过审核的发送方式。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_setu",
-    "tags": [
-      "瑟瑟",
-      "色图",
-      "setu",
-      "福利",
-      "色色",
-      "lolicon",
-      "sexyan",
-      "atri",
-      "图片",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 9,
-    "version": "v2.0.2",
-    "updated_at": "2026-05-25T20:27:58Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_setu/master/logo.png"
-  },
-  "astrbot_plugin_deerpipe": {
-    "name": "astrbot_plugin_deerpipe",
-    "display_name": "未审核：鹿乃子月历",
-    "desc": "一款可爱的每日打卡插件，记录你的健康生活每一天，生成精美的月度打卡日历，支持补签和好友互动。",
-    "author": "FlanChanXwO",
-    "repo": "https://github.com/FlanChanXwO/astrbot_plugin_deerpipe",
-    "tags": [
-      "鹿乃子",
-      "鹿",
-      "🦌",
-      "🦌乃子",
-      "月历",
-      "打卡",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/FlanChanXwO",
-    "stars": 3,
-    "version": "v2.0.1",
-    "updated_at": "2026-05-25T20:27:47Z",
-    "logo": "https://raw.githubusercontent.com/FlanChanXwO/astrbot_plugin_deerpipe/master/logo.png"
-  },
   "astrbot_plugin_liushui": {
     "name": "astrbot_plugin_liushui",
     "display_name": "未审核：ios畅销榜排名查阅",
@@ -818,21 +800,6 @@
     "stars": 3,
     "version": "1.3.0",
     "updated_at": "2026-05-12T17:39:37Z"
-  },
-  "astrbot_plugin_markdown": {
-    "name": "astrbot_plugin_markdown",
-    "display_name": "未审核：markdown 自动转图片",
-    "desc": "vscode 同款 markdown 渲染器，在 llm 输出包含 markdown 时自动转为 github 风格的渲染图片",
-    "author": "zijinshanren",
-    "repo": "https://github.com/Li-Zheng-Rong/astrbot_plugin_markdown",
-    "tags": [
-      "markdown",
-      "image"
-    ],
-    "social_link": "https://github.com/Li-Zheng-Rong",
-    "stars": 1,
-    "version": "0.5.4",
-    "updated_at": "2026-05-12T15:36:50Z"
   },
   "astrbot_plugin_avatar_manager": {
     "name": "astrbot_plugin_avatar_manager",
