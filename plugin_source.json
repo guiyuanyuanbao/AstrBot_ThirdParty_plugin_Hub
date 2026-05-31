@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_group_context_advanced": {
+    "name": "astrbot_plugin_group_context_advanced",
+    "display_name": "未审核：群聊上下文感知增强",
+    "desc": "更优雅的群聊上下文管理，全面替代内置的“群聊上下文感知”功能，支持更灵活的上下文控制、图片识别、合并转发分析。",
+    "author": "Fold",
+    "repo": "https://github.com/FFFold/astrbot_plugin_group_context_advanced",
+    "tags": [
+      "群聊",
+      "上下文"
+    ],
+    "social_link": "https://github.com/FFFold",
+    "stars": 3,
+    "version": "v0.2.3",
+    "updated_at": "2026-05-31T04:19:12Z"
+  },
   "hermes": {
     "name": "hermes",
     "display_name": "未审核：Hermes适配器",
@@ -846,21 +861,6 @@
     "version": "v0.1.0",
     "updated_at": "2026-05-11T11:48:07Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_steam_watch_status/master/logo.png"
-  },
-  "astrbot_plugin_group_context_advanced": {
-    "name": "astrbot_plugin_group_context_advanced",
-    "display_name": "未审核：群聊上下文感知增强",
-    "desc": "更优雅的群聊上下文管理，全面替代内置的“群聊上下文感知”功能，支持更灵活的上下文控制、图片识别、合并转发分析。",
-    "author": "Fold",
-    "repo": "https://github.com/FFFold/astrbot_plugin_group_context_advanced",
-    "tags": [
-      "群聊",
-      "上下文"
-    ],
-    "social_link": "https://github.com/FFFold",
-    "stars": 3,
-    "version": "v0.2.3",
-    "updated_at": "2026-05-11T01:53:08Z"
   },
   "astrbot_plugin_media_portal": {
     "name": "astrbot_plugin_media_portal",
@@ -3269,7 +3269,7 @@
     "repo": "https://github.com/zhanzhao2/astrbot-plugin-persistent-memory",
     "tags": [],
     "social_link": "",
-    "stars": 100,
+    "stars": 101,
     "version": "v0.4.2",
     "updated_at": "2026-03-07T04:01:17Z"
   },
