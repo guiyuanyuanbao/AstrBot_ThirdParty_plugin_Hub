@@ -9,22 +9,7 @@
     "social_link": "https://github.com/jinyiwei2012",
     "stars": 0,
     "version": "1.1.0",
-    "updated_at": "2026-05-31T14:32:23Z"
-  },
-  "astrbot_plugin_markdown": {
-    "name": "astrbot_plugin_markdown",
-    "display_name": "未审核：markdown 自动转图片",
-    "desc": "vscode 同款 markdown 渲染器，在 llm 输出包含 markdown 时自动转为 github 风格的渲染图片",
-    "author": "zijinshanren",
-    "repo": "https://github.com/Li-Zheng-Rong/astrbot_plugin_markdown",
-    "tags": [
-      "markdown",
-      "image"
-    ],
-    "social_link": "https://github.com/Li-Zheng-Rong",
-    "stars": 1,
-    "version": "0.5.4",
-    "updated_at": "2026-05-31T14:15:52Z"
+    "updated_at": "2026-05-31T16:06:01Z"
   },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
@@ -42,9 +27,40 @@
     ],
     "social_link": "https://github.com/zcj-ui/",
     "stars": 2,
-    "version": "v2.3.1",
-    "updated_at": "2026-05-31T13:27:55Z",
+    "version": "v2.3.2",
+    "updated_at": "2026-05-31T14:48:35Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
+  },
+  "astrbot_plugin_df": {
+    "name": "astrbot_plugin_df",
+    "display_name": "未审核：矮人要塞攻略查询助手",
+    "desc": "通过输入关键词，可以模糊搜索对应的攻略教程",
+    "author": "GuHuiHeDaDao",
+    "repo": "https://github.com/GuHuiHeXiaoDao/astrbot_plugin_df",
+    "tags": [
+      "矮人要塞",
+      "df",
+      "攻略"
+    ],
+    "social_link": "https://space.bilibili.com/480131900",
+    "stars": 0,
+    "version": "1.0.3",
+    "updated_at": "2026-05-31T14:23:28Z"
+  },
+  "astrbot_plugin_markdown": {
+    "name": "astrbot_plugin_markdown",
+    "display_name": "未审核：markdown 自动转图片",
+    "desc": "vscode 同款 markdown 渲染器，在 llm 输出包含 markdown 时自动转为 github 风格的渲染图片",
+    "author": "zijinshanren",
+    "repo": "https://github.com/Li-Zheng-Rong/astrbot_plugin_markdown",
+    "tags": [
+      "markdown",
+      "image"
+    ],
+    "social_link": "https://github.com/Li-Zheng-Rong",
+    "stars": 1,
+    "version": "0.5.4",
+    "updated_at": "2026-05-31T14:15:52Z"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
