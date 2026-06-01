@@ -1,4 +1,70 @@
 {
+  "astrbot_plugin_baidu_curl": {
+    "name": "astrbot_plugin_baidu_curl",
+    "display_name": "未审核：百度网盘cURL下载助手",
+    "desc": "发送百度网盘分享链接，自动转存、提取直链并生成cURL下载命令。支持baidu-autosave转存、OpenList集成、文件自动整理。",
+    "author": "jichie",
+    "repo": "https://github.com/jichie/astrbot_plugin_baidu_curl",
+    "tags": [
+      "百度网盘",
+      "下载",
+      "转存"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v7.0.0",
+    "updated_at": "2026-06-01T16:18:26Z"
+  },
+  "astrbot_plugin_bilibili_push": {
+    "name": "astrbot_plugin_bilibili_push",
+    "display_name": "未审核：B站解析推送助手",
+    "desc": "一个 Bilibili 与 AcFun 视频被动解析与订阅推送插件，支持扫码登录持久化 Cookie、视频/图文双发送策略。",
+    "author": "ZASENJC",
+    "repo": "https://github.com/ZASENJC/astrbot_plugin_bilibili_push",
+    "tags": [
+      "B站",
+      "推送",
+      "解析"
+    ],
+    "social_link": "https://github.com/ZASENJC",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-06-01T15:47:23Z"
+  },
+  "astrbot_plugin_silent": {
+    "name": "astrbot_plugin_silent",
+    "display_name": "未审核：沉默控制插件",
+    "desc": "让bot拥有自主决定沉默的权力，而不是回复每一句话",
+    "author": "maolbsMd",
+    "repo": "https://github.com/maolbsMd/astrbot_plugin_silent",
+    "tags": [
+      "沉默",
+      "功能增强",
+      "拟人",
+      "真人"
+    ],
+    "social_link": "https://github.com/maolbsMd/astrbot_plugin_silent",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-06-01T15:20:29Z"
+  },
+  "astrbot_plugin_df": {
+    "name": "astrbot_plugin_df",
+    "display_name": "未审核：矮人要塞攻略查询助手",
+    "desc": "Dwarf Fortress / 矮人要塞词条图片查询：/df 关键词，合并转发输出文字和多图，使用机器人头像昵称，额外发送视频链接，并拦截 /df 指令进入 LLM",
+    "author": "GuHuiHeDaDao",
+    "repo": "https://github.com/GuHuiHeXiaoDao/astrbot_plugin_df",
+    "tags": [
+      "矮人要塞",
+      "df",
+      "攻略"
+    ],
+    "social_link": "https://space.bilibili.com/480131900",
+    "stars": 0,
+    "version": "1.0.6",
+    "updated_at": "2026-06-01T14:50:21Z",
+    "logo": "https://raw.githubusercontent.com/GuHuiHeXiaoDao/astrbot_plugin_df/master/logo.png"
+  },
   "astrbot_plugin_mc_helper": {
     "name": "astrbot_plugin_mc_helper",
     "display_name": "未审核：MC 错误报告分析",
@@ -30,22 +96,6 @@
     "version": "v2.3.2",
     "updated_at": "2026-05-31T14:48:35Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
-  },
-  "astrbot_plugin_df": {
-    "name": "astrbot_plugin_df",
-    "display_name": "未审核：矮人要塞攻略查询助手",
-    "desc": "通过输入关键词，可以模糊搜索对应的攻略教程",
-    "author": "GuHuiHeDaDao",
-    "repo": "https://github.com/GuHuiHeXiaoDao/astrbot_plugin_df",
-    "tags": [
-      "矮人要塞",
-      "df",
-      "攻略"
-    ],
-    "social_link": "https://space.bilibili.com/480131900",
-    "stars": 0,
-    "version": "1.0.3",
-    "updated_at": "2026-05-31T14:23:28Z"
   },
   "astrbot_plugin_markdown": {
     "name": "astrbot_plugin_markdown",
@@ -82,21 +132,6 @@
     "version": "v1.3.4",
     "updated_at": "2026-05-31T05:41:13Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
-  },
-  "astrbot_plugin_group_context_advanced": {
-    "name": "astrbot_plugin_group_context_advanced",
-    "display_name": "未审核：群聊上下文感知增强",
-    "desc": "更优雅的群聊上下文管理，全面替代内置的“群聊上下文感知”功能，支持更灵活的上下文控制、图片识别、合并转发分析。",
-    "author": "Fold",
-    "repo": "https://github.com/FFFold/astrbot_plugin_group_context_advanced",
-    "tags": [
-      "群聊",
-      "上下文"
-    ],
-    "social_link": "https://github.com/FFFold",
-    "stars": 3,
-    "version": "v0.2.3",
-    "updated_at": "2026-05-31T04:19:12Z"
   },
   "hermes": {
     "name": "hermes",
@@ -520,7 +555,7 @@
     "repo": "https://github.com/muyouzhi6/astrbot_plugin_suanle_bushuo",
     "tags": [],
     "social_link": "https://github.com/muyouzhi6",
-    "stars": 0,
+    "stars": 1,
     "version": "v0.1.2",
     "updated_at": "2026-05-23T15:28:04Z"
   },
@@ -1432,22 +1467,6 @@
     "stars": 0,
     "version": "v1.0.16",
     "updated_at": "2026-04-08T02:04:08Z"
-  },
-  "astrbot_plugin_bilibili_push": {
-    "name": "astrbot_plugin_bilibili_push",
-    "display_name": "未审核：B站解析推送助手",
-    "desc": "一个简洁的 Bilibili 视频被动解析与订阅推送插件，支持扫码登录持久化 Cookie、视频/图文双发送策略。",
-    "author": "ZASENJC",
-    "repo": "https://github.com/ZASENJC/astrbot_plugin_bilibili_push",
-    "tags": [
-      "B站",
-      "推送",
-      "解析"
-    ],
-    "social_link": "https://github.com/ZASENJC",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-04-07T16:33:27Z"
   },
   "astrbot_plugin_vtuber": {
     "name": "astrbot_plugin_vtuber",
