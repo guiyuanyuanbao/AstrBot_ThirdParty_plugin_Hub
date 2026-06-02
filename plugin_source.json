@@ -13,7 +13,7 @@
     "social_link": "",
     "stars": 0,
     "version": "v7.0.0",
-    "updated_at": "2026-06-01T16:18:26Z"
+    "updated_at": "2026-06-02T01:40:43Z"
   },
   "astrbot_plugin_bilibili_push": {
     "name": "astrbot_plugin_bilibili_push",
@@ -47,23 +47,6 @@
     "stars": 1,
     "version": "1.0.0",
     "updated_at": "2026-06-01T15:20:29Z"
-  },
-  "astrbot_plugin_df": {
-    "name": "astrbot_plugin_df",
-    "display_name": "未审核：矮人要塞攻略查询助手",
-    "desc": "Dwarf Fortress / 矮人要塞词条图片查询：/df 关键词，合并转发输出文字和多图，使用机器人头像昵称，额外发送视频链接，并拦截 /df 指令进入 LLM",
-    "author": "GuHuiHeDaDao",
-    "repo": "https://github.com/GuHuiHeXiaoDao/astrbot_plugin_df",
-    "tags": [
-      "矮人要塞",
-      "df",
-      "攻略"
-    ],
-    "social_link": "https://space.bilibili.com/480131900",
-    "stars": 0,
-    "version": "1.0.6",
-    "updated_at": "2026-06-01T14:50:21Z",
-    "logo": "https://raw.githubusercontent.com/GuHuiHeXiaoDao/astrbot_plugin_df/master/logo.png"
   },
   "astrbot_plugin_mc_helper": {
     "name": "astrbot_plugin_mc_helper",
