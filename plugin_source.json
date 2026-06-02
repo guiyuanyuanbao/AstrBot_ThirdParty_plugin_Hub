@@ -13,7 +13,7 @@
     "social_link": "",
     "stars": 0,
     "version": "v7.0.0",
-    "updated_at": "2026-06-02T01:40:43Z"
+    "updated_at": "2026-06-02T08:11:34Z"
   },
   "astrbot_plugin_bilibili_push": {
     "name": "astrbot_plugin_bilibili_push",
@@ -47,6 +47,23 @@
     "stars": 1,
     "version": "1.0.0",
     "updated_at": "2026-06-01T15:20:29Z"
+  },
+  "astrbot_plugin_df": {
+    "name": "astrbot_plugin_df",
+    "display_name": "未审核：矮人要塞攻略查询助手",
+    "desc": "Dwarf Fortress / 矮人要塞词条图片查询：/df 关键词，合并转发输出文字和多图，使用机器人头像昵称，额外发送视频链接，并拦截 /df 指令进入 LLM",
+    "author": "GuHuiHeDaDao",
+    "repo": "https://github.com/GuHuiHeXiaoDao/astrbot_plugin_df",
+    "tags": [
+      "矮人要塞",
+      "df",
+      "攻略"
+    ],
+    "social_link": "https://space.bilibili.com/480131900",
+    "stars": 0,
+    "version": "1.0.6",
+    "updated_at": "2026-06-01T14:50:21Z",
+    "logo": "https://raw.githubusercontent.com/GuHuiHeXiaoDao/astrbot_plugin_df/master/logo.png"
   },
   "astrbot_plugin_mc_helper": {
     "name": "astrbot_plugin_mc_helper",
@@ -219,7 +236,7 @@
     "repo": "https://github.com/YOYOFeelings/astrbot_plugin_YOTO",
     "tags": [],
     "social_link": "https://github.com/YOYOFeelings",
-    "stars": 0,
+    "stars": 1,
     "version": "1.6",
     "updated_at": "2026-05-29T15:24:34Z",
     "logo": "https://raw.githubusercontent.com/YOYOFeelings/astrbot_plugin_YOTO/main/logo.png"
@@ -1317,6 +1334,25 @@
     "stars": 1,
     "version": "v1.2.6",
     "updated_at": "2026-04-15T14:50:06Z"
+  },
+  "astrbot_plugin_name_fight": {
+    "name": "astrbot_plugin_name_fight",
+    "display_name": "未审核：Name Fight",
+    "desc": "一个武侠风格的 AstrBot 名字格斗插件。输入名字即可生成命格固定的角色，围绕武学、内功、轻功展开对战，并在群内累计巅峰分排行。支持同名固定生成、战斗播报、角色切换与巅峰榜冲分。",
+    "author": "kkloas",
+    "repo": "https://github.com/kkloas/astrbot_plugin_name_fight",
+    "tags": [
+      "游戏",
+      "武侠",
+      "对战",
+      "群聊",
+      "排行榜"
+    ],
+    "social_link": "https://github.com/kkloas",
+    "stars": 1,
+    "version": "1.4.0",
+    "updated_at": "2026-04-14T09:13:51Z",
+    "logo": "https://raw.githubusercontent.com/kkloas/astrbot_plugin_name_fight/main/logo.png"
   },
   "astrbot_plugin_cross_session_awareness": {
     "name": "astrbot_plugin_cross_session_awareness",
