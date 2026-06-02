@@ -1,4 +1,16 @@
 {
+  "hermes": {
+    "name": "hermes",
+    "display_name": "未审核：Hermes适配器",
+    "desc": "Hermes Agent 适配器 (WebSocket 版本) - 实现 AstrBot 与 Hermes 的双向通信",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/abpl_hermes_spq",
+    "tags": [],
+    "social_link": "https://github.com/landamao",
+    "stars": 2,
+    "version": "v6.8.4",
+    "updated_at": "2026-06-02T13:55:58Z"
+  },
   "astrbot_plugin_baidu_curl": {
     "name": "astrbot_plugin_baidu_curl",
     "display_name": "未审核：百度网盘cURL下载助手",
@@ -132,18 +144,6 @@
     "version": "v1.3.4",
     "updated_at": "2026-05-31T05:41:13Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
-  },
-  "hermes": {
-    "name": "hermes",
-    "display_name": "未审核：Hermes适配器",
-    "desc": "Hermes Agent 适配器 (WebSocket 版本) - 实现 AstrBot 与 Hermes 的双向通信",
-    "author": "懒大猫",
-    "repo": "https://github.com/landamao/abpl_hermes_spq",
-    "tags": [],
-    "social_link": "https://github.com/landamao",
-    "stars": 2,
-    "version": "v6.8.2",
-    "updated_at": "2026-05-30T16:41:26Z"
   },
   "astrbot_plugin_smart_imagechat_hub": {
     "name": "astrbot_plugin_smart_imagechat_hub",
@@ -706,7 +706,7 @@
       "群聊学习"
     ],
     "social_link": "https://github.com/EightEggs",
-    "stars": 1,
+    "stars": 2,
     "version": "v3.2.1",
     "updated_at": "2026-05-18T04:37:49Z",
     "logo": "https://raw.githubusercontent.com/EightEggs/astrbot_plugin_chatimitate/master/logo.png"
