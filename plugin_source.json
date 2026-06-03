@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_smart_silence": {
+    "name": "astrbot_plugin_smart_silence",
+    "display_name": "未审核：智慧沉默控制 Pro",
+    "desc": "轻量且强大的沉默控制，让 bot 拥有自主决定权，支持外部配置与主动发信拦截机制。",
+    "author": "maolbsMd",
+    "repo": "https://github.com/maolbsMd/astrbot_plugin_smart_silence",
+    "tags": [
+      "沉默",
+      "功能增强",
+      "拟人",
+      "主动拦截"
+    ],
+    "social_link": "https://github.com/maolbsMd/astrbot_plugin_smart_silence",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-06-03T12:22:15Z"
+  },
   "astrbot_plugin_meme_api_python": {
     "name": "astrbot_plugin_meme_api_python",
     "display_name": "未审核：表情包制作插件api版",
@@ -14,8 +31,8 @@
     ],
     "social_link": "https://github.com/xiaoruange39",
     "stars": 5,
-    "version": "0.2.6",
-    "updated_at": "2026-06-03T09:00:11Z",
+    "version": "0.2.7",
+    "updated_at": "2026-06-03T10:26:45Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
   },
   "astrbot_plugin_hindsight_memory": {
@@ -90,23 +107,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-06-01T15:47:23Z"
-  },
-  "astrbot_plugin_silent": {
-    "name": "astrbot_plugin_silent",
-    "display_name": "未审核：沉默控制插件",
-    "desc": "让bot拥有自主决定沉默的权力，而不是回复每一句话",
-    "author": "maolbsMd",
-    "repo": "https://github.com/maolbsMd/astrbot_plugin_silent",
-    "tags": [
-      "沉默",
-      "功能增强",
-      "拟人",
-      "真人"
-    ],
-    "social_link": "https://github.com/maolbsMd/astrbot_plugin_silent",
-    "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2026-06-01T15:20:29Z"
   },
   "astrbot_plugin_df": {
     "name": "astrbot_plugin_df",
@@ -1183,23 +1183,6 @@
     "version": "v0.2.1",
     "updated_at": "2026-04-24T16:01:44Z"
   },
-  "astrbot_plugin_llmsupport": {
-    "name": "astrbot_plugin_llmsupport",
-    "display_name": "未审核：LLM感知用户打赏",
-    "desc": "对话表示想要支持打赏请客意图时，LLM表示感谢并亮出二维码。",
-    "author": "雷诺哈特",
-    "repo": "https://github.com/Weiss-UltimateSavior/astrbot_plugin_LLMsupport",
-    "tags": [
-      "LLM",
-      "投喂",
-      "打赏",
-      "二维码"
-    ],
-    "social_link": "https://github.com/Weiss-UltimateSavior",
-    "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-04-23T13:15:54Z"
-  },
   "astrbot_plugin_monningsignin": {
     "name": "astrbot_plugin_monningsignin",
     "display_name": "未审核：莫宁宁的币",
@@ -1900,24 +1883,6 @@
     "stars": 0,
     "version": "v1.0.1",
     "updated_at": "2026-03-30T12:45:57Z"
-  },
-  "astrbot_plugin_llmjoin": {
-    "name": "astrbot_plugin_llmjoin",
-    "display_name": "未审核：LLM 加群审核",
-    "desc": "使用 LLM 智能审核加群申请的插件",
-    "author": "雷诺哈特",
-    "repo": "https://github.com/Weiss-UltimateSavior/astrbot_plugin_LLMjoin",
-    "tags": [
-      "LLM",
-      "验证",
-      "审核",
-      "加群",
-      "管理"
-    ],
-    "social_link": "https://github.com/Weiss-UltimateSavior",
-    "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-03-30T12:11:39Z"
   },
   "astrbot_plugin_qq_interactive_tools": {
     "name": "astrbot_plugin_qq_interactive_tools",
