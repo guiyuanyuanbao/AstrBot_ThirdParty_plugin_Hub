@@ -1,4 +1,52 @@
 {
+  "astrbot_plugin_meme_api_python": {
+    "name": "astrbot_plugin_meme_api_python",
+    "display_name": "未审核：表情包制作插件api版",
+    "desc": "调用 meme-generator API，提供表情列表、详情、随机表情和制作表情能力。",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_meme_api_python",
+    "tags": [
+      "meme",
+      "api",
+      "表情包",
+      "表情制作",
+      "python"
+    ],
+    "social_link": "https://github.com/xiaoruange39",
+    "stars": 5,
+    "version": "0.2.6",
+    "updated_at": "2026-06-03T09:00:11Z",
+    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
+  },
+  "astrbot_plugin_hindsight_memory": {
+    "name": "astrbot_plugin_hindsight_memory",
+    "display_name": "未审核：Hindsight Memory",
+    "desc": "接入 Hindsight Cloud，为私聊和群聊提供按会话隔离的长期记忆能力.",
+    "author": "JiaJian",
+    "repo": "https://github.com/wjiajian/astrbot_plugin_hindsight_memory",
+    "tags": [
+      "memory"
+    ],
+    "social_link": "https://github.com/wjiajian",
+    "stars": 0,
+    "version": "0.1.0",
+    "updated_at": "2026-06-03T08:58:34Z"
+  },
+  "astrbot_plugin_autoissue": {
+    "name": "astrbot_plugin_autoissue",
+    "display_name": "未审核：Autoissue",
+    "desc": "回复合并转发消息并 @机器人 输入 issue，自动利用 LLM 提取内容并在 GitHub 仓库创建 Issue。",
+    "author": "zaixiZaixiSJTU",
+    "repo": "https://github.com/zaixiZaixiSJTU/astrbot_plugin_autoissue",
+    "tags": [
+      "GitHub",
+      "llm"
+    ],
+    "social_link": "https://github.com/zaixiZaixiSJTU",
+    "stars": 2,
+    "version": "1.0.0",
+    "updated_at": "2026-06-03T07:36:50Z"
+  },
   "hermes": {
     "name": "hermes",
     "display_name": "未审核：Hermes适配器",
@@ -162,25 +210,6 @@
     "version": "v2.8.0",
     "updated_at": "2026-05-30T15:39:06Z",
     "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
-  },
-  "astrbot_plugin_meme_api_python": {
-    "name": "astrbot_plugin_meme_api_python",
-    "display_name": "未审核：表情包制作插件api版",
-    "desc": "调用 meme-generator API，提供表情列表、详情、随机表情和制作表情能力。",
-    "author": "xiaoruange39",
-    "repo": "https://github.com/xiaoruange39/astrbot_plugin_meme_api_python",
-    "tags": [
-      "meme",
-      "api",
-      "表情包",
-      "表情制作",
-      "python"
-    ],
-    "social_link": "https://github.com/xiaoruange39",
-    "stars": 5,
-    "version": "0.2.6",
-    "updated_at": "2026-05-30T13:25:49Z",
-    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
   },
   "astrbot_plugin_discordtoqqtransfer": {
     "name": "astrbot_plugin_discordtoqqtransfer",
