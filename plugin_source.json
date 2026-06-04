@@ -14,8 +14,20 @@
     "social_link": "https://github.com/zhajunyao",
     "stars": 0,
     "version": "1.1.0",
-    "updated_at": "2026-06-04T12:19:45Z",
+    "updated_at": "2026-06-04T18:03:02Z",
     "logo": "https://raw.githubusercontent.com/zhajunyao/astrbot_plugin_meme_manufacturer/main/logo.png"
+  },
+  "astrbot_plugin_yuanbao": {
+    "name": "astrbot_plugin_yuanbao",
+    "display_name": "未审核：腾讯元宝 机器人龙虾的适配插件。 平台适配器",
+    "desc": "腾讯元宝派 机器人的适配插件",
+    "author": "tjc6666666666666",
+    "repo": "https://github.com/tjc6666666666666/astrbot_plugin_yuanbao",
+    "tags": [],
+    "social_link": "",
+    "stars": 1,
+    "version": "v1.0.2",
+    "updated_at": "2026-06-04T16:31:58Z"
   },
   "astrbot_plugin_supermemory": {
     "name": "astrbot_plugin_supermemory",
@@ -484,18 +496,6 @@
     "version": "v1.3.0",
     "updated_at": "2026-05-27T13:37:33Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_qq_email_verify/main/logo.png"
-  },
-  "astrbot_plugin_yuanbao": {
-    "name": "astrbot_plugin_yuanbao",
-    "display_name": "未审核：腾讯元宝 机器人龙虾的适配插件。 平台适配器",
-    "desc": "腾讯元宝派 机器人的适配插件",
-    "author": "tjc6666666666666",
-    "repo": "https://github.com/tjc6666666666666/astrbot_plugin_yuanbao",
-    "tags": [],
-    "social_link": "",
-    "stars": 0,
-    "version": "v1.0.2",
-    "updated_at": "2026-05-27T12:31:53Z"
   },
   "astrbot_plugin_nsjail": {
     "name": "astrbot_plugin_nsjail",
@@ -1020,7 +1020,7 @@
       "异环"
     ],
     "social_link": "xingyu.ink",
-    "stars": 0,
+    "stars": 1,
     "version": "1.3.0",
     "updated_at": "2026-05-05T01:01:20Z"
   },
