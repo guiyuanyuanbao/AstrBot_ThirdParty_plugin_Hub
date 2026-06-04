@@ -14,7 +14,7 @@
     "social_link": "https://github.com/maolbsMd/astrbot_plugin_smart_silence",
     "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-06-03T12:22:15Z"
+    "updated_at": "2026-06-04T01:24:57Z"
   },
   "astrbot_plugin_meme_api_python": {
     "name": "astrbot_plugin_meme_api_python",
@@ -188,7 +188,7 @@
       "长期记忆"
     ],
     "social_link": "https://github.com/olozhika",
-    "stars": 34,
+    "stars": 35,
     "version": "v1.3.4",
     "updated_at": "2026-05-31T05:41:13Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
