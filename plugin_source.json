@@ -1,4 +1,32 @@
 {
+  "astrbot_plugin_supermemory": {
+    "name": "astrbot_plugin_supermemory",
+    "display_name": "未审核：Supermemory",
+    "desc": "接入 Supermemory，为私聊和群聊提供按会话隔离的长期记忆能力.",
+    "author": "JiaJian",
+    "repo": "https://github.com/wjiajian/astrbot_plugin_supermemory",
+    "tags": [
+      "memory"
+    ],
+    "social_link": "https://github.com/wjiajian",
+    "stars": 0,
+    "version": "0.1.0",
+    "updated_at": "2026-06-04T07:29:03Z"
+  },
+  "astrbot_plugin_hindsight_memory": {
+    "name": "astrbot_plugin_hindsight_memory",
+    "display_name": "未审核：Hindsight Memory",
+    "desc": "接入 Hindsight Cloud，为私聊和群聊提供按会话隔离的长期记忆能力.",
+    "author": "JiaJian",
+    "repo": "https://github.com/wjiajian/astrbot_plugin_hindsight_memory",
+    "tags": [
+      "memory"
+    ],
+    "social_link": "https://github.com/wjiajian",
+    "stars": 0,
+    "version": "0.1.0",
+    "updated_at": "2026-06-04T07:05:55Z"
+  },
   "astrbot_plugin_smart_silence": {
     "name": "astrbot_plugin_smart_silence",
     "display_name": "未审核：智慧沉默控制 Pro",
@@ -34,20 +62,6 @@
     "version": "0.2.7",
     "updated_at": "2026-06-03T10:26:45Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
-  },
-  "astrbot_plugin_hindsight_memory": {
-    "name": "astrbot_plugin_hindsight_memory",
-    "display_name": "未审核：Hindsight Memory",
-    "desc": "接入 Hindsight Cloud，为私聊和群聊提供按会话隔离的长期记忆能力.",
-    "author": "JiaJian",
-    "repo": "https://github.com/wjiajian/astrbot_plugin_hindsight_memory",
-    "tags": [
-      "memory"
-    ],
-    "social_link": "https://github.com/wjiajian",
-    "stars": 0,
-    "version": "0.1.0",
-    "updated_at": "2026-06-03T08:58:34Z"
   },
   "astrbot_plugin_autoissue": {
     "name": "astrbot_plugin_autoissue",
@@ -3470,7 +3484,7 @@
       "好友"
     ],
     "social_link": "https://github.com/204343414",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
     "updated_at": "2026-03-02T09:17:26Z",
     "logo": "https://raw.githubusercontent.com/204343414/astrbot-plugin-HappyBirthday/master/logo.png"
