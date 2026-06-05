@@ -12,8 +12,8 @@
     ],
     "social_link": "https://space.bilibili.com/480131900",
     "stars": 0,
-    "version": "1.0.8",
-    "updated_at": "2026-06-05T15:53:04Z",
+    "version": "1.1.1",
+    "updated_at": "2026-06-05T17:25:16Z",
     "logo": "https://raw.githubusercontent.com/GuHuiHeXiaoDao/astrbot_plugin_df/master/logo.png"
   },
   "astrbot_plugin_supermemory": {
@@ -1199,6 +1199,23 @@
     "version": "v0.2.1",
     "updated_at": "2026-04-24T16:01:44Z"
   },
+  "astrbot_plugin_llmsupport": {
+    "name": "astrbot_plugin_llmsupport",
+    "display_name": "未审核：LLM感知用户打赏",
+    "desc": "对话表示想要支持打赏请客意图时，LLM表示感谢并亮出二维码。",
+    "author": "雷诺哈特",
+    "repo": "https://github.com/Weiss-UltimateSavior/astrbot_plugin_LLMsupport",
+    "tags": [
+      "LLM",
+      "投喂",
+      "打赏",
+      "二维码"
+    ],
+    "social_link": "https://github.com/Weiss-UltimateSavior",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-04-23T13:15:54Z"
+  },
   "astrbot_plugin_monningsignin": {
     "name": "astrbot_plugin_monningsignin",
     "display_name": "未审核：莫宁宁的币",
@@ -1899,6 +1916,24 @@
     "stars": 0,
     "version": "v1.0.1",
     "updated_at": "2026-03-30T12:45:57Z"
+  },
+  "astrbot_plugin_llmjoin": {
+    "name": "astrbot_plugin_llmjoin",
+    "display_name": "未审核：LLM 加群审核",
+    "desc": "使用 LLM 智能审核加群申请的插件",
+    "author": "雷诺哈特",
+    "repo": "https://github.com/Weiss-UltimateSavior/astrbot_plugin_LLMjoin",
+    "tags": [
+      "LLM",
+      "验证",
+      "审核",
+      "加群",
+      "管理"
+    ],
+    "social_link": "https://github.com/Weiss-UltimateSavior",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-03-30T12:11:39Z"
   },
   "astrbot_plugin_qq_interactive_tools": {
     "name": "astrbot_plugin_qq_interactive_tools",
