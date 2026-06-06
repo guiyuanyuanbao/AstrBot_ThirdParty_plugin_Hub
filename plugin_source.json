@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_baidu_curl": {
+    "name": "astrbot_plugin_baidu_curl",
+    "display_name": "未审核：百度网盘cURL下载助手",
+    "desc": "发送百度网盘分享链接，自动转存、提取直链并生成cURL下载命令。支持baidu-autosave转存、OpenList集成、文件自动整理。",
+    "author": "jichie",
+    "repo": "https://github.com/jichie/astrbot_plugin_baidu_curl",
+    "tags": [
+      "百度网盘",
+      "下载",
+      "转存"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v7.1.0",
+    "updated_at": "2026-06-06T13:19:50Z",
+    "logo": "https://raw.githubusercontent.com/jichie/astrbot_plugin_baidu_curl/main/logo.png"
+  },
   "astrbot_plugin_df": {
     "name": "astrbot_plugin_df",
     "display_name": "未审核：矮人要塞攻略查询助手",
@@ -174,22 +191,6 @@
     "stars": 2,
     "version": "v6.8.4",
     "updated_at": "2026-06-02T13:55:58Z"
-  },
-  "astrbot_plugin_baidu_curl": {
-    "name": "astrbot_plugin_baidu_curl",
-    "display_name": "未审核：百度网盘cURL下载助手",
-    "desc": "发送百度网盘分享链接，自动转存、提取直链并生成cURL下载命令。支持baidu-autosave转存、OpenList集成、文件自动整理。",
-    "author": "jichie",
-    "repo": "https://github.com/jichie/astrbot_plugin_baidu_curl",
-    "tags": [
-      "百度网盘",
-      "下载",
-      "转存"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v7.1.0",
-    "updated_at": "2026-06-02T10:51:28Z"
   },
   "astrbot_plugin_bilibili_push": {
     "name": "astrbot_plugin_bilibili_push",
