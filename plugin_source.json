@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_nsjail": {
+    "name": "astrbot_plugin_nsjail",
+    "display_name": "未审核：NsJail 沙箱执行",
+    "desc": "为 AstrBot 提供安全的代码执行环境，专为 LLM Skill 执行设计。🎯 LLM 工具集成 | 🔒 多会话隔离 | 🚀 复用宿主软件 | ⚡ 资源限制 | 💾 跨会话持久化",
+    "author": "ssttkkl",
+    "repo": "https://github.com/ssttkkl/astrbot-plugin-nsjail",
+    "tags": [
+      "沙盒",
+      "代码执行"
+    ],
+    "social_link": "https://github.com/ssttkkl",
+    "stars": 0,
+    "version": "0.1.1",
+    "updated_at": "2026-06-06T06:34:06Z"
+  },
   "astrbot_plugin_df": {
     "name": "astrbot_plugin_df",
     "display_name": "未审核：矮人要塞攻略查询助手",
@@ -13,8 +28,8 @@
     "social_link": "https://space.bilibili.com/480131900",
     "stars": 0,
     "version": "1.1.1",
-    "updated_at": "2026-06-06T02:44:11Z",
-    "logo": "https://raw.githubusercontent.com/GuHuiHeXiaoDao/astrbot_plugin_df/master/logo.png"
+    "updated_at": "2026-06-06T05:31:22Z",
+    "logo": "https://raw.githubusercontent.com/GuHuiHeXiaoDao/astrbot_plugin_df/main/logo.png"
   },
   "astrbot_plugin_supermemory": {
     "name": "astrbot_plugin_supermemory",
@@ -498,21 +513,6 @@
     "version": "v1.3.0",
     "updated_at": "2026-05-27T13:37:33Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_qq_email_verify/main/logo.png"
-  },
-  "astrbot_plugin_nsjail": {
-    "name": "astrbot_plugin_nsjail",
-    "display_name": "未审核：NsJail 沙箱执行",
-    "desc": "为 AstrBot 提供安全的代码执行环境，专为 LLM Skill 执行设计。🎯 LLM 工具集成 | 🔒 多会话隔离 | 🚀 复用宿主软件 | ⚡ 资源限制 | 💾 跨会话持久化",
-    "author": "ssttkkl",
-    "repo": "https://github.com/ssttkkl/astrbot-plugin-nsjail",
-    "tags": [
-      "沙盒",
-      "代码执行"
-    ],
-    "social_link": "https://github.com/ssttkkl",
-    "stars": 0,
-    "version": "0.1.1",
-    "updated_at": "2026-05-27T11:01:31Z"
   },
   "astrbot_plugin_adapter_watchdog": {
     "name": "astrbot_plugin_adapter_watchdog",
