@@ -13,8 +13,25 @@
     "social_link": "https://space.bilibili.com/480131900",
     "stars": 0,
     "version": "1.1.1",
-    "updated_at": "2026-06-07T03:20:22Z",
+    "updated_at": "2026-06-07T07:44:30Z",
     "logo": "https://raw.githubusercontent.com/GuHuiHeXiaoDao/astrbot_plugin_df/main/logo.png"
+  },
+  "astrbot_plugin_baidu_curl": {
+    "name": "astrbot_plugin_baidu_curl",
+    "display_name": "未审核：百度网盘cURL下载助手",
+    "desc": "发送百度网盘分享链接，自动转存、提取直链并生成cURL下载命令。支持baidu-autosave转存、OpenList集成、文件自动整理。",
+    "author": "jichie",
+    "repo": "https://github.com/jichie/astrbot_plugin_baidu_curl",
+    "tags": [
+      "百度网盘",
+      "下载",
+      "转存"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v7.2.0",
+    "updated_at": "2026-06-07T06:46:05Z",
+    "logo": "https://raw.githubusercontent.com/jichie/astrbot_plugin_baidu_curl/main/logo.png"
   },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
@@ -31,7 +48,7 @@
       "WebUI面板"
     ],
     "social_link": "https://github.com/zcj-ui/",
-    "stars": 2,
+    "stars": 3,
     "version": "v2.3.3",
     "updated_at": "2026-06-06T20:15:08Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
@@ -47,23 +64,6 @@
     "stars": 2,
     "version": "v6.9.1",
     "updated_at": "2026-06-06T18:16:21Z"
-  },
-  "astrbot_plugin_baidu_curl": {
-    "name": "astrbot_plugin_baidu_curl",
-    "display_name": "未审核：百度网盘cURL下载助手",
-    "desc": "发送百度网盘分享链接，自动转存、提取直链并生成cURL下载命令。支持baidu-autosave转存、OpenList集成、文件自动整理。",
-    "author": "jichie",
-    "repo": "https://github.com/jichie/astrbot_plugin_baidu_curl",
-    "tags": [
-      "百度网盘",
-      "下载",
-      "转存"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v7.1.0",
-    "updated_at": "2026-06-06T13:19:50Z",
-    "logo": "https://raw.githubusercontent.com/jichie/astrbot_plugin_baidu_curl/main/logo.png"
   },
   "astrbot_plugin_nsjail": {
     "name": "astrbot_plugin_nsjail",
@@ -1458,7 +1458,7 @@
       "open llm vtuber"
     ],
     "social_link": "https://space.bilibili.com/41761329",
-    "stars": 8,
+    "stars": 9,
     "version": "1.0.0",
     "updated_at": "2026-04-13T12:43:09Z",
     "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
