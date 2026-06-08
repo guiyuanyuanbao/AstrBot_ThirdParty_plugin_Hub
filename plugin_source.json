@@ -1,16 +1,4 @@
 {
-  "astrbot_plugin_astrshell": {
-    "name": "astrbot_plugin_astrshell",
-    "display_name": "未审核：AstrShell",
-    "desc": "AstrShell terminal adapter — interact with AstrBot from your zsh prompt",
-    "author": "Nyanifold",
-    "repo": "https://github.com/Nyanifold/astrbot_plugin_astrshell",
-    "tags": [],
-    "social_link": "https://github.com/Nyanifold",
-    "stars": 0,
-    "version": "v0.2.1",
-    "updated_at": "2026-06-08T17:39:27Z"
-  },
   "astrbot_plugin_novel_generator": {
     "name": "astrbot_plugin_novel_generator",
     "display_name": "未审核：小说创作Agent",
@@ -25,8 +13,20 @@
     "social_link": "https://github.com/leafliber",
     "stars": 0,
     "version": "0.2.0",
-    "updated_at": "2026-06-08T17:39:18Z",
+    "updated_at": "2026-06-08T18:00:23Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_novel_generator/main/logo.png"
+  },
+  "astrbot_plugin_astrshell": {
+    "name": "astrbot_plugin_astrshell",
+    "display_name": "未审核：AstrShell",
+    "desc": "AstrShell terminal adapter — interact with AstrBot from your zsh prompt",
+    "author": "Nyanifold",
+    "repo": "https://github.com/Nyanifold/astrbot_plugin_astrshell",
+    "tags": [],
+    "social_link": "https://github.com/Nyanifold",
+    "stars": 0,
+    "version": "v0.2.1",
+    "updated_at": "2026-06-08T17:39:27Z"
   },
   "astrbot_plugin_random_reply": {
     "name": "astrbot_plugin_random_reply",
@@ -56,7 +56,7 @@
       "告状"
     ],
     "social_link": "https://space.bilibili.com/702922307",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
     "updated_at": "2026-06-08T15:22:06Z"
   },
