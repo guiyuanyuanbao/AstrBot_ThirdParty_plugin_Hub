@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_nickname_monitor": {
+    "name": "astrbot_plugin_nickname_monitor",
+    "display_name": "未审核：群昵称更名通报员",
+    "desc": "监听群成员修改群昵称(群名片)事件,并发送播报消息",
+    "author": "若梦",
+    "repo": "https://github.com/xiih/astrbot_plugin_nickname_monitor",
+    "tags": [
+      "改名播报",
+      "群昵称监控"
+    ],
+    "social_link": "https://github.com/xiih/",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-06-08T10:35:28Z",
+    "logo": "https://raw.githubusercontent.com/xiih/astrbot_plugin_nickname_monitor/main/logo.png"
+  },
   "astrbot_plugin_df": {
     "name": "astrbot_plugin_df",
     "display_name": "未审核：矮人要塞攻略查询助手",
@@ -24,7 +40,7 @@
     "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
     "tags": [],
     "social_link": "https://github.com/Ishning",
-    "stars": 0,
+    "stars": 1,
     "version": "v2.4.5",
     "updated_at": "2026-06-07T13:48:11Z",
     "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
