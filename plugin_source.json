@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_helpmenu": {
+    "name": "astrbot_plugin_helpmenu",
+    "display_name": "未审核：HelpMenu",
+    "desc": "为 AstrBot 提供更好的可翻页的帮助菜单，支持文本输出与图片输出，自动监测插件变化并更新。",
+    "author": "Sagiri777",
+    "repo": "https://github.com/Sagiri777/astrbot_plugin_helpmenu",
+    "tags": [
+      "help",
+      "menu"
+    ],
+    "social_link": "https://github.com/Sagiri777",
+    "stars": 0,
+    "version": "v1.0.16",
+    "updated_at": "2026-04-08T02:04:08Z"
+  },
   "astrbot_plugin_astrshell": {
     "name": "astrbot_plugin_astrshell",
     "display_name": "未审核：AstrShell",
@@ -1581,21 +1596,6 @@
     "stars": 1,
     "version": "1.0.16",
     "updated_at": "2026-04-08T07:21:14Z"
-  },
-  "astrbot_plugin_helpmenu": {
-    "name": "astrbot_plugin_helpmenu",
-    "display_name": "未审核：HelpMenu",
-    "desc": "为 AstrBot 提供更好的可翻页的帮助菜单，支持文本输出与图片输出，自动监测插件变化并更新。",
-    "author": "Sagiri777",
-    "repo": "https://github.com/Sagiri777/astrbot_plugin_helpmenu",
-    "tags": [
-      "help",
-      "menu"
-    ],
-    "social_link": "https://github.com/Sagiri777",
-    "stars": 0,
-    "version": "v1.0.16",
-    "updated_at": "2026-04-08T02:04:08Z"
   },
   "astrbot_plugin_vtuber": {
     "name": "astrbot_plugin_vtuber",
