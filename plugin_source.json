@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_astrshell": {
+    "name": "astrbot_plugin_astrshell",
+    "display_name": "未审核：AstrShell",
+    "desc": "AstrShell terminal adapter — interact with AstrBot from your zsh prompt",
+    "author": "Nyanifold",
+    "repo": "https://github.com/Nyanifold/astrbot_plugin_astrshell",
+    "tags": [],
+    "social_link": "https://github.com/Nyanifold",
+    "stars": 0,
+    "version": "v0.2.1",
+    "updated_at": "2026-06-09T13:17:34Z"
+  },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
     "display_name": "未审核：b站bot",
@@ -15,7 +27,7 @@
     "social_link": "",
     "stars": 6,
     "version": "1.1.31",
-    "updated_at": "2026-06-09T12:25:52Z"
+    "updated_at": "2026-06-09T12:50:25Z"
   },
   "astrbot_plugin_novel_generator": {
     "name": "astrbot_plugin_novel_generator",
@@ -33,18 +45,6 @@
     "version": "0.2.0",
     "updated_at": "2026-06-08T18:00:23Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_novel_generator/main/logo.png"
-  },
-  "astrbot_plugin_astrshell": {
-    "name": "astrbot_plugin_astrshell",
-    "display_name": "未审核：AstrShell",
-    "desc": "AstrShell terminal adapter — interact with AstrBot from your zsh prompt",
-    "author": "Nyanifold",
-    "repo": "https://github.com/Nyanifold/astrbot_plugin_astrshell",
-    "tags": [],
-    "social_link": "https://github.com/Nyanifold",
-    "stars": 0,
-    "version": "v0.2.1",
-    "updated_at": "2026-06-08T17:39:27Z"
   },
   "astrbot_plugin_random_reply": {
     "name": "astrbot_plugin_random_reply",
@@ -153,7 +153,7 @@
       "转存"
     ],
     "social_link": "",
-    "stars": 0,
+    "stars": 1,
     "version": "v7.2.0",
     "updated_at": "2026-06-07T12:27:06Z",
     "logo": "https://raw.githubusercontent.com/jichie/astrbot_plugin_baidu_curl/main/logo.png"
@@ -576,23 +576,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-05-27T15:03:35Z",
     "logo": "https://raw.githubusercontent.com/KingPrimes/astrbot_plugin_nyxbot/master/logo.png"
-  },
-  "astrbot_plugin_qq_email_verify": {
-    "name": "astrbot_plugin_qq_email_verify",
-    "display_name": "未审核：入群验证但是邮箱",
-    "desc": "这是一个为 AstrBot 设计的 QQ 群入群验证插件。当新成员加入群聊时，插件会自动向其 QQ 邮箱（QQ号@qq.com）发送包含 6 位数字验证码的邮件。用户需要在规定时间内在群聊中发送正确的验证码以完成验证，否则将被自动移出群聊。",
-    "author": "5060ti个马力的6999",
-    "repo": "https://github.com/HSOS6/astrbot_plugin_qq_email_verify",
-    "tags": [
-      "电子邮件",
-      "QQ群",
-      "入群验证"
-    ],
-    "social_link": "https://github.com/HSOS6",
-    "stars": 4,
-    "version": "v1.3.0",
-    "updated_at": "2026-05-27T13:37:33Z",
-    "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_qq_email_verify/main/logo.png"
   },
   "astrbot_plugin_adapter_watchdog": {
     "name": "astrbot_plugin_adapter_watchdog",
