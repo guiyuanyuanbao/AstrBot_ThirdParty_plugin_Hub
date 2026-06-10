@@ -1,15 +1,15 @@
 {
-  "astrbot_plugin_yuanbao": {
-    "name": "astrbot_plugin_yuanbao",
+  "astrbot_plugin_yuanbao_full": {
+    "name": "astrbot_plugin_yuanbao_full",
     "display_name": "未审核：腾讯元宝 机器人龙虾的适配插件。 平台适配器",
     "desc": "腾讯元宝派 机器人的适配插件",
     "author": "tjc6666666666666",
-    "repo": "https://github.com/tjc6666666666666/astrbot_plugin_yuanbao",
+    "repo": "https://github.com/tjc6666666666666/astrbot_plugin_yuanbao_full",
     "tags": [],
     "social_link": "",
     "stars": 1,
     "version": "v1.0.2",
-    "updated_at": "2026-06-10T13:35:35Z"
+    "updated_at": "2026-06-10T17:13:16Z"
   },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
@@ -2760,21 +2760,6 @@
     "stars": 0,
     "version": "1.0.0",
     "updated_at": "2026-03-17T12:22:53Z"
-  },
-  "astrbot_plugin_hsx-helloworld": {
-    "name": "astrbot_plugin_hsx-helloworld",
-    "display_name": "未审核：hsx哈基米点歌机",
-    "desc": "输入哈基米歌名来点歌，目前只有：\n- `哈基米.wav`\n- `哈基米起床.wav`\n- `蓝莲哈.wav`\n- `跳楼基.wav`",
-    "author": "hsx13",
-    "repo": "https://github.com/HSX42/astrbot_plugin_hsx-helloworld",
-    "tags": [
-      "demo",
-      "哈基米"
-    ],
-    "social_link": "1187601932@qq.com",
-    "stars": 0,
-    "version": "v1.4.0",
-    "updated_at": "2026-03-16T14:40:38Z"
   },
   "astrbot_plugin_steam_free_game": {
     "name": "astrbot_plugin_steam_free_game",
