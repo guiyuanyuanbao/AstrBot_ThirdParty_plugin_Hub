@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_autoissue": {
+    "name": "astrbot_plugin_autoissue",
+    "display_name": "未审核：Autoissue",
+    "desc": "回复合并转发消息并 @机器人 输入 issue，自动利用 LLM 提取内容并在 GitHub 仓库创建 Issue。",
+    "author": "zaixiZaixiSJTU",
+    "repo": "https://github.com/zaixiZaixiSJTU/astrbot_plugin_autoissue",
+    "tags": [
+      "GitHub",
+      "llm"
+    ],
+    "social_link": "https://github.com/zaixiZaixiSJTU",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-06-10T09:42:41Z"
+  },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
     "display_name": "未审核：b站bot",
@@ -336,21 +351,6 @@
     "version": "0.2.7",
     "updated_at": "2026-06-03T10:26:45Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
-  },
-  "astrbot_plugin_autoissue": {
-    "name": "astrbot_plugin_autoissue",
-    "display_name": "未审核：Autoissue",
-    "desc": "回复合并转发消息并 @机器人 输入 issue，自动利用 LLM 提取内容并在 GitHub 仓库创建 Issue。",
-    "author": "zaixiZaixiSJTU",
-    "repo": "https://github.com/zaixiZaixiSJTU/astrbot_plugin_autoissue",
-    "tags": [
-      "GitHub",
-      "llm"
-    ],
-    "social_link": "https://github.com/zaixiZaixiSJTU",
-    "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2026-06-03T07:36:50Z"
   },
   "astrbot_plugin_bilibili_push": {
     "name": "astrbot_plugin_bilibili_push",
