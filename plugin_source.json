@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_orchestrator": {
+    "name": "astrbot_plugin_orchestrator",
+    "display_name": "未审核：全自主智能体编排器",
+    "desc": "基于官方 Agent 体系（tool_loop_agent + FunctionTool + HandoffTool）的全自主编排器：聊天即可搜索/安装插件、创建 Skill、配置 MCP、沙盒执行代码、自我调试与运行 YAML 工作流",
+    "author": "lijiarui",
+    "repo": "https://github.com/Jerry2003826/astrbot_plugin_orchestrator",
+    "tags": [
+      "agent",
+      "orchestrator",
+      "sandbox",
+      "mcp",
+      "workflow"
+    ],
+    "social_link": "",
+    "stars": 2,
+    "version": "4.0.0",
+    "updated_at": "2026-06-11T17:10:59Z"
+  },
   "astrbot_plugin_neko_care": {
     "name": "astrbot_plugin_neko_care",
     "display_name": "未审核：猫娘养成",
@@ -34,24 +52,6 @@
     "version": "0.2.7",
     "updated_at": "2026-06-11T11:22:34Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
-  },
-  "astrbot_plugin_orchestrator": {
-    "name": "astrbot_plugin_orchestrator",
-    "display_name": "未审核：全自主智能体编排器",
-    "desc": "基于官方 Agent 体系（tool_loop_agent + FunctionTool + HandoffTool）的全自主编排器：聊天即可搜索/安装插件、创建 Skill、配置 MCP、沙盒执行代码、自我调试与运行 YAML 工作流",
-    "author": "lijiarui",
-    "repo": "https://github.com/Jerry2003826/astrbot_plugin_orchestrator",
-    "tags": [
-      "agent",
-      "orchestrator",
-      "sandbox",
-      "mcp",
-      "workflow"
-    ],
-    "social_link": "",
-    "stars": 2,
-    "version": "4.0.0",
-    "updated_at": "2026-06-11T10:59:02Z"
   },
   "astrbot_plugin_chatimitate": {
     "name": "astrbot_plugin_chatimitate",
@@ -185,7 +185,7 @@
       "Agent"
     ],
     "social_link": "https://github.com/leafliber",
-    "stars": 0,
+    "stars": 1,
     "version": "0.2.0",
     "updated_at": "2026-06-08T18:00:23Z",
     "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_novel_generator/main/logo.png"
