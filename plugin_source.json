@@ -1,4 +1,58 @@
 {
+  "astrbot_plugin_neko_care": {
+    "name": "astrbot_plugin_neko_care",
+    "display_name": "未审核：猫娘养成",
+    "desc": "猫娘养成 + 签到打工 + 经济系统、喂养互动、排行榜等丰富功能",
+    "author": "若梦",
+    "repo": "https://github.com/xiih/astrbot_plugin_neko_care",
+    "tags": [
+      "猫娘养成",
+      "养成系",
+      "经济系统"
+    ],
+    "social_link": "https://github.com/xiih",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-06-11T12:25:15Z",
+    "logo": "https://raw.githubusercontent.com/xiih/astrbot_plugin_neko_care/main/logo.png"
+  },
+  "astrbot_plugin_meme_api_python": {
+    "name": "astrbot_plugin_meme_api_python",
+    "display_name": "未审核：表情包制作插件api版",
+    "desc": "调用 meme-generator API，提供表情列表、详情、随机表情和制作表情能力。",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_meme_api_python",
+    "tags": [
+      "meme",
+      "api",
+      "表情包",
+      "表情制作",
+      "python"
+    ],
+    "social_link": "https://github.com/xiaoruange39",
+    "stars": 5,
+    "version": "0.2.7",
+    "updated_at": "2026-06-11T11:22:34Z",
+    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
+  },
+  "astrbot_plugin_orchestrator": {
+    "name": "astrbot_plugin_orchestrator",
+    "display_name": "未审核：全自主智能体编排器",
+    "desc": "基于官方 Agent 体系（tool_loop_agent + FunctionTool + HandoffTool）的全自主编排器：聊天即可搜索/安装插件、创建 Skill、配置 MCP、沙盒执行代码、自我调试与运行 YAML 工作流",
+    "author": "lijiarui",
+    "repo": "https://github.com/Jerry2003826/astrbot_plugin_orchestrator",
+    "tags": [
+      "agent",
+      "orchestrator",
+      "sandbox",
+      "mcp",
+      "workflow"
+    ],
+    "social_link": "",
+    "stars": 2,
+    "version": "4.0.0",
+    "updated_at": "2026-06-11T10:59:02Z"
+  },
   "astrbot_plugin_chatimitate": {
     "name": "astrbot_plugin_chatimitate",
     "display_name": "未审核：ChatImitate",
@@ -88,7 +142,7 @@
       "语义记忆"
     ],
     "social_link": "",
-    "stars": 6,
+    "stars": 7,
     "version": "1.1.31",
     "updated_at": "2026-06-10T03:53:39Z"
   },
@@ -380,25 +434,6 @@
     "stars": 1,
     "version": "1.0.0",
     "updated_at": "2026-06-04T01:24:57Z"
-  },
-  "astrbot_plugin_meme_api_python": {
-    "name": "astrbot_plugin_meme_api_python",
-    "display_name": "未审核：表情包制作插件api版",
-    "desc": "调用 meme-generator API，提供表情列表、详情、随机表情和制作表情能力。",
-    "author": "xiaoruange39",
-    "repo": "https://github.com/xiaoruange39/astrbot_plugin_meme_api_python",
-    "tags": [
-      "meme",
-      "api",
-      "表情包",
-      "表情制作",
-      "python"
-    ],
-    "social_link": "https://github.com/xiaoruange39",
-    "stars": 5,
-    "version": "0.2.7",
-    "updated_at": "2026-06-03T10:26:45Z",
-    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
   },
   "astrbot_plugin_bilibili_push": {
     "name": "astrbot_plugin_bilibili_push",
@@ -707,7 +742,7 @@
       "畅销榜"
     ],
     "social_link": "https://github.com/NumInvis",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.0",
     "updated_at": "2026-05-25T08:19:26Z"
   },
