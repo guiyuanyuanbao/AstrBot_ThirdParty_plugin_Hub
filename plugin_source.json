@@ -1,4 +1,22 @@
 {
+  "astrbot_plugin_orchestrator": {
+    "name": "astrbot_plugin_orchestrator",
+    "display_name": "未审核：全自主智能体编排器",
+    "desc": "基于官方 Agent 体系（tool_loop_agent + FunctionTool + HandoffTool）的全自主编排器：聊天即可搜索/安装插件、创建 Skill、配置 MCP、沙盒执行代码、自我调试与运行 YAML 工作流",
+    "author": "lijiarui",
+    "repo": "https://github.com/Jerry2003826/astrbot_plugin_orchestrator",
+    "tags": [
+      "agent",
+      "orchestrator",
+      "sandbox",
+      "mcp",
+      "workflow"
+    ],
+    "social_link": "",
+    "stars": 2,
+    "version": "4.0.0",
+    "updated_at": "2026-06-12T03:27:07Z"
+  },
   "astrbot_plugin_group_wakepro": {
     "name": "astrbot_plugin_group_wakepro",
     "display_name": "未审核：群唤醒增强",
@@ -23,24 +41,6 @@
     "stars": 2,
     "version": "v7.0.1",
     "updated_at": "2026-06-11T20:18:06Z"
-  },
-  "astrbot_plugin_orchestrator": {
-    "name": "astrbot_plugin_orchestrator",
-    "display_name": "未审核：全自主智能体编排器",
-    "desc": "基于官方 Agent 体系（tool_loop_agent + FunctionTool + HandoffTool）的全自主编排器：聊天即可搜索/安装插件、创建 Skill、配置 MCP、沙盒执行代码、自我调试与运行 YAML 工作流",
-    "author": "lijiarui",
-    "repo": "https://github.com/Jerry2003826/astrbot_plugin_orchestrator",
-    "tags": [
-      "agent",
-      "orchestrator",
-      "sandbox",
-      "mcp",
-      "workflow"
-    ],
-    "social_link": "",
-    "stars": 2,
-    "version": "4.0.0",
-    "updated_at": "2026-06-11T17:10:59Z"
   },
   "astrbot_plugin_neko_care": {
     "name": "astrbot_plugin_neko_care",
@@ -101,9 +101,9 @@
     "repo": "https://github.com/siciyuanweilai/astrbot_plugin_daily_share",
     "tags": [
       "拟人",
+      "日常",
       "分享",
-      "定时",
-      "推送"
+      "定时"
     ],
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 43,
