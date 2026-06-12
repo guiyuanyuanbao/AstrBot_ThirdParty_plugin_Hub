@@ -1,4 +1,17 @@
 {
+  "astrbot_plugin_minecraft": {
+    "name": "astrbot_plugin_minecraft",
+    "display_name": "未审核：我的世界",
+    "desc": "我的世界Astrbot简易插件版",
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_minecraft",
+    "tags": [],
+    "social_link": "https://github.com/Zhalslar",
+    "stars": 1,
+    "version": "v0.0.2",
+    "updated_at": "2026-06-12T11:18:57Z",
+    "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_minecraft/main/logo.png"
+  },
   "astrbot_plugin_orchestrator": {
     "name": "astrbot_plugin_orchestrator",
     "display_name": "未审核：全自主智能体编排器",
@@ -668,7 +681,7 @@
       "游戏辅助"
     ],
     "social_link": "https://kingprimes.top",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.0",
     "updated_at": "2026-05-27T15:03:35Z",
     "logo": "https://raw.githubusercontent.com/KingPrimes/astrbot_plugin_nyxbot/master/logo.png"
