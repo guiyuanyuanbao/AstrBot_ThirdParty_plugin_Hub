@@ -1,4 +1,47 @@
 {
+  "astrbot_plugin_group_wakepro": {
+    "name": "astrbot_plugin_group_wakepro",
+    "display_name": "未审核：群唤醒增强",
+    "desc": "为每个群聊配置独立的唤醒规则，支持指令拦截，持续活跃，无艾特的引用拦截等见文档",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/abpl_group_wakepro",
+    "tags": [],
+    "social_link": "https://github.com/landamao",
+    "stars": 2,
+    "version": "v8.9.0",
+    "updated_at": "2026-06-13T18:27:57Z",
+    "logo": "https://raw.githubusercontent.com/landamao/abpl_group_wakepro/main/logo.png"
+  },
+  "astrbot_plugin_smart_imagechat_hub": {
+    "name": "astrbot_plugin_smart_imagechat_hub",
+    "display_name": "未审核：智能图片对话",
+    "desc": "LLM 驱动的一体化图片对话插件。通过多模态语义分析，实现智能斗图、主动表情、表情包分享等多种功能，支持多源导入图库 (上传 & 偷图)。",
+    "author": "青尘工作室",
+    "repo": "https://github.com/JREion/astrbot_plugin_smart_imagechat_hub",
+    "tags": [
+      "图片对话",
+      "图库",
+      "表情包",
+      "webui"
+    ],
+    "social_link": "",
+    "stars": 2,
+    "version": "v2.8.3",
+    "updated_at": "2026-06-13T18:12:56Z",
+    "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
+  },
+  "astrbot_plugin_daily_ai_news": {
+    "name": "astrbot_plugin_daily_ai_news",
+    "display_name": "未审核：每日AI资讯推送",
+    "desc": "订阅橘鸦AI日报并进行AI总结",
+    "author": "xx",
+    "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news",
+    "tags": [],
+    "social_link": "https://github.com/xxofficial",
+    "stars": 12,
+    "version": "1.02",
+    "updated_at": "2026-06-13T18:11:49Z"
+  },
   "astrbot_plugin_discordtoqqtransfer": {
     "name": "astrbot_plugin_discordtoqqtransfer",
     "display_name": "未审核：DiscordToQQTransfer",
@@ -69,24 +112,6 @@
     "updated_at": "2026-06-13T10:04:22Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
-  "astrbot_plugin_smart_imagechat_hub": {
-    "name": "astrbot_plugin_smart_imagechat_hub",
-    "display_name": "未审核：智能图片对话",
-    "desc": "LLM 驱动的一体化图片对话插件。通过多模态语义分析，实现智能斗图、主动表情、表情包分享等多种功能，支持多源导入图库 (上传 & 偷图)。",
-    "author": "青尘工作室",
-    "repo": "https://github.com/JREion/astrbot_plugin_smart_imagechat_hub",
-    "tags": [
-      "图片对话",
-      "图库",
-      "表情包",
-      "webui"
-    ],
-    "social_link": "",
-    "stars": 2,
-    "version": "v2.8.2",
-    "updated_at": "2026-06-13T08:20:08Z",
-    "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
-  },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
     "display_name": "未审核：b站bot",
@@ -121,18 +146,6 @@
     "version": "1.1.0",
     "updated_at": "2026-06-13T02:51:49Z",
     "logo": "https://raw.githubusercontent.com/xiih/astrbot_plugin_neko_care/main/logo.png"
-  },
-  "astrbot_plugin_daily_ai_news": {
-    "name": "astrbot_plugin_daily_ai_news",
-    "display_name": "未审核：每日AI资讯推送",
-    "desc": "订阅橘鸦AI日报并进行AI总结",
-    "author": "xx",
-    "repo": "https://github.com/xxofficial/astrbot_plugin_daily_ai_news",
-    "tags": [],
-    "social_link": "https://github.com/xxofficial",
-    "stars": 12,
-    "version": "1.01",
-    "updated_at": "2026-06-12T18:26:06Z"
   },
   "hermes": {
     "name": "hermes",
@@ -188,19 +201,6 @@
     "stars": 2,
     "version": "4.0.0",
     "updated_at": "2026-06-12T04:20:16Z"
-  },
-  "astrbot_plugin_group_wakepro": {
-    "name": "astrbot_plugin_group_wakepro",
-    "display_name": "未审核：群唤醒增强",
-    "desc": "为每个群聊配置独立的唤醒规则，支持指令拦截，持续活跃，无艾特的引用拦截等见文档",
-    "author": "懒大猫",
-    "repo": "https://github.com/landamao/abpl_group_wakepro",
-    "tags": [],
-    "social_link": "https://github.com/landamao",
-    "stars": 2,
-    "version": "v8.9.0",
-    "updated_at": "2026-06-11T21:46:07Z",
-    "logo": "https://raw.githubusercontent.com/landamao/abpl_group_wakepro/main/logo.png"
   },
   "astrbot_plugin_meme_api_python": {
     "name": "astrbot_plugin_meme_api_python",
