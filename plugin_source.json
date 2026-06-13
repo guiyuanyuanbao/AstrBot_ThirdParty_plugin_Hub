@@ -1,4 +1,36 @@
 {
+  "astrbot_plugin_discordtoqqtransfer": {
+    "name": "astrbot_plugin_discordtoqqtransfer",
+    "display_name": "未审核：DiscordToQQTransfer",
+    "desc": "一个用于在discord与qq之间转发与同步消息的 AstrBot 插件。",
+    "author": "mmyddd",
+    "repo": "https://github.com/mmyddd/astrbot_plugin_DiscordToQQTransfer",
+    "tags": [
+      "Discord",
+      "·消息转发"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-06-13T14:35:21Z",
+    "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
+  },
+  "astrbot_plugin_rate_limit": {
+    "name": "astrbot_plugin_rate_limit",
+    "display_name": "未审核：LLM 频率限制",
+    "desc": "限制用户及群组请求 LLM 的频率，防止滥用。支持个人限频、群限频、白名单，滑动窗口算法，WebUI 可视化配置，管理员指令动态调整。",
+    "author": "Antigravity&15515151",
+    "repo": "https://github.com/15515151/astrbot_plugin_rate_limit",
+    "tags": [
+      "频率限制",
+      "限流",
+      "管理"
+    ],
+    "social_link": "https://github.com/15515151",
+    "stars": 0,
+    "version": "1.2.2",
+    "updated_at": "2026-06-13T13:03:38Z"
+  },
   "astrbot_plugin_baidu_curl": {
     "name": "astrbot_plugin_baidu_curl",
     "display_name": "未审核：百度网盘cURL下载助手",
@@ -545,22 +577,6 @@
     "stars": 1,
     "version": "0.5.4",
     "updated_at": "2026-05-31T14:15:52Z"
-  },
-  "astrbot_plugin_discordtoqqtransfer": {
-    "name": "astrbot_plugin_discordtoqqtransfer",
-    "display_name": "未审核：DiscordToQQTransfer",
-    "desc": "一个用于在discord与qq之间转发与同步消息的 AstrBot 插件。",
-    "author": "mmyddd",
-    "repo": "https://github.com/mmyddd/astrbot_plugin_DiscordToQQTransfer",
-    "tags": [
-      "Discord",
-      "·消息转发"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-05-30T08:58:49Z",
-    "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
   },
   "astrbot_plugin_xjj": {
     "name": "astrbot_plugin_xjj",
@@ -1277,22 +1293,6 @@
     "stars": 0,
     "version": "0.9.7",
     "updated_at": "2026-04-28T11:10:52Z"
-  },
-  "astrbot_plugin_rate_limit": {
-    "name": "astrbot_plugin_rate_limit",
-    "display_name": "未审核：LLM 频率限制",
-    "desc": "限制用户及群组请求 LLM 的频率，防止滥用。支持个人限频、群限频、白名单，滑动窗口算法，WebUI 可视化配置，管理员指令动态调整。",
-    "author": "Antigravity&15515151",
-    "repo": "https://github.com/15515151/astrbot_plugin_rate_limit",
-    "tags": [
-      "频率限制",
-      "限流",
-      "管理"
-    ],
-    "social_link": "https://github.com/15515151",
-    "stars": 0,
-    "version": "1.2.1",
-    "updated_at": "2026-04-28T08:13:00Z"
   },
   "astrbot_qq_to_local": {
     "name": "astrbot_qq_to_local",
