@@ -1,4 +1,61 @@
 {
+  "astrbot_plugin_local_reminiscence": {
+    "name": "astrbot_plugin_local_reminiscence",
+    "display_name": "未审核：本地回忆[APLR]",
+    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
+    "author": "olozhika",
+    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
+    "tags": [
+      "记忆",
+      "回忆",
+      "每日总结",
+      "语义识别",
+      "关键词",
+      "上下文注入",
+      "长期记忆"
+    ],
+    "social_link": "https://github.com/olozhika",
+    "stars": 36,
+    "version": "v1.3.4",
+    "updated_at": "2026-06-13T10:04:22Z",
+    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
+  },
+  "astrbot_plugin_smart_imagechat_hub": {
+    "name": "astrbot_plugin_smart_imagechat_hub",
+    "display_name": "未审核：智能图片对话",
+    "desc": "LLM 驱动的一体化图片对话插件。通过多模态语义分析，实现智能斗图、主动表情、表情包分享等多种功能，支持多源导入图库 (上传 & 偷图)。",
+    "author": "青尘工作室",
+    "repo": "https://github.com/JREion/astrbot_plugin_smart_imagechat_hub",
+    "tags": [
+      "图片对话",
+      "图库",
+      "表情包",
+      "webui"
+    ],
+    "social_link": "",
+    "stars": 2,
+    "version": "v2.8.2",
+    "updated_at": "2026-06-13T08:20:08Z",
+    "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
+  },
+  "astrbot_plugin_bilibili_ai_bot": {
+    "name": "astrbot_plugin_bilibili_ai_bot",
+    "display_name": "未审核：b站bot",
+    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
+    "author": "chenluQwQ,claude",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
+    "tags": [
+      "bilibili",
+      "B站",
+      "评论回复",
+      "主动交互",
+      "语义记忆"
+    ],
+    "social_link": "",
+    "stars": 7,
+    "version": "1.2.0",
+    "updated_at": "2026-06-13T08:05:23Z"
+  },
   "astrbot_plugin_neko_care": {
     "name": "astrbot_plugin_neko_care",
     "display_name": "未审核：猫娘养成",
@@ -189,24 +246,6 @@
     "stars": 1,
     "version": "1.0.0",
     "updated_at": "2026-06-10T11:03:31Z"
-  },
-  "astrbot_plugin_bilibili_ai_bot": {
-    "name": "astrbot_plugin_bilibili_ai_bot",
-    "display_name": "未审核：b站bot",
-    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
-    "author": "chenluQwQ,claude",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
-    "tags": [
-      "bilibili",
-      "B站",
-      "评论回复",
-      "主动交互",
-      "语义记忆"
-    ],
-    "social_link": "",
-    "stars": 7,
-    "version": "1.1.31",
-    "updated_at": "2026-06-10T03:53:39Z"
   },
   "astrbot_plugin_helpmenu": {
     "name": "astrbot_plugin_helpmenu",
@@ -429,27 +468,6 @@
     "updated_at": "2026-06-05T05:02:40Z",
     "logo": "https://raw.githubusercontent.com/wjiajian/astrbot_plugin_hindsight_memory/main/logo.png"
   },
-  "astrbot_plugin_local_reminiscence": {
-    "name": "astrbot_plugin_local_reminiscence",
-    "display_name": "未审核：本地回忆[APLR]",
-    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
-    "author": "olozhika",
-    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
-    "tags": [
-      "记忆",
-      "回忆",
-      "每日总结",
-      "语义识别",
-      "关键词",
-      "上下文注入",
-      "长期记忆"
-    ],
-    "social_link": "https://github.com/olozhika",
-    "stars": 36,
-    "version": "v1.3.4",
-    "updated_at": "2026-06-05T02:22:41Z",
-    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
-  },
   "astrbot_plugin_meme_manufacturer": {
     "name": "astrbot_plugin_meme_manufacturer",
     "display_name": "未审核：表情包制造厂",
@@ -527,24 +545,6 @@
     "stars": 1,
     "version": "0.5.4",
     "updated_at": "2026-05-31T14:15:52Z"
-  },
-  "astrbot_plugin_smart_imagechat_hub": {
-    "name": "astrbot_plugin_smart_imagechat_hub",
-    "display_name": "未审核：智能图片对话",
-    "desc": "LLM 驱动的一体化图片对话插件。通过多模态语义分析，实现智能斗图、主动表情、表情包分享等多种功能，支持多源导入图库 (上传 & 偷图)。",
-    "author": "青尘工作室",
-    "repo": "https://github.com/JREion/astrbot_plugin_smart_imagechat_hub",
-    "tags": [
-      "图片对话",
-      "图库",
-      "表情包",
-      "webui"
-    ],
-    "social_link": "",
-    "stars": 2,
-    "version": "v2.8.0",
-    "updated_at": "2026-05-30T15:39:06Z",
-    "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
   },
   "astrbot_plugin_discordtoqqtransfer": {
     "name": "astrbot_plugin_discordtoqqtransfer",
@@ -2124,18 +2124,6 @@
     "stars": 0,
     "version": "v1.0.9",
     "updated_at": "2026-03-29T06:49:49Z"
-  },
-  "astrbot_plugin_analysis_bilibili": {
-    "name": "astrbot_plugin_analysis_bilibili",
-    "display_name": "未审核：B站视频解析简易版",
-    "desc": "会发送视频的点赞和收藏等基本信息.然后根据设置的阈值判断发送封面,还是发送视频.",
-    "author": "Furina",
-    "repo": "https://github.com/Furina010013/astrbot_plugin_analysis_bilibili",
-    "tags": [],
-    "social_link": "https://homeofmjr.top/",
-    "stars": 0,
-    "version": "1.2.0",
-    "updated_at": "2026-03-28T04:33:19Z"
   },
   "astrbot_plugin_tencent_cloud_controller": {
     "name": "astrbot_plugin_tencent_cloud_controller",
