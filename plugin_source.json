@@ -1,4 +1,40 @@
 {
+  "astrbot_plugin_local_reminiscence": {
+    "name": "astrbot_plugin_local_reminiscence",
+    "display_name": "未审核：本地回忆[APLR]",
+    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
+    "author": "olozhika",
+    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
+    "tags": [
+      "记忆",
+      "回忆",
+      "每日总结",
+      "语义识别",
+      "关键词",
+      "上下文注入",
+      "长期记忆"
+    ],
+    "social_link": "https://github.com/olozhika",
+    "stars": 36,
+    "version": "v1.3.4",
+    "updated_at": "2026-06-14T11:40:15Z",
+    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
+  },
+  "astrbot_plugin_autoissue": {
+    "name": "astrbot_plugin_autoissue",
+    "display_name": "未审核：Autoissue",
+    "desc": "回复合并转发消息并 @机器人 输入 issue，自动利用 LLM 提取内容并在 GitHub 仓库创建 Issue。",
+    "author": "zaixiZaixiSJTU",
+    "repo": "https://github.com/zaixiZaixiSJTU/astrbot_plugin_autoissue",
+    "tags": [
+      "GitHub",
+      "llm"
+    ],
+    "social_link": "https://github.com/zaixiZaixiSJTU",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-06-14T11:08:38Z"
+  },
   "astrbot_plugin_neko_care": {
     "name": "astrbot_plugin_neko_care",
     "display_name": "未审核：猫娘养成",
@@ -107,27 +143,6 @@
     "version": "v7.2.0",
     "updated_at": "2026-06-13T12:05:25Z",
     "logo": "https://raw.githubusercontent.com/jichie/astrbot_plugin_baidu_curl/main/logo.png"
-  },
-  "astrbot_plugin_local_reminiscence": {
-    "name": "astrbot_plugin_local_reminiscence",
-    "display_name": "未审核：本地回忆[APLR]",
-    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
-    "author": "olozhika",
-    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
-    "tags": [
-      "记忆",
-      "回忆",
-      "每日总结",
-      "语义识别",
-      "关键词",
-      "上下文注入",
-      "长期记忆"
-    ],
-    "social_link": "https://github.com/olozhika",
-    "stars": 36,
-    "version": "v1.3.4",
-    "updated_at": "2026-06-13T10:04:22Z",
-    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
@@ -280,21 +295,6 @@
     "stars": 0,
     "version": "v2.1.0",
     "updated_at": "2026-06-10T11:34:09Z"
-  },
-  "astrbot_plugin_autoissue": {
-    "name": "astrbot_plugin_autoissue",
-    "display_name": "未审核：Autoissue",
-    "desc": "回复合并转发消息并 @机器人 输入 issue，自动利用 LLM 提取内容并在 GitHub 仓库创建 Issue。",
-    "author": "zaixiZaixiSJTU",
-    "repo": "https://github.com/zaixiZaixiSJTU/astrbot_plugin_autoissue",
-    "tags": [
-      "GitHub",
-      "llm"
-    ],
-    "social_link": "https://github.com/zaixiZaixiSJTU",
-    "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2026-06-10T11:03:31Z"
   },
   "astrbot_plugin_helpmenu": {
     "name": "astrbot_plugin_helpmenu",
