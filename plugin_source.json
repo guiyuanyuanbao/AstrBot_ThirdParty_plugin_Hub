@@ -1,4 +1,32 @@
 {
+  "astrbot_plugin_parserurl": {
+    "name": "astrbot_plugin_parserurl",
+    "display_name": "未审核：社交媒体链接自动解析插件",
+    "desc": "社交媒体分享链接解析插件。将A站、B站、抖音、小红书、微博...等网站的视频、图集、音频进行解析并发送",
+    "author": "Ishning",
+    "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
+    "tags": [],
+    "social_link": "https://github.com/Ishning",
+    "stars": 2,
+    "version": "v2.4.6",
+    "updated_at": "2026-06-15T09:54:41Z",
+    "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
+  },
+  "astrbot_plugin_chatimitate": {
+    "name": "astrbot_plugin_chatimitate",
+    "display_name": "未审核：ChatImitate",
+    "desc": "这是一个 Astrbot 插件，旨在让 bot 从群聊记录中学习和模仿人类聊天，而不是使用AI生成内容",
+    "author": "EightEggs",
+    "repo": "https://github.com/EightEggs/astrbot_plugin_chatimitate",
+    "tags": [
+      "群聊学习"
+    ],
+    "social_link": "https://github.com/EightEggs",
+    "stars": 2,
+    "version": "v3.4.1",
+    "updated_at": "2026-06-15T08:46:47Z",
+    "logo": "https://raw.githubusercontent.com/EightEggs/astrbot_plugin_chatimitate/master/logo.png"
+  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -47,7 +75,7 @@
       "经济系统"
     ],
     "social_link": "https://github.com/xiih",
-    "stars": 2,
+    "stars": 3,
     "version": "1.4.6",
     "updated_at": "2026-06-14T01:19:31Z",
     "logo": "https://raw.githubusercontent.com/xiih/astrbot_plugin_neko_care/main/logo.png"
@@ -236,21 +264,6 @@
     "updated_at": "2026-06-11T11:22:34Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
   },
-  "astrbot_plugin_chatimitate": {
-    "name": "astrbot_plugin_chatimitate",
-    "display_name": "未审核：ChatImitate",
-    "desc": "这是一个 Astrbot 插件，旨在让 bot 从群聊记录中学习和模仿人类聊天，而不是使用AI生成内容",
-    "author": "EightEggs",
-    "repo": "https://github.com/EightEggs/astrbot_plugin_chatimitate",
-    "tags": [
-      "群聊学习"
-    ],
-    "social_link": "https://github.com/EightEggs",
-    "stars": 2,
-    "version": "v3.3.0",
-    "updated_at": "2026-06-11T10:01:24Z",
-    "logo": "https://raw.githubusercontent.com/EightEggs/astrbot_plugin_chatimitate/master/logo.png"
-  },
   "astrbot_plugin_daily_share": {
     "name": "astrbot_plugin_daily_share",
     "display_name": "未审核：愿此见闻温柔你的日常",
@@ -421,19 +434,6 @@
     "version": "1.1.1",
     "updated_at": "2026-06-07T15:41:53Z",
     "logo": "https://raw.githubusercontent.com/GuHuiHeXiaoDao/astrbot_plugin_df/main/logo.png"
-  },
-  "astrbot_plugin_parserurl": {
-    "name": "astrbot_plugin_parserurl",
-    "display_name": "未审核：社交媒体链接自动解析插件",
-    "desc": "社交媒体分享链接解析插件。将A站、B站、抖音、小红书、微博...等网站的视频、图集、音频进行解析并发送",
-    "author": "Ishning",
-    "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
-    "tags": [],
-    "social_link": "https://github.com/Ishning",
-    "stars": 2,
-    "version": "v2.4.5",
-    "updated_at": "2026-06-07T13:48:11Z",
-    "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
   },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
