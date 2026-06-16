@@ -9,7 +9,7 @@
     "social_link": "https://github.com/Ishning",
     "stars": 2,
     "version": "v2.4.6",
-    "updated_at": "2026-06-15T09:54:41Z",
+    "updated_at": "2026-06-16T04:29:00Z",
     "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
   },
   "astrbot_plugin_chatimitate": {
@@ -3755,7 +3755,7 @@
       "Grok"
     ],
     "social_link": "default.cn@qq.com",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.0.8",
     "updated_at": "2026-02-26T12:08:51Z"
   },
