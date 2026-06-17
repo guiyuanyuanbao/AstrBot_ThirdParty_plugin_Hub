@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_chatimitate": {
+    "name": "astrbot_plugin_chatimitate",
+    "display_name": "未审核：ChatImitate",
+    "desc": "这是一个 Astrbot 插件，旨在让 bot 从群聊记录中学习和模仿人类聊天，而不是使用AI生成内容",
+    "author": "EightEggs",
+    "repo": "https://github.com/EightEggs/astrbot_plugin_chatimitate",
+    "tags": [
+      "群聊学习"
+    ],
+    "social_link": "https://github.com/EightEggs",
+    "stars": 2,
+    "version": "v3.4.2",
+    "updated_at": "2026-06-17T05:18:38Z",
+    "logo": "https://raw.githubusercontent.com/EightEggs/astrbot_plugin_chatimitate/master/logo.png"
+  },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
     "display_name": "未审核：社交媒体链接自动解析插件",
@@ -11,21 +26,6 @@
     "version": "v2.4.6",
     "updated_at": "2026-06-16T04:29:00Z",
     "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
-  },
-  "astrbot_plugin_chatimitate": {
-    "name": "astrbot_plugin_chatimitate",
-    "display_name": "未审核：ChatImitate",
-    "desc": "这是一个 Astrbot 插件，旨在让 bot 从群聊记录中学习和模仿人类聊天，而不是使用AI生成内容",
-    "author": "EightEggs",
-    "repo": "https://github.com/EightEggs/astrbot_plugin_chatimitate",
-    "tags": [
-      "群聊学习"
-    ],
-    "social_link": "https://github.com/EightEggs",
-    "stars": 2,
-    "version": "v3.4.1",
-    "updated_at": "2026-06-15T08:46:47Z",
-    "logo": "https://raw.githubusercontent.com/EightEggs/astrbot_plugin_chatimitate/master/logo.png"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
@@ -154,23 +154,6 @@
     "stars": 0,
     "version": "1.2.2",
     "updated_at": "2026-06-13T13:03:38Z"
-  },
-  "astrbot_plugin_baidu_curl": {
-    "name": "astrbot_plugin_baidu_curl",
-    "display_name": "未审核：百度网盘cURL下载助手",
-    "desc": "发送百度网盘分享链接，自动转存、提取直链并生成cURL下载命令。支持baidu-autosave转存、OpenList集成、文件自动整理。",
-    "author": "jichie",
-    "repo": "https://github.com/jichie/astrbot_plugin_baidu_curl",
-    "tags": [
-      "百度网盘",
-      "下载",
-      "转存"
-    ],
-    "social_link": "",
-    "stars": 2,
-    "version": "v7.2.0",
-    "updated_at": "2026-06-13T12:05:25Z",
-    "logo": "https://raw.githubusercontent.com/jichie/astrbot_plugin_baidu_curl/main/logo.png"
   },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
@@ -2907,7 +2890,7 @@
       "互动"
     ],
     "social_link": "https://github.com/NanoRocky/",
-    "stars": 3,
+    "stars": 4,
     "version": "v3.1.0",
     "updated_at": "2026-03-15T14:13:14Z"
   },
