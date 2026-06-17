@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_moshen_query": {
+    "name": "astrbot_plugin_moshen_query",
+    "display_name": "未审核：astrbot_plugin_moshen_query",
+    "desc": "",
+    "author": "sakikosunchaser",
+    "repo": "https://github.com/sakikosunchaser/astrbot_plugin_moshen_query.git",
+    "tags": [],
+    "social_link": "https://github.com/sakikosunchaser",
+    "stars": 0,
+    "version": "v1.1.0",
+    "updated_at": "2026-06-17T12:27:58Z"
+  },
   "astrbot_plugin_chatimitate": {
     "name": "astrbot_plugin_chatimitate",
     "display_name": "未审核：ChatImitate",
@@ -623,18 +635,6 @@
     "version": "v3.0.2",
     "updated_at": "2026-05-29T07:18:47Z",
     "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
-  },
-  "astrbot_plugin_moshen_query": {
-    "name": "astrbot_plugin_moshen_query",
-    "display_name": "未审核：astrbot_plugin_moshen_query",
-    "desc": "",
-    "author": "sakikosunchaser",
-    "repo": "https://github.com/sakikosunchaser/astrbot_plugin_moshen_query.git",
-    "tags": [],
-    "social_link": "https://github.com/sakikosunchaser",
-    "stars": 0,
-    "version": "v1.1.0",
-    "updated_at": "2026-05-28T15:38:42Z"
   },
   "astrbot_plugin_image_anti_rc": {
     "name": "astrbot_plugin_image_anti_rc",
