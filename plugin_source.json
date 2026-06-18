@@ -1,4 +1,39 @@
 {
+  "astrbot_plugin_devkit": {
+    "name": "astrbot_plugin_devkit",
+    "display_name": "未审核：AstrBot 插件开发工具链",
+    "desc": "AstrBot 插件脚手架、规范校验、构建发布一站式工具",
+    "author": "小红蛋",
+    "repo": "https://github.com/NekoAiDev/astrbot-plugin-devkit",
+    "tags": [
+      "工具",
+      "CLI",
+      "开发者"
+    ],
+    "social_link": "nekoaidev.top",
+    "stars": 0,
+    "version": "v0.0.0",
+    "updated_at": "2026-06-18T14:29:20Z"
+  },
+  "astrbot_plugin_meme_api_python": {
+    "name": "astrbot_plugin_meme_api_python",
+    "display_name": "未审核：表情包制作插件api版",
+    "desc": "调用 meme-generator API，提供表情列表、详情、随机表情和制作表情能力。",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_meme_api_python",
+    "tags": [
+      "meme",
+      "api",
+      "表情包",
+      "表情制作",
+      "python"
+    ],
+    "social_link": "https://github.com/xiaoruange39",
+    "stars": 5,
+    "version": "0.2.7",
+    "updated_at": "2026-06-18T14:20:20Z",
+    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
+  },
   "astrbot_plugin_coding_plan_chat": {
     "name": "astrbot_plugin_coding_plan_chat",
     "display_name": "未审核：千帆对话",
@@ -287,25 +322,6 @@
     "stars": 2,
     "version": "4.0.0",
     "updated_at": "2026-06-12T04:20:16Z"
-  },
-  "astrbot_plugin_meme_api_python": {
-    "name": "astrbot_plugin_meme_api_python",
-    "display_name": "未审核：表情包制作插件api版",
-    "desc": "调用 meme-generator API，提供表情列表、详情、随机表情和制作表情能力。",
-    "author": "xiaoruange39",
-    "repo": "https://github.com/xiaoruange39/astrbot_plugin_meme_api_python",
-    "tags": [
-      "meme",
-      "api",
-      "表情包",
-      "表情制作",
-      "python"
-    ],
-    "social_link": "https://github.com/xiaoruange39",
-    "stars": 5,
-    "version": "0.2.7",
-    "updated_at": "2026-06-11T11:22:34Z",
-    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
   },
   "astrbot_plugin_daily_share": {
     "name": "astrbot_plugin_daily_share",
