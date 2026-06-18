@@ -1,4 +1,52 @@
 {
+  "astrbot_plugin_coding_plan_chat": {
+    "name": "astrbot_plugin_coding_plan_chat",
+    "display_name": "未审核：千帆对话",
+    "desc": "百度千帆 Coding Plan 对话插件，可全局接替 AstrBot 自带 LLM",
+    "author": "月凌镜像体",
+    "repo": "https://github.com/oujunhaoyueling/astrbot_plugin_coding_plan_chat",
+    "tags": [
+      "chat",
+      "vibe coding"
+    ],
+    "social_link": "https://github.com/oujunhaoyueling",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-06-18T11:38:01Z"
+  },
+  "astrbot_plugin_self_open_llm_vtuber": {
+    "name": "astrbot_plugin_self_open_llm_vtuber",
+    "display_name": "未审核：Alice的桌面分身",
+    "desc": "让你的bot在桌面或者web可以看到你、看到你在干什么、开口说话并实时做表情动作，支持语音输入、语音打断与互动联动。",
+    "author": "YakumoAki",
+    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
+    "tags": [
+      "live2d",
+      "皮套",
+      "open llm vtuber"
+    ],
+    "social_link": "https://space.bilibili.com/41761329",
+    "stars": 10,
+    "version": "1.0.0",
+    "updated_at": "2026-06-18T11:37:56Z",
+    "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
+  },
+  "astrbot_plugin_permission": {
+    "name": "astrbot_plugin_permission",
+    "display_name": "未审核：AstrBot 权限管理插件",
+    "desc": "权限管理插件，管理你的权限！具体请看readme",
+    "author": "月凌",
+    "repo": "https://github.com/oujunhaoyueling/astrbot_plugin_permission",
+    "tags": [
+      "权限",
+      "管理",
+      "授权"
+    ],
+    "social_link": "https://github.com/oujunhaoyueling",
+    "stars": 0,
+    "version": "1.3.1",
+    "updated_at": "2026-06-18T11:34:26Z"
+  },
   "astrbot_plugin_moshen_query": {
     "name": "astrbot_plugin_moshen_query",
     "display_name": "未审核：astrbot_plugin_moshen_query",
@@ -1579,23 +1627,6 @@
     "version": "v0.3.0",
     "updated_at": "2026-04-14T06:13:44Z"
   },
-  "astrbot_plugin_self_open_llm_vtuber": {
-    "name": "astrbot_plugin_self_open_llm_vtuber",
-    "display_name": "未审核：Alice的桌面分身",
-    "desc": "让你的bot在桌面或者web可以看到你、看到你在干什么、开口说话并实时做表情动作，支持语音输入、语音打断与互动联动。",
-    "author": "YakumoAki",
-    "repo": "https://github.com/murphys7017/astrbot_plugin_self_open_llm_vtuber",
-    "tags": [
-      "live2d",
-      "皮套",
-      "open llm vtuber"
-    ],
-    "social_link": "https://space.bilibili.com/41761329",
-    "stars": 10,
-    "version": "1.0.0",
-    "updated_at": "2026-04-13T12:43:09Z",
-    "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
-  },
   "astrbot_plugin_minecraft_multi_monitor": {
     "name": "astrbot_plugin_minecraft_multi_monitor",
     "display_name": "未审核：Minecraft 多服务器监控",
@@ -2154,21 +2185,6 @@
     "version": "v1.0.8",
     "updated_at": "2026-03-27T15:36:01Z",
     "logo": "https://raw.githubusercontent.com/XingYunStar/astrbot_plugin_group_invite_auto_approve/master/logo.png"
-  },
-  "astrbot_plugin_coding_plan_chat": {
-    "name": "astrbot_plugin_coding_plan_chat",
-    "display_name": "未审核：千帆对话",
-    "desc": "百度千帆 Coding Plan 对话插件，可全局接替 AstrBot 自带 LLM",
-    "author": "月凌镜像体",
-    "repo": "https://github.com/oujunhaoyueling/astrbot_plugin_coding_plan_chat",
-    "tags": [
-      "chat",
-      "vibe coding"
-    ],
-    "social_link": "https://github.com/oujunhaoyueling",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-26T15:24:10Z"
   },
   "astrbot_plugin_wechat_auth": {
     "name": "astrbot_plugin_wechat_auth",
@@ -3818,22 +3834,6 @@
     "stars": 1,
     "version": "1.0.0",
     "updated_at": "2026-02-24T12:47:34Z"
-  },
-  "astrbot_plugin_permission": {
-    "name": "astrbot_plugin_permission",
-    "display_name": "未审核：AstrBot 权限管理插件",
-    "desc": "权限管理插件，管理你的权限！具体请看readme",
-    "author": "月凌",
-    "repo": "https://github.com/oujunhaoyueling/astrbot_plugin_permission",
-    "tags": [
-      "权限",
-      "管理",
-      "授权"
-    ],
-    "social_link": "https://github.com/oujunhaoyueling",
-    "stars": 0,
-    "version": "1.3.0",
-    "updated_at": "2026-02-24T12:21:00Z"
   },
   "astrbot_plugin_guess_song": {
     "name": "astrbot_plugin_guess_song",
