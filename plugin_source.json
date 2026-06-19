@@ -1,4 +1,83 @@
 {
+  "hermes": {
+    "name": "hermes",
+    "display_name": "未审核：Hermes适配器",
+    "desc": "Hermes Agent 适配器 (WebSocket 版本) - 实现 AstrBot 与 Hermes 的双向通信",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/abpl_hermes_spq",
+    "tags": [],
+    "social_link": "https://github.com/landamao",
+    "stars": 2,
+    "version": "v7.1.0",
+    "updated_at": "2026-06-19T14:48:34Z"
+  },
+  "astrbot_plugin_bilibili_ai_bot": {
+    "name": "astrbot_plugin_bilibili_ai_bot",
+    "display_name": "未审核：b站bot",
+    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
+    "author": "chenluQwQ,claude",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
+    "tags": [
+      "bilibili",
+      "B站",
+      "评论回复",
+      "主动交互",
+      "语义记忆"
+    ],
+    "social_link": "",
+    "stars": 11,
+    "version": "1.2.0",
+    "updated_at": "2026-06-19T14:15:53Z"
+  },
+  "astrbot_plugin_parserurl": {
+    "name": "astrbot_plugin_parserurl",
+    "display_name": "未审核：社交媒体链接自动解析插件",
+    "desc": "社交媒体分享链接解析插件。将A站、B站、抖音、小红书、微博...等网站的视频、图集、音频进行解析并发送",
+    "author": "Ishning",
+    "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
+    "tags": [],
+    "social_link": "https://github.com/Ishning",
+    "stars": 2,
+    "version": "v2.5.0",
+    "updated_at": "2026-06-19T13:22:58Z",
+    "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
+  },
+  "astrbot_plugin_neko_care": {
+    "name": "astrbot_plugin_neko_care",
+    "display_name": "未审核：猫娘养成",
+    "desc": "猫娘养成 + 签到打工 + 经济系统、喂养互动、排行榜等丰富功能",
+    "author": "若梦",
+    "repo": "https://github.com/xiih/astrbot_plugin_neko_care",
+    "tags": [
+      "猫娘养成",
+      "养成系",
+      "经济系统"
+    ],
+    "social_link": "https://github.com/xiih",
+    "stars": 3,
+    "version": "1.5.3",
+    "updated_at": "2026-06-19T13:09:35Z",
+    "logo": "https://raw.githubusercontent.com/xiih/astrbot_plugin_neko_care/main/logo.png"
+  },
+  "astrbot_plugin_meme_api_python": {
+    "name": "astrbot_plugin_meme_api_python",
+    "display_name": "未审核：表情包制作插件api版",
+    "desc": "调用 meme-generator API，提供表情列表、详情、随机表情和制作表情能力。",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_meme_api_python",
+    "tags": [
+      "meme",
+      "api",
+      "表情包",
+      "表情制作",
+      "python"
+    ],
+    "social_link": "https://github.com/xiaoruange39",
+    "stars": 5,
+    "version": "0.2.7",
+    "updated_at": "2026-06-19T11:56:25Z",
+    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
+  },
   "astrbot_plugin_daily_life": {
     "name": "astrbot_plugin_daily_life",
     "display_name": "未审核：此朝夕陪伴你的生活",
@@ -35,23 +114,6 @@
     "updated_at": "2026-06-19T08:04:11Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_share/main/logo.png"
   },
-  "astrbot_plugin_neko_care": {
-    "name": "astrbot_plugin_neko_care",
-    "display_name": "未审核：猫娘养成",
-    "desc": "猫娘养成 + 签到打工 + 经济系统、喂养互动、排行榜等丰富功能",
-    "author": "若梦",
-    "repo": "https://github.com/xiih/astrbot_plugin_neko_care",
-    "tags": [
-      "猫娘养成",
-      "养成系",
-      "经济系统"
-    ],
-    "social_link": "https://github.com/xiih",
-    "stars": 3,
-    "version": "1.4.8",
-    "updated_at": "2026-06-19T07:20:45Z",
-    "logo": "https://raw.githubusercontent.com/xiih/astrbot_plugin_neko_care/main/logo.png"
-  },
   "astrbot_plugin_manager": {
     "name": "astrbot_plugin_manager",
     "display_name": "未审核：插件管理助手",
@@ -67,25 +129,6 @@
     "stars": 0,
     "version": "0.1.0",
     "updated_at": "2026-06-19T04:46:15Z"
-  },
-  "astrbot_plugin_meme_api_python": {
-    "name": "astrbot_plugin_meme_api_python",
-    "display_name": "未审核：表情包制作插件api版",
-    "desc": "调用 meme-generator API，提供表情列表、详情、随机表情和制作表情能力。",
-    "author": "xiaoruange39",
-    "repo": "https://github.com/xiaoruange39/astrbot_plugin_meme_api_python",
-    "tags": [
-      "meme",
-      "api",
-      "表情包",
-      "表情制作",
-      "python"
-    ],
-    "social_link": "https://github.com/xiaoruange39",
-    "stars": 5,
-    "version": "0.2.7",
-    "updated_at": "2026-06-18T23:56:34Z",
-    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
   },
   "astrbot_plugin_self_open_llm_vtuber": {
     "name": "astrbot_plugin_self_open_llm_vtuber",
@@ -161,19 +204,6 @@
     "version": "v3.4.2",
     "updated_at": "2026-06-17T05:18:38Z",
     "logo": "https://raw.githubusercontent.com/EightEggs/astrbot_plugin_chatimitate/master/logo.png"
-  },
-  "astrbot_plugin_parserurl": {
-    "name": "astrbot_plugin_parserurl",
-    "display_name": "未审核：社交媒体链接自动解析插件",
-    "desc": "社交媒体分享链接解析插件。将A站、B站、抖音、小红书、微博...等网站的视频、图集、音频进行解析并发送",
-    "author": "Ishning",
-    "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
-    "tags": [],
-    "social_link": "https://github.com/Ishning",
-    "stars": 2,
-    "version": "v2.4.6",
-    "updated_at": "2026-06-16T04:29:00Z",
-    "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
@@ -285,36 +315,6 @@
     "stars": 0,
     "version": "1.2.2",
     "updated_at": "2026-06-13T13:03:38Z"
-  },
-  "astrbot_plugin_bilibili_ai_bot": {
-    "name": "astrbot_plugin_bilibili_ai_bot",
-    "display_name": "未审核：b站bot",
-    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
-    "author": "chenluQwQ,claude",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
-    "tags": [
-      "bilibili",
-      "B站",
-      "评论回复",
-      "主动交互",
-      "语义记忆"
-    ],
-    "social_link": "",
-    "stars": 10,
-    "version": "1.2.0",
-    "updated_at": "2026-06-13T08:05:23Z"
-  },
-  "hermes": {
-    "name": "hermes",
-    "display_name": "未审核：Hermes适配器",
-    "desc": "Hermes Agent 适配器 (WebSocket 版本) - 实现 AstrBot 与 Hermes 的双向通信",
-    "author": "懒大猫",
-    "repo": "https://github.com/landamao/abpl_hermes_spq",
-    "tags": [],
-    "social_link": "https://github.com/landamao",
-    "stars": 2,
-    "version": "v7.1.0",
-    "updated_at": "2026-06-12T18:13:22Z"
   },
   "astrbot_plugin_comms_with_godot": {
     "name": "astrbot_plugin_comms_with_godot",
@@ -696,7 +696,7 @@
       "翻译"
     ],
     "social_link": "https://github.com/chenluQwQ",
-    "stars": 0,
+    "stars": 1,
     "version": "v1.5.0",
     "updated_at": "2026-05-29T12:40:01Z",
     "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
@@ -1312,7 +1312,7 @@
       "书架"
     ],
     "social_link": "",
-    "stars": 6,
+    "stars": 7,
     "version": "2.0.0",
     "updated_at": "2026-04-30T15:06:26Z"
   },
@@ -1660,23 +1660,6 @@
     "stars": 0,
     "version": "v0.3.0",
     "updated_at": "2026-04-14T06:13:44Z"
-  },
-  "astrbot_plugin_minecraft_multi_monitor": {
-    "name": "astrbot_plugin_minecraft_multi_monitor",
-    "display_name": "未审核：Minecraft 多服务器监控",
-    "desc": "面向 AstrBot 的 Minecraft 多服务器监控插件，支持同实例监控多台 Java/Bedrock 服务器，内置可切换的 MineBBS API / mcstatus.io 查询源，并在状态变化时推送通知。",
-    "author": "xlyang",
-    "repo": "https://github.com/XiaolongYang-HZAU/astrbot_plugin_minecraft_multy_monitor",
-    "tags": [
-      "娱乐",
-      "效率",
-      "我的世界",
-      "Minecraft"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "0.1.0",
-    "updated_at": "2026-04-11T08:37:40Z"
   },
   "astrbot_plugin_vtube_studio": {
     "name": "astrbot_plugin_vtube_studio",
