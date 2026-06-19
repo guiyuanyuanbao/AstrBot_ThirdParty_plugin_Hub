@@ -14,7 +14,7 @@
     "social_link": "https://github.com/siciyuanweilai",
     "stars": 44,
     "version": "5.5.0",
-    "updated_at": "2026-06-19T17:57:52Z",
+    "updated_at": "2026-06-19T18:01:54Z",
     "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_share/main/logo.png"
   },
   "astrbot_plugin_daily_life": {
@@ -836,7 +836,7 @@
       "视频总结"
     ],
     "social_link": "",
-    "stars": 1,
+    "stars": 0,
     "version": "v0.3.0",
     "updated_at": "2026-05-27T08:17:38Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_ai_summary/main/logo.png"
