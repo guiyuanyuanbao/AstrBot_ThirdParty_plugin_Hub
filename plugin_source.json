@@ -1,4 +1,23 @@
 {
+  "astrbot_plugin_meme_api_python": {
+    "name": "astrbot_plugin_meme_api_python",
+    "display_name": "未审核：表情包制作插件api版",
+    "desc": "调用 meme-generator API，提供表情列表、详情、随机表情和制作表情能力。",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_meme_api_python",
+    "tags": [
+      "meme",
+      "api",
+      "表情包",
+      "表情制作",
+      "python"
+    ],
+    "social_link": "https://github.com/xiaoruange39",
+    "stars": 5,
+    "version": "0.2.7",
+    "updated_at": "2026-06-18T23:56:34Z",
+    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
+  },
   "astrbot_plugin_self_open_llm_vtuber": {
     "name": "astrbot_plugin_self_open_llm_vtuber",
     "display_name": "未审核：Alice的桌面分身",
@@ -31,25 +50,6 @@
     "stars": 0,
     "version": "v0.0.0",
     "updated_at": "2026-06-18T14:29:20Z"
-  },
-  "astrbot_plugin_meme_api_python": {
-    "name": "astrbot_plugin_meme_api_python",
-    "display_name": "未审核：表情包制作插件api版",
-    "desc": "调用 meme-generator API，提供表情列表、详情、随机表情和制作表情能力。",
-    "author": "xiaoruange39",
-    "repo": "https://github.com/xiaoruange39/astrbot_plugin_meme_api_python",
-    "tags": [
-      "meme",
-      "api",
-      "表情包",
-      "表情制作",
-      "python"
-    ],
-    "social_link": "https://github.com/xiaoruange39",
-    "stars": 5,
-    "version": "0.2.7",
-    "updated_at": "2026-06-18T14:20:20Z",
-    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
   },
   "astrbot_plugin_coding_plan_chat": {
     "name": "astrbot_plugin_coding_plan_chat",
@@ -3006,7 +3006,8 @@
     "social_link": "https://github.com/NumInvis",
     "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-03-14T14:49:18Z"
+    "updated_at": "2026-03-14T14:49:18Z",
+    "logo": "https://raw.githubusercontent.com/NumInvis/astrbot_plugin_ColorFun/master/logo.png"
   },
   "astrbot_plugin_icanseetieba": {
     "name": "astrbot_plugin_icanseetieba",
