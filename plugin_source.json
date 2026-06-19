@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_manager": {
+    "name": "astrbot_plugin_manager",
+    "display_name": "未审核：插件管理助手",
+    "desc": "在聊天中管理 AstrBot 插件：查看列表、启停、重载、安装、卸载、更新",
+    "author": "小红蛋",
+    "repo": "https://github.com/NekoAiDev/astrbot_plugin_manager",
+    "tags": [
+      "工具",
+      "管理助手",
+      "管理插件"
+    ],
+    "social_link": "nekoaidev.top",
+    "stars": 0,
+    "version": "0.1.0",
+    "updated_at": "2026-06-19T04:46:15Z"
+  },
   "astrbot_plugin_meme_api_python": {
     "name": "astrbot_plugin_meme_api_python",
     "display_name": "未审核：表情包制作插件api版",
@@ -34,22 +50,6 @@
     "version": "1.0.0",
     "updated_at": "2026-06-18T19:52:43Z",
     "logo": "https://raw.githubusercontent.com/murphys7017/astrbot_plugin_self_open_llm_vtuber/main/logo.png"
-  },
-  "astrbot_plugin_devkit": {
-    "name": "astrbot_plugin_devkit",
-    "display_name": "未审核：AstrBot 插件开发工具链",
-    "desc": "AstrBot 插件脚手架、规范校验、构建发布一站式工具",
-    "author": "小红蛋",
-    "repo": "https://github.com/NekoAiDev/astrbot-plugin-devkit",
-    "tags": [
-      "工具",
-      "CLI",
-      "开发者"
-    ],
-    "social_link": "nekoaidev.top",
-    "stars": 0,
-    "version": "v0.0.0",
-    "updated_at": "2026-06-18T14:29:20Z"
   },
   "astrbot_plugin_coding_plan_chat": {
     "name": "astrbot_plugin_coding_plan_chat",
