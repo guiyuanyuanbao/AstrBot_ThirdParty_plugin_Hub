@@ -1,4 +1,57 @@
 {
+  "astrbot_plugin_daily_life": {
+    "name": "astrbot_plugin_daily_life",
+    "display_name": "未审核：此朝夕陪伴你的生活",
+    "desc": "在流动的朝夕里，伴着一日光影、生活节律、心绪起落、关系记忆与聊天余温，自主安排作息、穿搭、出行与回应；让角色不止等待消息，而是拥有自己的晨昏与心事，也会在恰好的片刻想起你、靠近你，陪你慢慢经过平凡生活。",
+    "author": "四次元未来",
+    "repo": "https://github.com/siciyuanweilai/astrbot_plugin_daily_life",
+    "tags": [
+      "拟人",
+      "生活",
+      "情感",
+      "主动"
+    ],
+    "social_link": "https://github.com/siciyuanweilai",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-06-19T08:19:29Z",
+    "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_life/main/logo.png"
+  },
+  "astrbot_plugin_daily_share": {
+    "name": "astrbot_plugin_daily_share",
+    "display_name": "未审核：愿此见闻温柔你的日常",
+    "desc": "在恰好的时刻，循着时间、生活状态、聊天记忆与网络热搜，将一路拾来的所见所闻化作文字、语音、配图或视频，主动分享到指定的私聊或群聊，为平凡日常添一点新鲜与温柔。",
+    "author": "四次元未来",
+    "repo": "https://github.com/siciyuanweilai/astrbot_plugin_daily_share",
+    "tags": [
+      "拟人",
+      "日常",
+      "分享",
+      "定时"
+    ],
+    "social_link": "https://github.com/siciyuanweilai",
+    "stars": 43,
+    "version": "5.5.0",
+    "updated_at": "2026-06-19T08:04:11Z",
+    "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_share/main/logo.png"
+  },
+  "astrbot_plugin_neko_care": {
+    "name": "astrbot_plugin_neko_care",
+    "display_name": "未审核：猫娘养成",
+    "desc": "猫娘养成 + 签到打工 + 经济系统、喂养互动、排行榜等丰富功能",
+    "author": "若梦",
+    "repo": "https://github.com/xiih/astrbot_plugin_neko_care",
+    "tags": [
+      "猫娘养成",
+      "养成系",
+      "经济系统"
+    ],
+    "social_link": "https://github.com/xiih",
+    "stars": 3,
+    "version": "1.4.8",
+    "updated_at": "2026-06-19T07:20:45Z",
+    "logo": "https://raw.githubusercontent.com/xiih/astrbot_plugin_neko_care/main/logo.png"
+  },
   "astrbot_plugin_manager": {
     "name": "astrbot_plugin_manager",
     "display_name": "未审核：插件管理助手",
@@ -158,23 +211,6 @@
     "version": "1.0.0",
     "updated_at": "2026-06-14T11:08:38Z"
   },
-  "astrbot_plugin_neko_care": {
-    "name": "astrbot_plugin_neko_care",
-    "display_name": "未审核：猫娘养成",
-    "desc": "猫娘养成 + 签到打工 + 经济系统、喂养互动、排行榜等丰富功能",
-    "author": "若梦",
-    "repo": "https://github.com/xiih/astrbot_plugin_neko_care",
-    "tags": [
-      "猫娘养成",
-      "养成系",
-      "经济系统"
-    ],
-    "social_link": "https://github.com/xiih",
-    "stars": 3,
-    "version": "1.4.6",
-    "updated_at": "2026-06-14T01:19:31Z",
-    "logo": "https://raw.githubusercontent.com/xiih/astrbot_plugin_neko_care/main/logo.png"
-  },
   "astrbot_plugin_group_wakepro": {
     "name": "astrbot_plugin_group_wakepro",
     "display_name": "未审核：群唤醒增强",
@@ -322,24 +358,6 @@
     "stars": 2,
     "version": "4.0.0",
     "updated_at": "2026-06-12T04:20:16Z"
-  },
-  "astrbot_plugin_daily_share": {
-    "name": "astrbot_plugin_daily_share",
-    "display_name": "未审核：愿此见闻温柔你的日常",
-    "desc": "在恰好的时刻，循着时间、生活状态、聊天记忆与网络热搜，将一路拾来的所见所闻化作文字、语音、配图或视频，主动分享到指定的私聊或群聊，为平凡日常添一点新鲜与温柔。",
-    "author": "四次元未来",
-    "repo": "https://github.com/siciyuanweilai/astrbot_plugin_daily_share",
-    "tags": [
-      "拟人",
-      "日常",
-      "分享",
-      "定时"
-    ],
-    "social_link": "https://github.com/siciyuanweilai",
-    "stars": 43,
-    "version": "5.5.0",
-    "updated_at": "2026-06-11T08:31:29Z",
-    "logo": "https://raw.githubusercontent.com/siciyuanweilai/astrbot_plugin_daily_share/main/logo.png"
   },
   "astrbot_plugin_yuanbao_full": {
     "name": "astrbot_plugin_yuanbao_full",
