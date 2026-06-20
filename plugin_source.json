@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_novel_generator": {
+    "name": "astrbot_plugin_novel_generator",
+    "display_name": "未审核：小说创作Agent",
+    "desc": "一个基于 AstrBot Agent 的小说创作与管理插件，自主管理角色、大纲、章节等结构化数据",
+    "author": "Leafiber",
+    "repo": "https://github.com/leafliber/astrbot_plugin_novel_generator",
+    "tags": [
+      "小说",
+      "创作",
+      "Agent"
+    ],
+    "social_link": "https://github.com/leafliber",
+    "stars": 1,
+    "version": "0.2.0",
+    "updated_at": "2026-06-20T15:31:54Z",
+    "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_novel_generator/main/logo.png"
+  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -376,23 +393,6 @@
     "stars": 0,
     "version": "v0.2.1",
     "updated_at": "2026-06-09T13:17:34Z"
-  },
-  "astrbot_plugin_novel_generator": {
-    "name": "astrbot_plugin_novel_generator",
-    "display_name": "未审核：小说创作Agent",
-    "desc": "一个基于 AstrBot Agent 的小说创作与管理插件，自主管理角色、大纲、章节等结构化数据",
-    "author": "Leafiber",
-    "repo": "https://github.com/leafliber/astrbot_plugin_novel_generator",
-    "tags": [
-      "小说",
-      "创作",
-      "Agent"
-    ],
-    "social_link": "https://github.com/leafliber",
-    "stars": 1,
-    "version": "0.2.0",
-    "updated_at": "2026-06-08T18:00:23Z",
-    "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_novel_generator/main/logo.png"
   },
   "astrbot_plugin_random_reply": {
     "name": "astrbot_plugin_random_reply",
