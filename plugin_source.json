@@ -1,4 +1,26 @@
 {
+  "astrbot_plugin_silent_response": {
+    "name": "astrbot_plugin_silent_response",
+    "display_name": "未审核：沉默以应[APSR]",
+    "desc": "为AI赋予“沉默权”。由AI自行判断话题边界，在用户不礼貌、对话自然结束或内容无意义时，通过输出特定内容（如[SILENCE]）触发插件函数吞掉回复，以达到不回复用户的效果，彻底避免无限复读与尬聊。",
+    "author": "olozhika",
+    "repo": "https://github.com/olozhika/astrbot_plugin_silent_response",
+    "tags": [
+      "对话边界",
+      "反复读",
+      "对话管理",
+      "过滤",
+      "响应",
+      "silence",
+      "不予回复",
+      "防垃圾"
+    ],
+    "social_link": "https://github.com/olozhika",
+    "stars": 1,
+    "version": "v1.0.1",
+    "updated_at": "2026-06-21T06:43:45Z",
+    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_silent_response/master/logo.png"
+  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -1262,7 +1284,7 @@
       "书架"
     ],
     "social_link": "",
-    "stars": 7,
+    "stars": 8,
     "version": "2.0.0",
     "updated_at": "2026-04-30T15:06:26Z"
   },
@@ -3190,28 +3212,6 @@
     "stars": 0,
     "version": "v4.17.5",
     "updated_at": "2026-03-11T03:39:06Z"
-  },
-  "astrbot_plugin_silent_response": {
-    "name": "astrbot_plugin_silent_response",
-    "display_name": "未审核：沉默以应[APSR]",
-    "desc": "为AI赋予“沉默权”。由AI自行判断话题边界，在用户不礼貌、对话自然结束或内容无意义时，通过输出特定内容（如[SILENCE]）触发插件函数吞掉回复，以达到不回复用户的效果，彻底避免无限复读与尬聊。",
-    "author": "olozhika",
-    "repo": "https://github.com/olozhika/astrbot_plugin_silent_response",
-    "tags": [
-      "对话边界",
-      "反复读",
-      "对话管理",
-      "过滤",
-      "响应",
-      "silence",
-      "不予回复",
-      "防垃圾"
-    ],
-    "social_link": "https://github.com/olozhika",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-10T23:14:16Z",
-    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_silent_response/master/logo.png"
   },
   "astrbot_plugin_discogs": {
     "name": "astrbot_plugin_discogs",
