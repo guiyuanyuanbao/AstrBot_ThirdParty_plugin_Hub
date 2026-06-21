@@ -1,4 +1,38 @@
 {
+  "astrbot_plugin_bilibili_ai_bot": {
+    "name": "astrbot_plugin_bilibili_ai_bot",
+    "display_name": "未审核：b站bot",
+    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
+    "author": "chenluQwQ,claude",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
+    "tags": [
+      "bilibili",
+      "B站",
+      "评论回复",
+      "主动交互",
+      "语义记忆"
+    ],
+    "social_link": "",
+    "stars": 11,
+    "version": "1.2.1",
+    "updated_at": "2026-06-21T15:00:48Z"
+  },
+  "astrbot_plugin_ai_summary": {
+    "name": "astrbot_plugin_ai_summary",
+    "display_name": "未审核：AI 视频总结",
+    "desc": "基于本地语音转写，结合用户提示词与视觉信息的多模态 AI 视频总结工具",
+    "author": "drdon1234",
+    "repo": "https://github.com/drdon1234/astrbot_plugin_ai_summary",
+    "tags": [
+      "AI",
+      "视频总结"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v0.4.0",
+    "updated_at": "2026-06-21T13:27:30Z",
+    "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_ai_summary/main/logo.png"
+  },
   "astrbot_plugin_silent_response": {
     "name": "astrbot_plugin_silent_response",
     "display_name": "未审核：沉默以应[APSR]",
@@ -87,24 +121,6 @@
     "stars": 2,
     "version": "v7.1.0",
     "updated_at": "2026-06-19T14:48:34Z"
-  },
-  "astrbot_plugin_bilibili_ai_bot": {
-    "name": "astrbot_plugin_bilibili_ai_bot",
-    "display_name": "未审核：b站bot",
-    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
-    "author": "chenluQwQ,claude",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
-    "tags": [
-      "bilibili",
-      "B站",
-      "评论回复",
-      "主动交互",
-      "语义记忆"
-    ],
-    "social_link": "",
-    "stars": 11,
-    "version": "1.2.0",
-    "updated_at": "2026-06-19T14:15:53Z"
   },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
@@ -810,22 +826,6 @@
     "version": "v1.2",
     "updated_at": "2026-05-27T09:18:39Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
-  },
-  "astrbot_plugin_ai_summary": {
-    "name": "astrbot_plugin_ai_summary",
-    "display_name": "未审核：AI 视频总结",
-    "desc": "基于本地语音转写，结合用户提示词与视觉信息的多模态 AI 视频总结工具",
-    "author": "drdon1234",
-    "repo": "https://github.com/drdon1234/astrbot_plugin_ai_summary",
-    "tags": [
-      "AI",
-      "视频总结"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v0.3.0",
-    "updated_at": "2026-05-27T08:17:38Z",
-    "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_ai_summary/main/logo.png"
   },
   "astrbot_plugin_anti_memes": {
     "name": "astrbot_plugin_anti_memes",
