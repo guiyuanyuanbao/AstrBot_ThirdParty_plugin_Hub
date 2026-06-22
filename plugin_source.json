@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_firefly_blog_manager": {
+    "name": "astrbot_plugin_firefly_blog_manager",
+    "display_name": "未审核：Firefly 博客管理插件",
+    "desc": "将 Firefly 博客的日常操作封装为 AstrBot AI Agent 可调用的工具。",
+    "author": "月凌",
+    "repo": "https://github.com/qiyueling2716/astrbot_plugin_Firefly_Blog_Manager",
+    "tags": [
+      "博客",
+      "流萤",
+      "Firefly"
+    ],
+    "social_link": "https://github.com/qiyueling2716",
+    "stars": 1,
+    "version": "1.1.0",
+    "updated_at": "2026-06-22T14:00:54Z"
+  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
