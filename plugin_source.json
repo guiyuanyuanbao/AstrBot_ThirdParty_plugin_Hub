@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_df": {
+    "name": "astrbot_plugin_df",
+    "display_name": "未审核：矮人要塞攻略查询助手",
+    "desc": "Dwarf Fortress / 矮人要塞词条图片查询：/df 关键词，合并转发输出文字和多图，使用机器人头像昵称，额外发送视频链接，并拦截 /df 指令进入 LLM",
+    "author": "GuHuiHeDaDao",
+    "repo": "https://github.com/GuHuiHeXiaoDao/astrbot_plugin_df",
+    "tags": [
+      "矮人要塞",
+      "df",
+      "攻略"
+    ],
+    "social_link": "https://space.bilibili.com/480131900",
+    "stars": 1,
+    "version": "1.1.1",
+    "updated_at": "2026-06-25T10:20:28Z",
+    "logo": "https://raw.githubusercontent.com/GuHuiHeXiaoDao/astrbot_plugin_df/main/logo.png"
+  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -510,23 +527,6 @@
     "version": "1.0.0",
     "updated_at": "2026-06-08T10:59:28Z",
     "logo": "https://raw.githubusercontent.com/xiih/astrbot_plugin_nickname_monitor/main/logo.png"
-  },
-  "astrbot_plugin_df": {
-    "name": "astrbot_plugin_df",
-    "display_name": "未审核：矮人要塞攻略查询助手",
-    "desc": "Dwarf Fortress / 矮人要塞词条图片查询：/df 关键词，合并转发输出文字和多图，使用机器人头像昵称，额外发送视频链接，并拦截 /df 指令进入 LLM",
-    "author": "GuHuiHeDaDao",
-    "repo": "https://github.com/GuHuiHeXiaoDao/astrbot_plugin_df",
-    "tags": [
-      "矮人要塞",
-      "df",
-      "攻略"
-    ],
-    "social_link": "https://space.bilibili.com/480131900",
-    "stars": 1,
-    "version": "1.1.1",
-    "updated_at": "2026-06-07T15:41:53Z",
-    "logo": "https://raw.githubusercontent.com/GuHuiHeXiaoDao/astrbot_plugin_df/main/logo.png"
   },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
