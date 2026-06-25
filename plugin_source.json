@@ -463,22 +463,6 @@
     "version": "v0.2.1",
     "updated_at": "2026-06-09T13:17:34Z"
   },
-  "astrbot_plugin_random_reply": {
-    "name": "astrbot_plugin_random_reply",
-    "display_name": "未审核：禁止机器人间无限对话",
-    "desc": "适用于多机器人，想看bot们互动的群聊。为复数机器人群聊设计的防止炸群插件，防止机器人之间无限对话但不完全阻断机器人间的互动，支持agent获取群机器人名单",
-    "author": "柯尔",
-    "repo": "https://github.com/Luna-channel/astrbot_plugin_Random_Reply",
-    "tags": [
-      "群聊",
-      "多机器人互动"
-    ],
-    "social_link": "",
-    "stars": 2,
-    "version": "v1.1",
-    "updated_at": "2026-06-08T16:34:37Z",
-    "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_Random_Reply/master/logo.png"
-  },
   "astrbot_plugin_tattle": {
     "name": "astrbot_plugin_tattle",
     "display_name": "未审核：LLM 告状机",
@@ -727,39 +711,6 @@
     "stars": 0,
     "version": "v1.8.0",
     "updated_at": "2026-05-28T11:06:38Z"
-  },
-  "astrbot_plugin_pocketmoney": {
-    "name": "astrbot_plugin_pocketmoney",
-    "display_name": "未审核：贝塔零花钱系统",
-    "desc": "给机器人设计的小金库系统和小背包系统，增加一些rp乐趣。",
-    "author": "柯尔",
-    "repo": "https://github.com/Luna-channel/astrbot_plugin_pocketmoney",
-    "tags": [
-      "零花钱",
-      "rp",
-      "互动"
-    ],
-    "social_link": "",
-    "stars": 4,
-    "version": "v1.8.0",
-    "updated_at": "2026-05-27T18:40:05Z",
-    "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_pocketmoney/main/logo.png"
-  },
-  "astrbot_plugin_chillchat": {
-    "name": "astrbot_plugin_chillchat",
-    "display_name": "未审核：chillchat聊天记录控制",
-    "desc": "上下文字符数裁剪插件，支持多档位上限（默认/二档/三档），不同用户/群可分配不同上下文长度",
-    "author": "柯尔",
-    "repo": "https://github.com/Luna-channel/astrbot_plugin_chillchat",
-    "tags": [
-      "token控制",
-      "省钱"
-    ],
-    "social_link": "",
-    "stars": 2,
-    "version": "1.1.1",
-    "updated_at": "2026-05-27T18:30:05Z",
-    "logo": "https://raw.githubusercontent.com/Luna-channel/astrbot_plugin_chillchat/main/logo.png"
   },
   "astrbot_plugin_nyxbot": {
     "name": "astrbot_plugin_nyxbot",
