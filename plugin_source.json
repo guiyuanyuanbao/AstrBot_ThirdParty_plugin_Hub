@@ -1,20 +1,4 @@
 {
-  "astrbot_plugin_suwayomi_server": {
-    "name": "astrbot_plugin_suwayomi_server",
-    "display_name": "未审核：Suwayomi 漫画助手",
-    "desc": "将 Suwayomi-Server 作为漫画后端，为聊天用户提供漫画搜索、阅读、下载和订阅更新推送服务。",
-    "author": "Fold",
-    "repo": "https://github.com/FFFold/astrbot_plugin_suwayomi_server",
-    "tags": [
-      "漫画",
-      "漫画订阅"
-    ],
-    "social_link": "https://github.com/FFFold",
-    "stars": 0,
-    "version": "0.1.3",
-    "updated_at": "2026-06-25T02:13:04Z",
-    "logo": "https://raw.githubusercontent.com/FFFold/astrbot_plugin_suwayomi_server/main/logo.png"
-  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -986,7 +970,7 @@
       "情绪"
     ],
     "social_link": "",
-    "stars": 8,
+    "stars": 9,
     "version": "1.1.0",
     "updated_at": "2026-05-19T05:00:17Z"
   },
@@ -1034,7 +1018,7 @@
       "环境感知"
     ],
     "social_link": "",
-    "stars": 3,
+    "stars": 4,
     "version": "1.0.0",
     "updated_at": "2026-05-17T09:50:04Z"
   },
@@ -1050,7 +1034,7 @@
       "诗意"
     ],
     "social_link": "",
-    "stars": 8,
+    "stars": 9,
     "version": "1.0.0",
     "updated_at": "2026-05-17T09:50:00Z"
   },
@@ -1270,7 +1254,7 @@
       "书架"
     ],
     "social_link": "",
-    "stars": 9,
+    "stars": 10,
     "version": "2.0.0",
     "updated_at": "2026-04-30T15:06:26Z"
   },
