@@ -1,4 +1,38 @@
 {
+  "astrbot_plugin_tts_sanitizer_bilingual": {
+    "name": "astrbot_plugin_tts_sanitizer_bilingual",
+    "display_name": "未审核：tts外语朗读",
+    "desc": "TTS文本过滤插件 - 支持双语TTS、语音Tool、MiniMax停顿标记，基于柯尔的tts_sanitizer扩展",
+    "author": "柠弥",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual",
+    "tags": [
+      "tts",
+      "翻译"
+    ],
+    "social_link": "https://github.com/chenluQwQ",
+    "stars": 1,
+    "version": "v1.5.0",
+    "updated_at": "2026-06-27T14:24:26Z",
+    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
+  },
+  "astrbot_plugin_bilibili_ai_bot": {
+    "name": "astrbot_plugin_bilibili_ai_bot",
+    "display_name": "未审核：b站bot",
+    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
+    "author": "chenluQwQ,claude",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
+    "tags": [
+      "bilibili",
+      "B站",
+      "评论回复",
+      "主动交互",
+      "语义记忆"
+    ],
+    "social_link": "",
+    "stars": 13,
+    "version": "1.2.1",
+    "updated_at": "2026-06-27T13:02:50Z"
+  },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
     "display_name": "未审核：QQ群智能守护者",
@@ -16,7 +50,7 @@
     "social_link": "https://github.com/zcj-ui/",
     "stars": 3,
     "version": "v2.4.1",
-    "updated_at": "2026-06-27T11:49:16Z",
+    "updated_at": "2026-06-27T12:14:21Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
   },
   "astrbot_plugin_asoul": {
@@ -89,24 +123,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-06-24T17:35:29Z",
     "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
-  },
-  "astrbot_plugin_bilibili_ai_bot": {
-    "name": "astrbot_plugin_bilibili_ai_bot",
-    "display_name": "未审核：b站bot",
-    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
-    "author": "chenluQwQ,claude",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
-    "tags": [
-      "bilibili",
-      "B站",
-      "评论回复",
-      "主动交互",
-      "语义记忆"
-    ],
-    "social_link": "",
-    "stars": 13,
-    "version": "1.2.1",
-    "updated_at": "2026-06-24T12:03:33Z"
   },
   "astrbot_plugin_nanally": {
     "name": "astrbot_plugin_nanally",
@@ -671,22 +687,6 @@
     "version": "1.6",
     "updated_at": "2026-05-29T15:24:34Z",
     "logo": "https://raw.githubusercontent.com/YOYOFeelings/astrbot_plugin_YOTO/main/logo.png"
-  },
-  "astrbot_plugin_tts_sanitizer_bilingual": {
-    "name": "astrbot_plugin_tts_sanitizer_bilingual",
-    "display_name": "未审核：tts外语朗读",
-    "desc": "TTS文本过滤插件 - 支持双语TTS、语音Tool、MiniMax停顿标记，基于柯尔的tts_sanitizer扩展",
-    "author": "柠弥",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual",
-    "tags": [
-      "tts",
-      "翻译"
-    ],
-    "social_link": "https://github.com/chenluQwQ",
-    "stars": 1,
-    "version": "v1.5.0",
-    "updated_at": "2026-05-29T12:40:01Z",
-    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
   },
   "astrbot_plugin_image_anti_rc": {
     "name": "astrbot_plugin_image_anti_rc",
