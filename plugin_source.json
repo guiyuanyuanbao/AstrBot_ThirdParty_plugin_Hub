@@ -1,4 +1,38 @@
 {
+  "astrbot_dg_lab_ultra_plugin": {
+    "name": "astrbot_dg_lab_ultra_plugin",
+    "display_name": "未审核：郊狼API控制插件",
+    "desc": "小爱同学，电我。",
+    "author": "RC-CHN & NanoRocky",
+    "repo": "https://github.com/NanoRocky/astrbot_dg_lab_ultra_plugin/tree/main",
+    "tags": [
+      "郊狼",
+      "游戏",
+      "恶趣",
+      "玩具",
+      "互动"
+    ],
+    "social_link": "https://github.com/NanoRocky/",
+    "stars": 4,
+    "version": "v3.1.1",
+    "updated_at": "2026-06-27T18:00:44Z"
+  },
+  "astrbot_plugin_bili_parser": {
+    "name": "astrbot_plugin_bili_parser",
+    "display_name": "未审核：又一个哔哩哔哩链接解析",
+    "desc": "解析 bilibili 视频、番剧、直播、专栏、音频等链接，并生成预览卡片。",
+    "author": "jkfujr",
+    "repo": "https://github.com/jkfujr/astrbot_plugin_bili_parser",
+    "tags": [
+      "bilibili",
+      "哔哩哔哩",
+      "解析"
+    ],
+    "social_link": "https://github.com/jkfujr",
+    "stars": 0,
+    "version": "0.0.3",
+    "updated_at": "2026-06-27T17:07:57Z"
+  },
   "astrbot_plugin_tts_sanitizer_bilingual": {
     "name": "astrbot_plugin_tts_sanitizer_bilingual",
     "display_name": "未审核：tts外语朗读",
@@ -924,22 +958,6 @@
     "stars": 9,
     "version": "1.1.0",
     "updated_at": "2026-05-19T05:00:17Z"
-  },
-  "astrbot_plugin_bili_parser": {
-    "name": "astrbot_plugin_bili_parser",
-    "display_name": "未审核：又一个哔哩哔哩链接解析",
-    "desc": "解析 bilibili 视频、番剧、直播、专栏、音频等链接，并生成预览卡片。",
-    "author": "jkfujr",
-    "repo": "https://github.com/jkfujr/astrbot_plugin_bili_parser",
-    "tags": [
-      "bilibili",
-      "哔哩哔哩",
-      "解析"
-    ],
-    "social_link": "https://github.com/jkfujr",
-    "stars": 0,
-    "version": "0.0.3",
-    "updated_at": "2026-05-18T06:04:28Z"
   },
   "astrbot_plugin_gpt_image_2": {
     "name": "astrbot_plugin_gpt_image_2",
@@ -2801,24 +2819,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-03-15T14:45:37Z"
-  },
-  "astrbot_dg_lab_ultra_plugin": {
-    "name": "astrbot_dg_lab_ultra_plugin",
-    "display_name": "未审核：郊狼API控制插件",
-    "desc": "小爱同学，电我。",
-    "author": "RC-CHN & NanoRocky",
-    "repo": "https://github.com/NanoRocky/astrbot_dg_lab_ultra_plugin/tree/main",
-    "tags": [
-      "郊狼",
-      "游戏",
-      "恶趣",
-      "玩具",
-      "互动"
-    ],
-    "social_link": "https://github.com/NanoRocky/",
-    "stars": 4,
-    "version": "v3.1.0",
-    "updated_at": "2026-03-15T14:13:14Z"
   },
   "astrbot_plugin_astrmetry": {
     "name": "astrbot_plugin_astrmetry",
