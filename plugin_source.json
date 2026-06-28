@@ -14,9 +14,9 @@
       "WebUI面板"
     ],
     "social_link": "https://github.com/zcj-ui/",
-    "stars": 3,
+    "stars": 4,
     "version": "v2.4.1",
-    "updated_at": "2026-06-28T03:46:29Z",
+    "updated_at": "2026-06-28T06:21:46Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
   },
   "astrbot_dg_lab_ultra_plugin": {
@@ -987,7 +987,7 @@
       "环境感知"
     ],
     "social_link": "",
-    "stars": 4,
+    "stars": 5,
     "version": "1.0.0",
     "updated_at": "2026-05-17T09:50:04Z"
   },
@@ -1020,7 +1020,7 @@
       "环境"
     ],
     "social_link": "",
-    "stars": 5,
+    "stars": 6,
     "version": "1.1.0",
     "updated_at": "2026-05-17T09:49:58Z"
   },
@@ -3533,7 +3533,7 @@
       "优化"
     ],
     "social_link": "https://github.com/1-20182",
-    "stars": 5,
+    "stars": 6,
     "version": "1.0.0",
     "updated_at": "2026-03-01T14:16:49Z"
   },
