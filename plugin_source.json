@@ -1,20 +1,4 @@
 {
-  "astrbot_plugin_talkative_king": {
-    "name": "astrbot_plugin_talkative_king",
-    "display_name": "未审核：话痨王 (Talkative King)",
-    "desc": "统计群组发言并生成精美的排行榜图片，内置 pilmoji 支持，完美渲染 Emoji 和颜文字，支持自定义背景。",
-    "author": "User",
-    "repo": "https://github.com/Marcuscaixiao/astrbot_plugin_talkative_king",
-    "tags": [
-      "排行榜",
-      "说话",
-      "tool"
-    ],
-    "social_link": "https://github.com/Marcuscaixiao",
-    "stars": 1,
-    "version": "1.4.0",
-    "updated_at": "2026-06-28T15:47:48Z"
-  },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
     "display_name": "未审核：QQ群智能守护者",
@@ -31,9 +15,25 @@
     ],
     "social_link": "https://github.com/zcj-ui/",
     "stars": 4,
-    "version": "v2.4.1",
-    "updated_at": "2026-06-28T06:21:46Z",
+    "version": "v2.4.2",
+    "updated_at": "2026-06-28T22:09:03Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
+  },
+  "astrbot_plugin_talkative_king": {
+    "name": "astrbot_plugin_talkative_king",
+    "display_name": "未审核：话痨王 (Talkative King)",
+    "desc": "统计群组发言并生成精美的排行榜图片，内置 pilmoji 支持，完美渲染 Emoji 和颜文字，支持自定义背景。",
+    "author": "User",
+    "repo": "https://github.com/Marcuscaixiao/astrbot_plugin_talkative_king",
+    "tags": [
+      "排行榜",
+      "说话",
+      "tool"
+    ],
+    "social_link": "https://github.com/Marcuscaixiao",
+    "stars": 1,
+    "version": "1.4.0",
+    "updated_at": "2026-06-28T15:47:48Z"
   },
   "astrbot_dg_lab_ultra_plugin": {
     "name": "astrbot_dg_lab_ultra_plugin",
