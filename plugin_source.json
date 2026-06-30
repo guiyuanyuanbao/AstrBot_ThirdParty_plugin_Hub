@@ -28,24 +28,6 @@
     "updated_at": "2026-06-29T09:55:45Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
   },
-  "astrbot_plugin_meme_manufacturer": {
-    "name": "astrbot_plugin_meme_manufacturer",
-    "display_name": "未审核：表情包制造厂",
-    "desc": "将QQ群友头像做成表情包的工具。可以做成gif，也可以做成静态表情，内置多种表情包，水群利器",
-    "author": "神秘嘉宾",
-    "repo": "https://github.com/zhajunyao/astrbot_plugin_meme_manufacturer",
-    "tags": [
-      "娱乐",
-      "表情包",
-      "互动",
-      "gif"
-    ],
-    "social_link": "https://github.com/zhajunyao",
-    "stars": 0,
-    "version": "2.0.0",
-    "updated_at": "2026-06-29T02:34:29Z",
-    "logo": "https://raw.githubusercontent.com/zhajunyao/astrbot_plugin_meme_manufacturer/main/logo.png"
-  },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
     "display_name": "未审核：QQ群智能守护者",
@@ -414,21 +396,6 @@
     "stars": 0,
     "version": "v1.1.0",
     "updated_at": "2026-06-17T12:27:58Z"
-  },
-  "astrbot_plugin_chatimitate": {
-    "name": "astrbot_plugin_chatimitate",
-    "display_name": "未审核：ChatImitate",
-    "desc": "这是一个 Astrbot 插件，旨在让 bot 从群聊记录中学习和模仿人类聊天，而不是使用AI生成内容",
-    "author": "EightEggs",
-    "repo": "https://github.com/EightEggs/astrbot_plugin_chatimitate",
-    "tags": [
-      "群聊学习"
-    ],
-    "social_link": "https://github.com/EightEggs",
-    "stars": 2,
-    "version": "v3.4.2",
-    "updated_at": "2026-06-17T05:18:38Z",
-    "logo": "https://raw.githubusercontent.com/EightEggs/astrbot_plugin_chatimitate/master/logo.png"
   },
   "astrbot_plugin_autoissue": {
     "name": "astrbot_plugin_autoissue",
