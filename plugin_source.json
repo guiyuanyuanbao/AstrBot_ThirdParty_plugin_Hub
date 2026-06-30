@@ -1,4 +1,24 @@
 {
+  "astrbot_plugin_group_guardian": {
+    "name": "astrbot_plugin_group_guardian",
+    "display_name": "未审核：QQ群智能守护者",
+    "desc": "集28项群管功能与AI智能审核于一体的综合群管理插件。支持禁言/踢人/全体禁言/群名片/公告/群文件/精华消息/群打卡等完整群管工具集；内置智能审核系统：正则初筛+30条上下文+LLM二次判断，精准识别骂人/广告/色情/暴恐/涉枪涉爆/政治敏感/违规网址等违规内容；支持合并转发消息审核、OCR识图审核（3种内置提示词模板+自定义提示词+WebUI下拉选择视觉模型）、QQ收藏/JSON卡片自动撤回；支持外置SQLite词库，每个功能独立开关，群白名单/黑名单，管理员免检测，可指定审核专用LLM，WebUI管理面板实时监控。",
+    "author": "zhaisir",
+    "repo": "https://github.com/zcj-ui/astrbot_plugin_group_guardian",
+    "tags": [
+      "群管",
+      "QQ",
+      "AI审核",
+      "OCR识图",
+      "自动撤回",
+      "WebUI面板"
+    ],
+    "social_link": "https://github.com/zcj-ui/",
+    "stars": 4,
+    "version": "v2.4.2",
+    "updated_at": "2026-06-30T14:35:58Z",
+    "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
+  },
   "hermes": {
     "name": "hermes",
     "display_name": "未审核：Hermes适配器",
@@ -27,26 +47,6 @@
     "version": "v1.3",
     "updated_at": "2026-06-29T09:55:45Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
-  },
-  "astrbot_plugin_group_guardian": {
-    "name": "astrbot_plugin_group_guardian",
-    "display_name": "未审核：QQ群智能守护者",
-    "desc": "集28项群管功能与AI智能审核于一体的综合群管理插件。支持禁言/踢人/全体禁言/群名片/公告/群文件/精华消息/群打卡等完整群管工具集；内置智能审核系统：正则初筛+30条上下文+LLM二次判断，精准识别骂人/广告/色情/暴恐/涉枪涉爆/政治敏感/违规网址等违规内容；支持合并转发消息审核、OCR识图审核（3种内置提示词模板+自定义提示词+WebUI下拉选择视觉模型）、QQ收藏/JSON卡片自动撤回；支持外置SQLite词库，每个功能独立开关，群白名单/黑名单，管理员免检测，可指定审核专用LLM，WebUI管理面板实时监控。",
-    "author": "zhaisir",
-    "repo": "https://github.com/zcj-ui/astrbot_plugin_group_guardian",
-    "tags": [
-      "群管",
-      "QQ",
-      "AI审核",
-      "OCR识图",
-      "自动撤回",
-      "WebUI面板"
-    ],
-    "social_link": "https://github.com/zcj-ui/",
-    "stars": 4,
-    "version": "v2.4.2",
-    "updated_at": "2026-06-28T22:09:03Z",
-    "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
   },
   "astrbot_plugin_talkative_king": {
     "name": "astrbot_plugin_talkative_king",
@@ -2176,22 +2176,6 @@
     "stars": 3,
     "version": "v0.2.0",
     "updated_at": "2026-03-26T07:34:27Z"
-  },
-  "astrbot_plugin_meme_symmetry": {
-    "name": "astrbot_plugin_meme_symmetry",
-    "display_name": "未审核：抽象对称表情",
-    "desc": "一个简单的 通过引用回复将 静图/动图 进行对称镜像以打到抽象的目的 （？强强？）",
-    "author": "XiaoLan9999",
-    "repo": "https://github.com/XiaoLan9999/astrbot_plugin_meme_symmetry",
-    "tags": [
-      "抽象",
-      "图片",
-      "对称"
-    ],
-    "social_link": "https://xiaolan9999.net/",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-26T05:41:49Z"
   },
   "astrbot_plugin_information_assistant": {
     "name": "astrbot_plugin_information_assistant",
