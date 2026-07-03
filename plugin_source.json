@@ -145,7 +145,7 @@
       "语义记忆"
     ],
     "social_link": "",
-    "stars": 13,
+    "stars": 14,
     "version": "1.2.1",
     "updated_at": "2026-06-27T13:02:50Z"
   },
@@ -3727,21 +3727,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-02-23T09:51:31Z"
-  },
-  "astrbot_plugin_only_listen": {
-    "name": "astrbot_plugin_only_listen",
-    "display_name": "未审核：只听我的",
-    "desc": "控制Bot是否只听管理员的消息，开启后Bot在群聊中只响应管理员",
-    "author": "victical",
-    "repo": "https://github.com/victical/astrbot_plugin_only_listen",
-    "tags": [
-      "只听我的",
-      "控制"
-    ],
-    "social_link": "https://github.com/victical",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-02-22T17:03:07Z"
   },
   "astrbot_plugin_listentogetheronqq": {
     "name": "astrbot_plugin_listentogetheronqq",
