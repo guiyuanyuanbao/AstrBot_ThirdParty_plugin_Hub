@@ -1,20 +1,4 @@
 {
-  "astrbot_plugin_manager": {
-    "name": "astrbot_plugin_manager",
-    "display_name": "未审核：插件管理助手",
-    "desc": "在聊天中管理 AstrBot 插件：查看列表、启停、重载、安装、卸载、更新",
-    "author": "小红蛋",
-    "repo": "https://github.com/NekoAiDev/astrbot_plugin_manager",
-    "tags": [
-      "工具",
-      "管理助手",
-      "管理插件"
-    ],
-    "social_link": "nekoaidev.top",
-    "stars": 1,
-    "version": "0.1.0",
-    "updated_at": "2026-07-04T10:14:01Z"
-  },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
     "display_name": "未审核：QQ群智能守护者",
@@ -32,8 +16,24 @@
     "social_link": "https://github.com/zcj-ui/",
     "stars": 6,
     "version": "v2.5.2",
-    "updated_at": "2026-07-04T06:17:10Z",
+    "updated_at": "2026-07-04T12:42:52Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
+  },
+  "astrbot_plugin_manager": {
+    "name": "astrbot_plugin_manager",
+    "display_name": "未审核：插件管理助手",
+    "desc": "在聊天中管理 AstrBot 插件：查看列表、启停、重载、安装、卸载、更新",
+    "author": "小红蛋",
+    "repo": "https://github.com/NekoAiDev/astrbot_plugin_manager",
+    "tags": [
+      "工具",
+      "管理助手",
+      "管理插件"
+    ],
+    "social_link": "nekoaidev.top",
+    "stars": 1,
+    "version": "0.1.0",
+    "updated_at": "2026-07-04T10:14:01Z"
   },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
