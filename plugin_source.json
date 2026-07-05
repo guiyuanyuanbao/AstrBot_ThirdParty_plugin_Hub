@@ -1,4 +1,17 @@
 {
+  "astrbot_plugin_minecraft": {
+    "name": "astrbot_plugin_minecraft",
+    "display_name": "未审核：我的世界",
+    "desc": "我的世界Astrbot简易插件版",
+    "author": "Zhalslar",
+    "repo": "https://github.com/Zhalslar/astrbot_plugin_minecraft",
+    "tags": [],
+    "social_link": "https://github.com/Zhalslar",
+    "stars": 1,
+    "version": "v0.0.2",
+    "updated_at": "2026-07-05T12:48:11Z",
+    "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_minecraft/main/logo.png"
+  },
   "astrbot_plugin_talkative_king": {
     "name": "astrbot_plugin_talkative_king",
     "display_name": "未审核：话痨王 (Talkative King)",
@@ -13,7 +26,7 @@
     "social_link": "https://github.com/Marcuscaixiao",
     "stars": 1,
     "version": "1.4.0",
-    "updated_at": "2026-07-05T10:58:12Z"
+    "updated_at": "2026-07-05T11:10:27Z"
   },
   "astrbot_plugin_neko_care": {
     "name": "astrbot_plugin_neko_care",
@@ -482,19 +495,6 @@
     "stars": 1,
     "version": "v0.0.0",
     "updated_at": "2026-06-12T16:00:13Z"
-  },
-  "astrbot_plugin_minecraft": {
-    "name": "astrbot_plugin_minecraft",
-    "display_name": "未审核：我的世界",
-    "desc": "我的世界Astrbot简易插件版",
-    "author": "Zhalslar",
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_minecraft",
-    "tags": [],
-    "social_link": "https://github.com/Zhalslar",
-    "stars": 1,
-    "version": "v0.0.2",
-    "updated_at": "2026-06-12T11:18:57Z",
-    "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_minecraft/main/logo.png"
   },
   "astrbot_plugin_orchestrator": {
     "name": "astrbot_plugin_orchestrator",
