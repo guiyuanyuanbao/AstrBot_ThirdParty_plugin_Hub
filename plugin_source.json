@@ -1,4 +1,37 @@
 {
+  "astrbot_plugin_talkative_king": {
+    "name": "astrbot_plugin_talkative_king",
+    "display_name": "未审核：话痨王 (Talkative King)",
+    "desc": "统计群组发言并生成精美的排行榜图片，内置 pilmoji 支持，完美渲染 Emoji 和颜文字，支持自定义背景。",
+    "author": "User",
+    "repo": "https://github.com/Marcuscaixiao/astrbot_plugin_talkative_king",
+    "tags": [
+      "排行榜",
+      "说话",
+      "tool"
+    ],
+    "social_link": "https://github.com/Marcuscaixiao",
+    "stars": 1,
+    "version": "1.4.0",
+    "updated_at": "2026-07-05T10:58:12Z"
+  },
+  "astrbot_plugin_neko_care": {
+    "name": "astrbot_plugin_neko_care",
+    "display_name": "未审核：猫娘养成",
+    "desc": "猫娘养成 + 签到打工 + 经济系统、喂养互动、排行榜等丰富功能",
+    "author": "若梦",
+    "repo": "https://github.com/xiih/astrbot_plugin_neko_care",
+    "tags": [
+      "猫娘养成",
+      "养成系",
+      "经济系统"
+    ],
+    "social_link": "https://github.com/xiih",
+    "stars": 3,
+    "version": "1.5.5",
+    "updated_at": "2026-07-05T10:13:37Z",
+    "logo": "https://raw.githubusercontent.com/xiih/astrbot_plugin_neko_care/main/logo.png"
+  },
   "astrbot_plugin_df_helper": {
     "name": "astrbot_plugin_df_helper",
     "display_name": "未审核：矮人要塞攻略查询助手",
@@ -15,23 +48,6 @@
     "version": "1.1.1",
     "updated_at": "2026-07-05T05:01:42Z",
     "logo": "https://raw.githubusercontent.com/GuHuiHeXiaoDao/astrbot_plugin_df/main/logo.png"
-  },
-  "astrbot_plugin_neko_care": {
-    "name": "astrbot_plugin_neko_care",
-    "display_name": "未审核：猫娘养成",
-    "desc": "猫娘养成 + 签到打工 + 经济系统、喂养互动、排行榜等丰富功能",
-    "author": "若梦",
-    "repo": "https://github.com/xiih/astrbot_plugin_neko_care",
-    "tags": [
-      "猫娘养成",
-      "养成系",
-      "经济系统"
-    ],
-    "social_link": "https://github.com/xiih",
-    "stars": 3,
-    "version": "1.5.5",
-    "updated_at": "2026-07-05T03:45:36Z",
-    "logo": "https://raw.githubusercontent.com/xiih/astrbot_plugin_neko_care/main/logo.png"
   },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
@@ -132,22 +148,6 @@
     "version": "v1.3",
     "updated_at": "2026-06-29T09:55:45Z",
     "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
-  },
-  "astrbot_plugin_talkative_king": {
-    "name": "astrbot_plugin_talkative_king",
-    "display_name": "未审核：话痨王 (Talkative King)",
-    "desc": "统计群组发言并生成精美的排行榜图片，内置 pilmoji 支持，完美渲染 Emoji 和颜文字，支持自定义背景。",
-    "author": "User",
-    "repo": "https://github.com/Marcuscaixiao/astrbot_plugin_talkative_king",
-    "tags": [
-      "排行榜",
-      "说话",
-      "tool"
-    ],
-    "social_link": "https://github.com/Marcuscaixiao",
-    "stars": 1,
-    "version": "1.4.0",
-    "updated_at": "2026-06-28T15:47:48Z"
   },
   "astrbot_dg_lab_ultra_plugin": {
     "name": "astrbot_dg_lab_ultra_plugin",
@@ -438,7 +438,7 @@
       "webui"
     ],
     "social_link": "",
-    "stars": 2,
+    "stars": 3,
     "version": "v2.8.3",
     "updated_at": "2026-06-13T18:12:56Z",
     "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
