@@ -92,7 +92,7 @@
       "语义记忆"
     ],
     "social_link": "",
-    "stars": 17,
+    "stars": 19,
     "version": "1.3.0",
     "updated_at": "2026-07-08T03:56:27Z"
   },
@@ -152,7 +152,8 @@
     "social_link": "https://github.com/xiih",
     "stars": 3,
     "version": "1.5.5",
-    "updated_at": "2026-07-05T10:13:37Z"
+    "updated_at": "2026-07-05T10:13:37Z",
+    "logo": "https://raw.githubusercontent.com/xiih/astrbot_plugin_neko_care/main/logo.png"
   },
   "astrbot_plugin_df_helper": {
     "name": "astrbot_plugin_df_helper",
@@ -553,7 +554,7 @@
     ],
     "social_link": "",
     "stars": 2,
-    "version": "v0.0.0",
+    "version": "4.0.0",
     "updated_at": "2026-06-12T04:20:16Z"
   },
   "astrbot_plugin_yuanbao_full": {
@@ -1152,7 +1153,7 @@
     ],
     "social_link": "https://github.com/shangzhimingge",
     "stars": 2,
-    "version": "v0.0.0",
+    "version": "v6.4.0",
     "updated_at": "2026-05-06T20:18:45Z",
     "logo": "https://raw.githubusercontent.com/shangzhimingge/astrbot_plugin_endworld_img_api/main/logo.png"
   },
@@ -1187,7 +1188,8 @@
     "social_link": "https://github.com/clashcatcat",
     "stars": 1,
     "version": "v0.1.0",
-    "updated_at": "2026-05-06T03:50:24Z"
+    "updated_at": "2026-05-06T03:50:24Z",
+    "logo": "https://raw.githubusercontent.com/clashcatcat/astrbot_plugin_bubble_transform/main/logo.png"
   },
   "astrbot_plugin_conversation_rewriter": {
     "name": "astrbot_plugin_conversation_rewriter",
@@ -1571,7 +1573,7 @@
     "tags": [],
     "social_link": "https://github.com/CompilError-bts",
     "stars": 0,
-    "version": "v0.0.0",
+    "version": "v1.4.0",
     "updated_at": "2026-04-09T08:36:20Z",
     "logo": "https://raw.githubusercontent.com/CompilError-bts/astrbot_plugin_kfc_crazy_thursday/master/logo.png"
   },
@@ -2479,7 +2481,7 @@
     "tags": [],
     "social_link": "https://github.com/Izayoi9",
     "stars": 0,
-    "version": "v0.0.0",
+    "version": "v1.0",
     "updated_at": "2026-03-21T18:22:03Z"
   },
   "astrbot_plugin_emoji_like": {
