@@ -11,7 +11,7 @@
     "social_link": "https://github.com/Fishskys",
     "stars": 0,
     "version": "0.4.0",
-    "updated_at": "2026-07-09T11:44:43Z",
+    "updated_at": "2026-07-09T15:56:18Z",
     "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
   },
   "astrbot_plugin_pimeng_blacklist": {
@@ -92,7 +92,7 @@
       "语义记忆"
     ],
     "social_link": "",
-    "stars": 16,
+    "stars": 17,
     "version": "1.3.0",
     "updated_at": "2026-07-08T03:56:27Z"
   },
@@ -1534,7 +1534,7 @@
     "tags": [],
     "social_link": "https://github.com/TaiLaaa",
     "stars": 1,
-    "version": "v2.1.0",
+    "version": "v0.0.0",
     "updated_at": "2026-04-14T08:45:34Z"
   },
   "astrbot_plugin_kb_plus": {
