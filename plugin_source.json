@@ -749,8 +749,7 @@
     "social_link": "https://github.com/ningyou8023",
     "stars": 0,
     "version": "v1.0.1",
-    "updated_at": "2026-05-30T05:11:19Z",
-    "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_xjj/main/logo.png"
+    "updated_at": "2026-05-30T05:11:19Z"
   },
   "astrbot_plugin_yoto": {
     "name": "astrbot_plugin_yoto",
@@ -2609,7 +2608,7 @@
     ],
     "social_link": "https://github.com/IwannaYuJie",
     "stars": 1,
-    "version": "v0.6.5",
+    "version": "v0.0.0",
     "updated_at": "2026-03-18T07:58:14Z"
   },
   "astrbot_plugin_xyjs": {
@@ -3672,7 +3671,7 @@
     ],
     "social_link": "https://github.com/haoyuedashi",
     "stars": 1,
-    "version": "1.0.0",
+    "version": "v0.0.0",
     "updated_at": "2026-02-24T12:47:34Z"
   },
   "astrbot_plugin_guess_song": {
