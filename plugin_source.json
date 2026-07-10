@@ -1320,7 +1320,7 @@
     ],
     "social_link": "https://github.com/Weiss-UltimateSavior",
     "stars": 0,
-    "version": "v0.0.0",
+    "version": "v1.1.0",
     "updated_at": "2026-04-23T13:15:54Z"
   },
   "astrbot_plugin_monningsignin": {
@@ -1589,8 +1589,8 @@
       "DG-LAB"
     ],
     "social_link": "https://github.com/guiyuanyuanbao",
-    "stars": 7,
-    "version": "v0.0.0",
+    "stars": 8,
+    "version": "v2.0.0",
     "updated_at": "2026-04-08T14:28:49Z",
     "logo": "https://raw.githubusercontent.com/guiyuanyuanbao/astrbot_plugin_DG-LAB/main/logo.png"
   },
@@ -2245,7 +2245,7 @@
     ],
     "social_link": "",
     "stars": 0,
-    "version": "v0.0.0",
+    "version": "1.1.1",
     "updated_at": "2026-03-24T08:11:23Z"
   },
   "astrbot_plugin_nastool_downloader": {
@@ -2386,7 +2386,7 @@
     "tags": [],
     "social_link": "https://github.com/byydzh",
     "stars": 0,
-    "version": "v0.0.0",
+    "version": "1.0.0",
     "updated_at": "2026-03-23T09:11:02Z"
   },
   "astrbot_plugin_hwinfo": {
@@ -3472,7 +3472,7 @@
     ],
     "social_link": "https://github.com/1-20182",
     "stars": 6,
-    "version": "v0.0.0",
+    "version": "1.0.0",
     "updated_at": "2026-03-01T14:16:49Z"
   },
   "astrbot_plugin_liars_bar_basic": {
@@ -3533,7 +3533,8 @@
     "social_link": "https://github.com/satori5555",
     "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-02-28T08:05:33Z"
+    "updated_at": "2026-02-28T08:05:33Z",
+    "logo": "https://raw.githubusercontent.com/satori5555/astrbot_plugin_pokemanpcr/main/logo.png"
   },
   "astrbot_plugin_gta_queuesystem": {
     "name": "astrbot_plugin_gta_queuesystem",
