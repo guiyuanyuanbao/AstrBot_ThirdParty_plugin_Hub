@@ -465,7 +465,7 @@
     ],
     "social_link": "https://github.com/zaixiZaixiSJTU",
     "stars": 1,
-    "version": "1.0.0",
+    "version": "v0.0.0",
     "updated_at": "2026-06-14T11:08:38Z"
   },
   "astrbot_plugin_group_wakepro": {
@@ -749,7 +749,8 @@
     "social_link": "https://github.com/ningyou8023",
     "stars": 0,
     "version": "v1.0.1",
-    "updated_at": "2026-05-30T05:11:19Z"
+    "updated_at": "2026-05-30T05:11:19Z",
+    "logo": "https://raw.githubusercontent.com/ningyou8023/astrbot_plugin_xjj/main/logo.png"
   },
   "astrbot_plugin_yoto": {
     "name": "astrbot_plugin_yoto",
@@ -1064,7 +1065,7 @@
     ],
     "social_link": "https://github.com/jiantoucn",
     "stars": 0,
-    "version": "v1.5.7",
+    "version": "v0.0.0",
     "updated_at": "2026-05-13T14:13:20Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_apex_info/main/logo.png"
   },
@@ -1338,8 +1339,7 @@
     "social_link": "https://github.com/NumInvis",
     "stars": 1,
     "version": "v2.0.1",
-    "updated_at": "2026-04-23T10:07:17Z",
-    "logo": "https://raw.githubusercontent.com/NumInvis/astrbot-plugin-monningsignin/main/logo.png"
+    "updated_at": "2026-04-23T10:07:17Z"
   },
   "astrbot_plugin_qiukan": {
     "name": "astrbot_plugin_qiukan",
@@ -2298,7 +2298,7 @@
     "tags": [],
     "social_link": "https://github.com/foxlesbiao",
     "stars": 0,
-    "version": "1.1.0",
+    "version": "v0.0.0",
     "updated_at": "2026-03-23T16:10:00Z"
   },
   "astrbot_plugin_group_fun": {
@@ -2565,7 +2565,7 @@
     "tags": [],
     "social_link": "https://github.com/qingquanlingyu",
     "stars": 0,
-    "version": "v1.0.0",
+    "version": "v0.0.0",
     "updated_at": "2026-03-19T14:05:00Z"
   },
   "astrbot_plugin_silicon_life": {
@@ -2592,7 +2592,7 @@
     ],
     "social_link": "https://github.com/985892345/",
     "stars": 2,
-    "version": "v0.0.1",
+    "version": "v0.0.0",
     "updated_at": "2026-03-18T15:31:14Z"
   },
   "astrbot_plugin_bili_autoreply": {
@@ -2608,7 +2608,7 @@
     ],
     "social_link": "https://github.com/IwannaYuJie",
     "stars": 1,
-    "version": "v0.0.0",
+    "version": "v0.6.5",
     "updated_at": "2026-03-18T07:58:14Z"
   },
   "astrbot_plugin_xyjs": {
@@ -2891,7 +2891,7 @@
     ],
     "social_link": "https://github.com/NumInvis",
     "stars": 1,
-    "version": "1.0.0",
+    "version": "v0.0.0",
     "updated_at": "2026-03-14T08:14:09Z"
   },
   "astrbot_plugin_bettergemini": {
@@ -3471,7 +3471,7 @@
     ],
     "social_link": "https://github.com/1-20182",
     "stars": 6,
-    "version": "1.0.0",
+    "version": "v0.0.0",
     "updated_at": "2026-03-01T14:16:49Z"
   },
   "astrbot_plugin_liars_bar_basic": {
@@ -3671,7 +3671,7 @@
     ],
     "social_link": "https://github.com/haoyuedashi",
     "stars": 1,
-    "version": "v0.0.0",
+    "version": "1.0.0",
     "updated_at": "2026-02-24T12:47:34Z"
   },
   "astrbot_plugin_guess_song": {
