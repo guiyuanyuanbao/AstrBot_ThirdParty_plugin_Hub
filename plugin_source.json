@@ -11,7 +11,7 @@
     "social_link": "https://github.com/Fishskys",
     "stars": 0,
     "version": "0.4.0",
-    "updated_at": "2026-07-09T15:56:18Z",
+    "updated_at": "2026-07-10T12:55:49Z",
     "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
   },
   "astrbot_plugin_pimeng_blacklist": {
@@ -26,7 +26,7 @@
     "social_link": "https://github.com/Ni-ShuWu",
     "stars": 2,
     "version": "2.9.2",
-    "updated_at": "2026-07-09T07:52:37Z",
+    "updated_at": "2026-07-10T12:32:25Z",
     "logo": "https://raw.githubusercontent.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist/main/logo.png"
   },
   "hermes": {
@@ -465,7 +465,7 @@
     ],
     "social_link": "https://github.com/zaixiZaixiSJTU",
     "stars": 1,
-    "version": "v0.0.0",
+    "version": "1.0.0",
     "updated_at": "2026-06-14T11:08:38Z"
   },
   "astrbot_plugin_group_wakepro": {
@@ -1065,7 +1065,7 @@
     ],
     "social_link": "https://github.com/jiantoucn",
     "stars": 0,
-    "version": "v0.0.0",
+    "version": "v1.5.7",
     "updated_at": "2026-05-13T14:13:20Z",
     "logo": "https://raw.githubusercontent.com/jiantoucn/astrbot_plugin_apex_info/main/logo.png"
   },
@@ -1320,7 +1320,7 @@
     ],
     "social_link": "https://github.com/Weiss-UltimateSavior",
     "stars": 0,
-    "version": "v1.1.0",
+    "version": "v0.0.0",
     "updated_at": "2026-04-23T13:15:54Z"
   },
   "astrbot_plugin_monningsignin": {
@@ -1339,7 +1339,8 @@
     "social_link": "https://github.com/NumInvis",
     "stars": 1,
     "version": "v2.0.1",
-    "updated_at": "2026-04-23T10:07:17Z"
+    "updated_at": "2026-04-23T10:07:17Z",
+    "logo": "https://raw.githubusercontent.com/NumInvis/astrbot-plugin-monningsignin/main/logo.png"
   },
   "astrbot_plugin_qiukan": {
     "name": "astrbot_plugin_qiukan",
@@ -1589,7 +1590,7 @@
     ],
     "social_link": "https://github.com/guiyuanyuanbao",
     "stars": 7,
-    "version": "v2.0.0",
+    "version": "v0.0.0",
     "updated_at": "2026-04-08T14:28:49Z",
     "logo": "https://raw.githubusercontent.com/guiyuanyuanbao/astrbot_plugin_DG-LAB/main/logo.png"
   },
@@ -2244,7 +2245,7 @@
     ],
     "social_link": "",
     "stars": 0,
-    "version": "1.1.1",
+    "version": "v0.0.0",
     "updated_at": "2026-03-24T08:11:23Z"
   },
   "astrbot_plugin_nastool_downloader": {
@@ -2298,7 +2299,7 @@
     "tags": [],
     "social_link": "https://github.com/foxlesbiao",
     "stars": 0,
-    "version": "v0.0.0",
+    "version": "1.1.0",
     "updated_at": "2026-03-23T16:10:00Z"
   },
   "astrbot_plugin_group_fun": {
@@ -2385,7 +2386,7 @@
     "tags": [],
     "social_link": "https://github.com/byydzh",
     "stars": 0,
-    "version": "1.0.0",
+    "version": "v0.0.0",
     "updated_at": "2026-03-23T09:11:02Z"
   },
   "astrbot_plugin_hwinfo": {
@@ -2565,7 +2566,7 @@
     "tags": [],
     "social_link": "https://github.com/qingquanlingyu",
     "stars": 0,
-    "version": "v0.0.0",
+    "version": "v1.0.0",
     "updated_at": "2026-03-19T14:05:00Z"
   },
   "astrbot_plugin_silicon_life": {
@@ -2592,7 +2593,7 @@
     ],
     "social_link": "https://github.com/985892345/",
     "stars": 2,
-    "version": "v0.0.0",
+    "version": "v0.0.1",
     "updated_at": "2026-03-18T15:31:14Z"
   },
   "astrbot_plugin_bili_autoreply": {
@@ -2891,7 +2892,7 @@
     ],
     "social_link": "https://github.com/NumInvis",
     "stars": 1,
-    "version": "v0.0.0",
+    "version": "1.0.0",
     "updated_at": "2026-03-14T08:14:09Z"
   },
   "astrbot_plugin_bettergemini": {
@@ -3532,8 +3533,7 @@
     "social_link": "https://github.com/satori5555",
     "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-02-28T08:05:33Z",
-    "logo": "https://raw.githubusercontent.com/satori5555/astrbot_plugin_pokemanpcr/main/logo.png"
+    "updated_at": "2026-02-28T08:05:33Z"
   },
   "astrbot_plugin_gta_queuesystem": {
     "name": "astrbot_plugin_gta_queuesystem",
