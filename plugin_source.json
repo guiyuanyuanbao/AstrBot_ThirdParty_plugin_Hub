@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_tts_sanitizer_bilingual": {
+    "name": "astrbot_plugin_tts_sanitizer_bilingual",
+    "display_name": "未审核：tts外语朗读",
+    "desc": "TTS文本过滤插件 - 支持双语TTS、语音Tool、MiniMax停顿标记，基于柯尔的tts_sanitizer扩展",
+    "author": "柠弥",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual",
+    "tags": [
+      "tts",
+      "翻译"
+    ],
+    "social_link": "https://github.com/chenluQwQ",
+    "stars": 1,
+    "version": "v1.6.0",
+    "updated_at": "2026-07-12T13:42:23Z",
+    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
+  },
   "astrbot_plugin_neko_care": {
     "name": "astrbot_plugin_neko_care",
     "display_name": "未审核：猫娘养成",
@@ -238,22 +254,6 @@
     "stars": 0,
     "version": "0.0.3",
     "updated_at": "2026-06-27T17:07:57Z"
-  },
-  "astrbot_plugin_tts_sanitizer_bilingual": {
-    "name": "astrbot_plugin_tts_sanitizer_bilingual",
-    "display_name": "未审核：tts外语朗读",
-    "desc": "TTS文本过滤插件 - 支持双语TTS、语音Tool、MiniMax停顿标记，基于柯尔的tts_sanitizer扩展",
-    "author": "柠弥",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual",
-    "tags": [
-      "tts",
-      "翻译"
-    ],
-    "social_link": "https://github.com/chenluQwQ",
-    "stars": 1,
-    "version": "v1.5.0",
-    "updated_at": "2026-06-27T14:24:26Z",
-    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
