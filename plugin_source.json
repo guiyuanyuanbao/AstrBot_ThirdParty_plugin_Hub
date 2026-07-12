@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_neko_care": {
+    "name": "astrbot_plugin_neko_care",
+    "display_name": "未审核：猫娘养成",
+    "desc": "猫娘养成 + 签到打工 + 经济系统、喂养互动、排行榜等丰富功能",
+    "author": "若梦",
+    "repo": "https://github.com/xiih/astrbot_plugin_neko_care",
+    "tags": [
+      "猫娘养成",
+      "养成系",
+      "经济系统"
+    ],
+    "social_link": "https://github.com/xiih",
+    "stars": 3,
+    "version": "1.5.6",
+    "updated_at": "2026-07-12T09:21:23Z",
+    "logo": "https://raw.githubusercontent.com/xiih/astrbot_plugin_neko_care/main/logo.png"
+  },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
     "display_name": "未审核：b站bot",
@@ -137,23 +154,6 @@
     "stars": 1,
     "version": "1.4.0",
     "updated_at": "2026-07-05T11:10:27Z"
-  },
-  "astrbot_plugin_neko_care": {
-    "name": "astrbot_plugin_neko_care",
-    "display_name": "未审核：猫娘养成",
-    "desc": "猫娘养成 + 签到打工 + 经济系统、喂养互动、排行榜等丰富功能",
-    "author": "若梦",
-    "repo": "https://github.com/xiih/astrbot_plugin_neko_care",
-    "tags": [
-      "猫娘养成",
-      "养成系",
-      "经济系统"
-    ],
-    "social_link": "https://github.com/xiih",
-    "stars": 3,
-    "version": "1.5.5",
-    "updated_at": "2026-07-05T10:13:37Z",
-    "logo": "https://raw.githubusercontent.com/xiih/astrbot_plugin_neko_care/main/logo.png"
   },
   "astrbot_plugin_df_helper": {
     "name": "astrbot_plugin_df_helper",
