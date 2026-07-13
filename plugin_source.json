@@ -1747,7 +1747,7 @@
     ],
     "social_link": "https://github.com/loong486",
     "stars": 1,
-    "version": "v1.2.0",
+    "version": "v0.0.0",
     "updated_at": "2026-04-03T06:23:39Z"
   },
   "astrbot_plugin_bsum": {
@@ -1836,7 +1836,7 @@
     ],
     "social_link": "https://github.com/MagicSun7940",
     "stars": 0,
-    "version": "1.4.5",
+    "version": "v0.0.0",
     "updated_at": "2026-04-02T06:40:15Z"
   },
   "astrbot_plugin_character_split": {
@@ -2175,7 +2175,7 @@
     "tags": [],
     "social_link": "https://github.com/yoyoakalin",
     "stars": 0,
-    "version": "1.0.0",
+    "version": "v0.0.0",
     "updated_at": "2026-03-26T08:31:42Z"
   },
   "astrbot_plugin_group_message_counter": {
@@ -3160,7 +3160,7 @@
     ],
     "social_link": "https://github.com/IwannaYuJie",
     "stars": 0,
-    "version": "0.2.1",
+    "version": "v0.0.0",
     "updated_at": "2026-03-09T09:52:38Z"
   },
   "astrbot_plugin_tool_enhancer": {
