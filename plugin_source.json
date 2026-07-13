@@ -272,7 +272,7 @@
     ],
     "social_link": "https://github.com/olozhika",
     "stars": 45,
-    "version": "v1.3.5",
+    "version": "v0.0.0",
     "updated_at": "2026-06-25T01:11:28Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
@@ -1303,7 +1303,7 @@
     ],
     "social_link": "https://github.com/existyay",
     "stars": 0,
-    "version": "v0.2.1",
+    "version": "v0.0.0",
     "updated_at": "2026-04-24T16:01:44Z"
   },
   "astrbot_plugin_llmsupport": {
@@ -1651,8 +1651,7 @@
     "social_link": "https://github.com/ZASENJC",
     "stars": 2,
     "version": "2.1.7",
-    "updated_at": "2026-04-05T02:27:25Z",
-    "logo": "https://raw.githubusercontent.com/ZASENJC/astrbot_plugin_weibo_push/main/logo.png"
+    "updated_at": "2026-04-05T02:27:25Z"
   },
   "astrbot_plugin_pic": {
     "name": "astrbot_plugin_pic",
@@ -1683,8 +1682,7 @@
     "social_link": "https://github.com/html5syt",
     "stars": 2,
     "version": "v1.1.0",
-    "updated_at": "2026-04-04T12:50:22Z",
-    "logo": "https://raw.githubusercontent.com/html5syt/astrbot_plugin_github_copilot/master/logo.png"
+    "updated_at": "2026-04-04T12:50:22Z"
   },
   "astrbot_plugin_token_tracker": {
     "name": "astrbot_plugin_token_tracker",
@@ -1747,7 +1745,7 @@
     ],
     "social_link": "https://github.com/loong486",
     "stars": 1,
-    "version": "v0.0.0",
+    "version": "v1.2.0",
     "updated_at": "2026-04-03T06:23:39Z"
   },
   "astrbot_plugin_bsum": {
@@ -1836,7 +1834,7 @@
     ],
     "social_link": "https://github.com/MagicSun7940",
     "stars": 0,
-    "version": "v0.0.0",
+    "version": "1.4.5",
     "updated_at": "2026-04-02T06:40:15Z"
   },
   "astrbot_plugin_character_split": {
@@ -2175,7 +2173,7 @@
     "tags": [],
     "social_link": "https://github.com/yoyoakalin",
     "stars": 0,
-    "version": "v0.0.0",
+    "version": "1.0.0",
     "updated_at": "2026-03-26T08:31:42Z"
   },
   "astrbot_plugin_group_message_counter": {
@@ -3160,7 +3158,7 @@
     ],
     "social_link": "https://github.com/IwannaYuJie",
     "stars": 0,
-    "version": "v0.0.0",
+    "version": "0.2.1",
     "updated_at": "2026-03-09T09:52:38Z"
   },
   "astrbot_plugin_tool_enhancer": {
