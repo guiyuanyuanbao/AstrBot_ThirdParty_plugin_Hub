@@ -494,7 +494,7 @@
       "webui"
     ],
     "social_link": "",
-    "stars": 3,
+    "stars": 4,
     "version": "v2.8.3",
     "updated_at": "2026-06-13T18:12:56Z",
     "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
@@ -2163,7 +2163,8 @@
     "social_link": "https://github.com/AdeleNaumann-Eyjafjalla",
     "stars": 0,
     "version": "2.4.8",
-    "updated_at": "2026-03-26T08:47:06Z"
+    "updated_at": "2026-03-26T08:47:06Z",
+    "logo": "https://raw.githubusercontent.com/AdeleNaumann-Eyjafjalla/astrbot_plugin_fishing/main/logo.png"
   },
   "astrbot_plugin_today_length": {
     "name": "astrbot_plugin_today_length",
@@ -3159,7 +3160,7 @@
     ],
     "social_link": "https://github.com/IwannaYuJie",
     "stars": 0,
-    "version": "v0.0.0",
+    "version": "0.2.1",
     "updated_at": "2026-03-09T09:52:38Z"
   },
   "astrbot_plugin_tool_enhancer": {
@@ -3641,7 +3642,7 @@
     ],
     "social_link": "https://github.com/jjghfd/",
     "stars": 0,
-    "version": "v0.0.0",
+    "version": "1.0.0",
     "updated_at": "2026-02-25T05:10:49Z"
   },
   "astrbot_plugin_smart_search": {
