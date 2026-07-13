@@ -272,7 +272,7 @@
     ],
     "social_link": "https://github.com/olozhika",
     "stars": 45,
-    "version": "v0.0.0",
+    "version": "v1.3.5",
     "updated_at": "2026-06-25T01:11:28Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
@@ -1303,7 +1303,7 @@
     ],
     "social_link": "https://github.com/existyay",
     "stars": 0,
-    "version": "v0.0.0",
+    "version": "v0.2.1",
     "updated_at": "2026-04-24T16:01:44Z"
   },
   "astrbot_plugin_llmsupport": {
@@ -1651,7 +1651,8 @@
     "social_link": "https://github.com/ZASENJC",
     "stars": 2,
     "version": "2.1.7",
-    "updated_at": "2026-04-05T02:27:25Z"
+    "updated_at": "2026-04-05T02:27:25Z",
+    "logo": "https://raw.githubusercontent.com/ZASENJC/astrbot_plugin_weibo_push/main/logo.png"
   },
   "astrbot_plugin_pic": {
     "name": "astrbot_plugin_pic",
@@ -1682,7 +1683,8 @@
     "social_link": "https://github.com/html5syt",
     "stars": 2,
     "version": "v1.1.0",
-    "updated_at": "2026-04-04T12:50:22Z"
+    "updated_at": "2026-04-04T12:50:22Z",
+    "logo": "https://raw.githubusercontent.com/html5syt/astrbot_plugin_github_copilot/master/logo.png"
   },
   "astrbot_plugin_token_tracker": {
     "name": "astrbot_plugin_token_tracker",
