@@ -9,7 +9,7 @@
     "social_link": "https://github.com/FineTortinita",
     "stars": 0,
     "version": "v1.8.0",
-    "updated_at": "2026-07-14T08:01:05Z"
+    "updated_at": "2026-07-14T08:11:40Z"
   },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
@@ -538,18 +538,6 @@
     "stars": 0,
     "version": "1.2.2",
     "updated_at": "2026-06-13T13:03:38Z"
-  },
-  "astrbot_plugin_comms_with_godot": {
-    "name": "astrbot_plugin_comms_with_godot",
-    "display_name": "未审核：建立Astrbot到Godot的通信",
-    "desc": "",
-    "author": "AuroraEvelynAria",
-    "repo": "https://github.com/AuroraEvelynAria/astrbot_plugin_comms_with_godot",
-    "tags": [],
-    "social_link": "https://github.com/AuroraEvelynAria",
-    "stars": 1,
-    "version": "v0.0.0",
-    "updated_at": "2026-06-12T16:00:13Z"
   },
   "astrbot_plugin_orchestrator": {
     "name": "astrbot_plugin_orchestrator",
