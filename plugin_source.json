@@ -1,4 +1,23 @@
 {
+  "astrbot_plugin_meme_api_python": {
+    "name": "astrbot_plugin_meme_api_python",
+    "display_name": "未审核：表情包制作插件api版",
+    "desc": "调用 meme-generator API，提供表情列表、详情、随机表情和制作表情能力。",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_meme_api_python",
+    "tags": [
+      "meme",
+      "api",
+      "表情包",
+      "表情制作",
+      "python"
+    ],
+    "social_link": "https://github.com/xiaoruange39",
+    "stars": 5,
+    "version": "0.2.7",
+    "updated_at": "2026-07-14T14:34:21Z",
+    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
+  },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
     "display_name": "未审核：枝江自动推送",
@@ -12,8 +31,8 @@
     ],
     "social_link": "https://github.com/LEN5010/",
     "stars": 2,
-    "version": "v3.1.0",
-    "updated_at": "2026-07-14T11:34:21Z",
+    "version": "v3.2.0",
+    "updated_at": "2026-07-14T12:44:25Z",
     "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
   },
   "astrbot_plugin_collectimage": {
@@ -385,25 +404,6 @@
     "version": "v1.0.1",
     "updated_at": "2026-06-21T06:43:45Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_silent_response/master/logo.png"
-  },
-  "astrbot_plugin_meme_api_python": {
-    "name": "astrbot_plugin_meme_api_python",
-    "display_name": "未审核：表情包制作插件api版",
-    "desc": "调用 meme-generator API，提供表情列表、详情、随机表情和制作表情能力。",
-    "author": "xiaoruange39",
-    "repo": "https://github.com/xiaoruange39/astrbot_plugin_meme_api_python",
-    "tags": [
-      "meme",
-      "api",
-      "表情包",
-      "表情制作",
-      "python"
-    ],
-    "social_link": "https://github.com/xiaoruange39",
-    "stars": 5,
-    "version": "0.2.7",
-    "updated_at": "2026-06-19T11:56:25Z",
-    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
   },
   "astrbot_plugin_self_open_llm_vtuber": {
     "name": "astrbot_plugin_self_open_llm_vtuber",
