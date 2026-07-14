@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_collectimage": {
+    "name": "astrbot_plugin_collectimage",
+    "display_name": "未审核：群聊图片手机",
+    "desc": "自动识别群聊图片内容、提取标签和角色，并实现本地持久化存储与检索。",
+    "author": "FineTortinita",
+    "repo": "https://github.com/FineTortinita/astrbot_plugin_collectimage",
+    "tags": [],
+    "social_link": "https://github.com/FineTortinita",
+    "stars": 0,
+    "version": "v1.8.0",
+    "updated_at": "2026-07-14T08:01:05Z"
+  },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
     "display_name": "未审核：QQ群智能守护者",
@@ -35,18 +47,6 @@
     "version": "v3.0.2",
     "updated_at": "2026-07-13T18:59:20Z",
     "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
-  },
-  "astrbot_plugin_collectimage": {
-    "name": "astrbot_plugin_collectimage",
-    "display_name": "未审核：群聊图片手机",
-    "desc": "自动识别群聊图片内容、提取标签和角色，并实现本地持久化存储与检索。",
-    "author": "FineTortinita",
-    "repo": "https://github.com/FineTortinita/astrbot_plugin_collectimage",
-    "tags": [],
-    "social_link": "https://github.com/FineTortinita",
-    "stars": 0,
-    "version": "v1.8.0",
-    "updated_at": "2026-07-13T16:05:51Z"
   },
   "astrbot_plugin_tts_sanitizer_bilingual": {
     "name": "astrbot_plugin_tts_sanitizer_bilingual",
