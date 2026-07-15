@@ -14,8 +14,8 @@
     ],
     "social_link": "https://github.com/xiaoruange39",
     "stars": 5,
-    "version": "0.2.7",
-    "updated_at": "2026-07-15T11:26:59Z",
+    "version": "0.2.8",
+    "updated_at": "2026-07-15T14:42:45Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
   },
   "astrbot_plugin_asoul": {
@@ -129,7 +129,7 @@
       "语义记忆"
     ],
     "social_link": "",
-    "stars": 20,
+    "stars": 21,
     "version": "1.3.1",
     "updated_at": "2026-07-12T02:19:32Z"
   },
