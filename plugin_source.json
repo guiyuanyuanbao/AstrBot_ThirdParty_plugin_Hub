@@ -15,8 +15,23 @@
     "social_link": "https://github.com/xiaoruange39",
     "stars": 5,
     "version": "0.2.7",
-    "updated_at": "2026-07-15T05:13:49Z",
+    "updated_at": "2026-07-15T08:06:59Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
+  },
+  "astrbot_plugin_autoissue": {
+    "name": "astrbot_plugin_autoissue",
+    "display_name": "未审核：Autoissue",
+    "desc": "回复合并转发消息并 @机器人 输入 issue，自动利用 LLM 提取内容并在 GitHub 仓库创建 Issue。",
+    "author": "zaixiZaixiSJTU",
+    "repo": "https://github.com/zaixiZaixiSJTU/astrbot_plugin_autoissue",
+    "tags": [
+      "GitHub",
+      "llm"
+    ],
+    "social_link": "https://github.com/zaixiZaixiSJTU",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-07-15T07:31:49Z"
   },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
@@ -464,21 +479,6 @@
     "stars": 0,
     "version": "v1.1.0",
     "updated_at": "2026-06-17T12:27:58Z"
-  },
-  "astrbot_plugin_autoissue": {
-    "name": "astrbot_plugin_autoissue",
-    "display_name": "未审核：Autoissue",
-    "desc": "回复合并转发消息并 @机器人 输入 issue，自动利用 LLM 提取内容并在 GitHub 仓库创建 Issue。",
-    "author": "zaixiZaixiSJTU",
-    "repo": "https://github.com/zaixiZaixiSJTU/astrbot_plugin_autoissue",
-    "tags": [
-      "GitHub",
-      "llm"
-    ],
-    "social_link": "https://github.com/zaixiZaixiSJTU",
-    "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2026-06-14T11:08:38Z"
   },
   "astrbot_plugin_group_wakepro": {
     "name": "astrbot_plugin_group_wakepro",
