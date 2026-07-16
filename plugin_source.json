@@ -807,8 +807,7 @@
     "social_link": "https://github.com/HSOS6",
     "stars": 4,
     "version": "v1.3.0",
-    "updated_at": "2026-05-27T13:37:33Z",
-    "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_qq_email_verify/main/logo.png"
+    "updated_at": "2026-05-27T13:37:33Z"
   },
   "astrbot_plugin_anti_memes": {
     "name": "astrbot_plugin_anti_memes",
@@ -1866,7 +1865,7 @@
     ],
     "social_link": "https://github.com/c99180013-sys",
     "stars": 0,
-    "version": "1.2.0",
+    "version": "v0.0.0",
     "updated_at": "2026-04-02T01:01:51Z"
   },
   "astrbot_plugin_command_passthrough": {
@@ -2517,7 +2516,7 @@
     ],
     "social_link": "https://github.com/Rikkawaii",
     "stars": 0,
-    "version": "v1.0.0",
+    "version": "v0.0.0",
     "updated_at": "2026-03-19T17:43:30Z"
   },
   "astrbot_plugin_silence_recognition": {
@@ -3000,7 +2999,7 @@
     ],
     "social_link": "https://github.com/sanqi-ya",
     "stars": 2,
-    "version": "1.0.0",
+    "version": "v0.0.0",
     "updated_at": "2026-03-11T09:35:55Z",
     "logo": "https://raw.githubusercontent.com/sanqi-ya/astrbot_plugin_qqfarm/main/logo.png"
   },
