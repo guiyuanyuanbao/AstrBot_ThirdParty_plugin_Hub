@@ -2191,19 +2191,6 @@
     "updated_at": "2026-03-25T22:04:55Z",
     "logo": "https://raw.githubusercontent.com/INstabliTY/astrbot_plugin_Information_Assistant/master/logo.png"
   },
-  "astrbot_plugin_plugin_help": {
-    "name": "astrbot_plugin_plugin_help",
-    "display_name": "未审核：插件指令帮助",
-    "desc": "对于大多数 bot 而言，所使用的插件都不会是仅一两个。插件多了便不好记忆具体插件及对应指令，本插件即用于查询 bot 所安装的插件及所包含的指令。",
-    "author": "vintro",
-    "repo": "https://github.com/vintro3/astrbot_plugin_plugin_help",
-    "tags": [],
-    "social_link": "https://github.com/vintro3",
-    "stars": 0,
-    "version": "v1.0",
-    "updated_at": "2026-03-25T11:01:14Z",
-    "logo": "https://raw.githubusercontent.com/vintro3/astrbot_plugin_plugin_help/master/logo.png"
-  },
   "astrbot_plugin_userbanorunban": {
     "name": "astrbot_plugin_userbanorunban",
     "display_name": "未审核：自动ban初始化超时的插件",
