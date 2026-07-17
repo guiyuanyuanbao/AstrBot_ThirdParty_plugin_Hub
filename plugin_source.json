@@ -1,4 +1,33 @@
 {
+  "astrbot_plugin_mood_of_the_moment": {
+    "name": "astrbot_plugin_mood_of_the_moment",
+    "display_name": "未审核：此刻的心情",
+    "desc": "视觉LLM驱动的自动偷图 AstrBot 表情包插件。",
+    "author": "Kalo",
+    "repo": "https://github.com/Kalospacer/astrbot_plugin_mood_of_the_moment",
+    "tags": [],
+    "social_link": "",
+    "stars": 0,
+    "version": "1.0.0",
+    "updated_at": "2026-07-17T10:31:24Z",
+    "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_mood_of_the_moment/master/logo.png"
+  },
+  "astrbot_plugin_discordtoqqtransfer": {
+    "name": "astrbot_plugin_discordtoqqtransfer",
+    "display_name": "未审核：DiscordToQQTransfer",
+    "desc": "一个用于在discord与qq之间转发与同步消息的 AstrBot 插件。",
+    "author": "mmyddd",
+    "repo": "https://github.com/mmyddd/astrbot_plugin_DiscordToQQTransfer",
+    "tags": [
+      "Discord",
+      "·消息转发"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-07-17T09:18:13Z",
+    "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
+  },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
     "display_name": "未审核：QQ群智能守护者",
@@ -18,22 +47,6 @@
     "version": "v2.7.2",
     "updated_at": "2026-07-17T03:08:29Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
-  },
-  "astrbot_plugin_discordtoqqtransfer": {
-    "name": "astrbot_plugin_discordtoqqtransfer",
-    "display_name": "未审核：DiscordToQQTransfer",
-    "desc": "一个用于在discord与qq之间转发与同步消息的 AstrBot 插件。",
-    "author": "mmyddd",
-    "repo": "https://github.com/mmyddd/astrbot_plugin_DiscordToQQTransfer",
-    "tags": [
-      "Discord",
-      "·消息转发"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-07-16T23:03:58Z",
-    "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
   },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
@@ -190,19 +203,6 @@
     "stars": 2,
     "version": "v7.2.2",
     "updated_at": "2026-07-08T13:13:46Z"
-  },
-  "astrbot_plugin_mood_of_the_moment": {
-    "name": "astrbot_plugin_mood_of_the_moment",
-    "display_name": "未审核：此刻的心情",
-    "desc": "视觉LLM驱动的自动偷图 AstrBot 表情包插件。",
-    "author": "Kalo",
-    "repo": "https://github.com/Kalospacer/astrbot_plugin_mood_of_the_moment",
-    "tags": [],
-    "social_link": "",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-07-05T17:16:03Z",
-    "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_mood_of_the_moment/master/logo.png"
   },
   "astrbot_plugin_minecraft": {
     "name": "astrbot_plugin_minecraft",
