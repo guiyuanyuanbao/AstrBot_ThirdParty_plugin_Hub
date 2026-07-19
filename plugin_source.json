@@ -623,7 +623,7 @@
       "告状"
     ],
     "social_link": "https://space.bilibili.com/702922307",
-    "stars": 2,
+    "stars": 3,
     "version": "v1.0.0",
     "updated_at": "2026-06-08T15:22:06Z"
   },
@@ -764,18 +764,6 @@
     "version": "1.6",
     "updated_at": "2026-05-29T15:24:34Z",
     "logo": "https://raw.githubusercontent.com/YOYOFeelings/astrbot_plugin_YOTO/main/logo.png"
-  },
-  "astrbot_plugin_image_anti_rc": {
-    "name": "astrbot_plugin_image_anti_rc",
-    "display_name": "未审核：图片反风控",
-    "desc": "发送图片前轻微扰动处理，从而对抗平台的哈希风控。",
-    "author": "Fold",
-    "repo": "https://github.com/FFFold/astrbot_plugin_image_anti_RC",
-    "tags": [],
-    "social_link": "https://github.com/FFFold",
-    "stars": 0,
-    "version": "0.2.1",
-    "updated_at": "2026-05-28T13:10:04Z"
   },
   "astrbot_plugin_nyxbot": {
     "name": "astrbot_plugin_nyxbot",
