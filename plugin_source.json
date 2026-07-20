@@ -1,22 +1,4 @@
 {
-  "astrbot_plugin_anti_memes": {
-    "name": "astrbot_plugin_anti_memes",
-    "display_name": "未审核：图片精准撤回助手",
-    "desc": "【仅支持基于 QQ 的 aiohttp / OneBot V11 平台】该插件基于 AstrBot，用于对指定用户发送的图片进行自动检测并触发撤回操作（需权限支持），适用于内容管理与群组秩序维护。支持自定义目标用户与规则配置。\n(Only supports QQ platforms based on aiohttp / OneBot V11.)This plugin for AstrBot monitors images sent by specified users and automatically recalls them (with proper permissions). It is designed for moderation and group management, with configurable targets and rules.",
-    "author": "Qrzzzz",
-    "repo": "https://github.com/Qrzzzz/astrbot_plugin_anti_memes",
-    "tags": [
-      "图片",
-      "vibe coding",
-      "屏蔽",
-      "消息处理",
-      "QQ"
-    ],
-    "social_link": "https://github.com/Qrzzzz",
-    "stars": 1,
-    "version": "1.3.0",
-    "updated_at": "2026-07-19T10:01:16Z"
-  },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
     "display_name": "未审核：QQ群智能守护者",
@@ -34,8 +16,26 @@
     "social_link": "https://github.com/zcj-ui/",
     "stars": 11,
     "version": "v2.7.2",
-    "updated_at": "2026-07-17T20:42:48Z",
+    "updated_at": "2026-07-20T05:50:29Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
+  },
+  "astrbot_plugin_anti_memes": {
+    "name": "astrbot_plugin_anti_memes",
+    "display_name": "未审核：图片精准撤回助手",
+    "desc": "【仅支持基于 QQ 的 aiohttp / OneBot V11 平台】该插件基于 AstrBot，用于对指定用户发送的图片进行自动检测并触发撤回操作（需权限支持），适用于内容管理与群组秩序维护。支持自定义目标用户与规则配置。\n(Only supports QQ platforms based on aiohttp / OneBot V11.)This plugin for AstrBot monitors images sent by specified users and automatically recalls them (with proper permissions). It is designed for moderation and group management, with configurable targets and rules.",
+    "author": "Qrzzzz",
+    "repo": "https://github.com/Qrzzzz/astrbot_plugin_anti_memes",
+    "tags": [
+      "图片",
+      "vibe coding",
+      "屏蔽",
+      "消息处理",
+      "QQ"
+    ],
+    "social_link": "https://github.com/Qrzzzz",
+    "stars": 1,
+    "version": "1.3.0",
+    "updated_at": "2026-07-19T10:01:16Z"
   },
   "astrbot_plugin_mood_of_the_moment": {
     "name": "astrbot_plugin_mood_of_the_moment",
