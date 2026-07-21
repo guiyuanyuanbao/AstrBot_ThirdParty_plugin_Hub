@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_discordtoqqtransfer": {
+    "name": "astrbot_plugin_discordtoqqtransfer",
+    "display_name": "未审核：DiscordToQQTransfer",
+    "desc": "一个用于在discord与qq之间转发与同步消息的 AstrBot 插件。",
+    "author": "mmyddd",
+    "repo": "https://github.com/mmyddd/astrbot_plugin_DiscordToQQTransfer",
+    "tags": [
+      "Discord",
+      "·消息转发"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-07-21T20:08:26Z",
+    "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
+  },
   "astrbot_plugin_df_helper": {
     "name": "astrbot_plugin_df_helper",
     "display_name": "未审核：矮人要塞攻略查询助手",
@@ -84,22 +100,6 @@
     "stars": 1,
     "version": "1.3.0",
     "updated_at": "2026-07-19T10:01:16Z"
-  },
-  "astrbot_plugin_discordtoqqtransfer": {
-    "name": "astrbot_plugin_discordtoqqtransfer",
-    "display_name": "未审核：DiscordToQQTransfer",
-    "desc": "一个用于在discord与qq之间转发与同步消息的 AstrBot 插件。",
-    "author": "mmyddd",
-    "repo": "https://github.com/mmyddd/astrbot_plugin_DiscordToQQTransfer",
-    "tags": [
-      "Discord",
-      "·消息转发"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-07-17T09:18:13Z",
-    "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
   },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
