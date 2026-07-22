@@ -1,4 +1,17 @@
 {
+  "astrbot_plugin_mood_of_the_moment": {
+    "name": "astrbot_plugin_mood_of_the_moment",
+    "display_name": "未审核：此刻的心情",
+    "desc": "视觉LLM驱动的自动偷图 AstrBot 表情包插件。",
+    "author": "Kalo",
+    "repo": "https://github.com/Kalospacer/astrbot_plugin_mood_of_the_moment",
+    "tags": [],
+    "social_link": "",
+    "stars": 0,
+    "version": "2.0.0",
+    "updated_at": "2026-07-22T22:12:52Z",
+    "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_mood_of_the_moment/master/logo.png"
+  },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
     "display_name": "未审核：MiMO TTS精细化控制",
@@ -13,19 +26,6 @@
     "stars": 1,
     "version": "v2.1.1",
     "updated_at": "2026-07-22T19:05:56Z"
-  },
-  "astrbot_plugin_mood_of_the_moment": {
-    "name": "astrbot_plugin_mood_of_the_moment",
-    "display_name": "未审核：此刻的心情",
-    "desc": "视觉LLM驱动的自动偷图 AstrBot 表情包插件。",
-    "author": "Kalo",
-    "repo": "https://github.com/Kalospacer/astrbot_plugin_mood_of_the_moment",
-    "tags": [],
-    "social_link": "",
-    "stars": 0,
-    "version": "2.0.0",
-    "updated_at": "2026-07-22T18:15:55Z",
-    "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_mood_of_the_moment/master/logo.png"
   },
   "astrbot_plugin_df_helper": {
     "name": "astrbot_plugin_df_helper",
