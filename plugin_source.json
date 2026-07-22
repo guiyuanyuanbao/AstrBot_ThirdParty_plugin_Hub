@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_asoul": {
+    "name": "astrbot_plugin_asoul",
+    "display_name": "未审核：枝江自动推送",
+    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
+    "author": "LEN5010",
+    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
+    "tags": [
+      "ASOUL",
+      "自动推送",
+      "信息推送"
+    ],
+    "social_link": "https://github.com/LEN5010/",
+    "stars": 2,
+    "version": "v3.5.0",
+    "updated_at": "2026-07-22T03:03:50Z",
+    "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
+  },
   "astrbot_plugin_discordtoqqtransfer": {
     "name": "astrbot_plugin_discordtoqqtransfer",
     "display_name": "未审核：DiscordToQQTransfer",
@@ -100,23 +117,6 @@
     "stars": 1,
     "version": "1.3.0",
     "updated_at": "2026-07-19T10:01:16Z"
-  },
-  "astrbot_plugin_asoul": {
-    "name": "astrbot_plugin_asoul",
-    "display_name": "未审核：枝江自动推送",
-    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
-    "author": "LEN5010",
-    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
-    "tags": [
-      "ASOUL",
-      "自动推送",
-      "信息推送"
-    ],
-    "social_link": "https://github.com/LEN5010/",
-    "stars": 2,
-    "version": "v3.2.0",
-    "updated_at": "2026-07-16T16:18:58Z",
-    "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
   },
   "astrbot_plugin_meme_api_python": {
     "name": "astrbot_plugin_meme_api_python",
@@ -926,7 +926,7 @@
       "情绪"
     ],
     "social_link": "",
-    "stars": 11,
+    "stars": 12,
     "version": "1.1.0",
     "updated_at": "2026-05-19T05:00:17Z"
   },
@@ -958,7 +958,7 @@
       "环境感知"
     ],
     "social_link": "",
-    "stars": 7,
+    "stars": 8,
     "version": "1.0.0",
     "updated_at": "2026-05-17T09:50:04Z"
   },
@@ -974,7 +974,7 @@
       "诗意"
     ],
     "social_link": "",
-    "stars": 9,
+    "stars": 10,
     "version": "1.0.0",
     "updated_at": "2026-05-17T09:50:00Z"
   },
@@ -991,7 +991,7 @@
       "环境"
     ],
     "social_link": "",
-    "stars": 6,
+    "stars": 7,
     "version": "1.1.0",
     "updated_at": "2026-05-17T09:49:58Z"
   },
@@ -1194,7 +1194,7 @@
       "书架"
     ],
     "social_link": "",
-    "stars": 13,
+    "stars": 14,
     "version": "2.0.0",
     "updated_at": "2026-04-30T15:06:26Z"
   },
