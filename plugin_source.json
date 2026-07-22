@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_df_helper": {
+    "name": "astrbot_plugin_df_helper",
+    "display_name": "未审核：矮人要塞攻略查询助手",
+    "desc": "Dwarf Fortress / 矮人要塞攻略查询助手",
+    "author": "GuHuiHeDaDao",
+    "repo": "https://github.com/GuHuiHeXiaoDao/astrbot_plugin_df",
+    "tags": [
+      "矮人要塞",
+      "df",
+      "攻略"
+    ],
+    "social_link": "https://space.bilibili.com/480131900",
+    "stars": 1,
+    "version": "1.1.1",
+    "updated_at": "2026-07-22T10:15:03Z",
+    "logo": "https://raw.githubusercontent.com/GuHuiHeXiaoDao/astrbot_plugin_df/main/logo.png"
+  },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
     "display_name": "未审核：枝江自动推送",
@@ -31,23 +48,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-07-21T20:08:26Z",
     "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
-  },
-  "astrbot_plugin_df_helper": {
-    "name": "astrbot_plugin_df_helper",
-    "display_name": "未审核：矮人要塞攻略查询助手",
-    "desc": "Dwarf Fortress / 矮人要塞攻略查询助手",
-    "author": "GuHuiHeDaDao",
-    "repo": "https://github.com/GuHuiHeXiaoDao/astrbot_plugin_df",
-    "tags": [
-      "矮人要塞",
-      "df",
-      "攻略"
-    ],
-    "social_link": "https://space.bilibili.com/480131900",
-    "stars": 1,
-    "version": "1.1.1",
-    "updated_at": "2026-07-21T15:18:34Z",
-    "logo": "https://raw.githubusercontent.com/GuHuiHeXiaoDao/astrbot_plugin_df/main/logo.png"
   },
   "astrbot_plugin_mood_of_the_moment": {
     "name": "astrbot_plugin_mood_of_the_moment",
