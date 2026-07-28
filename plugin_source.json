@@ -15,9 +15,40 @@
     ],
     "social_link": "https://github.com/zcj-ui/",
     "stars": 16,
-    "version": "v2.7.4",
-    "updated_at": "2026-07-28T10:09:09Z",
+    "version": "v2.7.5",
+    "updated_at": "2026-07-28T12:49:00Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
+  },
+  "astrbot_plugin_discordtoqqtransfer": {
+    "name": "astrbot_plugin_discordtoqqtransfer",
+    "display_name": "未审核：DiscordToQQTransfer",
+    "desc": "一个用于在discord与qq之间转发与同步消息的 AstrBot 插件。",
+    "author": "mmyddd",
+    "repo": "https://github.com/mmyddd/astrbot_plugin_DiscordToQQTransfer",
+    "tags": [
+      "Discord",
+      "·消息转发"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-07-28T11:23:06Z",
+    "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
+  },
+  "astrbot_plugin_asmrone_sub": {
+    "name": "astrbot_plugin_asmrone_sub",
+    "display_name": "未审核：ASMRONE_sub",
+    "desc": "推送ASMRONE的更新到群聊",
+    "author": "Joker42S",
+    "repo": "https://github.com/Joker42S/astrbot_plugin_asmrone_sub",
+    "tags": [
+      "asmr",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/Joker42S",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-07-28T10:55:50Z"
   },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
@@ -50,22 +81,6 @@
     "version": "1.0.0",
     "updated_at": "2026-07-27T13:33:04Z",
     "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
-  },
-  "astrbot_plugin_discordtoqqtransfer": {
-    "name": "astrbot_plugin_discordtoqqtransfer",
-    "display_name": "未审核：DiscordToQQTransfer",
-    "desc": "一个用于在discord与qq之间转发与同步消息的 AstrBot 插件。",
-    "author": "mmyddd",
-    "repo": "https://github.com/mmyddd/astrbot_plugin_DiscordToQQTransfer",
-    "tags": [
-      "Discord",
-      "·消息转发"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-07-26T00:51:13Z",
-    "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
   },
   "astrbot_plugin_df_helper": {
     "name": "astrbot_plugin_df_helper",
@@ -2860,21 +2875,6 @@
     "stars": 0,
     "version": "v0.1.1",
     "updated_at": "2026-03-13T19:16:30Z"
-  },
-  "astrbot_plugin_asmrone_sub": {
-    "name": "astrbot_plugin_asmrone_sub",
-    "display_name": "未审核：ASMRONE_sub",
-    "desc": "推送ASMRONE的更新到群聊",
-    "author": "Joker42S",
-    "repo": "https://github.com/Joker42S/astrbot_plugin_asmrone_sub",
-    "tags": [
-      "asmr",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/Joker42S",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-13T17:17:31Z"
   },
   "astrbot_plugin_qfwy-mofang": {
     "name": "astrbot_plugin_qfwy-mofang",
