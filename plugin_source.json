@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_discordtoqqtransfer": {
+    "name": "astrbot_plugin_discordtoqqtransfer",
+    "display_name": "未审核：DiscordToQQTransfer",
+    "desc": "一个用于在discord与qq之间转发与同步消息的 AstrBot 插件。",
+    "author": "mmyddd",
+    "repo": "https://github.com/mmyddd/astrbot_plugin_DiscordToQQTransfer",
+    "tags": [
+      "Discord",
+      "·消息转发"
+    ],
+    "social_link": "",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-07-29T07:46:45Z",
+    "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
+  },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
     "display_name": "未审核：枝江自动推送",
@@ -34,22 +50,6 @@
     "version": "0.2.9",
     "updated_at": "2026-07-29T03:20:43Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
-  },
-  "astrbot_plugin_discordtoqqtransfer": {
-    "name": "astrbot_plugin_discordtoqqtransfer",
-    "display_name": "未审核：DiscordToQQTransfer",
-    "desc": "一个用于在discord与qq之间转发与同步消息的 AstrBot 插件。",
-    "author": "mmyddd",
-    "repo": "https://github.com/mmyddd/astrbot_plugin_DiscordToQQTransfer",
-    "tags": [
-      "Discord",
-      "·消息转发"
-    ],
-    "social_link": "",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-07-29T02:34:35Z",
-    "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
   },
   "astrbot_plugin_group_guardian": {
     "name": "astrbot_plugin_group_guardian",
@@ -340,23 +340,6 @@
     "version": "0.1.0",
     "updated_at": "2026-07-04T10:14:01Z"
   },
-  "astrbot_plugin_adapter_watchdog": {
-    "name": "astrbot_plugin_adapter_watchdog",
-    "display_name": "未审核：适配器看门狗",
-    "desc": "监控平台适配器在线状态，掉线或恢复时将发送通知。",
-    "author": "Foolllll",
-    "repo": "https://github.com/Foolllll-J/astrbot_plugin_adapter_watchdog",
-    "tags": [
-      "掉线",
-      "QQ",
-      "监控"
-    ],
-    "social_link": "https://github.com/Foolllll-J",
-    "stars": 1,
-    "version": "v1.3",
-    "updated_at": "2026-06-29T09:55:45Z",
-    "logo": "https://raw.githubusercontent.com/Foolllll-J/astrbot_plugin_adapter_watchdog/master/logo.png"
-  },
   "astrbot_dg_lab_ultra_plugin": {
     "name": "astrbot_dg_lab_ultra_plugin",
     "display_name": "未审核：郊狼API控制插件",
@@ -554,7 +537,7 @@
       "webui"
     ],
     "social_link": "",
-    "stars": 4,
+    "stars": 5,
     "version": "v2.8.3",
     "updated_at": "2026-06-13T18:12:56Z",
     "logo": "https://raw.githubusercontent.com/JREion/astrbot_plugin_smart_imagechat_hub/main/logo.png"
