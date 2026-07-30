@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_tattle": {
+    "name": "astrbot_plugin_tattle",
+    "display_name": "未审核：LLM 告状机",
+    "desc": "当LLM需要告状的时候，会调用注册的函数工具complain_to_receivers向指定列表人进行告状。",
+    "author": "AlanBacker",
+    "repo": "https://github.com/AlanBacker/astrbot_plugin_tattle",
+    "tags": [
+      "函数工具",
+      "安全",
+      "告状"
+    ],
+    "social_link": "https://space.bilibili.com/702922307",
+    "stars": 3,
+    "version": "v1.1.0",
+    "updated_at": "2026-07-30T04:52:54Z"
+  },
   "astrbot_plugin_discordtoqqtransfer": {
     "name": "astrbot_plugin_discordtoqqtransfer",
     "display_name": "未审核：DiscordToQQTransfer",
@@ -626,22 +642,6 @@
     "stars": 0,
     "version": "v0.2.1",
     "updated_at": "2026-06-09T13:17:34Z"
-  },
-  "astrbot_plugin_tattle": {
-    "name": "astrbot_plugin_tattle",
-    "display_name": "未审核：LLM 告状机",
-    "desc": "当LLM需要告状的时候，会调用注册的函数工具complain_to_receivers向指定列表人进行告状。",
-    "author": "AlanBacker",
-    "repo": "https://github.com/AlanBacker/astrbot_plugin_tattle",
-    "tags": [
-      "函数工具",
-      "安全",
-      "告状"
-    ],
-    "social_link": "https://space.bilibili.com/702922307",
-    "stars": 3,
-    "version": "v1.0.0",
-    "updated_at": "2026-06-08T15:22:06Z"
   },
   "astrbot_plugin_smart_group_verify": {
     "name": "astrbot_plugin_smart_group_verify",
