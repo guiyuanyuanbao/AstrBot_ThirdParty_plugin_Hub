@@ -12,8 +12,20 @@
     "social_link": "",
     "stars": 1,
     "version": "v1.0.0",
-    "updated_at": "2026-07-30T10:54:29Z",
+    "updated_at": "2026-07-30T12:54:28Z",
     "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
+  },
+  "astrbot_plugin_suanle_bushuo": {
+    "name": "astrbot_plugin_suanle_bushuo",
+    "display_name": "未审核：算了不说了",
+    "desc": "让 LLM 可以选择沉默, 并让黑名单用户只能进入上下文但无法触发回复。",
+    "author": "木有知",
+    "repo": "https://github.com/muyouzhi6/astrbot_plugin_suanle_bushuo",
+    "tags": [],
+    "social_link": "https://github.com/muyouzhi6",
+    "stars": 1,
+    "version": "v0.1.4",
+    "updated_at": "2026-07-30T12:23:34Z"
   },
   "astrbot_plugin_pic": {
     "name": "astrbot_plugin_pic",
@@ -30,18 +42,6 @@
     "stars": 0,
     "version": "v1.6.3",
     "updated_at": "2026-07-30T09:09:47Z"
-  },
-  "astrbot_plugin_suanle_bushuo": {
-    "name": "astrbot_plugin_suanle_bushuo",
-    "display_name": "未审核：算了不说了",
-    "desc": "让 LLM 可以选择沉默, 并让黑名单用户只能进入上下文但无法触发回复。",
-    "author": "木有知",
-    "repo": "https://github.com/muyouzhi6/astrbot_plugin_suanle_bushuo",
-    "tags": [],
-    "social_link": "https://github.com/muyouzhi6",
-    "stars": 1,
-    "version": "v0.1.2",
-    "updated_at": "2026-07-30T07:43:19Z"
   },
   "astrbot_plugin_novel_generator": {
     "name": "astrbot_plugin_novel_generator",
@@ -3377,22 +3377,6 @@
     "stars": 6,
     "version": "1.0.0",
     "updated_at": "2026-03-01T14:16:49Z"
-  },
-  "astrbot_plugin_liars_bar_basic": {
-    "name": "astrbot_plugin_liars_bar_basic",
-    "display_name": "未审核：骗子酒馆游戏",
-    "desc": "QQ群聊可玩的骗子酒馆基础版：3~5人、私聊暗牌、多牌出牌、剪线淘汰、目标牌小局图。",
-    "author": "金幺",
-    "repo": "https://github.com/wangyingxuan383-ai/astrbot_plugin_liars_bar_basic",
-    "tags": [
-      "游戏",
-      "社交",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/wangyingxuan383-ai",
-    "stars": 0,
-    "version": "v0.2.0",
-    "updated_at": "2026-03-01T12:26:28Z"
   },
   "astrbot_plugin_serverinfo": {
     "name": "astrbot_plugin_serverinfo",
