@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_steam_watch_status": {
+    "name": "astrbot_plugin_steam_watch_status",
+    "display_name": "未审核：Steam 状态监控",
+    "desc": "Steam 游戏更新推送，好友状态监控，历史价格查询",
+    "author": "moemoli",
+    "repo": "https://github.com/moemoli/astrbot_plugin_steam_watch_status",
+    "tags": [
+      "steam"
+    ],
+    "social_link": "",
+    "stars": 0,
+    "version": "v0.1.0",
+    "updated_at": "2026-08-01T11:55:27Z",
+    "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_steam_watch_status/master/logo.png"
+  },
   "astrbot_plugin_nailong": {
     "name": "astrbot_plugin_nailong",
     "display_name": "未审核：奶龙波特",
@@ -1080,21 +1095,6 @@
     "version": "1.0.0",
     "updated_at": "2026-05-12T03:50:13Z",
     "logo": "https://raw.githubusercontent.com/MMaltSugar/astrbot_plugin_avatar_manager/main/logo.png"
-  },
-  "astrbot_plugin_steam_watch_status": {
-    "name": "astrbot_plugin_steam_watch_status",
-    "display_name": "未审核：Steam 状态监控",
-    "desc": "Steam 游戏更新推送，好友状态监控，历史价格查询",
-    "author": "moemoli",
-    "repo": "https://github.com/moemoli/astrbot_plugin_steam_watch_status",
-    "tags": [
-      "steam"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v0.1.0",
-    "updated_at": "2026-05-11T11:48:07Z",
-    "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_steam_watch_status/master/logo.png"
   },
   "astrbot_plugin_media_portal": {
     "name": "astrbot_plugin_media_portal",
