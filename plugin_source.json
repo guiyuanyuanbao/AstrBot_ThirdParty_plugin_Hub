@@ -15,7 +15,8 @@
     "social_link": "",
     "stars": 29,
     "version": "1.3.2",
-    "updated_at": "2026-08-02T17:58:44Z"
+    "updated_at": "2026-08-02T18:18:20Z",
+    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot/main/logo.png"
   },
   "astrbot_plugin_custom_api": {
     "name": "astrbot_plugin_custom_api",
