@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_pic": {
+    "name": "astrbot_plugin_pic",
+    "display_name": "未审核：我要看图",
+    "desc": "一款基于栗次元等 API的随机看图插件。 改自https://github.com/ttq7/astrbot_plugin_Lolicon",
+    "author": "ImNotBird",
+    "repo": "https://github.com/ImNotBird/astrbot_plugin_Pic",
+    "tags": [
+      "二次元",
+      "看图",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/ImNotBird",
+    "stars": 1,
+    "version": "v1.6.5",
+    "updated_at": "2026-08-02T12:50:34Z"
+  },
   "astrbot_plugin_custom_api": {
     "name": "astrbot_plugin_custom_api",
     "display_name": "未审核：自定义API管理",
@@ -11,7 +27,7 @@
     "social_link": "https://github.com/Fishskys",
     "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-08-02T09:36:17Z",
+    "updated_at": "2026-08-02T11:48:30Z",
     "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
   },
   "astrbot_plugin_steam_watch_status": {
@@ -40,22 +56,6 @@
     "stars": 7,
     "version": "v1.3.0",
     "updated_at": "2026-07-31T14:16:26Z"
-  },
-  "astrbot_plugin_pic": {
-    "name": "astrbot_plugin_pic",
-    "display_name": "未审核：我要看图",
-    "desc": "一款基于栗次元等 API的随机看图插件。 改自https://github.com/ttq7/astrbot_plugin_Lolicon",
-    "author": "ImNotBird",
-    "repo": "https://github.com/ImNotBird/astrbot_plugin_Pic",
-    "tags": [
-      "二次元",
-      "看图",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/ImNotBird",
-    "stars": 1,
-    "version": "v1.6.3",
-    "updated_at": "2026-07-31T03:23:58Z"
   },
   "astrbot_plugin_discordtoqqtransfer": {
     "name": "astrbot_plugin_discordtoqqtransfer",
