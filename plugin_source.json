@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_custom_api": {
+    "name": "astrbot_plugin_custom_api",
+    "display_name": "未审核：自定义API管理",
+    "desc": "支持多样化的外部API调用，可处理文本、图片、语音和视频类型API，支持自定义参数配置，关键词触发调用",
+    "author": "Fishskys",
+    "repo": "https://github.com/Fishskys/astrbot_plugin_custom_api",
+    "tags": [
+      "api"
+    ],
+    "social_link": "https://github.com/Fishskys",
+    "stars": 1,
+    "version": "1.0.0",
+    "updated_at": "2026-08-02T09:36:17Z",
+    "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
+  },
   "astrbot_plugin_steam_watch_status": {
     "name": "astrbot_plugin_steam_watch_status",
     "display_name": "未审核：Steam 状态监控",
@@ -173,21 +188,6 @@
     "version": "v2.7.6",
     "updated_at": "2026-07-28T12:53:50Z",
     "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
-  },
-  "astrbot_plugin_custom_api": {
-    "name": "astrbot_plugin_custom_api",
-    "display_name": "未审核：自定义API管理",
-    "desc": "支持多样化的外部API调用，可处理文本、图片、语音和视频类型API，支持自定义参数配置，关键词触发调用",
-    "author": "Fishskys",
-    "repo": "https://github.com/Fishskys/astrbot_plugin_custom_api",
-    "tags": [
-      "api"
-    ],
-    "social_link": "https://github.com/Fishskys",
-    "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2026-07-27T13:33:04Z",
-    "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
   },
   "astrbot_plugin_df_helper": {
     "name": "astrbot_plugin_df_helper",
