@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_pic": {
+    "name": "astrbot_plugin_pic",
+    "display_name": "未审核：我要看图",
+    "desc": "一款基于栗次元等 API的随机看图插件。 改自https://github.com/ttq7/astrbot_plugin_Lolicon",
+    "author": "ImNotBird",
+    "repo": "https://github.com/ImNotBird/astrbot_plugin_Pic",
+    "tags": [
+      "二次元",
+      "看图",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/ImNotBird",
+    "stars": 1,
+    "version": "v1.6.7",
+    "updated_at": "2026-08-03T02:51:40Z"
+  },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
     "display_name": "未审核：b站bot",
@@ -32,22 +48,6 @@
     "version": "1.0.0",
     "updated_at": "2026-08-02T15:46:10Z",
     "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
-  },
-  "astrbot_plugin_pic": {
-    "name": "astrbot_plugin_pic",
-    "display_name": "未审核：我要看图",
-    "desc": "一款基于栗次元等 API的随机看图插件。 改自https://github.com/ttq7/astrbot_plugin_Lolicon",
-    "author": "ImNotBird",
-    "repo": "https://github.com/ImNotBird/astrbot_plugin_Pic",
-    "tags": [
-      "二次元",
-      "看图",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/ImNotBird",
-    "stars": 1,
-    "version": "v1.6.5",
-    "updated_at": "2026-08-02T12:50:34Z"
   },
   "astrbot_plugin_steam_watch_status": {
     "name": "astrbot_plugin_steam_watch_status",
@@ -1004,7 +1004,7 @@
       "诗意"
     ],
     "social_link": "",
-    "stars": 12,
+    "stars": 13,
     "version": "1.0.0",
     "updated_at": "2026-05-17T09:50:00Z"
   },
@@ -1751,20 +1751,6 @@
     "stars": 0,
     "version": "v0.8.1",
     "updated_at": "2026-04-02T17:01:19Z"
-  },
-  "astrbot_plugin_screenshot": {
-    "name": "astrbot_plugin_screenshot",
-    "display_name": "未审核：截图分析插件",
-    "desc": "高稳定全屏截图与 AI 视觉分析工具（完美适配 Win11 DPI 缩放）",
-    "author": "KONEHWS",
-    "repo": "https://github.com/KONEWS/astrbot_plugin_screenshot",
-    "tags": [
-      "工具"
-    ],
-    "social_link": "https://github.com/KONEWS",
-    "stars": 0,
-    "version": "1.2.2",
-    "updated_at": "2026-04-02T16:40:28Z"
   },
   "astrbot_plugin_plugin_finder": {
     "name": "astrbot_plugin_plugin_finder",
