@@ -1,4 +1,37 @@
 {
+  "astrbot_plugin_streamchunk": {
+    "name": "astrbot_plugin_streamchunk",
+    "display_name": "未审核：StreamChunk",
+    "desc": "为不支持流式的平台提供流式消息缓冲和分段功能。",
+    "author": "MUKAPP",
+    "repo": "https://github.com/MUKAPP/astrbot_plugin_streamchunk",
+    "tags": [
+      "流式",
+      "流式传输",
+      "分段"
+    ],
+    "social_link": "https://github.com/MUKAPP",
+    "stars": 0,
+    "version": "v1.0.4",
+    "updated_at": "2026-08-03T13:22:49Z"
+  },
+  "astrbot_plugin_asoul": {
+    "name": "astrbot_plugin_asoul",
+    "display_name": "未审核：枝江自动推送",
+    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
+    "author": "LEN5010",
+    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
+    "tags": [
+      "ASOUL",
+      "自动推送",
+      "信息推送"
+    ],
+    "social_link": "https://github.com/LEN5010/",
+    "stars": 3,
+    "version": "v3.9.2",
+    "updated_at": "2026-08-03T13:21:28Z",
+    "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
+  },
   "astrbot_plugin_mood_of_the_moment": {
     "name": "astrbot_plugin_mood_of_the_moment",
     "display_name": "未审核：此刻的心情",
@@ -164,23 +197,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-07-29T12:07:48Z"
-  },
-  "astrbot_plugin_asoul": {
-    "name": "astrbot_plugin_asoul",
-    "display_name": "未审核：枝江自动推送",
-    "desc": "自动推送枝江成员B站信息\n查询今日/明日直播并以图片形式推送",
-    "author": "LEN5010",
-    "repo": "https://github.com/LEN5010/astrbot_plugin_asoul",
-    "tags": [
-      "ASOUL",
-      "自动推送",
-      "信息推送"
-    ],
-    "social_link": "https://github.com/LEN5010/",
-    "stars": 3,
-    "version": "v3.9.2",
-    "updated_at": "2026-07-29T05:19:40Z",
-    "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
   },
   "astrbot_plugin_meme_api_python": {
     "name": "astrbot_plugin_meme_api_python",
@@ -2279,34 +2295,6 @@
     "stars": 1,
     "version": "3.9.15",
     "updated_at": "2026-03-23T11:07:30Z"
-  },
-  "astrbot_plugin_streamchunk": {
-    "name": "astrbot_plugin_streamchunk",
-    "display_name": "未审核：StreamChunk",
-    "desc": "为不支持流式的平台提供流式消息缓冲和分段功能。",
-    "author": "MUKAPP",
-    "repo": "https://github.com/MUKAPP/astrbot_plugin_streamchunk",
-    "tags": [
-      "流式",
-      "流式传输",
-      "分段"
-    ],
-    "social_link": "https://github.com/MUKAPP",
-    "stars": 0,
-    "version": "v1.0.3",
-    "updated_at": "2026-03-23T10:15:47Z"
-  },
-  "astrbot_plugin_minimax_music": {
-    "name": "astrbot_plugin_minimax_music",
-    "display_name": "未审核：minimax音乐生成",
-    "desc": "astrbot_plugin_minimax_music 是一款基于 Astrbot 并利用 MiniMax API 的音乐生成插件。它允许用户通过提供风格提示词和歌词，快速生成自定义风格的音乐片段，并将音频发送回聊天。",
-    "author": "传说中的某猫",
-    "repo": "https://github.com/byydzh/astrbot_plugin_minimax_music",
-    "tags": [],
-    "social_link": "https://github.com/byydzh",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-23T09:11:02Z"
   },
   "astrbot_plugin_hwinfo": {
     "name": "astrbot_plugin_hwinfo",
