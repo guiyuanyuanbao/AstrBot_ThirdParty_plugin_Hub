@@ -1,4 +1,36 @@
 {
+  "astrbot_plugin_point_system": {
+    "name": "astrbot_plugin_point_system",
+    "display_name": "未审核：群积分助手",
+    "desc": "群积分助手。支持每日签到、活跃奖励、个人积分查询、按群排行榜，以及个人抽奖、群体抽奖、日期口令奖励、自动备份、兑换头衔、设精和禁言等群互动功能。",
+    "author": "menglimi",
+    "repo": "https://github.com/menglimi/astrbot_plugin_point_system",
+    "tags": [
+      "积分",
+      "签到",
+      "群聊"
+    ],
+    "social_link": "https://github.com/menglimi",
+    "stars": 2,
+    "version": "2.0.0",
+    "updated_at": "2026-08-04T18:26:01Z"
+  },
+  "astrbot_plugin_bili_parser": {
+    "name": "astrbot_plugin_bili_parser",
+    "display_name": "未审核：又一个哔哩哔哩链接解析",
+    "desc": "解析 bilibili 视频、番剧、直播、专栏、音频等链接，并生成预览卡片。",
+    "author": "jkfujr",
+    "repo": "https://github.com/jkfujr/astrbot_plugin_bili_parser",
+    "tags": [
+      "bilibili",
+      "哔哩哔哩",
+      "解析"
+    ],
+    "social_link": "https://github.com/jkfujr",
+    "stars": 0,
+    "version": "0.0.3",
+    "updated_at": "2026-08-04T17:48:33Z"
+  },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
     "display_name": "未审核：枝江自动推送",
@@ -347,22 +379,6 @@
     "stars": 4,
     "version": "v3.1.1",
     "updated_at": "2026-06-27T18:00:44Z"
-  },
-  "astrbot_plugin_bili_parser": {
-    "name": "astrbot_plugin_bili_parser",
-    "display_name": "未审核：又一个哔哩哔哩链接解析",
-    "desc": "解析 bilibili 视频、番剧、直播、专栏、音频等链接，并生成预览卡片。",
-    "author": "jkfujr",
-    "repo": "https://github.com/jkfujr/astrbot_plugin_bili_parser",
-    "tags": [
-      "bilibili",
-      "哔哩哔哩",
-      "解析"
-    ],
-    "social_link": "https://github.com/jkfujr",
-    "stars": 0,
-    "version": "0.0.3",
-    "updated_at": "2026-06-27T17:07:57Z"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
@@ -1695,22 +1711,6 @@
     "stars": 1,
     "version": "v1.3.0",
     "updated_at": "2026-04-01T10:06:03Z"
-  },
-  "astrbot_plugin_point_system": {
-    "name": "astrbot_plugin_point_system",
-    "display_name": "未审核：群积分助手",
-    "desc": "群积分助手。支持每日签到、活跃奖励、个人积分查询、按群排行榜，以及个人抽奖、群体抽奖、日期口令奖励、自动备份、兑换头衔、设精和禁言等群互动功能。",
-    "author": "menglimi",
-    "repo": "https://github.com/menglimi/astrbot_plugin_point_system",
-    "tags": [
-      "积分",
-      "签到",
-      "群聊"
-    ],
-    "social_link": "https://github.com/menglimi",
-    "stars": 1,
-    "version": "1.8.6",
-    "updated_at": "2026-03-31T17:13:12Z"
   },
   "astrbot_plugin_ctfpusher": {
     "name": "astrbot_plugin_ctfpusher",
