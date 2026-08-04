@@ -12,8 +12,8 @@
     ],
     "social_link": "https://github.com/MUKAPP",
     "stars": 0,
-    "version": "v1.0.4",
-    "updated_at": "2026-08-03T13:22:49Z"
+    "version": "v1.0.5",
+    "updated_at": "2026-08-04T00:47:32Z"
   },
   "astrbot_plugin_asoul": {
     "name": "astrbot_plugin_asoul",
@@ -150,39 +150,6 @@
     "version": "v0.1.4",
     "updated_at": "2026-07-30T12:23:34Z"
   },
-  "astrbot_plugin_novel_generator": {
-    "name": "astrbot_plugin_novel_generator",
-    "display_name": "未审核：小说创作Agent",
-    "desc": "一个基于 AstrBot Agent 的小说创作与管理插件，自主管理角色、大纲、章节等结构化数据",
-    "author": "Leafiber",
-    "repo": "https://github.com/leafliber/astrbot_plugin_novel_generator",
-    "tags": [
-      "小说",
-      "创作",
-      "Agent"
-    ],
-    "social_link": "https://github.com/leafliber",
-    "stars": 1,
-    "version": "0.2.1",
-    "updated_at": "2026-07-30T06:29:20Z",
-    "logo": "https://raw.githubusercontent.com/leafliber/astrbot_plugin_novel_generator/main/logo.png"
-  },
-  "astrbot_plugin_tattle": {
-    "name": "astrbot_plugin_tattle",
-    "display_name": "未审核：LLM 告状机",
-    "desc": "当LLM需要告状的时候，会调用注册的函数工具complain_to_receivers向指定列表人进行告状。",
-    "author": "AlanBacker",
-    "repo": "https://github.com/AlanBacker/astrbot_plugin_tattle",
-    "tags": [
-      "函数工具",
-      "安全",
-      "告状"
-    ],
-    "social_link": "https://space.bilibili.com/702922307",
-    "stars": 3,
-    "version": "v1.1.0",
-    "updated_at": "2026-07-30T04:52:54Z"
-  },
   "astrbot_plugin_asmrone_sub": {
     "name": "astrbot_plugin_asmrone_sub",
     "display_name": "未审核：ASMRONE_sub",
@@ -216,26 +183,6 @@
     "version": "0.2.9",
     "updated_at": "2026-07-29T03:20:43Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
-  },
-  "astrbot_plugin_group_guardian": {
-    "name": "astrbot_plugin_group_guardian",
-    "display_name": "未审核：QQ群智能守护者",
-    "desc": "集28项群管功能与AI智能审核于一体的综合群管理插件。支持禁言/踢人/全体禁言/群名片/公告/群文件/精华消息/群打卡等完整群管工具集；内置智能审核系统：正则初筛+30条上下文+LLM二次判断，精准识别骂人/广告/色情/暴恐/涉枪涉爆/政治敏感/违规网址等违规内容；支持合并转发消息审核、OCR识图审核（3种内置提示词模板+自定义提示词+WebUI下拉选择视觉模型）、QQ收藏/JSON卡片自动撤回；支持外置SQLite词库，每个功能独立开关，群白名单/黑名单，管理员免检测，可指定审核专用LLM，WebUI管理面板实时监控。",
-    "author": "zhaisir",
-    "repo": "https://github.com/zcj-ui/astrbot_plugin_group_guardian",
-    "tags": [
-      "群管",
-      "QQ",
-      "AI审核",
-      "OCR识图",
-      "自动撤回",
-      "WebUI面板"
-    ],
-    "social_link": "https://github.com/zcj-ui/",
-    "stars": 17,
-    "version": "v2.7.6",
-    "updated_at": "2026-07-28T12:53:50Z",
-    "logo": "https://raw.githubusercontent.com/zcj-ui/astrbot_plugin_group_guardian/main/logo.png"
   },
   "astrbot_plugin_df_helper": {
     "name": "astrbot_plugin_df_helper",
@@ -307,39 +254,6 @@
     "version": "v2.1.1",
     "updated_at": "2026-07-22T19:05:56Z"
   },
-  "astrbot_plugin_anti_memes": {
-    "name": "astrbot_plugin_anti_memes",
-    "display_name": "未审核：图片精准撤回助手",
-    "desc": "【仅支持基于 QQ 的 aiohttp / OneBot V11 平台】该插件基于 AstrBot，用于对指定用户发送的图片进行自动检测并触发撤回操作（需权限支持），适用于内容管理与群组秩序维护。支持自定义目标用户与规则配置。\n(Only supports QQ platforms based on aiohttp / OneBot V11.)This plugin for AstrBot monitors images sent by specified users and automatically recalls them (with proper permissions). It is designed for moderation and group management, with configurable targets and rules.",
-    "author": "Qrzzzz",
-    "repo": "https://github.com/Qrzzzz/astrbot_plugin_anti_memes",
-    "tags": [
-      "图片",
-      "vibe coding",
-      "屏蔽",
-      "消息处理",
-      "QQ"
-    ],
-    "social_link": "https://github.com/Qrzzzz",
-    "stars": 1,
-    "version": "1.3.0",
-    "updated_at": "2026-07-19T10:01:16Z"
-  },
-  "astrbot_plugin_autoissue": {
-    "name": "astrbot_plugin_autoissue",
-    "display_name": "未审核：Autoissue",
-    "desc": "回复合并转发消息并 @机器人 输入 issue，自动利用 LLM 提取内容并在 GitHub 仓库创建 Issue。",
-    "author": "zaixiZaixiSJTU",
-    "repo": "https://github.com/zaixiZaixiSJTU/astrbot_plugin_autoissue",
-    "tags": [
-      "GitHub",
-      "llm"
-    ],
-    "social_link": "https://github.com/zaixiZaixiSJTU",
-    "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2026-07-15T07:31:49Z"
-  },
   "astrbot_plugin_collectimage": {
     "name": "astrbot_plugin_collectimage",
     "display_name": "未审核：群聊图片手机",
@@ -400,19 +314,6 @@
     "updated_at": "2026-07-10T12:32:25Z",
     "logo": "https://raw.githubusercontent.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist/main/logo.png"
   },
-  "astrbot_plugin_minecraft": {
-    "name": "astrbot_plugin_minecraft",
-    "display_name": "未审核：我的世界",
-    "desc": "我的世界Astrbot简易插件版",
-    "author": "Zhalslar",
-    "repo": "https://github.com/Zhalslar/astrbot_plugin_minecraft",
-    "tags": [],
-    "social_link": "https://github.com/Zhalslar",
-    "stars": 1,
-    "version": "v0.0.2",
-    "updated_at": "2026-07-05T12:48:11Z",
-    "logo": "https://raw.githubusercontent.com/Zhalslar/astrbot_plugin_minecraft/main/logo.png"
-  },
   "astrbot_plugin_talkative_king": {
     "name": "astrbot_plugin_talkative_king",
     "display_name": "未审核：话痨王 (Talkative King)",
@@ -428,22 +329,6 @@
     "stars": 1,
     "version": "1.4.0",
     "updated_at": "2026-07-05T11:10:27Z"
-  },
-  "astrbot_plugin_manager": {
-    "name": "astrbot_plugin_manager",
-    "display_name": "未审核：插件管理助手",
-    "desc": "在聊天中管理 AstrBot 插件：查看列表、启停、重载、安装、卸载、更新",
-    "author": "小红蛋",
-    "repo": "https://github.com/NekoAiDev/astrbot_plugin_manager",
-    "tags": [
-      "工具",
-      "管理助手",
-      "管理插件"
-    ],
-    "social_link": "nekoaidev.top",
-    "stars": 1,
-    "version": "0.1.0",
-    "updated_at": "2026-07-04T10:14:01Z"
   },
   "astrbot_dg_lab_ultra_plugin": {
     "name": "astrbot_dg_lab_ultra_plugin",
@@ -658,51 +543,6 @@
     "version": "1.2.2",
     "updated_at": "2026-06-13T13:03:38Z"
   },
-  "astrbot_plugin_orchestrator": {
-    "name": "astrbot_plugin_orchestrator",
-    "display_name": "未审核：全自主智能体编排器",
-    "desc": "基于官方 Agent 体系（tool_loop_agent + FunctionTool + HandoffTool）的全自主编排器：聊天即可搜索/安装插件、创建 Skill、配置 MCP、沙盒执行代码、自我调试与运行 YAML 工作流",
-    "author": "lijiarui",
-    "repo": "https://github.com/Jerry2003826/astrbot_plugin_orchestrator",
-    "tags": [
-      "agent",
-      "orchestrator",
-      "sandbox",
-      "mcp",
-      "workflow"
-    ],
-    "social_link": "",
-    "stars": 2,
-    "version": "4.0.0",
-    "updated_at": "2026-06-12T04:20:16Z"
-  },
-  "astrbot_plugin_yuanbao_full": {
-    "name": "astrbot_plugin_yuanbao_full",
-    "display_name": "未审核：腾讯元宝 机器人龙虾的适配插件。 平台适配器",
-    "desc": "腾讯元宝派 机器人的适配插件",
-    "author": "tjc6666666666666",
-    "repo": "https://github.com/tjc6666666666666/astrbot_plugin_yuanbao_full",
-    "tags": [],
-    "social_link": "",
-    "stars": 1,
-    "version": "v1.0.2",
-    "updated_at": "2026-06-10T17:13:16Z"
-  },
-  "astrbot_plugin_helpmenu": {
-    "name": "astrbot_plugin_helpmenu",
-    "display_name": "未审核：HelpMenu",
-    "desc": "为 AstrBot 提供更好的可翻页的帮助菜单，支持文本输出与图片输出，自动监测插件变化并更新。",
-    "author": "Sagiri777",
-    "repo": "https://github.com/Sagiri777/astrbot_plugin_helpmenu",
-    "tags": [
-      "help",
-      "menu"
-    ],
-    "social_link": "https://github.com/Sagiri777",
-    "stars": 0,
-    "version": "v1.0.16",
-    "updated_at": "2026-04-08T02:04:08Z"
-  },
   "astrbot_plugin_astrshell": {
     "name": "astrbot_plugin_astrshell",
     "display_name": "未审核：AstrShell",
@@ -731,22 +571,6 @@
     "stars": 1,
     "version": "1.1.6",
     "updated_at": "2026-06-08T15:11:19Z"
-  },
-  "astrbot_plugin_nickname_monitor": {
-    "name": "astrbot_plugin_nickname_monitor",
-    "display_name": "未审核：群昵称更名通报员",
-    "desc": "监听群成员修改群昵称(群名片)事件,并发送播报消息",
-    "author": "若梦",
-    "repo": "https://github.com/xiih/astrbot_plugin_nickname_monitor",
-    "tags": [
-      "改名播报",
-      "群昵称监控"
-    ],
-    "social_link": "https://github.com/xiih/",
-    "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2026-06-08T10:59:28Z",
-    "logo": "https://raw.githubusercontent.com/xiih/astrbot_plugin_nickname_monitor/main/logo.png"
   },
   "astrbot_plugin_nsjail": {
     "name": "astrbot_plugin_nsjail",
@@ -1460,18 +1284,6 @@
     "updated_at": "2026-04-17T10:55:11Z",
     "logo": "https://raw.githubusercontent.com/FlandreSatori/astrbot_plugin_steam_friend_monitor/main/logo.png"
   },
-  "astrbot_plugin_groupmanager": {
-    "name": "astrbot_plugin_groupmanager",
-    "display_name": "未审核：Groupmanager",
-    "desc": "群申请关键词审核",
-    "author": "mjy1113451",
-    "repo": "https://github.com/mjy1113451/group_manager",
-    "tags": [],
-    "social_link": "https://github.com/mjy1113451",
-    "stars": 0,
-    "version": "v1.0.1",
-    "updated_at": "2026-04-17T09:04:18Z"
-  },
   "astrbot_plugin_smart_tutor": {
     "name": "astrbot_plugin_smart_tutor",
     "display_name": "未审核：你的qq小助教",
@@ -1598,6 +1410,21 @@
     "stars": 1,
     "version": "1.0.16",
     "updated_at": "2026-04-08T07:21:14Z"
+  },
+  "astrbot_plugin_helpmenu": {
+    "name": "astrbot_plugin_helpmenu",
+    "display_name": "未审核：HelpMenu",
+    "desc": "为 AstrBot 提供更好的可翻页的帮助菜单，支持文本输出与图片输出，自动监测插件变化并更新。",
+    "author": "Sagiri777",
+    "repo": "https://github.com/Sagiri777/astrbot_plugin_helpmenu",
+    "tags": [
+      "help",
+      "menu"
+    ],
+    "social_link": "https://github.com/Sagiri777",
+    "stars": 0,
+    "version": "v1.0.16",
+    "updated_at": "2026-04-08T02:04:08Z"
   },
   "astrbot_plugin_vtuber": {
     "name": "astrbot_plugin_vtuber",
