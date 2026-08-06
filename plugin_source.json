@@ -1,4 +1,23 @@
 {
+  "astrbot_plugin_meme_api_python": {
+    "name": "astrbot_plugin_meme_api_python",
+    "display_name": "未审核：表情包制作插件api版",
+    "desc": "调用 meme-generator API，提供表情列表、详情、随机表情和制作表情能力。",
+    "author": "xiaoruange39",
+    "repo": "https://github.com/xiaoruange39/astrbot_plugin_meme_api_python",
+    "tags": [
+      "meme",
+      "api",
+      "表情包",
+      "表情制作",
+      "python"
+    ],
+    "social_link": "https://github.com/xiaoruange39",
+    "stars": 5,
+    "version": "0.3.0",
+    "updated_at": "2026-08-06T03:50:32Z",
+    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
+  },
   "astrbot_plugin_point_system": {
     "name": "astrbot_plugin_point_system",
     "display_name": "未审核：群积分助手",
@@ -211,25 +230,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-07-29T12:07:48Z"
-  },
-  "astrbot_plugin_meme_api_python": {
-    "name": "astrbot_plugin_meme_api_python",
-    "display_name": "未审核：表情包制作插件api版",
-    "desc": "调用 meme-generator API，提供表情列表、详情、随机表情和制作表情能力。",
-    "author": "xiaoruange39",
-    "repo": "https://github.com/xiaoruange39/astrbot_plugin_meme_api_python",
-    "tags": [
-      "meme",
-      "api",
-      "表情包",
-      "表情制作",
-      "python"
-    ],
-    "social_link": "https://github.com/xiaoruange39",
-    "stars": 5,
-    "version": "0.2.9",
-    "updated_at": "2026-07-29T03:20:43Z",
-    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
   },
   "astrbot_plugin_df_helper": {
     "name": "astrbot_plugin_df_helper",
@@ -812,7 +812,7 @@
       "情绪"
     ],
     "social_link": "",
-    "stars": 13,
+    "stars": 14,
     "version": "1.1.0",
     "updated_at": "2026-05-19T05:00:17Z"
   },
