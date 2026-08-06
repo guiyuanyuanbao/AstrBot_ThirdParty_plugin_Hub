@@ -14,8 +14,8 @@
     ],
     "social_link": "https://github.com/xiaoruange39",
     "stars": 5,
-    "version": "0.3.0",
-    "updated_at": "2026-08-06T03:50:32Z",
+    "version": "0.3.1",
+    "updated_at": "2026-08-06T09:27:39Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
   },
   "astrbot_plugin_point_system": {
@@ -2106,22 +2106,6 @@
     "stars": 0,
     "version": "v1.2.0",
     "updated_at": "2026-03-23T11:23:35Z"
-  },
-  "astrbot_plugin_token_stats": {
-    "name": "astrbot_plugin_token_stats",
-    "display_name": "未审核：AstrBot Token统计插件",
-    "desc": "自动统计每次 LLM 请求的 token 消耗，支持 /tokenstats 命令查询，按会话区分统计",
-    "author": "HAOoool",
-    "repo": "https://github.com/HAOoool/AstrBot-Token",
-    "tags": [
-      "token",
-      "统计",
-      "费用"
-    ],
-    "social_link": "https://github.com/HAOoool",
-    "stars": 1,
-    "version": "3.9.15",
-    "updated_at": "2026-03-23T11:07:30Z"
   },
   "astrbot_plugin_hwinfo": {
     "name": "astrbot_plugin_hwinfo",
