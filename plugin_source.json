@@ -1,4 +1,23 @@
 {
+  "astrbot_plugin_keke_api_collection": {
+    "name": "astrbot_plugin_keke_api_collection",
+    "display_name": "未审核：柯柯API集合插件",
+    "desc": "【柯柯API集合】此插件包含了多种多样的图片API，包括美女、白丝、黑丝等图片API，且还有文案API",
+    "author": "落梦陳",
+    "repo": "https://github.com/KeKe0904/astrbot_plugin_keke_api_collection",
+    "tags": [
+      "API",
+      "黑丝",
+      "白丝",
+      "菜单",
+      "设备信息"
+    ],
+    "social_link": "https://github.com/KeKe0904",
+    "stars": 3,
+    "version": "v2.0.9",
+    "updated_at": "2026-08-08T06:50:21Z",
+    "logo": "https://raw.githubusercontent.com/KeKe0904/astrbot_plugin_keke_api_collection/master/logo.png"
+  },
   "astrbot_plugin_meme_api_python": {
     "name": "astrbot_plugin_meme_api_python",
     "display_name": "未审核：表情包制作插件api版",
@@ -14,8 +33,8 @@
     ],
     "social_link": "https://github.com/xiaoruange39",
     "stars": 6,
-    "version": "0.3.2",
-    "updated_at": "2026-08-06T10:52:44Z",
+    "version": "0.3.3",
+    "updated_at": "2026-08-08T06:28:13Z",
     "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
   },
   "astrbot_plugin_point_system": {
@@ -1516,25 +1535,6 @@
     "stars": 0,
     "version": "1.2.0",
     "updated_at": "2026-04-03T12:30:35Z"
-  },
-  "astrbot_plugin_keke_api_collection": {
-    "name": "astrbot_plugin_keke_api_collection",
-    "display_name": "未审核：柯柯API集合插件",
-    "desc": "【柯柯API集合】此插件包含了多种多样的图片API，包括美女、白丝、黑丝等图片API，且还有文案API",
-    "author": "落梦陳",
-    "repo": "https://github.com/KeKe0904/astrbot_plugin_keke_api_collection",
-    "tags": [
-      "API",
-      "黑丝",
-      "白丝",
-      "菜单",
-      "设备信息"
-    ],
-    "social_link": "https://github.com/KeKe0904",
-    "stars": 3,
-    "version": "v1.6.1",
-    "updated_at": "2026-04-03T11:13:05Z",
-    "logo": "https://raw.githubusercontent.com/KeKe0904/astrbot_plugin_keke_api_collection/master/logo.png"
   },
   "astrbot_plugin_mihuasher_review": {
     "name": "astrbot_plugin_mihuasher_review",
