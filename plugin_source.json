@@ -1,4 +1,17 @@
 {
+  "astrbot_plugin_group_wakepro": {
+    "name": "astrbot_plugin_group_wakepro",
+    "display_name": "未审核：群唤醒增强",
+    "desc": "为每个群聊配置独立的唤醒规则，支持指令拦截，持续活跃，无艾特的引用拦截等见文档",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/abpl_group_wakepro",
+    "tags": [],
+    "social_link": "https://github.com/landamao",
+    "stars": 2,
+    "version": "v8.10.1",
+    "updated_at": "2026-08-09T17:57:46Z",
+    "logo": "https://raw.githubusercontent.com/landamao/abpl_group_wakepro/main/logo.png"
+  },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
     "display_name": "未审核：b站bot",
@@ -15,7 +28,7 @@
     "social_link": "",
     "stars": 32,
     "version": "1.3.4",
-    "updated_at": "2026-08-09T17:08:16Z",
+    "updated_at": "2026-08-09T17:49:35Z",
     "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot/main/logo.png"
   },
   "astrbot_plugin_meme_api_python": {
@@ -266,19 +279,6 @@
     "version": "1.1.2",
     "updated_at": "2026-07-25T11:32:55Z",
     "logo": "https://raw.githubusercontent.com/GuHuiHeXiaoDao/astrbot_plugin_df/main/logo.png"
-  },
-  "astrbot_plugin_group_wakepro": {
-    "name": "astrbot_plugin_group_wakepro",
-    "display_name": "未审核：群唤醒增强",
-    "desc": "为每个群聊配置独立的唤醒规则，支持指令拦截，持续活跃，无艾特的引用拦截等见文档",
-    "author": "懒大猫",
-    "repo": "https://github.com/landamao/abpl_group_wakepro",
-    "tags": [],
-    "social_link": "https://github.com/landamao",
-    "stars": 2,
-    "version": "v8.10.0",
-    "updated_at": "2026-07-24T12:47:50Z",
-    "logo": "https://raw.githubusercontent.com/landamao/abpl_group_wakepro/main/logo.png"
   },
   "hermes": {
     "name": "hermes",
