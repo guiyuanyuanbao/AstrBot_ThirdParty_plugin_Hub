@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_nailong": {
+    "name": "astrbot_plugin_nailong",
+    "display_name": "未审核：奶龙波特",
+    "desc": "一个可以用来变速，倒放，对称，随机奶龙和添加表情的奶龙插件",
+    "author": "Logxk",
+    "repo": "https://github.com/Logxk/nailong",
+    "tags": [],
+    "social_link": "https://github.com/Logxk/nailong",
+    "stars": 7,
+    "version": "1.0.0",
+    "updated_at": "2026-08-12T09:38:04Z"
+  },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
     "display_name": "未审核：社交媒体链接自动解析插件",
@@ -220,18 +232,6 @@
     "version": "v0.1.0",
     "updated_at": "2026-08-01T11:55:27Z",
     "logo": "https://raw.githubusercontent.com/moemoli/astrbot_plugin_steam_watch_status/master/logo.png"
-  },
-  "astrbot_plugin_nailong": {
-    "name": "astrbot_plugin_nailong",
-    "display_name": "未审核：奶龙波特",
-    "desc": "一个可以用来变速，倒放，对称，随机奶龙和添加表情的奶龙插件",
-    "author": "Logxk",
-    "repo": "https://github.com/Logxk/nailong",
-    "tags": [],
-    "social_link": "https://github.com/Logxk/nailong",
-    "stars": 7,
-    "version": "v1.3.0",
-    "updated_at": "2026-07-31T14:16:26Z"
   },
   "astrbot_plugin_discordtoqqtransfer": {
     "name": "astrbot_plugin_discordtoqqtransfer",
