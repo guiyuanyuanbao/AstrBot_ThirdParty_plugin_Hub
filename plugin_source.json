@@ -2515,18 +2515,6 @@
     "version": "1.0.0",
     "updated_at": "2026-03-15T02:56:25Z"
   },
-  "astrbot_plugin_image_sender": {
-    "name": "astrbot_plugin_image_sender",
-    "display_name": "未审核：图片发送插件",
-    "desc": "接收指令返回可配置的图片链接的图片",
-    "author": "ba1awa",
-    "repo": "https://github.com/ba1awa/astrbot_plugin_imagesender.git",
-    "tags": [],
-    "social_link": "https://github.com/ba1awa",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-14T23:10:02Z"
-  },
   "astrbot_plugin_colorfun": {
     "name": "astrbot_plugin_colorfun",
     "display_name": "未审核：随机色图",
