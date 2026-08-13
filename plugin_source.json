@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_endworld_img_api": {
+    "name": "astrbot_plugin_endworld_img_api",
+    "display_name": "未审核：随机图片",
+    "desc": "一个自定义API获取图片插件。 支持多指令分流、智能防超时、全网 API 兼容的高级图片引擎。基于mccloud_img重构。",
+    "author": "殇之冥歌",
+    "repo": "https://github.com/shangzhimingge/astrbot_plugin_endworld_img_api",
+    "tags": [
+      "api",
+      "图片"
+    ],
+    "social_link": "https://github.com/shangzhimingge",
+    "stars": 2,
+    "version": "v6.4.0",
+    "updated_at": "2026-08-13T15:15:24Z",
+    "logo": "https://raw.githubusercontent.com/shangzhimingge/astrbot_plugin_endworld_img_api/main/logo.png"
+  },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
     "display_name": "未审核：b站bot",
@@ -377,7 +393,7 @@
       "tool"
     ],
     "social_link": "https://github.com/Marcuscaixiao",
-    "stars": 1,
+    "stars": 2,
     "version": "1.4.0",
     "updated_at": "2026-07-05T11:10:27Z"
   },
@@ -989,22 +1005,6 @@
     "version": "v0.4.0",
     "updated_at": "2026-05-09T03:55:55Z",
     "logo": "https://raw.githubusercontent.com/Moudicat/astrbot_plugin_media_portal/master/logo.png"
-  },
-  "astrbot_plugin_endworld_img_api": {
-    "name": "astrbot_plugin_endworld_img_api",
-    "display_name": "未审核：随机图片",
-    "desc": "一个自定义API获取图片插件。 支持多指令分流、智能防超时、全网 API 兼容的高级图片引擎。基于mccloud_img重构。",
-    "author": "殇之冥歌",
-    "repo": "https://github.com/shangzhimingge/astrbot_plugin_endworld_img_api",
-    "tags": [
-      "api",
-      "图片"
-    ],
-    "social_link": "https://github.com/shangzhimingge",
-    "stars": 2,
-    "version": "v6.4.0",
-    "updated_at": "2026-05-06T20:18:45Z",
-    "logo": "https://raw.githubusercontent.com/shangzhimingge/astrbot_plugin_endworld_img_api/main/logo.png"
   },
   "astrbot_plugin_steam_radar": {
     "name": "astrbot_plugin_steam_radar",
@@ -3375,6 +3375,21 @@
     "stars": 1,
     "version": "v1.0.0",
     "updated_at": "2026-02-23T09:51:31Z"
+  },
+  "astrbot_plugin_only_listen": {
+    "name": "astrbot_plugin_only_listen",
+    "display_name": "未审核：只听我的",
+    "desc": "控制Bot是否只听管理员的消息，开启后Bot在群聊中只响应管理员",
+    "author": "victical",
+    "repo": "https://github.com/victical/astrbot_plugin_only_listen",
+    "tags": [
+      "只听我的",
+      "控制"
+    ],
+    "social_link": "https://github.com/victical",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-02-22T17:03:07Z"
   },
   "astrbot_plugin_listentogetheronqq": {
     "name": "astrbot_plugin_listentogetheronqq",
