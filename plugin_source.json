@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_talkative_king": {
+    "name": "astrbot_plugin_talkative_king",
+    "display_name": "未审核：话痨王 (Talkative King)",
+    "desc": "统计群组发言并生成精美的排行榜图片，内置 pilmoji 支持，完美渲染 Emoji 和颜文字，支持自定义背景。",
+    "author": "User",
+    "repo": "https://github.com/Marcuscaixiao/astrbot_plugin_talkative_king",
+    "tags": [
+      "排行榜",
+      "说话",
+      "tool"
+    ],
+    "social_link": "https://github.com/Marcuscaixiao",
+    "stars": 3,
+    "version": "1.4.2",
+    "updated_at": "2026-08-17T13:35:06Z"
+  },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
     "display_name": "未审核：MiMO TTS精细化控制",
@@ -248,8 +264,7 @@
     "social_link": "https://github.com/Fishskys",
     "stars": 1,
     "version": "1.0.0",
-    "updated_at": "2026-08-02T15:46:10Z",
-    "logo": "https://raw.githubusercontent.com/Fishskys/astrbot_plugin_custom_api/master/logo.png"
+    "updated_at": "2026-08-02T15:46:10Z"
   },
   "astrbot_plugin_steam_watch_status": {
     "name": "astrbot_plugin_steam_watch_status",
@@ -370,22 +385,6 @@
     "version": "1.5.6",
     "updated_at": "2026-07-12T09:21:23Z",
     "logo": "https://raw.githubusercontent.com/xiih/astrbot_plugin_neko_care/main/logo.png"
-  },
-  "astrbot_plugin_talkative_king": {
-    "name": "astrbot_plugin_talkative_king",
-    "display_name": "未审核：话痨王 (Talkative King)",
-    "desc": "统计群组发言并生成精美的排行榜图片，内置 pilmoji 支持，完美渲染 Emoji 和颜文字，支持自定义背景。",
-    "author": "User",
-    "repo": "https://github.com/Marcuscaixiao/astrbot_plugin_talkative_king",
-    "tags": [
-      "排行榜",
-      "说话",
-      "tool"
-    ],
-    "social_link": "https://github.com/Marcuscaixiao",
-    "stars": 2,
-    "version": "1.4.0",
-    "updated_at": "2026-07-05T11:10:27Z"
   },
   "astrbot_dg_lab_ultra_plugin": {
     "name": "astrbot_dg_lab_ultra_plugin",
@@ -1227,7 +1226,7 @@
     ],
     "social_link": "https://github.com/EtafCisky",
     "stars": 0,
-    "version": "v3.11.2",
+    "version": "v0.0.0",
     "updated_at": "2026-04-21T15:48:50Z"
   },
   "astrbot_plugin_sensitive_word_monitor": {
