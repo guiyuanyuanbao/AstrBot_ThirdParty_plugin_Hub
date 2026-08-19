@@ -1321,6 +1321,18 @@
     "updated_at": "2026-04-14T09:13:51Z",
     "logo": "https://raw.githubusercontent.com/kkloas/astrbot_plugin_name_fight/main/logo.png"
   },
+  "astrbot_plugin_cross_session_awareness": {
+    "name": "astrbot_plugin_cross_session_awareness",
+    "display_name": "未审核：群聊消息感知",
+    "desc": "让bot能感知群内/私聊消息，跨群/私聊时会发送你在群里/私聊说的话。",
+    "author": "TaiLaa",
+    "repo": "https://github.com/TaiLaaa/astrbot_plugin_cross_session_awareness",
+    "tags": [],
+    "social_link": "https://github.com/TaiLaaa",
+    "stars": 1,
+    "version": "v2.1.0",
+    "updated_at": "2026-04-14T08:45:34Z"
+  },
   "astrbot_plugin_kb_plus": {
     "name": "astrbot_plugin_kb_plus",
     "display_name": "未审核：知识库检索增强",
