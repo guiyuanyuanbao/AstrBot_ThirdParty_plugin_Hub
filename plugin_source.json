@@ -149,25 +149,6 @@
     "updated_at": "2026-08-10T10:10:37Z",
     "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
   },
-  "astrbot_plugin_meme_api_python": {
-    "name": "astrbot_plugin_meme_api_python",
-    "display_name": "未审核：表情包制作插件api版",
-    "desc": "调用 meme-generator API，提供表情列表、详情、随机表情和制作表情能力。",
-    "author": "xiaoruange39",
-    "repo": "https://github.com/xiaoruange39/astrbot_plugin_meme_api_python",
-    "tags": [
-      "meme",
-      "api",
-      "表情包",
-      "表情制作",
-      "python"
-    ],
-    "social_link": "https://github.com/xiaoruange39",
-    "stars": 6,
-    "version": "0.3.5",
-    "updated_at": "2026-08-09T03:16:13Z",
-    "logo": "https://raw.githubusercontent.com/xiaoruange39/astrbot_plugin_meme_api_python/main/logo.png"
-  },
   "astrbot_plugin_keke_api_collection": {
     "name": "astrbot_plugin_keke_api_collection",
     "display_name": "未审核：柯柯API集合插件",
@@ -600,18 +581,6 @@
     "version": "1.2.2",
     "updated_at": "2026-06-13T13:03:38Z"
   },
-  "astrbot_plugin_astrshell": {
-    "name": "astrbot_plugin_astrshell",
-    "display_name": "未审核：AstrShell",
-    "desc": "AstrShell terminal adapter — interact with AstrBot from your zsh prompt",
-    "author": "Nyanifold",
-    "repo": "https://github.com/Nyanifold/astrbot_plugin_astrshell",
-    "tags": [],
-    "social_link": "https://github.com/Nyanifold",
-    "stars": 0,
-    "version": "v0.2.1",
-    "updated_at": "2026-06-09T13:17:34Z"
-  },
   "astrbot_plugin_smart_group_verify": {
     "name": "astrbot_plugin_smart_group_verify",
     "display_name": "未审核：智能入群验证审查",
@@ -643,23 +612,6 @@
     "stars": 0,
     "version": "0.1.1",
     "updated_at": "2026-06-06T06:34:06Z"
-  },
-  "astrbot_plugin_smart_silence": {
-    "name": "astrbot_plugin_smart_silence",
-    "display_name": "未审核：智慧沉默控制 Pro",
-    "desc": "轻量且强大的沉默控制，让 bot 拥有自主决定权，支持外部配置与主动发信拦截机制。",
-    "author": "maolbsMd",
-    "repo": "https://github.com/maolbsMd/astrbot_plugin_smart_silence",
-    "tags": [
-      "沉默",
-      "功能增强",
-      "拟人",
-      "主动拦截"
-    ],
-    "social_link": "https://github.com/maolbsMd/astrbot_plugin_smart_silence",
-    "stars": 1,
-    "version": "1.0.0",
-    "updated_at": "2026-06-04T01:24:57Z"
   },
   "astrbot_plugin_bilibili_push": {
     "name": "astrbot_plugin_bilibili_push",
