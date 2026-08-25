@@ -1267,21 +1267,6 @@
     "version": "v2.1.0",
     "updated_at": "2026-04-14T08:45:34Z"
   },
-  "astrbot_plugin_kb_plus": {
-    "name": "astrbot_plugin_kb_plus",
-    "display_name": "未审核：知识库检索增强",
-    "desc": "AstrBot 知识库增强检索插件，提供 kb list、kb ask、kb free、能够列出知识库文件，对指定知识库或者文件检索，可自由模糊匹配文件检索。",
-    "author": "shijinkarusui",
-    "repo": "https://github.com/shijinkarusui/astrbot_plugin_kb_plus",
-    "tags": [
-      "知识库",
-      "指定检索"
-    ],
-    "social_link": "https://github.com/shijinkarusui",
-    "stars": 0,
-    "version": "v0.3.0",
-    "updated_at": "2026-04-14T06:13:44Z"
-  },
   "astrbot_plugin_vtube_studio": {
     "name": "astrbot_plugin_vtube_studio",
     "display_name": "未审核：VTube Studio Live2D 控制",
