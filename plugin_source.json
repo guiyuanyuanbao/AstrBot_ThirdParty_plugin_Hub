@@ -1,15 +1,19 @@
 {
-  "astrbot_plugin_think_mode": {
-    "name": "astrbot_plugin_think_mode",
-    "display_name": "未审核：AstrBot 思考模式切换插件",
-    "desc": "控制 Ollama 模型的思考模式，支持 /think 和 /no_think 命令切换。",
-    "author": "jevon",
-    "repo": "https://github.com/zwj-3193655211/astrbot_plugin_think_mode",
-    "tags": [],
-    "social_link": "https://github.com/zwj-3193655211",
-    "stars": 0,
-    "version": "1.1.0",
-    "updated_at": "2026-08-27T17:42:43Z"
+  "astrbot_plugin_point_system": {
+    "name": "astrbot_plugin_point_system",
+    "display_name": "未审核：群积分助手",
+    "desc": "群积分助手。支持每日签到、活跃奖励、个人积分查询、按群排行榜，以及个人抽奖、群体抽奖、日期口令奖励、自动备份、兑换头衔、设精和禁言等群互动功能。",
+    "author": "menglimi",
+    "repo": "https://github.com/menglimi/astrbot_plugin_point_system",
+    "tags": [
+      "积分",
+      "签到",
+      "群聊"
+    ],
+    "social_link": "https://github.com/menglimi",
+    "stars": 4,
+    "version": "2.4.0",
+    "updated_at": "2026-08-28T05:08:10Z"
   },
   "astrbot_plugin_qqjiazhi": {
     "name": "astrbot_plugin_qqjiazhi",
@@ -26,22 +30,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-08-27T17:30:27Z",
     "logo": "https://raw.githubusercontent.com/BUGJI/astrbot_plugin_qqjiazhi/master/logo.png"
-  },
-  "astrbot_plugin_point_system": {
-    "name": "astrbot_plugin_point_system",
-    "display_name": "未审核：群积分助手",
-    "desc": "群积分助手。支持每日签到、活跃奖励、个人积分查询、按群排行榜，以及个人抽奖、群体抽奖、日期口令奖励、自动备份、兑换头衔、设精和禁言等群互动功能。",
-    "author": "menglimi",
-    "repo": "https://github.com/menglimi/astrbot_plugin_point_system",
-    "tags": [
-      "积分",
-      "签到",
-      "群聊"
-    ],
-    "social_link": "https://github.com/menglimi",
-    "stars": 4,
-    "version": "2.4.0",
-    "updated_at": "2026-08-27T13:27:06Z"
   },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
@@ -1626,7 +1614,7 @@
     "repo": "https://github.com/btop251/astrbot_ctfpush_plugin",
     "tags": [],
     "social_link": "btop251.top",
-    "stars": 2,
+    "stars": 3,
     "version": "3.2.0",
     "updated_at": "2026-03-31T01:36:24Z"
   },
