@@ -1,4 +1,32 @@
 {
+  "astrbot_plugin_think_mode": {
+    "name": "astrbot_plugin_think_mode",
+    "display_name": "未审核：AstrBot 思考模式切换插件",
+    "desc": "控制 Ollama 模型的思考模式，支持 /think 和 /no_think 命令切换。",
+    "author": "jevon",
+    "repo": "https://github.com/zwj-3193655211/astrbot_plugin_think_mode",
+    "tags": [],
+    "social_link": "https://github.com/zwj-3193655211",
+    "stars": 0,
+    "version": "1.1.0",
+    "updated_at": "2026-08-27T17:42:43Z"
+  },
+  "astrbot_plugin_qqjiazhi": {
+    "name": "astrbot_plugin_qqjiazhi",
+    "display_name": "未审核：QQ估价",
+    "desc": "一键估算QQ号价值",
+    "author": "BUGJI",
+    "repo": "https://github.com/BUGJI/astrbot_plugin_qqjiazhi",
+    "tags": [
+      "估价",
+      "娱乐"
+    ],
+    "social_link": "https://github.com/BUGJI",
+    "stars": 0,
+    "version": "v1.0.0",
+    "updated_at": "2026-08-27T17:30:27Z",
+    "logo": "https://raw.githubusercontent.com/BUGJI/astrbot_plugin_qqjiazhi/master/logo.png"
+  },
   "astrbot_plugin_point_system": {
     "name": "astrbot_plugin_point_system",
     "display_name": "未审核：群积分助手",
@@ -2670,22 +2698,6 @@
     "version": "v2.0.0",
     "updated_at": "2026-03-10T14:14:29Z"
   },
-  "astrbot_plugin_qqjiazhi": {
-    "name": "astrbot_plugin_qqjiazhi",
-    "display_name": "未审核：QQ估价",
-    "desc": "一键估算QQ号价值",
-    "author": "BUGJI",
-    "repo": "https://github.com/BUGJI/astrbot_plugin_qqjiazhi",
-    "tags": [
-      "估价",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/BUGJI",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-10T03:19:47Z",
-    "logo": "https://raw.githubusercontent.com/BUGJI/astrbot_plugin_qqjiazhi/master/logo.png"
-  },
   "astrbot_plugin_web_archive": {
     "name": "astrbot_plugin_web_archive",
     "display_name": "未审核：web_archive",
@@ -2741,18 +2753,6 @@
     "stars": 0,
     "version": "v1.0.0",
     "updated_at": "2026-03-08T17:46:11Z"
-  },
-  "astrbot_plugin_think_mode": {
-    "name": "astrbot_plugin_think_mode",
-    "display_name": "未审核：AstrBot 思考模式切换插件",
-    "desc": "控制 Ollama 模型的思考模式，支持 /think 和 /no_think 命令切换。",
-    "author": "jevon",
-    "repo": "https://github.com/zwj-3193655211/astrbot_plugin_think_mode",
-    "tags": [],
-    "social_link": "https://github.com/zwj-3193655211",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-08T15:28:07Z"
   },
   "astrbot_plugin_summarize_links": {
     "name": "astrbot_plugin_summarize_links",
