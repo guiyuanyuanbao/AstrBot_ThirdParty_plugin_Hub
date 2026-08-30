@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_point_system": {
+    "name": "astrbot_plugin_point_system",
+    "display_name": "未审核：群积分助手",
+    "desc": "群积分助手。支持每日签到、活跃奖励、个人积分查询、按群排行榜，以及个人抽奖、群体抽奖、日期口令奖励、自动备份、兑换头衔、设精和禁言等群互动功能。",
+    "author": "menglimi",
+    "repo": "https://github.com/menglimi/astrbot_plugin_point_system",
+    "tags": [
+      "积分",
+      "签到",
+      "群聊"
+    ],
+    "social_link": "https://github.com/menglimi",
+    "stars": 4,
+    "version": "2.4.1",
+    "updated_at": "2026-08-30T18:27:09Z"
+  },
   "astrbot_plugin_pimeng_blacklist": {
     "name": "astrbot_plugin_pimeng_blacklist",
     "display_name": "未审核：皮梦云黑库对接插件",
@@ -61,22 +77,6 @@
     "version": "1.5.0",
     "updated_at": "2026-08-29T13:31:59Z",
     "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot/main/logo.png"
-  },
-  "astrbot_plugin_point_system": {
-    "name": "astrbot_plugin_point_system",
-    "display_name": "未审核：群积分助手",
-    "desc": "群积分助手。支持每日签到、活跃奖励、个人积分查询、按群排行榜，以及个人抽奖、群体抽奖、日期口令奖励、自动备份、兑换头衔、设精和禁言等群互动功能。",
-    "author": "menglimi",
-    "repo": "https://github.com/menglimi/astrbot_plugin_point_system",
-    "tags": [
-      "积分",
-      "签到",
-      "群聊"
-    ],
-    "social_link": "https://github.com/menglimi",
-    "stars": 4,
-    "version": "2.4.0",
-    "updated_at": "2026-08-28T05:08:10Z"
   },
   "astrbot_plugin_qqjiazhi": {
     "name": "astrbot_plugin_qqjiazhi",
