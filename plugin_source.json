@@ -1,4 +1,32 @@
 {
+  "astrbot_plugin_pimeng_blacklist": {
+    "name": "astrbot_plugin_pimeng_blacklist",
+    "display_name": "未审核：皮梦云黑库对接插件",
+    "desc": "基于皮梦云黑库接入插件 - 支持查询/添加/删除/同步/自动踢出黑名单成员",
+    "author": "N(Ni-ShuWu),P(Pimeng's)",
+    "repo": "https://github.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist",
+    "tags": [
+      "云黑库"
+    ],
+    "social_link": "https://github.com/Ni-ShuWu",
+    "stars": 2,
+    "version": "3.1.0",
+    "updated_at": "2026-08-30T12:03:06Z",
+    "logo": "https://raw.githubusercontent.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist/main/logo.png"
+  },
+  "astrbot_plugin_parserurl": {
+    "name": "astrbot_plugin_parserurl",
+    "display_name": "未审核：社交媒体链接自动解析插件",
+    "desc": "社交媒体分享链接解析插件。将A站、B站、抖音、小红书、微博...等网站的视频、图集、音频进行解析并发送",
+    "author": "Ishning",
+    "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
+    "tags": [],
+    "social_link": "https://github.com/Ishning",
+    "stars": 2,
+    "version": "v2.7.0",
+    "updated_at": "2026-08-30T08:11:16Z",
+    "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
+  },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
     "display_name": "未审核：MiMO TTS精细化控制",
@@ -33,19 +61,6 @@
     "version": "1.5.0",
     "updated_at": "2026-08-29T13:31:59Z",
     "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot/main/logo.png"
-  },
-  "astrbot_plugin_parserurl": {
-    "name": "astrbot_plugin_parserurl",
-    "display_name": "未审核：社交媒体链接自动解析插件",
-    "desc": "社交媒体分享链接解析插件。将A站、B站、抖音、小红书、微博...等网站的视频、图集、音频进行解析并发送",
-    "author": "Ishning",
-    "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
-    "tags": [],
-    "social_link": "https://github.com/Ishning",
-    "stars": 2,
-    "version": "v2.7.0",
-    "updated_at": "2026-08-29T08:35:00Z",
-    "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
   },
   "astrbot_plugin_point_system": {
     "name": "astrbot_plugin_point_system",
@@ -260,21 +275,6 @@
     "version": "v3.9.2",
     "updated_at": "2026-08-04T13:18:14Z",
     "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
-  },
-  "astrbot_plugin_pimeng_blacklist": {
-    "name": "astrbot_plugin_pimeng_blacklist",
-    "display_name": "未审核：皮梦云黑库对接插件",
-    "desc": "基于皮梦云黑库接入插件 - 支持查询/添加/删除/同步/自动踢出黑名单成员",
-    "author": "N(Ni-ShuWu),P(Pimeng's)",
-    "repo": "https://github.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist",
-    "tags": [
-      "云黑库"
-    ],
-    "social_link": "https://github.com/Ni-ShuWu",
-    "stars": 2,
-    "version": "3.0.0",
-    "updated_at": "2026-08-04T12:52:17Z",
-    "logo": "https://raw.githubusercontent.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist/main/logo.png"
   },
   "astrbot_plugin_streamchunk": {
     "name": "astrbot_plugin_streamchunk",
