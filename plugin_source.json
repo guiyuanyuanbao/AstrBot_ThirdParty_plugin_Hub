@@ -669,7 +669,7 @@
     ],
     "social_link": "https://github.com/Li-Zheng-Rong",
     "stars": 1,
-    "version": "0.5.4",
+    "version": "v0.0.0",
     "updated_at": "2026-05-31T14:15:52Z"
   },
   "astrbot_plugin_xjj": {
@@ -1023,7 +1023,7 @@
     ],
     "social_link": "https://github.com/yiktllw",
     "stars": 0,
-    "version": "v0.2.3",
+    "version": "v0.0.0",
     "updated_at": "2026-04-30T07:41:52Z"
   },
   "astrbot_plugin_zhudongshiliao": {
@@ -1280,7 +1280,7 @@
     "tags": [],
     "social_link": "https://github.com/TaiLaaa",
     "stars": 1,
-    "version": "v2.1.0",
+    "version": "v0.0.0",
     "updated_at": "2026-04-14T08:45:34Z"
   },
   "astrbot_plugin_vtube_studio": {
@@ -1884,7 +1884,7 @@
     ],
     "social_link": "https://github.com/moismin",
     "stars": 0,
-    "version": "1.0.0",
+    "version": "v0.0.0",
     "updated_at": "2026-03-24T16:17:08Z"
   },
   "astrbot_plugin_group_context_bridge": {
@@ -2107,7 +2107,7 @@
     ],
     "social_link": "https://github.com/innoc1nt",
     "stars": 0,
-    "version": "v0.0.2",
+    "version": "v0.0.0",
     "updated_at": "2026-03-21T15:18:08Z"
   },
   "astrbot_plugin_aitoiot": {
@@ -2652,7 +2652,7 @@
     "tags": [],
     "social_link": "https://github.com/674537331",
     "stars": 1,
-    "version": "1.0.2",
+    "version": "v0.0.0",
     "updated_at": "2026-03-10T15:36:10Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_discogs/main/logo.png"
   },
