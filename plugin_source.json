@@ -1,4 +1,21 @@
 {
+  "astrbot_plugin_bubble_transform": {
+    "name": "astrbot_plugin_bubble_transform",
+    "display_name": "未审核：QQ视频转泡泡",
+    "desc": "回复 QQ 群视频消息后使用 把视频转为泡泡消息。",
+    "author": "CatCat",
+    "repo": "https://github.com/clashcatcat/astrbot_plugin_bubble_transform",
+    "tags": [
+      "qq",
+      "视频",
+      "泡泡"
+    ],
+    "social_link": "https://github.com/clashcatcat",
+    "stars": 1,
+    "version": "v0.3.0",
+    "updated_at": "2026-09-05T06:09:15Z",
+    "logo": "https://raw.githubusercontent.com/clashcatcat/astrbot_plugin_bubble_transform/main/logo.png"
+  },
   "astrbot_plugin_mood_of_the_moment": {
     "name": "astrbot_plugin_mood_of_the_moment",
     "display_name": "未审核：此刻的心情",
@@ -963,23 +980,6 @@
     "version": "v0.4.2",
     "updated_at": "2026-05-06T07:10:17Z",
     "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steam_radar/main/logo.png"
-  },
-  "astrbot_plugin_bubble_transform": {
-    "name": "astrbot_plugin_bubble_transform",
-    "display_name": "未审核：QQ视频转泡泡",
-    "desc": "回复 QQ 群视频消息后使用 把视频转为泡泡消息。",
-    "author": "CatCat",
-    "repo": "https://github.com/clashcatcat/astrbot_plugin_bubble_transform",
-    "tags": [
-      "qq",
-      "视频",
-      "泡泡"
-    ],
-    "social_link": "https://github.com/clashcatcat",
-    "stars": 1,
-    "version": "v0.1.0",
-    "updated_at": "2026-05-06T03:50:24Z",
-    "logo": "https://raw.githubusercontent.com/clashcatcat/astrbot_plugin_bubble_transform/main/logo.png"
   },
   "astrbot_plugin_conversation_rewriter": {
     "name": "astrbot_plugin_conversation_rewriter",
