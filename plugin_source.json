@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_pimeng_blacklist": {
+    "name": "astrbot_plugin_pimeng_blacklist",
+    "display_name": "未审核：皮梦云黑库对接插件",
+    "desc": "基于皮梦云黑库接入插件 - 支持查询/添加/删除/同步/自动踢出黑名单成员",
+    "author": "N(Ni-ShuWu),P(Pimeng's)",
+    "repo": "https://github.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist",
+    "tags": [
+      "云黑库"
+    ],
+    "social_link": "https://github.com/Ni-ShuWu",
+    "stars": 2,
+    "version": "3.1.0",
+    "updated_at": "2026-09-06T06:08:07Z",
+    "logo": "https://raw.githubusercontent.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist/main/logo.png"
+  },
   "astrbot_plugin_bubble_transform": {
     "name": "astrbot_plugin_bubble_transform",
     "display_name": "未审核：QQ视频转泡泡",
@@ -97,21 +112,6 @@
     "stars": 4,
     "version": "2.4.1",
     "updated_at": "2026-08-30T18:27:09Z"
-  },
-  "astrbot_plugin_pimeng_blacklist": {
-    "name": "astrbot_plugin_pimeng_blacklist",
-    "display_name": "未审核：皮梦云黑库对接插件",
-    "desc": "基于皮梦云黑库接入插件 - 支持查询/添加/删除/同步/自动踢出黑名单成员",
-    "author": "N(Ni-ShuWu),P(Pimeng's)",
-    "repo": "https://github.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist",
-    "tags": [
-      "云黑库"
-    ],
-    "social_link": "https://github.com/Ni-ShuWu",
-    "stars": 2,
-    "version": "3.1.0",
-    "updated_at": "2026-08-30T12:03:06Z",
-    "logo": "https://raw.githubusercontent.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist/main/logo.png"
   },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
@@ -2126,18 +2126,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-21T13:30:15Z",
     "logo": "https://raw.githubusercontent.com/2350047329f-art/astrbot_plugin_aiToIot/master/logo.png"
-  },
-  "astro_weather": {
-    "name": "astro_weather",
-    "display_name": "未审核：astro_weather",
-    "desc": "",
-    "author": "XTLT",
-    "repo": "https://github.com/XTLT/astro_weather.git",
-    "tags": [],
-    "social_link": "https://github.com/XTLT",
-    "stars": 0,
-    "version": "1.0.0",
-    "updated_at": "2026-03-20T14:47:38Z"
   },
   "astrbot_plugin_anti_limit_xx": {
     "name": "astrbot_plugin_anti_limit_xx",
