@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_suanle_bushuo": {
+    "name": "astrbot_plugin_suanle_bushuo",
+    "display_name": "未审核：算了不说了",
+    "desc": "让 LLM 可以选择沉默, 并让黑名单用户只能进入上下文但无法触发回复。",
+    "author": "木有知",
+    "repo": "https://github.com/muyouzhi6/astrbot_plugin_suanle_bushuo",
+    "tags": [],
+    "social_link": "https://github.com/muyouzhi6",
+    "stars": 2,
+    "version": "v0.1.4",
+    "updated_at": "2026-09-08T03:32:47Z"
+  },
   "astrbot_plugin_pimeng_blacklist": {
     "name": "astrbot_plugin_pimeng_blacklist",
     "display_name": "未审核：皮梦云黑库对接插件",
@@ -376,18 +388,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-07-30T12:54:28Z",
     "logo": "https://raw.githubusercontent.com/mmyddd/astrbot_plugin_DiscordToQQTransfer/main/logo.png"
-  },
-  "astrbot_plugin_suanle_bushuo": {
-    "name": "astrbot_plugin_suanle_bushuo",
-    "display_name": "未审核：算了不说了",
-    "desc": "让 LLM 可以选择沉默, 并让黑名单用户只能进入上下文但无法触发回复。",
-    "author": "木有知",
-    "repo": "https://github.com/muyouzhi6/astrbot_plugin_suanle_bushuo",
-    "tags": [],
-    "social_link": "https://github.com/muyouzhi6",
-    "stars": 2,
-    "version": "v0.1.4",
-    "updated_at": "2026-07-30T12:23:34Z"
   },
   "astrbot_plugin_asmrone_sub": {
     "name": "astrbot_plugin_asmrone_sub",
