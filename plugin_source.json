@@ -1,4 +1,39 @@
 {
+  "astrbot_plugin_point_system": {
+    "name": "astrbot_plugin_point_system",
+    "display_name": "未审核：群积分助手",
+    "desc": "群积分助手。支持每日签到、活跃奖励、个人积分查询、按群排行榜，以及个人抽奖、群体抽奖、日期口令奖励、自动备份、兑换头衔、设精和禁言等群互动功能。",
+    "author": "menglimi",
+    "repo": "https://github.com/menglimi/astrbot_plugin_point_system",
+    "tags": [
+      "积分",
+      "签到",
+      "群聊"
+    ],
+    "social_link": "https://github.com/menglimi",
+    "stars": 4,
+    "version": "2.4.2",
+    "updated_at": "2026-09-10T12:29:30Z"
+  },
+  "astrbot_plugin_bilibili_ai_bot": {
+    "name": "astrbot_plugin_bilibili_ai_bot",
+    "display_name": "未审核：b站bot",
+    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
+    "author": "chenluQwQ,claude",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
+    "tags": [
+      "bilibili",
+      "B站",
+      "评论回复",
+      "主动交互",
+      "语义记忆"
+    ],
+    "social_link": "",
+    "stars": 39,
+    "version": "1.5.1",
+    "updated_at": "2026-09-10T12:23:04Z",
+    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot/main/logo.png"
+  },
   "astrbot_plugin_endworld_img_api": {
     "name": "astrbot_plugin_endworld_img_api",
     "display_name": "未审核：随机图片",
@@ -124,22 +159,6 @@
     "updated_at": "2026-09-01T14:04:49Z",
     "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
-  "astrbot_plugin_point_system": {
-    "name": "astrbot_plugin_point_system",
-    "display_name": "未审核：群积分助手",
-    "desc": "群积分助手。支持每日签到、活跃奖励、个人积分查询、按群排行榜，以及个人抽奖、群体抽奖、日期口令奖励、自动备份、兑换头衔、设精和禁言等群互动功能。",
-    "author": "menglimi",
-    "repo": "https://github.com/menglimi/astrbot_plugin_point_system",
-    "tags": [
-      "积分",
-      "签到",
-      "群聊"
-    ],
-    "social_link": "https://github.com/menglimi",
-    "stars": 4,
-    "version": "2.4.1",
-    "updated_at": "2026-08-30T18:27:09Z"
-  },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
     "display_name": "未审核：社交媒体链接自动解析插件",
@@ -168,25 +187,6 @@
     "version": "v2.3.0",
     "updated_at": "2026-08-29T20:07:11Z",
     "logo": "https://raw.githubusercontent.com/SteveBaka/astrbot_plugin_mimo_tts/main/logo.png"
-  },
-  "astrbot_plugin_bilibili_ai_bot": {
-    "name": "astrbot_plugin_bilibili_ai_bot",
-    "display_name": "未审核：b站bot",
-    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
-    "author": "chenluQwQ,claude",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
-    "tags": [
-      "bilibili",
-      "B站",
-      "评论回复",
-      "主动交互",
-      "语义记忆"
-    ],
-    "social_link": "",
-    "stars": 38,
-    "version": "1.5.0",
-    "updated_at": "2026-08-29T13:31:59Z",
-    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot/main/logo.png"
   },
   "astrbot_plugin_qqjiazhi": {
     "name": "astrbot_plugin_qqjiazhi",
