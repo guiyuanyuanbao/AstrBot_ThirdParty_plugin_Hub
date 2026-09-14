@@ -1,4 +1,17 @@
 {
+  "astrbot_plugin_parserurl": {
+    "name": "astrbot_plugin_parserurl",
+    "display_name": "未审核：社交媒体链接自动解析插件",
+    "desc": "社交媒体分享链接解析插件。将A站、B站、抖音、小红书、微博...等网站的视频、图集、音频进行解析并发送",
+    "author": "Ishning",
+    "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
+    "tags": [],
+    "social_link": "https://github.com/Ishning",
+    "stars": 2,
+    "version": "v2.7.1",
+    "updated_at": "2026-09-14T10:43:19Z",
+    "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
+  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -191,19 +204,6 @@
     "version": "v0.4.2",
     "updated_at": "2026-09-02T11:09:41Z",
     "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_ai_summary/main/logo.png"
-  },
-  "astrbot_plugin_parserurl": {
-    "name": "astrbot_plugin_parserurl",
-    "display_name": "未审核：社交媒体链接自动解析插件",
-    "desc": "社交媒体分享链接解析插件。将A站、B站、抖音、小红书、微博...等网站的视频、图集、音频进行解析并发送",
-    "author": "Ishning",
-    "repo": "https://github.com/Ishning/astrbot_plugin_parserURL",
-    "tags": [],
-    "social_link": "https://github.com/Ishning",
-    "stars": 2,
-    "version": "v2.7.0",
-    "updated_at": "2026-08-30T08:11:16Z",
-    "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
   },
   "astrbot_plugin_qqjiazhi": {
     "name": "astrbot_plugin_qqjiazhi",
@@ -1614,7 +1614,7 @@
     "repo": "https://github.com/btop251/astrbot_ctfpush_plugin",
     "tags": [],
     "social_link": "btop251.top",
-    "stars": 3,
+    "stars": 4,
     "version": "3.2.0",
     "updated_at": "2026-03-31T01:36:24Z"
   },
