@@ -1,4 +1,23 @@
 {
+  "astrbot_plugin_bilibili_ai_bot": {
+    "name": "astrbot_plugin_bilibili_ai_bot",
+    "display_name": "未审核：b站bot",
+    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
+    "author": "chenluQwQ,claude",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
+    "tags": [
+      "bilibili",
+      "B站",
+      "评论回复",
+      "主动交互",
+      "语义记忆"
+    ],
+    "social_link": "",
+    "stars": 40,
+    "version": "1.5.2",
+    "updated_at": "2026-09-16T04:53:14Z",
+    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot/main/logo.png"
+  },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
     "display_name": "未审核：社交媒体链接自动解析插件",
@@ -8,8 +27,8 @@
     "tags": [],
     "social_link": "https://github.com/Ishning",
     "stars": 2,
-    "version": "v2.7.1",
-    "updated_at": "2026-09-14T10:43:19Z",
+    "version": "v2.7.2",
+    "updated_at": "2026-09-16T04:44:49Z",
     "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
   },
   "astrbot_plugin_local_reminiscence": {
@@ -81,25 +100,6 @@
     "stars": 4,
     "version": "2.4.2",
     "updated_at": "2026-09-10T12:29:30Z"
-  },
-  "astrbot_plugin_bilibili_ai_bot": {
-    "name": "astrbot_plugin_bilibili_ai_bot",
-    "display_name": "未审核：b站bot",
-    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
-    "author": "chenluQwQ,claude",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
-    "tags": [
-      "bilibili",
-      "B站",
-      "评论回复",
-      "主动交互",
-      "语义记忆"
-    ],
-    "social_link": "",
-    "stars": 40,
-    "version": "1.5.1",
-    "updated_at": "2026-09-10T12:23:04Z",
-    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot/main/logo.png"
   },
   "astrbot_plugin_endworld_img_api": {
     "name": "astrbot_plugin_endworld_img_api",
