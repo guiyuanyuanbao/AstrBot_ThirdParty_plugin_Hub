@@ -1,4 +1,25 @@
 {
+  "astrbot_plugin_local_reminiscence": {
+    "name": "astrbot_plugin_local_reminiscence",
+    "display_name": "未审核：本地回忆[APLR]",
+    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
+    "author": "olozhika",
+    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
+    "tags": [
+      "记忆",
+      "回忆",
+      "每日总结",
+      "语义识别",
+      "关键词",
+      "上下文注入",
+      "长期记忆"
+    ],
+    "social_link": "https://github.com/olozhika",
+    "stars": 51,
+    "version": "v1.4.0",
+    "updated_at": "2026-09-17T13:07:35Z",
+    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
+  },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
     "display_name": "未审核：b站bot",
@@ -30,27 +51,6 @@
     "version": "v2.7.2",
     "updated_at": "2026-09-16T04:44:49Z",
     "logo": "https://raw.githubusercontent.com/Ishning/astrbot_plugin_parserURL/master/logo.png"
-  },
-  "astrbot_plugin_local_reminiscence": {
-    "name": "astrbot_plugin_local_reminiscence",
-    "display_name": "未审核：本地回忆[APLR]",
-    "desc": "轻量级本地记忆插件，使用本地Embedding模型、本地数据库存储和回忆聊天记录。无需额外API，零Embedding成本，节约Token，完全保护隐私。使用Cron Job自动记录对话，通过关键词和语义匹配帮助AI自动回忆起相关经历和概念。支持多会话和群聊，提供境内网络友好的依赖与模型下载配置。跨对话、跨平台长期记忆！",
-    "author": "olozhika",
-    "repo": "https://github.com/olozhika/astrbot_plugin_local_reminiscence",
-    "tags": [
-      "记忆",
-      "回忆",
-      "每日总结",
-      "语义识别",
-      "关键词",
-      "上下文注入",
-      "长期记忆"
-    ],
-    "social_link": "https://github.com/olozhika",
-    "stars": 51,
-    "version": "v1.4.0",
-    "updated_at": "2026-09-13T13:56:24Z",
-    "logo": "https://raw.githubusercontent.com/olozhika/astrbot_plugin_local_reminiscence/master/logo.png"
   },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
