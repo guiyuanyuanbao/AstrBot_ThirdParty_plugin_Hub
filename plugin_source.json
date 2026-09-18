@@ -2772,18 +2772,6 @@
     "updated_at": "2026-03-08T05:25:54Z",
     "logo": "https://raw.githubusercontent.com/674537331/astrbot_plugin_soutushenqi/main/logo.png"
   },
-  "astrbot_plugin_daily_note": {
-    "name": "astrbot_plugin_daily_note",
-    "display_name": "未审核：每日日记",
-    "desc": "总结聊天记录为日记，存入本地 SQLite 数据库，支持按编号查询日记内容",
-    "author": "X轩万",
-    "repo": "https://github.com/976230600/astrbot_plugin_daily_note",
-    "tags": [],
-    "social_link": "https://github.com/976230600",
-    "stars": 0,
-    "version": "0.1.0",
-    "updated_at": "2026-03-07T17:21:52Z"
-  },
   "astrbot": {
     "name": "astrbot",
     "display_name": "未审核：astrbot持久化记忆插件",
