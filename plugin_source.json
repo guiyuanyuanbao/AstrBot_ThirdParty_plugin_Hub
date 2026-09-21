@@ -1,4 +1,39 @@
 {
+  "astrbot_plugin_name_fight": {
+    "name": "astrbot_plugin_name_fight",
+    "display_name": "未审核：Name Fight",
+    "desc": "一个武侠风格的 AstrBot 名字格斗插件。输入名字即可生成命格固定的角色，围绕武学、内功、轻功展开对战，并在群内累计巅峰分排行。支持同名固定生成、战斗播报、角色切换与巅峰榜冲分。",
+    "author": "kkloas",
+    "repo": "https://github.com/kkloas/astrbot_plugin_name_fight",
+    "tags": [
+      "游戏",
+      "武侠",
+      "对战",
+      "群聊",
+      "排行榜"
+    ],
+    "social_link": "https://github.com/kkloas",
+    "stars": 1,
+    "version": "1.4.0",
+    "updated_at": "2026-09-21T16:04:49Z",
+    "logo": "https://raw.githubusercontent.com/kkloas/astrbot_plugin_name_fight/main/logo.png"
+  },
+  "astrbot_plugin_tts_sanitizer_bilingual": {
+    "name": "astrbot_plugin_tts_sanitizer_bilingual",
+    "display_name": "未审核：tts外语朗读",
+    "desc": "TTS文本过滤插件 - 支持双语TTS、语音Tool、MiniMax停顿标记，基于柯尔的tts_sanitizer扩展",
+    "author": "柠弥",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual",
+    "tags": [
+      "tts",
+      "翻译"
+    ],
+    "social_link": "https://github.com/chenluQwQ",
+    "stars": 2,
+    "version": "v1.7.0",
+    "updated_at": "2026-09-21T15:03:27Z",
+    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
+  },
   "astrbot_plugin_steam_radar": {
     "name": "astrbot_plugin_steam_radar",
     "display_name": "未审核：Steam 雷达",
@@ -454,22 +489,6 @@
     "version": "1.1.2",
     "updated_at": "2026-07-25T11:32:55Z",
     "logo": "https://raw.githubusercontent.com/GuHuiHeXiaoDao/astrbot_plugin_df/main/logo.png"
-  },
-  "astrbot_plugin_tts_sanitizer_bilingual": {
-    "name": "astrbot_plugin_tts_sanitizer_bilingual",
-    "display_name": "未审核：tts外语朗读",
-    "desc": "TTS文本过滤插件 - 支持双语TTS、语音Tool、MiniMax停顿标记，基于柯尔的tts_sanitizer扩展",
-    "author": "柠弥",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual",
-    "tags": [
-      "tts",
-      "翻译"
-    ],
-    "social_link": "https://github.com/chenluQwQ",
-    "stars": 2,
-    "version": "v1.6.0",
-    "updated_at": "2026-07-12T13:42:23Z",
-    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_tts_sanitizer_bilingual/master/logo.png"
   },
   "astrbot_plugin_neko_care": {
     "name": "astrbot_plugin_neko_care",
@@ -1251,25 +1270,6 @@
     "stars": 1,
     "version": "v1.2.6",
     "updated_at": "2026-04-15T14:50:06Z"
-  },
-  "astrbot_plugin_name_fight": {
-    "name": "astrbot_plugin_name_fight",
-    "display_name": "未审核：Name Fight",
-    "desc": "一个武侠风格的 AstrBot 名字格斗插件。输入名字即可生成命格固定的角色，围绕武学、内功、轻功展开对战，并在群内累计巅峰分排行。支持同名固定生成、战斗播报、角色切换与巅峰榜冲分。",
-    "author": "kkloas",
-    "repo": "https://github.com/kkloas/astrbot_plugin_name_fight",
-    "tags": [
-      "游戏",
-      "武侠",
-      "对战",
-      "群聊",
-      "排行榜"
-    ],
-    "social_link": "https://github.com/kkloas",
-    "stars": 1,
-    "version": "1.4.0",
-    "updated_at": "2026-04-14T09:13:51Z",
-    "logo": "https://raw.githubusercontent.com/kkloas/astrbot_plugin_name_fight/main/logo.png"
   },
   "astrbot_plugin_cross_session_awareness": {
     "name": "astrbot_plugin_cross_session_awareness",
