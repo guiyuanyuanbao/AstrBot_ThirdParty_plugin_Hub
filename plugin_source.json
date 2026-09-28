@@ -1,4 +1,38 @@
 {
+  "astrbot_plugin_name_fight": {
+    "name": "astrbot_plugin_name_fight",
+    "display_name": "未审核：Name Fight",
+    "desc": "一个武侠风格的 AstrBot 名字格斗插件。输入名字即可生成命格固定的角色，围绕武学、内功、轻功展开对战，并在群内累计巅峰分排行。支持同名固定生成、战斗播报、角色切换与巅峰榜冲分。",
+    "author": "kkloas",
+    "repo": "https://github.com/kkloas/astrbot_plugin_name_fight",
+    "tags": [
+      "游戏",
+      "武侠",
+      "对战",
+      "群聊",
+      "排行榜"
+    ],
+    "social_link": "https://github.com/kkloas",
+    "stars": 1,
+    "version": "1.2.1",
+    "updated_at": "2026-09-28T10:15:58Z",
+    "logo": "https://raw.githubusercontent.com/kkloas/astrbot_plugin_name_fight/main/logo.png"
+  },
+  "astrbot_plugin_group_invite_auto_approve": {
+    "name": "astrbot_plugin_group_invite_auto_approve",
+    "display_name": "未审核：根据群信息自动进群",
+    "desc": "AstrBot 自动同意加群插件 - 根据群名称或群简介关键词自动同意加群邀请，并发送私聊消息和进群消息",
+    "author": "星陨",
+    "repo": "https://github.com/XingYunStar/astrbot_plugin_group_invite_auto_approve",
+    "tags": [
+      "群邀请"
+    ],
+    "social_link": "https://github.com/XingYunStar",
+    "stars": 0,
+    "version": "v2.0.0",
+    "updated_at": "2026-09-28T05:54:38Z",
+    "logo": "https://raw.githubusercontent.com/XingYunStar/astrbot_plugin_group_invite_auto_approve/master/logo.png"
+  },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
     "display_name": "未审核：本地回忆[APLR]",
@@ -34,25 +68,6 @@
     "version": "3.1.0",
     "updated_at": "2026-09-26T14:12:15Z",
     "logo": "https://raw.githubusercontent.com/Ni-ShuWu/astrbot_plugin_pimeng_blacklist/main/logo.png"
-  },
-  "astrbot_plugin_name_fight": {
-    "name": "astrbot_plugin_name_fight",
-    "display_name": "未审核：Name Fight",
-    "desc": "一个武侠风格的 AstrBot 名字格斗插件。输入名字即可生成命格固定的角色，围绕武学、内功、轻功展开对战，并在群内累计巅峰分排行。支持同名固定生成、战斗播报、角色切换与巅峰榜冲分。",
-    "author": "kkloas",
-    "repo": "https://github.com/kkloas/astrbot_plugin_name_fight",
-    "tags": [
-      "游戏",
-      "武侠",
-      "对战",
-      "群聊",
-      "排行榜"
-    ],
-    "social_link": "https://github.com/kkloas",
-    "stars": 1,
-    "version": "1.2.1",
-    "updated_at": "2026-09-23T00:15:48Z",
-    "logo": "https://raw.githubusercontent.com/kkloas/astrbot_plugin_name_fight/main/logo.png"
   },
   "astrbot_plugin_tts_sanitizer_bilingual": {
     "name": "astrbot_plugin_tts_sanitizer_bilingual",
@@ -1759,21 +1774,6 @@
     "version": "2.8.2",
     "updated_at": "2026-03-27T18:37:34Z",
     "logo": "https://raw.githubusercontent.com/czxieddan/astrbot_plugin_steam_efficient_interactor/main/logo.png"
-  },
-  "astrbot_plugin_group_invite_auto_approve": {
-    "name": "astrbot_plugin_group_invite_auto_approve",
-    "display_name": "未审核：根据群信息自动进群",
-    "desc": "AstrBot 自动同意加群插件 - 根据群名称或群简介关键词自动同意加群邀请，并发送私聊消息和进群消息",
-    "author": "星陨",
-    "repo": "https://github.com/XingYunStar/astrbot_plugin_group_invite_auto_approve",
-    "tags": [
-      "群邀请"
-    ],
-    "social_link": "https://github.com/XingYunStar",
-    "stars": 0,
-    "version": "v1.0.8",
-    "updated_at": "2026-03-27T15:36:01Z",
-    "logo": "https://raw.githubusercontent.com/XingYunStar/astrbot_plugin_group_invite_auto_approve/master/logo.png"
   },
   "astrbot_plugin_wechat_auth": {
     "name": "astrbot_plugin_wechat_auth",
