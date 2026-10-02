@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_bilibili_push": {
+    "name": "astrbot_plugin_bilibili_push",
+    "display_name": "未审核：B站解析推送助手",
+    "desc": "一个 Bilibili 与 AcFun 视频被动解析与订阅推送插件，支持扫码登录持久化 Cookie、视频/图文双发送策略。",
+    "author": "ZASENJC",
+    "repo": "https://github.com/ZASENJC/astrbot_plugin_bilibili_push",
+    "tags": [
+      "B站",
+      "推送",
+      "解析"
+    ],
+    "social_link": "https://github.com/ZASENJC",
+    "stars": 1,
+    "version": "v1.0.0",
+    "updated_at": "2026-10-02T19:33:33Z"
+  },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
     "display_name": "未审核：MiMO TTS精细化控制",
@@ -713,22 +729,6 @@
     "stars": 0,
     "version": "0.1.1",
     "updated_at": "2026-06-06T06:34:06Z"
-  },
-  "astrbot_plugin_bilibili_push": {
-    "name": "astrbot_plugin_bilibili_push",
-    "display_name": "未审核：B站解析推送助手",
-    "desc": "一个 Bilibili 与 AcFun 视频被动解析与订阅推送插件，支持扫码登录持久化 Cookie、视频/图文双发送策略。",
-    "author": "ZASENJC",
-    "repo": "https://github.com/ZASENJC/astrbot_plugin_bilibili_push",
-    "tags": [
-      "B站",
-      "推送",
-      "解析"
-    ],
-    "social_link": "https://github.com/ZASENJC",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-06-01T15:47:23Z"
   },
   "astrbot_plugin_mc_helper": {
     "name": "astrbot_plugin_mc_helper",
