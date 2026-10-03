@@ -426,22 +426,6 @@
     "updated_at": "2026-08-04T13:18:14Z",
     "logo": "https://raw.githubusercontent.com/LEN5010/astrbot_plugin_asoul/master/logo.png"
   },
-  "astrbot_plugin_streamchunk": {
-    "name": "astrbot_plugin_streamchunk",
-    "display_name": "未审核：StreamChunk",
-    "desc": "为不支持流式的平台提供流式消息缓冲和分段功能。",
-    "author": "MUKAPP",
-    "repo": "https://github.com/MUKAPP/astrbot_plugin_streamchunk",
-    "tags": [
-      "流式",
-      "流式传输",
-      "分段"
-    ],
-    "social_link": "https://github.com/MUKAPP",
-    "stars": 0,
-    "version": "v1.0.5",
-    "updated_at": "2026-08-04T00:47:32Z"
-  },
   "astrbot_plugin_pic": {
     "name": "astrbot_plugin_pic",
     "display_name": "未审核：我要看图",
