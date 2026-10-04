@@ -148,7 +148,7 @@
       "语义记忆"
     ],
     "social_link": "",
-    "stars": 45,
+    "stars": 46,
     "version": "1.5.2",
     "updated_at": "2026-09-16T04:53:14Z",
     "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot/main/logo.png"
@@ -921,7 +921,7 @@
       "诗意"
     ],
     "social_link": "",
-    "stars": 13,
+    "stars": 14,
     "version": "1.0.0",
     "updated_at": "2026-05-17T09:50:00Z"
   },
@@ -2067,18 +2067,6 @@
     "stars": 1,
     "version": "1.0.0",
     "updated_at": "2026-03-22T03:35:26Z"
-  },
-  "astrbot_plugin_msg_formatter": {
-    "name": "astrbot_plugin_msg_formatter",
-    "display_name": "未审核：消息格式化",
-    "desc": "将ai回复中的\\n\\n替换为\\n，以此解决莫名其妙的空行",
-    "author": "Izayoi9",
-    "repo": "https://github.com/Izayoi9/astrbot_plugin_msg_formatter",
-    "tags": [],
-    "social_link": "https://github.com/Izayoi9",
-    "stars": 0,
-    "version": "v1.0",
-    "updated_at": "2026-03-21T18:22:03Z"
   },
   "astrbot_plugin_emoji_like": {
     "name": "astrbot_plugin_emoji_like",
