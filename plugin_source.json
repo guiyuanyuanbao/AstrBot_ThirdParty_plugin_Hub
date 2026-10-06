@@ -1,4 +1,23 @@
 {
+  "astrbot_plugin_bilibili_ai_bot": {
+    "name": "astrbot_plugin_bilibili_ai_bot",
+    "display_name": "未审核：b站bot",
+    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
+    "author": "chenluQwQ,claude",
+    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
+    "tags": [
+      "bilibili",
+      "B站",
+      "评论回复",
+      "主动交互",
+      "语义记忆"
+    ],
+    "social_link": "",
+    "stars": 46,
+    "version": "1.5.2",
+    "updated_at": "2026-10-06T08:02:06Z",
+    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot/main/logo.png"
+  },
   "astrbot_plugin_mimo_tts": {
     "name": "astrbot_plugin_mimo_tts",
     "display_name": "未审核：MiMO TTS精细化控制",
@@ -134,25 +153,6 @@
     "updated_at": "2026-09-20T17:01:08Z",
     "logo": "https://raw.githubusercontent.com/NorNeko/astrbot_plugin_steam_radar/main/logo.png"
   },
-  "astrbot_plugin_bilibili_ai_bot": {
-    "name": "astrbot_plugin_bilibili_ai_bot",
-    "display_name": "未审核：b站bot",
-    "desc": "B站评论自动回复、好感度系统、语义记忆、主动看视频、动态发布、联网查询与 Web 管理面板",
-    "author": "chenluQwQ,claude",
-    "repo": "https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot",
-    "tags": [
-      "bilibili",
-      "B站",
-      "评论回复",
-      "主动交互",
-      "语义记忆"
-    ],
-    "social_link": "",
-    "stars": 46,
-    "version": "1.5.2",
-    "updated_at": "2026-09-16T04:53:14Z",
-    "logo": "https://raw.githubusercontent.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot/main/logo.png"
-  },
   "astrbot_plugin_parserurl": {
     "name": "astrbot_plugin_parserurl",
     "display_name": "未审核：社交媒体链接自动解析插件",
@@ -271,22 +271,6 @@
     "version": "2.0.2",
     "updated_at": "2026-09-02T12:59:54Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_mood_of_the_moment/master/logo.png"
-  },
-  "astrbot_plugin_ai_summary": {
-    "name": "astrbot_plugin_ai_summary",
-    "display_name": "未审核：AI 视频总结",
-    "desc": "基于本地语音转写，结合用户提示词与视觉信息的多模态 AI 视频总结工具",
-    "author": "drdon1234",
-    "repo": "https://github.com/drdon1234/astrbot_plugin_ai_summary",
-    "tags": [
-      "AI",
-      "视频总结"
-    ],
-    "social_link": "",
-    "stars": 0,
-    "version": "v0.4.2",
-    "updated_at": "2026-09-02T11:09:41Z",
-    "logo": "https://raw.githubusercontent.com/drdon1234/astrbot_plugin_ai_summary/main/logo.png"
   },
   "astrbot_plugin_qqjiazhi": {
     "name": "astrbot_plugin_qqjiazhi",
