@@ -1,4 +1,19 @@
 {
+  "astrbot_plugin_group_invite_auto_approve": {
+    "name": "astrbot_plugin_group_invite_auto_approve",
+    "display_name": "未审核：根据群信息自动进群",
+    "desc": "AstrBot 自动同意加群插件 - 根据群名称或群简介关键词自动同意加群邀请，并发送私聊消息和进群消息",
+    "author": "星陨",
+    "repo": "https://github.com/XingYunStar/astrbot_plugin_group_invite_auto_approve",
+    "tags": [
+      "群邀请"
+    ],
+    "social_link": "https://github.com/XingYunStar",
+    "stars": 0,
+    "version": "v2.1.0",
+    "updated_at": "2026-10-06T16:36:23Z",
+    "logo": "https://raw.githubusercontent.com/XingYunStar/astrbot_plugin_group_invite_auto_approve/master/logo.png"
+  },
   "astrbot_plugin_bilibili_ai_bot": {
     "name": "astrbot_plugin_bilibili_ai_bot",
     "display_name": "未审核：b站bot",
@@ -68,21 +83,6 @@
     "version": "1.2.1",
     "updated_at": "2026-09-28T10:15:58Z",
     "logo": "https://raw.githubusercontent.com/kkloas/astrbot_plugin_name_fight/main/logo.png"
-  },
-  "astrbot_plugin_group_invite_auto_approve": {
-    "name": "astrbot_plugin_group_invite_auto_approve",
-    "display_name": "未审核：根据群信息自动进群",
-    "desc": "AstrBot 自动同意加群插件 - 根据群名称或群简介关键词自动同意加群邀请，并发送私聊消息和进群消息",
-    "author": "星陨",
-    "repo": "https://github.com/XingYunStar/astrbot_plugin_group_invite_auto_approve",
-    "tags": [
-      "群邀请"
-    ],
-    "social_link": "https://github.com/XingYunStar",
-    "stars": 0,
-    "version": "v2.0.0",
-    "updated_at": "2026-09-28T05:54:38Z",
-    "logo": "https://raw.githubusercontent.com/XingYunStar/astrbot_plugin_group_invite_auto_approve/master/logo.png"
   },
   "astrbot_plugin_local_reminiscence": {
     "name": "astrbot_plugin_local_reminiscence",
