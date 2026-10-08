@@ -1,4 +1,16 @@
 {
+  "astrbot_plugin_report_generator": {
+    "name": "astrbot_plugin_report_generator",
+    "display_name": "未审核：喜报/悲报生成器",
+    "desc": "喜报 / 悲报图片生成插件，支持 Emoji 渲染、群组黑白名单过滤及用户 ID 限制。",
+    "author": "Dracowyn",
+    "repo": "https://github.com/Dracowyn/astrbot_plugin_report_generator",
+    "tags": [],
+    "social_link": "https://github.com/Dracowyn",
+    "stars": 0,
+    "version": "1.2.0",
+    "updated_at": "2026-10-08T01:10:12Z"
+  },
   "astrbot_plugin_group_invite_auto_approve": {
     "name": "astrbot_plugin_group_invite_auto_approve",
     "display_name": "未审核：根据群信息自动进群",
@@ -2673,18 +2685,6 @@
     "stars": 1,
     "version": "1.0.1",
     "updated_at": "2026-03-08T18:14:23Z"
-  },
-  "astrbot_plugin_report_generator": {
-    "name": "astrbot_plugin_report_generator",
-    "display_name": "未审核：喜报/悲报生成器",
-    "desc": "喜报 / 悲报图片生成插件，支持 Emoji 渲染、群组黑白名单过滤及用户 ID 限制。",
-    "author": "Dracowyn",
-    "repo": "https://github.com/Dracowyn/astrbot_plugin_report_generator",
-    "tags": [],
-    "social_link": "https://github.com/Dracowyn",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-08T17:46:11Z"
   },
   "astrbot_plugin_summarize_links": {
     "name": "astrbot_plugin_summarize_links",
