@@ -1767,21 +1767,6 @@
     "version": "1.1.0",
     "updated_at": "2026-03-26T12:46:43Z"
   },
-  "astrbot_plugin_apexmap": {
-    "name": "astrbot_plugin_apexmap",
-    "display_name": "未审核：Apex地图查询",
-    "desc": "用于查询Apex地图轮换",
-    "author": "Rondo7",
-    "repo": "https://github.com/Rondo7/asrtbot_plugin_apexmap",
-    "tags": [
-      "apex",
-      "查询"
-    ],
-    "social_link": "https://github.com/Rondo7",
-    "stars": 1,
-    "version": "v1.0.0",
-    "updated_at": "2026-03-26T12:42:00Z"
-  },
   "astrbot_plugin_tarkov_wiki": {
     "name": "astrbot_plugin_tarkov_wiki",
     "display_name": "未审核：塔科夫 Wiki 查询",
