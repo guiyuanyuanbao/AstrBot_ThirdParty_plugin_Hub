@@ -1795,23 +1795,6 @@
     "version": "v1.0.0",
     "updated_at": "2026-03-26T08:52:26Z"
   },
-  "astrbot_plugin_fishing": {
-    "name": "astrbot_plugin_fishing",
-    "display_name": "未审核：FishingForever!",
-    "desc": "钓鱼插件个人魔改版，基于FishingAnother!的v2.4.7版本进行更新维护。",
-    "author": "AdeleNaumann-Eyjafjalla",
-    "repo": "https://github.com/AdeleNaumann-Eyjafjalla/astrbot_plugin_fishing",
-    "tags": [
-      "游戏",
-      "fishing",
-      "钓鱼"
-    ],
-    "social_link": "https://github.com/AdeleNaumann-Eyjafjalla",
-    "stars": 0,
-    "version": "2.4.8",
-    "updated_at": "2026-03-26T08:47:06Z",
-    "logo": "https://raw.githubusercontent.com/AdeleNaumann-Eyjafjalla/astrbot_plugin_fishing/main/logo.png"
-  },
   "astrbot_plugin_today_length": {
     "name": "astrbot_plugin_today_length",
     "display_name": "未审核：每日长度趣味插件",
