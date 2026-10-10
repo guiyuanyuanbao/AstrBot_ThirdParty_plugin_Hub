@@ -296,22 +296,6 @@
     "updated_at": "2026-09-02T12:59:54Z",
     "logo": "https://raw.githubusercontent.com/Kalospacer/astrbot_plugin_mood_of_the_moment/master/logo.png"
   },
-  "astrbot_plugin_qqjiazhi": {
-    "name": "astrbot_plugin_qqjiazhi",
-    "display_name": "未审核：QQ估价",
-    "desc": "一键估算QQ号价值",
-    "author": "BUGJI",
-    "repo": "https://github.com/BUGJI/astrbot_plugin_qqjiazhi",
-    "tags": [
-      "估价",
-      "娱乐"
-    ],
-    "social_link": "https://github.com/BUGJI",
-    "stars": 0,
-    "version": "v1.0.0",
-    "updated_at": "2026-08-27T17:30:27Z",
-    "logo": "https://raw.githubusercontent.com/BUGJI/astrbot_plugin_qqjiazhi/master/logo.png"
-  },
   "astrbot_plugin_steam_watch_status": {
     "name": "astrbot_plugin_steam_watch_status",
     "display_name": "未审核：Steam 状态监控",
