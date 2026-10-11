@@ -1,4 +1,20 @@
 {
+  "astrbot_plugin_point_system": {
+    "name": "astrbot_plugin_point_system",
+    "display_name": "未审核：群积分助手",
+    "desc": "群积分助手。支持每日签到、活跃奖励、个人积分查询、按群排行榜，以及个人抽奖、群体抽奖、日期口令奖励、自动备份、兑换头衔、设精和禁言等群互动功能。",
+    "author": "menglimi",
+    "repo": "https://github.com/menglimi/astrbot_plugin_point_system",
+    "tags": [
+      "积分",
+      "签到",
+      "群聊"
+    ],
+    "social_link": "https://github.com/menglimi",
+    "stars": 4,
+    "version": "2.4.2",
+    "updated_at": "2026-10-11T07:30:02Z"
+  },
   "astrbot_plugin_asmrone_sub": {
     "name": "astrbot_plugin_asmrone_sub",
     "display_name": "未审核：ASMRONE_sub",
@@ -221,22 +237,6 @@
     "version": "v1.3.2",
     "updated_at": "2026-09-11T15:34:07Z",
     "logo": "https://raw.githubusercontent.com/HSOS6/astrbot_plugin_qq_email_verify/main/logo.png"
-  },
-  "astrbot_plugin_point_system": {
-    "name": "astrbot_plugin_point_system",
-    "display_name": "未审核：群积分助手",
-    "desc": "群积分助手。支持每日签到、活跃奖励、个人积分查询、按群排行榜，以及个人抽奖、群体抽奖、日期口令奖励、自动备份、兑换头衔、设精和禁言等群互动功能。",
-    "author": "menglimi",
-    "repo": "https://github.com/menglimi/astrbot_plugin_point_system",
-    "tags": [
-      "积分",
-      "签到",
-      "群聊"
-    ],
-    "social_link": "https://github.com/menglimi",
-    "stars": 4,
-    "version": "2.4.2",
-    "updated_at": "2026-09-10T12:29:30Z"
   },
   "astrbot_plugin_endworld_img_api": {
     "name": "astrbot_plugin_endworld_img_api",
@@ -1073,7 +1073,7 @@
     "repo": "https://github.com/Mola-maker/astrbot_plugin_offline_dev",
     "tags": [],
     "social_link": "https://github.com/Mola-maker",
-    "stars": 1,
+    "stars": 2,
     "version": "v0.4.0",
     "updated_at": "2026-04-25T11:06:25Z"
   },
